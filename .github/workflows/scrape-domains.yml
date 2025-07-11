@@ -1,0 +1,54 @@
+name: Temporary Email Domain Scraper
+description: Scrapes domains from temp mail services and updates source files (runs daily or manually)
+
+permissions:
+  contents: write
+
+on:
+  schedule:
+    - cron: '0 1 * * *' # Daily at 01:00 UTC
+  workflow_dispatch: # Manual trigger option
+
+jobs:
+  scrape-temp-mail-domains:
+    name: Scrape and Update Temp Mail Domains
+    runs-on: ubuntu-latest
+    timeout-minutes: 80 # Added timeout since web scraping can sometimes hang
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Set Up Node.js Environment
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+          cache: 'npm' # Enable npm caching
+
+      - name: Install All Dependencies
+        run: npm ci # Install both production and development dependencies
+
+      - name: Install Playwright Browsers
+        run: npx playwright install --with-deps
+        
+      - name: Create .env file
+        run: |
+          cat <<EOF > .env
+          PROXY_SERVER=${{ secrets.PROXY_SERVER }}
+          PROXY_USER=${{ secrets.PROXY_USER }}
+          PROXY_PASS=${{ secrets.PROXY_PASS }}
+          EOF
+
+      - name: Scrape Temporary Email Domains
+        env:
+          GITHUB_OWNER: ${{ github.repository_owner }}
+          SCRAPE_TIMEOUT: 60000 # 60 second timeout for scraping
+        run: npm run scrape-domains
+
+      - name: Commit Scraped Domain Data
+        run: |
+          git config --global user.name "Temp Mail Scraper Bot"
+          git config --global user.email "actions@github.com"
+          git add data/domains.txt README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "[Automated] Update temp mail domains"
+          git push

@@ -1,0 +1,46 @@
+name: Domain Aggregation and Source Generation
+description: Aggregates domains from multiple sources and generates source files (runs weekly or on data/script changes)
+
+permissions:
+  contents: write
+
+on:
+  schedule:
+    - cron: '0 3 * * 0' # Weekly at 03:00 UTC Sunday
+  workflow_dispatch: # Manual trigger option
+  push:
+    branches:
+      - main
+    paths:
+      - 'src/fetch/aggregate-domains.ts'
+
+jobs:
+  aggregate-domains:
+    name: Aggregate Domains and Update Repository
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Set Up Node.js Environment
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+          cache: 'npm'
+
+      - name: Install Dependencies
+        run: npm ci # Using ci for cleaner installs in CI environments
+
+      - name: Run Domain Aggregation
+        env:
+          GITHUB_OWNER: ${{ github.repository_owner }}
+        run: npm run fetch-domains
+
+      - name: Commit Aggregated Domain Data
+        run: |
+          git config --global user.name "Domain Aggregator Bot"
+          git config --global user.email "actions@github.com"
+          git add data/domains.txt README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "[Automated] Aggregate domains from multiple sources"
+          git push

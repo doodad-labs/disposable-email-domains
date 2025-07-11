@@ -23,20 +23,20 @@ We welcome community contributions to help maintain the accuracy of our validati
 
 This project is **automatically maintained** through web scraping and data aggregation, but our sources may become outdated, and some domains might be incorrectly flagged. **We need your help** to improve accuracy and keep this resource reliable!  
 
-### 🚀 First-Time Contributors Welcome!  
+### First-Time Contributors Welcome!  
 We intentionally keep this project **beginner-friendly** to help newcomers start their open-source journey. No experience needed—just a willingness to learn!  
 
 ### How You Can Help:  
 
-#### 🌍 **Translations**  
-Help make this project accessible globally by translating documentation or UI elements.  
+- **Translations**  : Help make this project accessible globally by translating documentation or UI elements.  
+- **Fix False Flags** : If you spot a legitimate domain mistakenly flagged as disposable, submit a correction. ([`allow_list.txt`](./data/allow_list.txt))
+- **Improve Data Sources** :
+  - **Aggregate lists**: Contribute new sources of disposable email domains.  
+  - **Scrapers**: Help maintain or improve our scrapers for temporary email providers.  
 
-#### ✅ **Fix False Flags** (`allow_list.txt`)  
-If you spot a legitimate domain mistakenly flagged as disposable, submit a correction.  
-
-#### 📊 **Improve Data Sources**  
-- **Aggregate lists**: Contribute new sources of disposable email domains.  
-- **Scrapers**: Help maintain or improve our scrapers for temporary email providers.  
-
-#### 🐛 **Report Bugs & Suggest Enhancements**  
+### **Report Bugs & Suggest Enhancements**  
 Found an issue? Open a ticket or submit a fix!  
+
+**Every contribution—big or small—helps keep the internet safer and more transparent!**  
+
+![](https://contrib.nn.ci/api?repo=doodad-labs/disposable-email-domains)

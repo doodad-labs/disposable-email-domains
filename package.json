@@ -2,7 +2,7 @@
   "scripts": {
     "fetch-domains": "tsx src/fetch/domains.ts",
     "fetch-tlds": "tsx src/fetch/tlds.ts",
-    "scrape-domains": "tsx src/scrape/domains.ts",
+    "scrape-domains": "tsx src/scrapers/index.ts",
     "postinstall": "npx playwright install"
   },
   "devDependencies": {

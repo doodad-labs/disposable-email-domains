@@ -6,7 +6,7 @@ permissions:
 
 on:
   schedule:
-    - cron: '0 3 * * 0' # Weekly at 03:00 UTC Sunday
+    - cron: '0 3 */2 * *' # 3:00 AM UTC every 2nd day of the month
   workflow_dispatch: # Manual trigger option
   push:
     branches:

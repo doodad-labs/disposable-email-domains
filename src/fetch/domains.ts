@@ -1,3 +1,4 @@
+// Imports
 import { allowlist_txt, blacklists_txt, blacklists_json, blacklists_csv } from './aggregate-domains';
 import fs from 'fs';
 import validateDomain from '../utils/validate-domain';

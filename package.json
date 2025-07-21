@@ -6,7 +6,7 @@
     "postinstall": "npx playwright install"
   },
   "devDependencies": {
-    "@types/node": "^24.0.13"
+    "@types/node": "^24.0.15"
   },
   "dependencies": {
     "dotenv": "^17.2.0",

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Last updated: 2025-07-22T03:02:01.213Z
+# Last updated: 2025-07-23T03:07:10.661Z
 
 0-00.usa.cc
 0-30-24.com
@@ -56968,6 +56968,7 @@ doodlenoodle.net
 doodlepop.ru
 doodooexpress.com
 doodooli.xyz
+doodrops.org
 doods.com
 doods7.com
 dooel.info
@@ -62491,6 +62492,7 @@ emailspro.com
 emailsquick.com
 emailss.com
 emailsteel.com
+emailstip.info
 emailsupply.space
 emailswhois.com
 emailsy.info
@@ -62507,6 +62509,7 @@ emailtemporanea.net
 emailtemporar.ro
 emailtemporario.com.br
 emailter.com
+emailterminal.info
 emailtex.com
 emailthe.net
 emailthing.xyz
@@ -74228,6 +74231,7 @@ galapagos.bawue.com
 galasewrq.online
 galashiels.com
 galatalk.blog
+galatalk.com
 galaxim.fr.nf
 galaxy-s9.cf
 galaxy-s9.ga

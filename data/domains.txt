@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Last updated: 2025-08-11T03:08:19.670Z
+# Last updated: 2025-08-11T04:01:15.632Z
 
 0-00.usa.cc
 0-30-24.com
@@ -28092,6 +28092,7 @@ bd7n6fl.cse445.com
 bd7u7.anonbox.net
 bd9b6555.club
 bda.freeml.net
+bdaov.anonbox.net
 bdas.com
 bdbcba.com
 bdbdqbdkdx.xyz
@@ -37455,6 +37456,7 @@ bvu5z.anonbox.net
 bvuathletics.org
 bvvqctbp.xyz
 bvw.email
+bvwtu.anonbox.net
 bvxmail.com
 bvxsx.com
 bvya.mimimail.me
@@ -58736,6 +58738,7 @@ dumalu.com
 dumankayamodern.com
 dumantv.com
 dumasnt.org
+dumbass.nl
 dumbdroid.info
 dumbledore.cf
 dumbledore.ga
@@ -82843,6 +82846,7 @@ haogltoqdifqq.tk
 haohuihh.com
 haom7.com
 haomei456.com
+haoren.lol
 haoshouhu.com
 haostuni.com
 haosuhong.com
@@ -115978,6 +115982,7 @@ mantalogy.site
 mantanprily.igg.biz
 mantap.com
 mantap312.usa.cc
+mantapua.online
 mantemsus.com
 mantestosterone.com
 mantra.ventures
@@ -122662,6 +122667,7 @@ moonshine.4amail.top
 moonshinemail.eu
 moonstarxl.com
 moonstruck.buzz
+moonsz.fun
 moontrack.net
 moonvale.net
 moonversion.com
@@ -144353,6 +144359,7 @@ post.opensupprts.click
 post.oppositehq.click
 post.org.pl
 post.oversightly.com
+post.quickreply.click
 post.religiousfestival.click
 post.slip-up.click
 post.switchonhub.click

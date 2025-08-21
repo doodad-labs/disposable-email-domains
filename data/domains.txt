@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Last updated: 2025-08-19T03:37:50.494Z
+# Last updated: 2025-08-21T03:35:57.738Z
 
 0-00.usa.cc
 0-30-24.com
@@ -15692,6 +15692,7 @@ agamail.com
 agamargas.buzz
 agamaswyn.eu
 agamatus.eu
+agammaglobulifmail.ru
 agamogeninf.com
 agamoney.icu
 agamya.tk
@@ -16531,6 +16532,7 @@ airdash.com.au
 airdrietruck.com
 airdrop.ooguy.com
 airdrop.theworkpc.com
+airdropnftvn.xyz
 airductcleaning-henderson.us
 airductcleaning-lincoln.us
 airductcleaning-richmond.us
@@ -28546,6 +28548,7 @@ beautypromdresses.org
 beautypump1.com
 beautysecrets.space
 beautysecretss.xyz
+beautyshine.club
 beautyskincarefinder.com
 beautyspark.store
 beautytesterin.de
@@ -33264,6 +33267,7 @@ blurpemailgun.bid
 blut2e6.cse445.com
 blutig.me
 blutmapound.tk
+bluvisio.de
 bluwinks.com
 bluwurmind234.cf
 bluwurmind234.ga
@@ -35282,6 +35286,7 @@ breadqu.press
 breadshape.us
 breadtimes.press
 breadysmasamagrell.com
+breaite.com
 break.ruimz.com
 breakabal.ga
 breakabal.gq
@@ -45672,6 +45677,7 @@ coinzs.us
 coiosidkry57hg.gq
 coiphim.online
 coisasdenosduas.com
+coitmail.com
 coizy.tech
 cojita.com
 cokabirdstagmi.ml
@@ -47560,6 +47566,7 @@ cosmic-joy.com
 cosmicart.ru
 cosmicbridge.site
 cosmiccircuit.store
+cosmiccluster.store
 cosmiccrest.site
 cosmicongamers.com
 cosmmetic.site
@@ -60242,6 +60249,7 @@ ebookdesign.pro
 ebookway.us
 ebookwiki.org
 ebop.pl
+ebort.eu.org
 ebos.es
 ebostsbwriel.xyz
 ebox-mail.com
@@ -60872,6 +60880,7 @@ edumail.icu
 edumail.store
 edumail.su
 edume.me
+edumomtalk.com
 edunk.com
 eduonline.digital
 eduostia.com
@@ -60883,6 +60892,7 @@ edurojaiye.net
 edus.works
 edusamail.net
 edusath.com
+edusch.id
 edushort.me
 edusmart.website
 eduspluss.com
@@ -61803,6 +61813,7 @@ electrophomail.com
 electrophormfri.com
 electroprem.se
 electroproluxex.eu
+electroreli.com
 electrostal-dveri.ru
 electrostaticbrush.net
 electrostaticbrush.us
@@ -67794,6 +67805,7 @@ fatamail.com
 fatanuraparabacis.shop
 fatbadlands.com
 fatbelly-cork.com
+fatbit.marketing
 fatboyhappy.com
 fatboyschippy.com
 fatcatguide.com
@@ -70605,6 +70617,7 @@ flixen.net
 flixihub.xyz
 flixluv.com
 flixpremi.my.id
+flixsu.fun
 flixtrend.net
 flld8d.us
 flledge.com
@@ -75549,6 +75562,7 @@ gegealaska.com
 gegearizona.com
 gegearkansas.com
 gegedanbasi.tk
+gegege.lol
 gegemoton.host
 geggon.ru
 geggos673.com
@@ -77630,6 +77644,7 @@ glazierdude.site
 glaziers-erith.co.uk
 glaziers-waterloo.co.uk
 glc.emltmp.com
+glcspp.top
 gldavmah.xyz
 gldj.freeml.net
 gle.best
@@ -81328,6 +81343,7 @@ gunesperde.shop
 gungrate.email
 gungratemail.com
 gungratemail.ga
+gunia-online.de
 gunjan.website
 gunlukhavadurumu.net
 gunma.com
@@ -82937,6 +82953,7 @@ haogltoqdifqq.tk
 haohuihh.com
 haom7.com
 haomei456.com
+haoniubia.cc
 haoren.lol
 haoshouhu.com
 haostuni.com
@@ -86829,6 +86846,7 @@ homosaosjy.online
 homosaosjy.ru
 homoscedinf.com
 homosexmail.ru
+homosexmy.com
 hompiring.site
 homshaneeh.com
 homstapath.com
@@ -90798,6 +90816,7 @@ igra-na-stavke.site
 igrai999.ru
 igrat-v-igrovie-avtomati.com
 igraysega.com
+igredan.fun
 igri.cc
 igros.fun
 igrovieavtomati.org
@@ -100003,6 +100022,7 @@ k7bets.com
 k7brg5r.cse445.com
 k7k5tuccmaptnsc.xyz
 k7pxeqiy.mailosaur.net
+k7y4f.anonbox.net
 k8.underseagolf.com
 k80fv.space
 k82323.com
@@ -100218,6 +100238,7 @@ kajsdtjksr94922.ml
 kajsdtjksr94922.tk
 kak-kypit-v-ukraine.online
 kak.co
+kaka.lol
 kakadua.net
 kakangewok.igg.biz
 kakao.world
@@ -100501,6 +100522,7 @@ kapobutg.cse445.com
 kapody.info
 kaposidisease.ru
 kappala.info
+kappi.my.id
 kappka.site
 kapprof.com
 kapptiger.com
@@ -103595,6 +103617,7 @@ konsultaciya-yurista21.ru
 konsultaciya-yurista22.ru
 konsultaciya-yurista31.ru
 konsultaciya-yurista32.ru
+konsultaciya-yurista41.ru
 konsultaciya-yurista5.ru
 kontagion.pl
 kontak-whats.app
@@ -104091,6 +104114,7 @@ kravitz.fancycarnavalmasks.com
 krawaty-poszetki.pw
 kraxen.com
 kraxorgames.cf
+kraydon.cfd
 krazymail.com
 krb.asia
 krbp.10mail.xyz
@@ -105620,6 +105644,7 @@ laibasxiou.cf
 laibasxiou.ga
 laibasxiou.gq
 laibf1.site
+laicai8.sbs
 laicartelle.cfd
 laicizing986jn.online
 laidaidai.cloudns.be
@@ -117772,6 +117797,7 @@ mc28.club
 mc32.club
 mc33.club
 mc36.club
+mc3ul.anonbox.net
 mc43.club
 mc45.club
 mc4dream.com
@@ -122849,6 +122875,7 @@ mopyrkv.pl
 moqf.freeml.net
 mor19.uu.gl
 mor5h.underseagolf.com
+morad.cc
 moraga.com
 moragfels.cf
 moragfels.ga
@@ -173688,6 +173715,7 @@ takemeint.shop
 takemeint.store
 takemeup.net
 takemy.xyz
+takemydream.my.id
 takenews.com
 takeny18.com
 takeoff.digital
@@ -186457,6 +186485,7 @@ unknownaffairs.com
 unknownscams.com
 unlightly.site
 unlikeloemail.ru
+unlikeyth.com
 unlim-777-casino.homes
 unlim-casinodynasty.ink
 unlim-casinodynasty.lol
@@ -187445,6 +187474,7 @@ user.teml.net
 user.tmpmail.net
 user.treehus.com
 user015.1freehost.site
+user3p.v-tal.net.br
 userbot.p-e.kr
 userbot.site
 usercoupon.com
@@ -187567,6 +187597,7 @@ ustabilbettsnapp.xyz
 ustabilitybettingsnapp.xyz
 ustayapisoke.xyz
 ustaypmbnl.ga
+ustilagimy.com
 ustilagmails.ru
 ustolur131.com
 ustorp.com
@@ -190187,6 +190218,7 @@ viewarticle.mobi
 viewcastmedia.com
 viewcastmedia.net
 viewcastmedia.org
+viewdashboard.site
 viewedge.store
 viewinglifedictionary.com
 viewleaders.com

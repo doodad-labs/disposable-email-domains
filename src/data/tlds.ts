@@ -1,6 +1,6 @@
 // AUTO-GENERATED FILE - DO NOT EDIT DIRECTLY
 // Data sourced from IANA's official TLD list
-// Last updated: 2025-08-01T02:19:18.691Z
+// Last updated: 2025-09-01T01:58:06.513Z
 
 /**
  * Array of all valid top-level domains (TLDs).
@@ -955,7 +955,6 @@ export const tldArray: string[] = [
     "realty",
     "recipes",
     "red",
-    "redstone",
     "redumbrella",
     "rehab",
     "reise",

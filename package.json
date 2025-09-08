@@ -9,7 +9,7 @@
     "@types/node": "^24.0.15"
   },
   "dependencies": {
-    "dotenv": "^17.2.0",
+    "dotenv": "^17.2.2",
     "playwright": "^1.54.1",
     "tsx": "^4.20.3"
   }

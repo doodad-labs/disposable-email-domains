@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Last updated: 2025-09-19T03:28:35.623Z
+# Last updated: 2025-09-21T03:34:20.767Z
 
 0-00.usa.cc
 0-30-24.com
@@ -1529,6 +1529,20 @@
 1239827.com
 123amateucam.com
 123anddone.com
+123ba.fit
+123bc.art
+123bd.live
+123be.space
+123bf.click
+123bg.forum
+123bh.store
+123bi.site
+123bj.fit
+123bk.ink
+123bl.live
+123bm.click
+123bn.space
+123bo.ink
 123books.com
 123box.org
 123clone.com
@@ -5138,6 +5152,7 @@
 365happyflower.com
 365jjs.com
 365live7m.com
+365logz.com
 365mail.world
 365me.info
 365scotland.com
@@ -15181,6 +15196,7 @@ advertmix85.xyz
 adverts.page
 advew.com
 advextreme.com
+advgamer.cc
 advice.caperapp.click
 advice.caperly.click
 advice.carnivalday.click
@@ -20182,6 +20198,7 @@ animehasu.net
 animeindo.website
 animekiksazz.com
 animemali.ml
+animenews.cc
 animent.xyz
 animeoaus.com
 animepoc.site
@@ -20192,6 +20209,7 @@ animesos.com
 animethighssavelives.com
 animevector.org
 animevostorg.com
+animewiki.cc
 animeworld1.cf
 animex98.com
 aninameu2endijks.xyz
@@ -23423,6 +23441,7 @@ assist.thetrip.click
 assist.travelwifi.click
 assist.trycruise.click
 assist.turnonlabs.click
+assist.wetransfer.click
 assistance-bureautique.com
 assistance.beachtenenglisch.click
 assistance.caperapp.click
@@ -29352,6 +29371,7 @@ benpict.xyz
 bens.ll47.net
 bensebbs.org
 bensenisevmem.shop
+benshelf.com
 bensinstantloans.co.uk
 bensleycreative.com
 bensman.silkbeachtowels.com
@@ -43208,6 +43228,7 @@ cholecystolithiumail.com
 choledochoduomail.com
 choledocholimail.com
 cholemail.com
+choleropruby.ru
 cholestermail.com
 cholesterolbuddy.com
 cholesterolbuddyapp.com
@@ -50755,6 +50776,7 @@ d7storefronts.com
 d81nz0rq.saucent.online
 d850mhel.luksarcenter.ru
 d8555.com
+d88i.live
 d890dhfy.buzz
 d892akcr.buzz
 d8db.club
@@ -50910,6 +50932,7 @@ daelogi.ml
 daelogi.tk
 daemon.bot
 daemoniac.info
+daemonixgames.com
 daemsteam.com
 daero.moakt.ws
 daes.ll47.net
@@ -56466,6 +56489,7 @@ dmc-12.gq
 dmc-12.ml
 dmc-12.tk
 dmc4u.tk
+dmcaprotect.xyz
 dmcchampion.site
 dmcd.ctu.edu.gr
 dmcforex.com
@@ -60116,6 +60140,7 @@ e84ywua9hxr5q.ml
 e84ywua9hxr5q.tk
 e85dh.site
 e87x.cse445.com
+e88i.fit
 e88zl.space
 e8999.com
 e89fi5kt8tuev6nl.cf
@@ -61305,6 +61330,21 @@ ee1.pl
 ee18269.com
 ee2.pl
 ee4rsduf.cse445.com
+ee88a.fit
+ee88b.ink
+ee88c.art
+ee88d.live
+ee88e.space
+ee88f.click
+ee88g.ink
+ee88h.store
+ee88i.fit
+ee88j.art
+ee88k.ink
+ee88l.live
+ee88m.click
+ee88n.space
+ee88o.ink
 ee8ty.com
 eea888.com
 eeaaites.com
@@ -62079,6 +62119,7 @@ elclicbubb.cf
 elclicbubb.ml
 elcyberbrujo.com
 eld5jv2.crankymonkey.info
+eldeninfo.xyz
 elderflame.xyz
 eldermud.com
 eldertraining.com
@@ -64238,6 +64279,7 @@ epicgrp.com
 epichlmail.ru
 epicjourneys.sa.com
 epicmoney.gold
+epicplayblog.cc
 epicplayz.com
 epicpresence.company
 epicqq.info
@@ -67149,6 +67191,7 @@ f7scene.com
 f803ig9s.luksarcenter.ru
 f81tl.site
 f843de1a.xyz
+f88i.click
 f88store.com
 f8bet.zapto.org
 f8cdhx7.cse445.com
@@ -72150,6 +72193,7 @@ fortfalday.ga
 fortfalday.ml
 fortfalday.tk
 fortforum.org
+fortgamer.cc
 forth.bthow.com
 forthebestsend.com
 fortheloveofdog.info
@@ -72469,6 +72513,9 @@ fpol.com
 fpostoffice.isp.covid19.host
 fppl.com
 fpqoeyhvwl.ga
+fpsinformer.xyz
+fpsrealm.xyz
+fpstipscentral.xyz
 fpsuabooster.ru
 fptnamdinh.site
 fpuob0sn0awiei3.xyz
@@ -74733,6 +74780,7 @@ g7rnu96pk4zv5mu.xyz
 g7sz9n.online
 g7tsiv.us
 g87mnkhu.luksarcenter.ru
+g88i.art
 g8e8.com
 g8ly9h6.cse445.com
 g8ouql6.yawahid.host
@@ -76311,6 +76359,10 @@ genron.ru
 genserv.xyz
 gensetgas.com
 genshinbox.cc
+genshinfans.cc
+genshinguide.cc
+genshinplus.cc
+genshinzone.cc
 genshure.com
 gentakusumo.xyz
 genteymac.net
@@ -86116,6 +86168,7 @@ hillsong.events
 hilltnush.shop
 hilltop-pizzeria.com
 hilltoptreefarms.com
+hilterhit.store
 hiltonbet38.com
 hiltonbet40.com
 hiltonbet45.com
@@ -88293,6 +88346,7 @@ hotshotstockalerts.com
 hotshotvr.com
 hotsitews.icu
 hotsmails.com
+hotsmial.click
 hotsmil.com
 hotsnapbackcap.com
 hotsoup.be
@@ -89823,6 +89877,7 @@ hype-casinovista.site
 hype-groove.buzz
 hype-legend.buzz
 hype-legend.top
+hype-mission.buzz
 hype68.com
 hypearound.com
 hypecasino-ugx.online
@@ -90211,6 +90266,7 @@ i83.com
 i84g.cse445.com
 i85uct.us
 i88fj.space
+i88i.fit
 i8cow.com
 i8cr.cse445.com
 i8d7.cse445.com
@@ -96322,6 +96378,7 @@ j80zn.site
 j83tb.site
 j85xm.com
 j876.biz
+j88i.art
 j8fhcxv.cse445.com
 j8i9.cse445.com
 j8ivlsb169o2w4t.xyz
@@ -100683,6 +100740,7 @@ k80fv.space
 k82323.com
 k84r5e.us
 k8517.top
+k88i.ink
 k88m.com
 k8bnfweqq.xyz
 k8dtgvki.cse445.com
@@ -103680,6 +103738,7 @@ kljs.luk2.com
 kljshop.com
 kljvjulr.shop
 klk.10mail.xyz
+kll6g.anonbox.net
 kllk5na2.luksarcenter.ru
 klmcivil.com
 klmdns.net
@@ -106038,6 +106097,7 @@ l80v.us
 l81ref.us
 l82.cse445.com
 l82323.com
+l88i.live
 l8g9so.us
 l8iknqo.cse445.com
 l8lastea.luksarcenter.ru
@@ -107387,6 +107447,7 @@ ldaho0ak.com
 ldaholce.com
 ldbassist.com
 ldbet.net
+ldbrr.anonbox.net
 ldbwebdev.com
 ldcvip.com
 lddz.com
@@ -108707,6 +108768,7 @@ liacredfun.cf
 liacredfun.ga
 liacredfun.gq
 liacredfun.tk
+liadhene.com
 liadisma.cf
 liadisma.ga
 liadisma.gq
@@ -110993,6 +111055,7 @@ logichexbox.com
 logicielsvinity.com
 logiclaser.com
 logiclatest.com
+logicpathbid.com
 logicpowerbooster.com
 logicstreak.com
 logicuff.com
@@ -111173,6 +111236,7 @@ lolfhxvoiw8qfk.ml
 lolfhxvoiw8qfk.tk
 lolfreak.net
 lolgmein.com
+lolgo.cc
 loli123.com
 loli3.com
 loli8.space
@@ -113375,6 +113439,7 @@ m8599.com
 m85t6.saucent.online
 m87s.aza.gg
 m88888.com
+m88i.click
 m88laos.com
 m88lucky.com
 m88pk.com
@@ -117678,6 +117743,7 @@ marutv7.fun
 marutv8.fun
 marutv9.fun
 marvelcomicssupers.online
+marvelfight.cc
 marvelpress.com
 marvinfosterjr.com
 marvinlee.com
@@ -118682,6 +118748,7 @@ mcgillreporting.com
 mcginnissolutions.com
 mcgovernsyellowkittens.com
 mcgratte.com
+mcguide.cc
 mcgvau.shop
 mch.codes
 mcharge.epizy.com
@@ -122604,6 +122671,7 @@ moate.co.com
 moathrababah.com
 moaz5orm.ml
 moba.press
+moba365.cc
 mobachir.site
 mobamail.com
 mobamouse.com
@@ -127684,6 +127752,7 @@ n7s5udd.pl
 n7shadow.com
 n7wt.cse445.com
 n8.gs
+n88i.space
 n89p.press
 n8he49dnzyg.cf
 n8he49dnzyg.ga
@@ -127817,6 +127886,7 @@ nadrektor7.pl
 nadrektor8.pl
 naeglesbagels.com
 naegok.ms.ke
+nafania-okkervil.ru
 nafihet.xyz
 nafilllo.cf
 nafilllo.ga
@@ -133862,6 +133932,7 @@ o7t2auk8msryc.tk
 o7ucuhjd.mailosaur.net
 o7vvj8.us
 o87fn.com
+o88i.ink
 o88s9d.site
 o8h4blv.cse445.com
 o8ih.us
@@ -136771,6 +136842,7 @@ openinvestmentapp.com
 openinvoice.us
 openkaser.cf
 openkc.com
+openlandguide.xyz
 openlinemail.com
 openmail.cc
 openmail.ga
@@ -137824,6 +137896,8 @@ ot3.saucent.online
 ot46dbp.saucent.online
 ot99j.awesome47.com
 otacon.ca
+otakuhub.xyz
+otakuinsights.xyz
 otakunimu.my.id
 otakusoftware.net
 otakusoftware.org
@@ -140472,6 +140546,7 @@ patrisander.com
 patrix1.com
 patrniel.com
 patro.space
+patroiio.com
 patswelti.cf
 patswelti.ml
 patswelti.tk
@@ -145095,6 +145170,7 @@ poormansjerky.com
 poorthing.ru
 pooyanmokhtari.net
 pop-a-lock-smith.com
+pop-game.top
 pop-newpurse.com
 pop-s.xyz
 pop-under.ru
@@ -148253,6 +148329,7 @@ pubgeresnrpxsab.tk
 pubges.com
 pubgm.website
 pubgmail.cn
+pubgmcentral.xyz
 pubgmlive.shop
 pubgmplay.shop
 pubgroup.com
@@ -151453,6 +151530,7 @@ rabber.33mail.com
 rabbetledge.ru
 rabbit10.tk
 rabbit168.info
+rabdevis.online
 rabet3.com
 rabfibird.cf
 rabfibird.ga
@@ -152542,6 +152620,7 @@ raywvjt.space
 rayyanta.com
 raz.freeml.net
 razdel-imushchestva33.store
+razdel-imushchestva6.store
 razemail.com
 razeny.com
 razernv.com
@@ -153701,6 +153780,7 @@ refey.site
 refez.site
 refghtd.xyz
 refhd.biz.id
+refide.com
 refina.cf
 refina.ga
 refina.gq
@@ -156281,6 +156361,7 @@ rngfx.com
 rnghlfwp.shop
 rnh71.space
 rniab.us
+rnicrosoft.com
 rnjc8wc2uxixjylcfl.cf
 rnjc8wc2uxixjylcfl.ga
 rnjc8wc2uxixjylcfl.gq
@@ -166578,6 +166659,7 @@ slexports.com
 slfence.com
 slfmade.media
 slgd.icu
+slgdaily.xyz
 sli-group.tech
 slicediceandspiceny.com
 slicefrommylife.com
@@ -171529,6 +171611,7 @@ storepath.xyz
 storeperuvip.com
 storepradabagsjp.com
 storepradajp.com
+storepro.site
 storerecon.net
 storereplica.net
 storero.co
@@ -171693,6 +171776,8 @@ strategicprospecting.com
 strategiesunlimited.com
 strategyconsulting.click
 strategyconsulting.site
+strategycritique.xyz
+strategyinsights.xyz
 strategysuperb.com
 strategyzr.info
 stratfordfootclinic.com
@@ -179356,6 +179441,7 @@ thewaybetween.net
 theweatherplease.com
 thewebbusinessresearch.com
 theweepingdragon.net
+theweifamily.icu
 thewhelanclan.info
 thewhitebunkbed.co.uk
 thewhitehouse.ml
@@ -187760,6 +187846,7 @@ unlimcasino.beauty
 unlimcasino.boats
 unlimcasino.today
 unlimcasino.website
+unlimclub-battle.top
 unlimints.com
 unlimit.com
 unlimit.email
@@ -188487,9 +188574,11 @@ us-cup.com
 us-dc.lol
 us-k.lol
 us-mail.online
+us-pa.lol
 us-ranch.com
 us-top.net
 us-uggboots.com
+us-z.lol
 us.adultvidlite.com
 us.af
 us.af.ml
@@ -195748,6 +195837,7 @@ weibsvolk.de
 weibsvolk.org
 weichel.nicewoodenbaskets.com
 weieaidz.xyz
+weifamily.mom
 weifilar9083.a.lofteone.ru
 weigh.bthow.com
 weightbalance.ru
@@ -198907,6 +198997,7 @@ wuji39.com
 wujicloud.com
 wujlsahrr.shop
 wujy.site
+wukonggame.cc
 wulcaner24.website
 wultmfnecd.ga
 wulw.com
@@ -198935,6 +199026,7 @@ wusolar.com
 wusrmp.best
 wussum.xyz
 wustl.com
+wuthering.cc
 wuuf.emltmp.com
 wuupr.com
 wuuvo.com
@@ -202763,6 +202855,7 @@ xyu.net.au
 xyussmc.xyz
 xywdining.com
 xyz-drive.info
+xyz-yy123.buzz
 xyz.as19557.net
 xyz.io
 xyzbin.com
@@ -208211,6 +208304,7 @@ zugemu.net
 zugoservices.com
 zuhaoban.com
 zuhouse.ru
+zuigaodeshanfeng.icu
 zuilc.com
 zuile8.com
 zuilinger.info

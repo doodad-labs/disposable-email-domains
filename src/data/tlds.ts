@@ -1,6 +1,6 @@
 // AUTO-GENERATED FILE - DO NOT EDIT DIRECTLY
 // Data sourced from IANA's official TLD list
-// Last updated: 2025-09-01T01:58:06.513Z
+// Last updated: 2025-10-01T01:50:56.376Z
 
 /**
  * Array of all valid top-level domains (TLDs).

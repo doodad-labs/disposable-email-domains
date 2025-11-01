@@ -1,6 +1,6 @@
 // AUTO-GENERATED FILE - DO NOT EDIT DIRECTLY
 // Data sourced from IANA's official TLD list
-// Last updated: 2025-10-01T01:50:56.376Z
+// Last updated: 2025-11-01T01:50:25.380Z
 
 /**
  * Array of all valid top-level domains (TLDs).
@@ -354,7 +354,6 @@ export const tldArray: string[] = [
     "drive",
     "dtv",
     "dubai",
-    "dunlop",
     "dupont",
     "durban",
     "dvag",

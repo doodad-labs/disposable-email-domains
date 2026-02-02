@@ -3,6 +3,8 @@
 # some domains may have been sourced from external lists, but this is primarily for manual additions
 # - https://raw.githubusercontent.com/disposable-email-domains/disposable-email-domains/refs/heads/main/allowlist.conf
 
+google.com
+microsoft.com
 123mail.org
 126.com
 139.com

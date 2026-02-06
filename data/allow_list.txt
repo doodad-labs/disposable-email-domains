@@ -193,6 +193,7 @@ yepmail.net
 your-mail.com
 protonmail.com
 protonmail.ch
+pm.me
 yandex.by
 yandex.fr
 yandex.com.tr

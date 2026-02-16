@@ -207,3 +207,9 @@ yandex.lv
 yandex.md
 yandex.fr
 atomicmail.io
+tuta.com
+tutanota.com
+tuta.io
+tutanota.de
+tutamail.com
+keemail.me

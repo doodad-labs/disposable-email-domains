@@ -28,11 +28,7 @@ We intentionally keep this project **beginner-friendly** to help newcomers start
 
 ### How You Can Help:  
 
-- **Translations**  : Help make this project accessible globally by translating documentation or UI elements.  
 - **Fix False Flags** : If you spot a legitimate domain mistakenly flagged as disposable, submit a correction. ([`allow_list.txt`](./data/allow_list.txt))
-- **Improve Data Sources** :
-  - **Aggregate lists**: Contribute new sources of disposable email domains.  
-  - **Scrapers**: Help maintain or improve our scrapers for temporary email providers.  
 
 ### **Report Bugs & Suggest Enhancements**  
 Found an issue? Open a ticket or submit a fix!  

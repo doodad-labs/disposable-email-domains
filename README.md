@@ -19,6 +19,16 @@ If you believe a legitimate domain has been mistakenly identified as disposable,
 
 We welcome community contributions to help maintain the accuracy of our validation system.
 
+## Repository Structure
+
+```
+├── data/
+│   ├── domains.txt        # All flagged disposible domains (Plain text)
+│   └── active.txt         # Flagged domains that have an active MX record (Plain text)
+│
+└── allow_list.txt/        # Manual allow list override (Plain text)
+```
+
 ## Contributions  
 
 This project is **automatically maintained** through web scraping and data aggregation, but our sources may become outdated, and some domains might be incorrectly flagged. **We need your help** to improve accuracy and keep this resource reliable!  

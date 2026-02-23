@@ -4,6 +4,7 @@
 # Automated Disposable Email Domain Scraper  
 
 [![Relay Nodes](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdoodad-labs%2Fdisposable-email-domains%2Frefs%2Fheads%2Fmain%2Fstats%2Fbadge.json&style=flat-square&cache=1)](https://github.com/doodad-labs/disposable-email-domains/blob/main/data/domains.txt)
+[![Relay Nodes](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdoodad-labs%2Fdisposable-email-domains%2Frefs%2Fheads%2Fmain%2Fstats%2Fbadge-active.json&style=flat-square&cache=1)](https://github.com/doodad-labs/disposable-email-domains/blob/main/data/active.txt)
 
 This tool automatically aggregates disposable email domains through a combination of community contributions and web scraping. The system relies on maintainers who curate an `allow_list.txt` of legitimate domains while actively detecting disposable providers.  
 

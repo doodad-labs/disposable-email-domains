@@ -13,7 +13,7 @@ If you believe a legitimate domain has been mistakenly identified as disposable,
 
 **How to contribute:**
 1. Verify the domain is truly non-disposable (permanent email service)
-2. Add the domain to [`allow_list.txt`](./data/allow_list.txt)
+2. Add the domain to [`allow_list.txt`](./allow_list.txt)
 3. Submit a pull request with your addition
 
 We welcome community contributions to help maintain the accuracy of our validation system.
@@ -27,7 +27,7 @@ We intentionally keep this project **beginner-friendly** to help newcomers start
 
 ### How You Can Help:  
 
-- **Fix False Flags** : If you spot a legitimate domain mistakenly flagged as disposable, submit a correction. ([`allow_list.txt`](./data/allow_list.txt))
+- **Fix False Flags** : If you spot a legitimate domain mistakenly flagged as disposable, submit a correction. ([`allow_list.txt`](./allow_list.txt))
 
 ### **Report Bugs & Suggest Enhancements**  
 Found an issue? Open a ticket or submit a fix!  

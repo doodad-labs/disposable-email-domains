@@ -1,48 +1,68 @@
-> [!WARNING]  
-> This package is currently in its early stages, and some domains may be flagged incorrectly. **We urgently need contributors** to help improve the allow list.
+> [!WARNING]
+> This project is in an early stage. Some domains may be incorrectly flagged as disposable. We actively welcome contributors to help improve accuracy, particularly by maintaining the allow list.
 
-# Automated Disposable Email Domain Scraper  
+# Real-time Disposable Email Domains
 
-[![Relay Nodes](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdoodad-labs%2Fdisposable-email-domains%2Frefs%2Fheads%2Fmain%2Fstats%2Fbadge.json&style=flat-square&cache=1)](https://github.com/doodad-labs/disposable-email-domains/blob/main/data/domains.txt)
-[![Relay Nodes](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdoodad-labs%2Fdisposable-email-domains%2Frefs%2Fheads%2Fmain%2Fstats%2Fbadge-active.json&style=flat-square&cache=1)](https://github.com/doodad-labs/disposable-email-domains/blob/main/data/active.txt)
+[![All Flagged Domains](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdoodad-labs%2Fdisposable-email-domains%2Frefs%2Fheads%2Fmain%2Fstats%2Fbadge.json\&style=flat-square\&cache=1)](https://github.com/doodad-labs/disposable-email-domains/blob/main/data/domains.txt)
+[![Active Domains](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdoodad-labs%2Fdisposable-email-domains%2Frefs%2Fheads%2Fmain%2Fstats%2Fbadge-active.json\&style=flat-square\&cache=1)](https://github.com/doodad-labs/disposable-email-domains/blob/main/data/active.txt)
 
-This tool automatically aggregates disposable email domains through a combination of community contributions and web scraping. The system relies on maintainers who curate an `allow_list.txt` of legitimate domains while actively detecting disposable providers.  
+This project automatically aggregates disposable email domains using curated public lists, third-party sources, and internally collected intelligence. All ingestion, validation, and publishing workflows are fully automated. *All domains are normalised and validated before inclusion.*
+
+## Data Update Frequency
+
+The dataset is continuously maintained:
+
+* `data/domains.txt` is updated every hour
+* `data/active.txt` is updated once per day
+
+`active.txt` contains only domains that currently resolve with a valid MX record.
+
+## Data Sources
+
+Domains are sourced from:
+
+* established public disposable email domain lists
+* open-source intelligence feeds
+* internal discovery and monitoring systems
+* community contributions
+
+Sources are aggregated, cleaned, validated, and standardised before publication.
 
 ## Reporting Incorrectly Flagged Domains
 
-If you believe a legitimate domain has been mistakenly identified as disposable, you can help improve the validator by contributing to our allow list.
+If you believe a legitimate domain has been incorrectly classified as disposable, you can help improve accuracy by contributing to the allow list.
 
-**How to contribute:**
-1. Verify the domain is truly non-disposable (permanent email service)
-2. Add the domain to [`allow_list.txt`](./allow_list.txt)
-3. Submit a pull request with your addition
+To contribute:
 
-We welcome community contributions to help maintain the accuracy of our validation system.
+1. Confirm that the domain provides a legitimate, non-disposable email service
+2. Add the domain to `allow_list.txt`
+3. Submit a pull request
+
+The allow list acts as a manual override to prevent false positives.
 
 ## Repository Structure
 
 ```
 ├── data/
-│   ├── domains.txt        # All flagged disposible domains (Plain text)
-│   └── active.txt         # Flagged domains that have an active MX record (Plain text)
+│   ├── domains.txt        # All flagged disposable domains (plain text)
+│   └── active.txt         # Flagged domains with active MX records (plain text)
 │
-└── allow_list.txt/        # Manual allow list override (Plain text)
+└── allow_list.txt         # Manual allow list override (plain text)
 ```
 
-## Contributions  
+## Contributions
 
-This project is **automatically maintained** through web scraping and data aggregation, but our sources may become outdated, and some domains might be incorrectly flagged. **We need your help** to improve accuracy and keep this resource reliable!  
+Although the project is automatically maintained through scraping and aggregation, domain ecosystems change frequently. Providers appear, disappear, and repurpose infrastructure.
 
-### First-Time Contributors Welcome!  
-We intentionally keep this project **beginner-friendly** to help newcomers start their open-source journey. No experience needed—just a willingness to learn!  
+Community input is essential to:
 
-### How You Can Help:  
+* reduce false positives
+* identify new disposable providers
+* maintain data freshness
+* improve validation logic
 
-- **Fix False Flags** : If you spot a legitimate domain mistakenly flagged as disposable, submit a correction. ([`allow_list.txt`](./allow_list.txt))
+First-time contributors are welcome. Even small corrections significantly improve dataset reliability.
 
-### **Report Bugs & Suggest Enhancements**  
-Found an issue? Open a ticket or submit a fix!  
-
-**Every contribution—big or small—helps keep the internet safer and more transparent!**  
+Every contribution directly strengthens the integrity and usefulness of this resource.
 
 ![](https://contrib.nn.ci/api?repo=doodad-labs/disposable-email-domains)

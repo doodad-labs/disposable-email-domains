@@ -1,31 +1,41 @@
-# a manual tld whitelist, this allows contributors to add tlds that may be false flagged
+# Manual whitelist of reserved or restricted top-level domains (TLDs).
+# These TLDs are controlled by governments, accredited institutions, or
+# heavily regulated entities, and are not open for general public registration.
+# This list exists to reduce false positives in domain filtering systems.
+#
+# Contribution guidelines:
+# - Groups must be ordered alphabetically by heading.
+# - TLDs within each group must be in strict alphabetical order.
+# - Only include TLDs that are officially restricted or reserved (i.e. not available for unrestricted public registration).
+# - Lowercase only.
+# - Do not include a leading dot (e.g. use "gov", not ".gov").
 
-# Government & Military
-gov
-mil
-int
-gov.uk
-gouv.fr
-gov.au
-gov.ca
+# ======== Academic ========
+ac.jp
+ac.uk
+ac.za
+edu
+edu.au
+edu.cn
+edu.my
+edu.sg
+sch.uk
+
+# ======== Government & Military ========
 gc.ca
 gob.es
+gouv.fr
+gov
+gov.au
 gov.br
+gov.ca
+gov.uk
+int
+mil
 
-# Academic (Accreditation Required)
-edu
-ac.uk
-sch.uk
-edu.au
-ac.jp
-ac.za
-edu.sg
-edu.my
-edu.cn
-
-# Financial & Heavily Regulated gTLDs
+# ======== Financial & Heavily Regulated gTLDs ========
 bank
+health
 insurance
 pharmacy
 post
-health

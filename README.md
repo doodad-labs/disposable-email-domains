@@ -1,5 +1,5 @@
 > [!WARNING]
-> This project is in an early stage. Some domains may be incorrectly flagged as disposable. We actively welcome contributors to help improve accuracy, particularly by maintaining the allow list.
+> This project is in an early stage. Some domains may be incorrectly flagged as disposable. We actively welcome contributors to help improve accuracy, particularly by maintaining the whitelists.
 
 # Real-time Disposable Email Domains
 
@@ -30,12 +30,12 @@ Sources are aggregated, cleaned, validated, and standardised before publication.
 
 ## Reporting Incorrectly Flagged Domains
 
-If you believe a legitimate domain has been incorrectly classified as disposable, you can help improve accuracy by contributing to the allow list.
+If you believe a legitimate domain has been incorrectly classified as disposable, you can help improve accuracy by contributing to the whitelist.
 
 To contribute:
 
 1. Confirm that the domain provides a legitimate, non-disposable email service
-2. Add the domain to `allow_list.txt`
+2. Add the domain to `domain_whitelist.txt`, or add a TLD to `tld_whitelist.txt`
 3. Submit a pull request
 
 The allow list acts as a manual override to prevent false positives.
@@ -47,7 +47,8 @@ The allow list acts as a manual override to prevent false positives.
 │   ├── domains.txt        # All flagged disposable domains (plain text)
 │   └── active.txt         # Flagged domains with active MX records (plain text)
 │
-└── allow_list.txt         # Manual allow list override (plain text)
+├── domain_whitelist.txt      # Manual domain whitelist (plain text)
+└── tld_whitelist.txt         # Manual TLD whitelist (plain text)
 ```
 
 ## Contributions

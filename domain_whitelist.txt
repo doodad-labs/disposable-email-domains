@@ -10,6 +10,11 @@ microsoft.com
 outlook.com
 hotmail.com
 live.com
+outlook.com.ar
+outlook.com.es
+outlook.com.hr
+outlook.com.py
+outlook.com.ua
 
 # Protonmail
 protonmail.com

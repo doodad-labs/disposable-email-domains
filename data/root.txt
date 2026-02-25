@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-02-25T21:26:42.248Z
+# Aggregated blacklist generated on 2026-02-25T22:30:10.117Z
  
 0-30-24.com
 0-attorney.com
@@ -5145,7 +5145,6 @@
 420247.com
 4204445.com
 420baby.store
-420blaze.it
 420editorial.com
 420gmail.com
 420ico.bid
@@ -14738,7 +14737,6 @@ airjuniors.info
 airknox.com
 airlagu.me
 airmaiil.com
-airmail.cc
 airmail.fun
 airmail.net
 airmail.nl
@@ -21888,7 +21886,6 @@ atolyezen.com
 atomdev.eu
 atomeca.com
 atomic-nutrition.com
-atomicmail.io
 atomistifml.com
 atomixgames.net
 atomoxetinenjoyer.me
@@ -47138,7 +47135,6 @@ culturofil.net
 culvercitydoctors.com
 culvercityrealestateagents.com
 cum.camera
-cumallover.me
 cumangeblog.net
 cumanuallyo.com
 cumbeeclan.com
@@ -65271,7 +65267,6 @@ fastmail.fr
 fastmail.io.vn
 fastmail.name
 fastmail.org
-fastmail.uk
 fastmail.website
 fastmail911.com
 fastmailer.cf
@@ -65287,7 +65282,6 @@ fastmailservice.xyz
 fastmailtoyougo.site
 fastmazda.com
 fastmeetup.site
-fastmessaging.com
 fastmeta.edu.pl
 fastmitsubishi.com
 fastmobileemail.win
@@ -67291,7 +67285,6 @@ fireiptv.net
 firekassa.com
 firema.cf
 firemail.biz
-firemail.cc
 firemail.co.com
 firemail.com.br
 firemail.eu
@@ -73529,7 +73522,6 @@ getawesomebook.site
 getawesomebooks.site
 getawesomelibrary.site
 getbabymassage.com
-getbackinthe.kitchen
 getbearded.com
 getbet.host
 getbigata.com
@@ -84322,7 +84314,6 @@ horsebarninfo.com
 horsebrai.press
 horsebrow.email
 horseclub.org
-horsefucker.org
 horsepen46.com
 horsepoops.info
 horseracing-betting.net
@@ -86017,8 +86008,6 @@ hushedhome.com
 hushedhost.com
 hushline.com
 hushmail.cf
-hushmail.com
-hushmail.me
 hushskinandbody.com
 husk-mig.dk
 huskergaragedoorrepair.com
@@ -97861,7 +97850,6 @@ keeleproperties.com
 keeleranderson.net
 keeling.org
 keelungqq59.xyz
-keemail.me
 keenclimatechange.com
 keenconstructionco.com
 keepactivated.com
@@ -104630,7 +104618,6 @@ liamases.ml
 liamases.tk
 liamcyrus.com
 liame.tk
-liamekaens.com
 liamgoodact.ru
 liamhosford.com
 liamia.cf
@@ -110449,7 +110436,6 @@ mailgw.com
 mailhair.com
 mailhaitw.top
 mailham.com
-mailhaven.com
 mailhawaii.com
 mailhazard.com
 mailhazard.us
@@ -114991,7 +114977,6 @@ memequeen.dev
 memequeen.fun
 memes.watch
 memescribe.com
-memeware.net
 memgrid.net
 memgrid.org
 memgroupisrael.com
@@ -116229,7 +116214,6 @@ microshoftoffice.xyz
 microsmail.com
 microsofl.website
 microsoft-office.live
-microsoft.com
 microsoft.fr
 microsoftarticles.info
 microsoftopedia.com
@@ -127040,7 +127024,6 @@ nospam2me.com
 nospam4.us
 nospamdb.com
 nospamfor.us
-nospammail.net
 nospamme.com
 nospammer.ovh
 nospamplease.com
@@ -132815,11 +132798,6 @@ outlook.bz
 outlook.cm
 outlook.co
 outlook.co.cr
-outlook.com.ar
-outlook.com.es
-outlook.com.hr
-outlook.com.py
-outlook.com.ua
 outlook.ec
 outlook.edu.pl
 outlook.hn
@@ -138905,7 +138883,6 @@ pm-200.info
 pm-386.info
 pm-773.info
 pm-privat.com
-pm.me
 pm244.site
 pm7if.us
 pmail.asia
@@ -142437,8 +142414,6 @@ protongras.ga
 protonic.org
 protonkmail.com
 protonmail.at
-protonmail.ch
-protonmail.com
 protonmail.com.br
 protonmail.nz
 protonmaill.com
@@ -147293,7 +147268,6 @@ realjordansforsale.xyz
 reallifegeorge.com
 reallivecamera.com
 realloveexhibition.com
-reallyfast.info
 reallymyemail.com
 reallymymail.com
 reallyneatgames.com
@@ -161657,7 +161631,6 @@ sneakalfi.cf
 sneakalfi.gq
 sneakalfi.ml
 sneakar.co
-sneakemail.com
 sneaker-friends.com
 sneaker-mag.com
 sneaker-shops.com
@@ -163053,8 +163026,6 @@ spambox.pl
 spambox.us
 spambox.win
 spambox.xyz
-spamcannon.com
-spamcannon.net
 spamcanwait.com
 spamcero.com
 spamcon.org
@@ -163089,8 +163060,6 @@ spamfreemail.pro
 spamgoes.in
 spamgourmet.com
 spamgourmet.info
-spamgourmet.net
-spamgourmet.org
 spamgrube.net
 spamherelots.com
 spamhereplease.com
@@ -179209,7 +179178,6 @@ tutadox.store
 tutadox.tech
 tutamail.shop
 tutankatour.com
-tutanota.com
 tutanota.me
 tutanote.com
 tutavideo.com
@@ -184708,7 +184676,6 @@ veryday.ch
 veryday.eu
 veryday.info
 verydrunk.co.uk
-veryfast.biz
 veryfetch.com
 veryfinepay.com
 verygood4you.com
@@ -184867,7 +184834,6 @@ vfbdeveloper-temp.com
 vfdd.com
 vfdikja.site
 vfdvuo.us
-vfemail.net
 vfevent.com
 vff.hair
 vffelbqst.shop
@@ -188034,7 +188000,6 @@ waibavic.ga
 waibavic.gq
 waibavic.ml
 waibavic.tk
-waifu.club
 waifu.horse
 waifufigures.com
 waifumail.ml
@@ -196714,25 +196679,14 @@ yancyz.cloudns.be
 yandeex.com
 yandeix.com
 yandere.site
-yandex.by
 yandex.ca
 yandex.cfd
-yandex.co.il
 yandex.com.ge
-yandex.com.tr
 yandex.com.ua
 yandex.ee
-yandex.fr
-yandex.kg
-yandex.kz
-yandex.lt
-yandex.lv
-yandex.md
 yandex.net
-yandex.tj
 yandex.tm
 yandex.uk.com
-yandex.uz
 yandexdrive.pro
 yandexmail.cf
 yandexmail.ga

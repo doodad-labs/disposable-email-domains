@@ -31,17 +31,6 @@ The dataset is continuously maintained:
 
 `active.txt` contains only domains that currently resolve with a valid MX record.
 
-## Data Sources
-
-Domains are sourced from:
-
-* established public disposable email domain lists
-* open-source intelligence feeds
-* internal discovery and monitoring systems
-* community contributions
-
-Sources are aggregated, cleaned, validated, and standardised before publication.
-
 ## Reporting Incorrectly Flagged Domains
 
 If you believe a legitimate domain has been incorrectly classified as disposable, you can help improve accuracy by contributing to the whitelist.
@@ -53,6 +42,17 @@ To contribute:
 3. Submit a pull request
 
 The allow list acts as a manual override to prevent false positives.
+
+## Data Sources
+
+Domains are sourced from:
+
+* established public disposable email domain lists
+* open-source intelligence feeds
+* internal discovery and monitoring systems
+* community contributions
+
+Sources are aggregated, cleaned, validated, and standardised before publication.
 
 ## Contributions
 

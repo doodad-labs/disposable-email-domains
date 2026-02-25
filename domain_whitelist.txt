@@ -1,195 +1,39 @@
+# Manual whitelist of legitimate email provider domains.
+# This list exists to prevent false positives in domain filtering systems.
+#
+# Contribution guidelines:
+# - Groups must be ordered alphabetically.
+# - When adding a new provider, create a clearly labelled comment header and if appropriate briefly explain why the domains are being whitelisted.
+# - Domains within each group must be in strict alphabetical order.
+# - Lowercase only.
+# - Root domains only (no user-controlled subdomains such as mail.example.com).
+# - Only add domains that are officially owned or operated by the provider.
+# - Do not add disposable-only or temporary email services. (with the exception of services that use disposable domains for anti-spam purposes, which may be added with a comment explaining the reason for their inclusion)
 
-# a manual allow list, this allows contributors to add domains that may be false flagged
+# ======== AirMail ========
+420blaze.it
+airmail.cc
+cumallover.me
+firemail.cc
+getbackinthe.kitchen
+horsefucker.org
+memeware.net
+waifu.club
 
-# Google
-google.com
-gmail.com
-
-# Microsoft
-microsoft.com
-outlook.com
-hotmail.com
-live.com
-outlook.com.ar
-outlook.com.es
-outlook.com.hr
-outlook.com.py
-outlook.com.ua
-
-# Protonmail
-protonmail.com
-protonmail.ch
-pm.me
-
-# Apple
+# ======== Apple ========
 icloud.com
-me.com
 mac.com
+me.com
 
-# Yahoo
-yahoo.com
-yahoo.com.ph
-yahoo.com.vn
-
-# Mozilla
-mozmail.com
-
-# Atomic Mail
+# ======== Atomic Mail ========
 atomicmail.io
 
-# Tuta
-tuta.com
-tutanota.com
-tuta.io
-tutanota.de
-tutamail.com
-keemail.me
-
-# Mail.com
-mail.com
-email.com
-usa.com
-myself.com
-consultant.com
-post.com
-europe.com
-asia.com
-iname.com
-dr.com
-engineer.com
-cheerful.com
-accountant.com
-adexec.com
-alumni.com
-archaeologist.com
-arcticmail.com
-artlover.com
-bartender.net
-bikerider.com
-birdlover.com
-chef.net
-chemist.com
-collector.org
-columnist.com
-comic.com
-contractor.net
-counsellor.com
-diplomats.com
-execs.com
-financier.com
-fireman.net
-gardener.com
-geologist.com
-graduate.org
-graphic-designer.com
-hairdresser.net
-legislator.com
-lobbyist.com
-minister.com
-musician.org
-optician.com
-orthodontist.net
-pediatrician.com
-photographer.net
-physicist.net
-politician.com
-priest.com
-programmer.net
-publicist.com
-realtyagent.com
-registerednurses.com
-repairman.com
-secretary.net
-socialworker.net
-sociologist.com
-songwriter.net
-teachers.org
-techie.com
-technologist.com
-theplate.com
-therapist.net
-toothfairy.com
-tvstar.com
-webname.com
-2trom.com
-boardermail.com
-brew-master.com
-bsdmail.com
-catlover.com
-cutey.com
-dbzmail.com
-doglover.com
-doramail.com
-galaxyhit.com
-greenmail.net
-hackermail.com
-hilarious.com
-keromail.com
-kittymail.com
-linuxmail.org
-lovecat.com
-marchmail.com
-nonpartisan.com
-petlover.com
-toke.com
-uymail.com
-cyberdude.com
-cybergal.com
-cyber-wizard.com
-acdcfan.com
-discofan.com
-elvisfan.com
-hiphopfan.com
-kissfans.com
-madonnafan.com
-metalfan.com
-ninfan.com
-ravemail.com
-reborn.com
-reggaefan.com
-californiamail.com
-dallasmail.com
-nycmail.com
-sanfranmail.com
-africamail.com
-australiamail.com
-berlin.com
-brazilmail.com
-chinamail.com
-dublin.com
-dutchmail.com
-englandmail.com
-europemail.com
-germanymail.com
-irelandmail.com
-israelmail.com
-italymail.com
-koreamail.com
-mexicomail.com
-moscowmail.com
-munich.com
-polandmail.com
-safrica.com
-scotlandmail.com
-spainmail.com
-swedenmail.com
-swissmail.com
-torontomail.com
-angelic.com
-atheist.com
-disciples.com
-innocent.com
-muslim.com
-protestant.com
-reincarnate.com
-religious.com
-saintly.com
-
-# Fast Mail
-fastmail.com
+# ======== Fast Mail ========
+# Note: Fastmail allows custom domains.
 fastmail.ca
 fastmail.cn
 fastmail.co.uk
+fastmail.com
 fastmail.com.au
 fastmail.de
 fastmail.es
@@ -207,39 +51,192 @@ fastmail.to
 fastmail.tw
 fastmail.uk
 fastmail.us
-sent.com
 pobox.com
+sent.com
 
-# Yandex
-yandex.by
-yandex.fr
-yandex.com.tr
-yandex.kg
-yandex.tj
-yandex.lt
-yandex.kz
-yandex.uz
-yandex.co.il
-yandex.lv
-yandex.md
-yandex.fr
+# ======== Google ========
+gmail.com
+google.com
 
-# AirMail
-airmail.cc
-waifu.club
-420blaze.it
-cumallover.me
-firemail.cc
-getbackinthe.kitchen
-horsefucker.org
-memeware.net
-
-# Hush Mail
+# ======== Hush Mail ========
 hush.com
 hushmail.com
 hushmail.me
 
-# Spam Gourmet (anti-spam provide)
+# ======== Jubii ========
+email.dk
+
+# ======== Mail Fence ========
+email.net
+mailfence.com
+
+# ======== Mail.com ========
+2trom.com
+accountant.com
+acdcfan.com
+adexec.com
+africamail.com
+alumni.com
+angelic.com
+archaeologist.com
+arcticmail.com
+artlover.com
+asia.com
+atheist.com
+australiamail.com
+bartender.net
+berlin.com
+bikerider.com
+birdlover.com
+boardermail.com
+brazilmail.com
+brew-master.com
+bsdmail.com
+californiamail.com
+catlover.com
+chef.net
+chemist.com
+cheerful.com
+chinamail.com
+collector.org
+columnist.com
+comic.com
+consultant.com
+contractor.net
+counsellor.com
+cutey.com
+cyber-wizard.com
+cyberdude.com
+cybergal.com
+dallasmail.com
+dbzmail.com
+diplomats.com
+discofan.com
+doglover.com
+doramail.com
+dr.com
+dublin.com
+dutchmail.com
+elvisfan.com
+email.com
+engineer.com
+englandmail.com
+europemail.com
+europe.com
+execs.com
+financier.com
+fireman.net
+galaxyhit.com
+gardener.com
+geologist.com
+germanymail.com
+graduate.org
+graphic-designer.com
+greenmail.net
+hackermail.com
+hairdresser.net
+hilarious.com
+hiphopfan.com
+iname.com
+innocent.com
+irelandmail.com
+israelmail.com
+italymail.com
+keromail.com
+kissfans.com
+kittymail.com
+koreamail.com
+legislator.com
+linuxmail.org
+lobbyist.com
+lovecat.com
+madonnafan.com
+mail.com
+marchmail.com
+metalfan.com
+mexicomail.com
+minister.com
+moscowmail.com
+musician.org
+muslim.com
+munich.com
+myself.com
+ninfan.com
+nonpartisan.com
+nycmail.com
+optician.com
+orthodontist.net
+pediatrician.com
+petlover.com
+photographer.net
+physicist.net
+polandmail.com
+politician.com
+post.com
+priest.com
+programmer.net
+protestant.com
+publicist.com
+ravemail.com
+realtyagent.com
+reborn.com
+reincarnate.com
+registerednurses.com
+reggaefan.com
+religious.com
+repairman.com
+safrica.com
+saintly.com
+sanfranmail.com
+scotlandmail.com
+secretary.net
+sociologist.com
+socialworker.net
+songwriter.net
+spainmail.com
+swedenmail.com
+swissmail.com
+teachers.org
+techie.com
+technologist.com
+theplate.com
+therapist.net
+toke.com
+toothfairy.com
+torontomail.com
+tvstar.com
+uymail.com
+usa.com
+webname.com
+
+# ======== Microsoft ========
+hotmail.com
+live.com
+microsoft.com
+outlook.com
+outlook.com.ar
+outlook.com.es
+outlook.com.hr
+outlook.com.py
+outlook.com.ua
+
+# ======== Mozilla ========
+firefox.com
+mozmail.com
+mozilla.com
+
+# ======== Protonmail ========
+pm.me
+protonmail.ch
+protonmail.com
+
+# ======== Sneak Mail ========
+# Note: These domains are technically disposable however they are used for anti-spam purposes and may not be appropriate to block in all contexts.
+liamekaens.com
+sneakemail.com
+
+# ======== Spam Gourmet ========
+# Note: These domains are technically disposable however they are used for anti-spam purposes and may not be appropriate to block in all contexts.
 spamcannon.com
 spamcannon.net
 spamgourmet.com
@@ -247,12 +244,42 @@ spamgourmet.net
 spamgourmet.org
 speedpost.net
 
-# Sneak Mail (anti-spam provide)
-sneakemail.com
-liamekaens.com
+# ======== Tuta ========
+keemail.me
+tuta.com
+tuta.io
+tutamail.com
+tutanota.com
+tutanota.de
 
-# ubicloud
+# ======== ubicloud ========
 ubicloud.com
 
-# VFEmail
+# ======== VFEmail ========
 vfemail.net
+
+# ======== Web.de ========
+email.de
+web.de
+
+# ======== Yahoo ========
+yahoo.com
+yahoo.com.ph
+yahoo.com.vn
+
+# ======== Yandex ========
+yandex.by
+yandex.co.il
+yandex.com.tr
+yandex.fr
+yandex.kg
+yandex.kz
+yandex.lt
+yandex.lv
+yandex.md
+yandex.tj
+yandex.uz
+
+# ======== Misc ========
+# air.com is a reclaimed domain that is nolonger used for disposable email, but may still be blocked by some services due to historical abuse (now owned by brannans.com)
+air.com

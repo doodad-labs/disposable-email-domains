@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-02-25T22:34:10.358Z
+# Aggregated blacklist generated on 2026-02-25T23:25:29.882Z
  
 0-30-24.com
 0-attorney.com
@@ -3809,7 +3809,6 @@
 2tl2qamiivskdcz.tk
 2tl9hz.us
 2tmk.icu
-2trom.com
 2twpu9ne.net
 2uisk2man.xyz
 2umail.org
@@ -11929,7 +11928,6 @@ account3423usffe.site
 accountabilitycalendar.com
 accountablebookkeepingla.com
 accountabmail.ru
-accountant.com
 accountanten.com
 accountantruth.cf
 accounting11-tw.org
@@ -11988,7 +11986,6 @@ accutaneonlinesure.com
 acczoneglobal.com
 acd0.xyz
 acdcdcmail.com
-acdcfan.com
 acdenerji.com
 acds-restaurant.biz
 ace-11111.com
@@ -12748,7 +12745,6 @@ adesktop.com
 adesopenbiecock.gq
 adewa.top
 adewa.xyz
-adexec.com
 adeyemo.xyz
 adezo.in
 adf4th.us
@@ -13692,7 +13688,6 @@ africa-council.com
 africabet184.com
 africafrique.com
 africalibrary.org
-africamail.com
 african-mango-opinie-cena.xyz
 african3000.com
 africanamerican-hairstyles.org
@@ -14598,7 +14593,6 @@ air-games.icu
 air-inbox.com
 air-maxshoesonline.com
 air-tips.com
-air.com
 air.stream
 air2ip.com
 air2token.com
@@ -16860,7 +16854,6 @@ aluminumbrush.us
 aluminumbrushes.org
 aluminumbrushes.us
 alumix.cf
-alumni.com
 alumnidirector.com
 alumnimp3.xyz
 alumnioffer.com
@@ -17983,7 +17976,6 @@ angelescity.download
 angeleslid.com
 angelfury.org
 angeli-di-pietra.com
-angelic.com
 angelicablog.com
 angeliita.com
 angelikakoertig.xyz
@@ -19828,7 +19820,6 @@ arch.cd
 arch355.com
 archaeolfml.ru
 archaeolli.com
-archaeologist.com
 archaeoloruby.ru
 archaicindustries.buzz
 archanamane.com
@@ -19918,7 +19909,6 @@ arcsig.com
 arctic4teens.com
 arcticfoxtrust.tk
 arcticleaf.app
-arcticmail.com
 arcticmedicaltransportllc.com
 arcticside.com
 arctocbhuh.info
@@ -20594,7 +20584,6 @@ artlesacc.pm
 artlessons.video
 artlocate.com
 artlok.space
-artlover.com
 artlover.shop
 artmail.icu
 artmail.store
@@ -21052,7 +21041,6 @@ asi72.ru
 asia-mail.com
 asia-me.review
 asia-pasifikacces.com
-asia.com
 asia.dnsabr.com
 asia303.club
 asia303.space
@@ -21741,7 +21729,6 @@ atharroi.ml
 atharroi.tk
 athdn.com
 athebettsnaps.xyz
-atheist.com
 atheistveganliberal.com
 athem.com
 athemail.com
@@ -22320,7 +22307,6 @@ australahumados.com
 australia-travel.news
 australiaasicsgel.com
 australiadirect.xyz
-australiamail.com
 australiamining.xyz
 australianapp.com
 australiandoctorplus.com
@@ -25324,7 +25310,6 @@ barsmerco.gq
 barsmerco.tk
 bartdevos.be
 bartedwardsmd.com
-bartender.net
 bartendersreference.com
 barterboards.com
 barterboards.net
@@ -27065,7 +27050,6 @@ berkovitz.us
 berkshire.org
 berkshirehealthcare.nhs.uk
 berkshireheatingandac.com
-berlin.com
 berlincoding.com
 berlineats.com
 berlinhomefinder.com
@@ -29080,7 +29064,6 @@ bikeleftovers.com
 bikerboof.com
 bikerbrat.com
 bikerglossary.com
-bikerider.com
 bikerleathers.com
 bikers-united.com
 bikerslawyer.com
@@ -29554,7 +29537,6 @@ birdbrookcatering.com
 birdcagephotobooth.com
 birderstravel.net
 birdion.com
-birdlover.com
 birdly.tech
 birdmv.com
 birdnacan.gq
@@ -31199,7 +31181,6 @@ boanrn.com
 board-game.ru
 board-offer.ru
 boardbets90.net
-boardermail.com
 boardman.org
 boardroom-consultants.com
 boardroom.productions
@@ -32912,7 +32893,6 @@ brazhengchen.nl
 brazilbites.com
 braziletech.com
 braziliannannies.com
-brazilmail.com
 braziltelefone.com
 brazinno777.net
 brazucasms.com
@@ -33036,7 +33016,6 @@ brevitron.cfd
 brevlady.eu
 brevn.net
 brevnopen.ru
-brew-master.com
 brew-meister.com
 brewbuddies.website
 brewdin.com
@@ -33574,7 +33553,6 @@ bsctoolkit.com
 bsctv.cd
 bsd.rip
 bsderqwe.com
-bsdmail.com
 bsecure.ir
 bselek.website
 bsenmail.com
@@ -35980,7 +35958,6 @@ californiadroneworks.com
 californiafarmwedding.com
 californiafitnessdeals.com
 californiagambler.com
-californiamail.com
 californiamovo.com
 californianetizen.com
 californiaoutdoorwedding.com
@@ -37751,7 +37728,6 @@ catja.online
 catkat.pl
 catkat24.pl
 catliuxin.xyz
-catlover.com
 catmail.app
 catmail.store
 catmay.store
@@ -39834,7 +39810,6 @@ cheekymonkey.co.uk
 cheepchix.com
 cheerclass.com
 cheercrates.com
-cheerful.com
 cheeriocharters.com
 cheerluiei.space
 cheerprosper.com
@@ -39853,7 +39828,6 @@ cheeze25421.com
 cheezoo.com
 cheezy.cf
 cheezy.live
-chef.net
 chefalicious.com
 chefandrew.com
 chefbowmeow.com
@@ -39913,7 +39887,6 @@ chemicalmass.com
 chemiluminesmail.ru
 cheminsdevie.ink
 chemismail.com
-chemist.com
 chemo.space
 chemodanymos.com
 chemolysis.info
@@ -40300,7 +40273,6 @@ chinakitchen-bray.com
 chinalatestgadget.com
 chinalww.com
 chinam1.f5.si
-chinamail.com
 chinamanometer.com
 chinamarkets.xyz
 chinamkm.com
@@ -43455,7 +43427,6 @@ collectionsohio.com
 collectivegoodproject.com
 collectivemtl.com
 collectivimail.ru
-collector.org
 collectoreye.com
 collectors.global
 collectors.international
@@ -43585,7 +43556,6 @@ columbusquote.com
 columbusschoolhn.org
 columbustaps.com
 columbuswellnessmedicine.com
-columnist.com
 colurmish.com
 colus.us
 com-04536875422364784521.top
@@ -43732,7 +43702,6 @@ comfortgrowth.site
 comfortstride.studio
 comfythings.com
 comfytrait.xyz
-comic.com
 comicblog.com
 comicloud.com
 comicogu271.ga
@@ -44496,7 +44465,6 @@ consultancy.buzz
 consultancyservices.ltd
 consultancyservices.online
 consultanse.com
-consultant.com
 consultantaseo.ro
 consultantneuropsychiatrist.com
 consultapublica.delivery
@@ -44637,7 +44605,6 @@ contract.legal
 contract431.xyz
 contractnotify.com
 contractor.cd
-contractor.net
 contractor.tax
 contractoraccountant.ltd
 contractorselectricllc.com
@@ -45392,7 +45359,6 @@ counselling-psychology.eu
 counsellingmenbrisbane.com
 counsellingmk.com
 counsellingtoday.co.uk
-counsellor.com
 countainings.xyz
 counter.cd
 counterattractomail.com
@@ -47421,7 +47387,6 @@ cutemailbox.com
 cuteness.cloud
 cutesillymeowmeow.xyz
 cuteteam.club
-cutey.com
 cutie.com
 cutiemporium.site
 cutivnpt.biz
@@ -47674,7 +47639,6 @@ cyber-security-career.com
 cyber-security.lat
 cyber-team.us
 cyber-video-poker-wagering.com
-cyber-wizard.com
 cyber-zeka.ru
 cyber30.com
 cyberacademy.org
@@ -47689,12 +47653,10 @@ cybercommunistparty.org
 cyberdada.live
 cyberdefend-solutions.space
 cyberdive.net
-cyberdude.com
 cyberdude.dk
 cyberdynemobile.com
 cyberelites.com
 cyberexa.shop
-cybergal.com
 cybergamerit.ga
 cybergfl.com
 cybergroup.shop
@@ -48531,7 +48493,6 @@ dallasglassfamily.com
 dallaslandscapearchitecture.com
 dallaslinks.com
 dallaslotto.com
-dallasmail.com
 dallasoffice.com
 dallaspentecostal.org
 dallaspooltableinstallers.com
@@ -49520,7 +49481,6 @@ dbyrfpnd.xyz
 dbz.com
 dbz25.com
 dbz5mchild.com
-dbzmail.com
 dc-business.com
 dc0hah.us
 dc213.org
@@ -52700,7 +52660,6 @@ diploma-of-accounting.com
 diploma-of-human-resource-management.com
 diploma.com
 diplomadviser.info
-diplomats.com
 diplomnaya-jakutsk.ru
 diplomnaya-rabota.com
 diplomy-v-orenburge.ru
@@ -52923,7 +52882,6 @@ discmarpe.ml
 discmarpe.tk
 discoblmail.com
 discobolus.site
-discofan.com
 discolive.online
 discolive.site
 discolive.store
@@ -54220,7 +54178,6 @@ dogiloveniggababydoll.com
 dogit.com
 dogking.info
 doglisteneroftheeast.com
-doglover.com
 dogmail.club
 dogn.com
 dognest.shop
@@ -54787,7 +54744,6 @@ dorablabsoomatic.com
 dorada.ga
 doradztwo-pracy.com
 doragt.com
-doramail.com
 doramastv.com
 doramelargo.shop
 doramemega.shop
@@ -55288,7 +55244,6 @@ dr-jieju.com
 dr-mail.net
 dr-shopping.info
 dr-sinan-goker.com
-dr.com
 dr0m.ru
 dr0pb0x.ga
 dr5.xyz
@@ -56281,7 +56236,6 @@ dubidze.website
 dubilowski.com
 dubinbikepolo.com
 dublin-kozharu.ru
-dublin.com
 dublinbirds.com
 dubliners.net
 dubmail.online
@@ -56618,7 +56572,6 @@ dutchconnie.com
 dutchdesignworkspaceindia.com
 dutchdevs.com
 dutchfemales.info
-dutchmail.com
 dutchmancoffeeroasters.com
 dutchmeadows.com
 dutchmillflowershop.com
@@ -59758,7 +59711,6 @@ elvire.space
 elvis-pizza.com
 elvis.dk
 elvisellis.com
-elvisfan.com
 elvisor.org
 elviszem.com
 elwafidinetours.com
@@ -59858,16 +59810,12 @@ email-very.com
 email-wizard.com
 email.by
 email.co.com
-email.com
 email.com.co
-email.de
-email.dk
 email.edu.pl
 email.gen.tr
 email.ml
 email.mw
 email.ne.jp
-email.net
 email.net.tr
 email.org
 email0.cf
@@ -60929,7 +60877,6 @@ enginebasic.com
 enginebulan.online
 enginedirectory.info
 engineemail.com
-engineer.com
 engineeredforsimplicity.com
 engineeredforsimplicity.net
 engineering-ai.com
@@ -60940,7 +60887,6 @@ enginusakelele.buzz
 enginwork.com
 engit.live
 england4d.com
-englandmail.com
 englandnews.info
 englandvs.com
 englewoodedge.net
@@ -62856,7 +62802,6 @@ europakebabdos.com
 europartsmarket.com
 europastudy.com
 europe-daily-news.host
-europe.com
 europeaa318.xyz
 europeamericabanglanews.com
 europeandocfestival.org.uk
@@ -62869,7 +62814,6 @@ europearly.site
 europecruisessale.com
 europeforcreators.com
 europeforcreators.org
-europemail.com
 europeproducts2020.website
 europescrapltd.com
 europesmail.gdn
@@ -63460,7 +63404,6 @@ exdocor.tk
 exdonuts.com
 exdr.com
 execnursetech.com
-execs.com
 exectro.xyz
 executionfmail.com
 executive-mitsubishi.com
@@ -65263,10 +65206,8 @@ fastloans1080.co.uk
 fastlottery.net
 fastmail.edu.pl
 fastmail.fm
-fastmail.fr
 fastmail.io.vn
 fastmail.name
-fastmail.org
 fastmail.website
 fastmail911.com
 fastmailer.cf
@@ -65282,6 +65223,7 @@ fastmailservice.xyz
 fastmailtoyougo.site
 fastmazda.com
 fastmeetup.site
+fastmessaging.com
 fastmeta.edu.pl
 fastmitsubishi.com
 fastmobileemail.win
@@ -67035,7 +66977,6 @@ financialmomentum.com
 financialplanner.services
 financialpublishingsystems.com
 financialsocietynews.club
-financier.com
 financnimagazin.com
 finanp.org
 finansglobaladmin.com
@@ -67292,7 +67233,6 @@ firemail.org.ua
 firemail.space
 firemail.uz.ua
 firemailbox.club
-fireman.net
 firemansbalm.com
 firemanscream.com
 firemapleleaf.ru
@@ -71852,7 +71792,6 @@ galaxybuds.fun
 galaxyfmail.com
 galaxygate.store
 galaxygrove.site
-galaxyhit.com
 galaxypokerbet.org
 galaxyquote.com
 galaxyrc.online
@@ -72304,7 +72243,6 @@ garden-of-vegan.com
 garden-plant.ru
 gardenans.ru
 gardencourt.online
-gardener.com
 gardengift.info
 gardeningleave.ru
 gardeningtips.shop
@@ -73251,7 +73189,6 @@ geolocalroadmap.com
 geologgdpo.space
 geologicpublications.net
 geologik.biz
-geologist.com
 geomail.com
 geomail.win
 geomemail.ru
@@ -73361,7 +73298,6 @@ germanozd.com
 germanproagency.com
 germantech.co.uk
 germanycheap.com
-germanymail.com
 germanytoday.club
 germanytourist.shop
 germanytourist.xyz
@@ -77196,7 +77132,6 @@ gradlly.com
 gradpol.tk
 gradsit.org
 gradualinvest.com
-graduate.org
 graduatetheglobe.com
 graduationgiftsgalore.com
 graeinc.info
@@ -77362,7 +77297,6 @@ grapevinegroup.com
 graphapi.site
 graphemsemail.com
 graphic-arts-international.com
-graphic-designer.com
 graphiccommunicationsinternational.com
 graphictee.store
 graphinasdx.com
@@ -77653,7 +77587,6 @@ greenlifepages.com
 greenlightsvcs.com
 greenlivingutopia.com
 greenmail.ml
-greenmail.net
 greenmarts.life
 greenmilehigh.info
 greenmilehigh.store
@@ -79379,7 +79312,6 @@ hacker.onl
 hacker.tl
 hacker9.org
 hackerious.com
-hackermail.com
 hackerndgiveaway.ml
 hackerquest.online
 hackers.cloudns.nz
@@ -79586,7 +79518,6 @@ hairbysher.net
 haircaresalonstips.info
 haircareshop.life
 hairdesignbygiusi.com
-hairdresser.net
 hairdressers.net
 hairgrowth.cf
 hairgrowth.ml
@@ -82772,7 +82703,6 @@ hikuku.com
 hilalkoltukdizayn.com
 hilandtoyota.net
 hilarioueomail.ru
-hilarious.com
 hilarylondon.com
 hilarymacmillan.ru
 hilbertc.info
@@ -82915,7 +82845,6 @@ hipermail.co.pl
 hipermetropameliyati.com
 hipflexs.com
 hiphop-fotografiach.com
-hiphopfan.com
 hiphopintheville.com
 hiphopmoviez.com
 hipmi.net
@@ -88873,7 +88802,6 @@ inalgeria.net
 inalienabfmail.ru
 inalteramail.ru
 inamail.com
-iname.com
 inandout-christchurch.com
 inannabeleza.com
 inaodongphuc.org
@@ -89953,7 +89881,6 @@ inno.bet
 inno.tel
 innoberg.com
 innobet.online
-innocent.com
 innocentprey.com
 innocentselawati.io
 innointegrasi.com
@@ -91387,7 +91314,6 @@ iredirect.info
 ireekajuice.website
 irefurbishlcd.com
 irejogkaki.com
-irelandmail.com
 iremail.com
 iremel.cf
 iremel.gq
@@ -91827,7 +91753,6 @@ israel-international.de
 israel-nedv.ru
 israelgives.org
 israeli-occupation.org
-israelmail.com
 israelmail.info
 israelserver2.com
 israelserver3.com
@@ -92043,7 +91968,6 @@ italy-mail.com
 italy-nedv.ru
 italy-news.net
 italyborselvoutlet.com
-italymail.com
 itangkas88.biz
 itangkas88.net
 itaolo.com
@@ -98195,7 +98119,6 @@ kernersvilleapartments.com
 kernigh.org
 kernscapital.com
 kernuo.com
-keromail.com
 keroppi.uno
 kerotu.com
 kerralex.com
@@ -99318,7 +99241,6 @@ kiss918bet.info
 kiss918vip.com
 kissa.com
 kissadulttoys.com
-kissfans.com
 kissgy.com
 kisshq.com
 kissicicle.club
@@ -99398,7 +99320,6 @@ kittyallure.net
 kittyamaral.com
 kittycatfurballs.com
 kittydress.online
-kittymail.com
 kittymirror.site
 kittymoney.info
 kittymoney.net
@@ -100441,7 +100362,6 @@ koreaaa317.xyz
 koreaautonet.com
 koreaful.com
 koreamail.cf
-koreamail.com
 koreamail.ml
 koreamedis.ru
 korean-brides.com
@@ -103743,7 +103663,6 @@ legion.live
 legiondesign.ru
 legioninvestingleak.com
 legislamail.ru
-legislator.com
 legitemails.com
 legitidmail.com
 legitimasemail.com
@@ -105569,7 +105488,6 @@ linuxbbs.com
 linuxguru.network
 linuxmade.ru
 linuxmail.com
-linuxmail.org
 linuxmail.so
 linuxmail.tk
 linuxmail.xyz
@@ -106611,7 +106529,6 @@ lob.com.au
 lobahgla.xyz
 lobatz.de
 lobbychics.com
-lobbyist.com
 lobictubly.xyz
 lobike.net
 lobotoemail.com
@@ -107775,7 +107692,6 @@ lovebitco.in
 lovebite.net
 loveblog.help
 lovecalculatorname.org
-lovecat.com
 loveconnects.lat
 lovecuirinamea.com
 lovecutelife.xyz
@@ -109390,7 +109306,6 @@ mado34.com
 madobetooko.net
 madobetooko.org
 madoc.com
-madonnafan.com
 madonnahouse.net
 madrasati.club
 madrearmonica.com
@@ -110436,6 +110351,7 @@ mailgw.com
 mailhair.com
 mailhaitw.top
 mailham.com
+mailhaven.com
 mailhawaii.com
 mailhazard.com
 mailhazard.us
@@ -112372,7 +112288,6 @@ marchcats.com
 marchfh.com
 marchiapohan.art
 marchingtoharmony.com
-marchmail.com
 marchmarditc.cf
 marchmarditc.gq
 marchmarditc.tk
@@ -115545,7 +115460,6 @@ metalbet.ru
 metalcasinao.com
 metaldel.com
 metalesdvp.com
-metalfan.com
 metalfestivalseurope.com
 metalhalidegrowlights.com
 metalike.pro
@@ -115735,7 +115649,6 @@ mexico-europa.com
 mexico500.com
 mexicobookclub.com
 mexicolindo.com.mx
-mexicomail.com
 mexicons.com
 mexicotravellingcollective.com
 mexicotulum.com
@@ -116865,7 +116778,6 @@ minisers.xyz
 minishop.site
 minisitesprofit.club
 miniskirtswholesalestores.info
-minister.com
 ministeredestransportsvc-gouv.cd
 ministrationsguest.com
 ministre.rocks
@@ -119274,7 +119186,6 @@ moscow-nedv.ru
 moscow-pinup488.ru
 moscowfocus.ru
 moscowframe.ru
-moscowmail.com
 moscowmail.ru
 moscowrealestateagents.com
 mosekabeauty.com
@@ -120518,7 +120429,6 @@ mungoskitchen.com
 muni-kuni-tube.ru
 muni.no
 muniado.waw.pl
-munich.com
 municiamailbox.com
 municipallabs.ai
 municipmail.ru
@@ -120678,7 +120588,6 @@ musichq.online
 musichq.site
 musichq.xyz
 musichype.net
-musician.org
 musiciantelevision.com
 musiciens.biz
 musicisdrug.com
@@ -120720,7 +120629,6 @@ muskgrow.com
 muskify.com
 muskizyurdu.com
 muskokacomputerservices.com
-muslim.com
 muslim3000.com
 muslimahcollection.online
 muslimjewishadvisorycouncil.org
@@ -121983,7 +121891,6 @@ mysecondarydns.com
 mysecretnsa.net
 mysecurebox.online
 mysecuredoctor.com
-myself.com
 myselfship.com
 mysend-mailer.ru
 myseneca.ga
@@ -125870,7 +125777,6 @@ ninesclothiers.com
 ninewestbootsca.com
 nineworthies.org
 ninezro.com
-ninfan.com
 ning3d-uero.com
 ningame.com
 ningconra.cf
@@ -126744,7 +126650,6 @@ nonon.ooo
 nononono.buzz
 nonparticfmail.ru
 nonparticimails.ru
-nonpartisan.com
 nonphilomail.com
 nonprofccr.ru
 nonprofit-al.org
@@ -127024,6 +126929,7 @@ nospam2me.com
 nospam4.us
 nospamdb.com
 nospamfor.us
+nospammail.net
 nospamme.com
 nospammer.ovh
 nospamplease.com
@@ -128202,7 +128108,6 @@ nycdatascienceacademy.com
 nycemore.com
 nycexercise.com
 nychealthtech.com
-nycmail.com
 nyconsale.com
 nyctaginmail.com
 nycthing.com
@@ -131603,7 +131508,6 @@ opticalensdigital.com
 opticalplaces.com
 opticalrecruitmentsolutions.co.uk
 opticdesk.xyz
-optician.com
 optician.net
 opticien-visual-serris.fr
 optics-valley.com
@@ -132116,7 +132020,6 @@ ortests.com
 ortho3.com
 orthocenterflorida.com
 orthocrypt.org
-orthodontist.net
 orthodontistseoagency.com
 orthodrs.com
 orthogemail.ru
@@ -135696,7 +135599,6 @@ pedia-egypt.org
 pediacode.com
 pedias.org
 pediatray.com
-pediatrician.com
 pediatrictherapyandconsult.com
 pedicuumail.com
 pedigolaw.com
@@ -136565,7 +136467,6 @@ petitkiss.com
 petitlien.fr
 petk12.com
 petloca.com
-petlover.com
 petmem.net
 petmem.org
 petowoodwork.ca
@@ -137133,7 +137034,6 @@ photoelastmail.ru
 photoelectmail.ru
 photoequipe.net
 photograpfml.ru
-photographer.net
 photographme.ru
 photographybyjanine.com
 photoguru.site
@@ -137268,7 +137168,6 @@ physicaltherapydegree.info
 physicaltherapyone.net
 physicaltherapysalary.info
 physiciansource.net
-physicist.net
 physicocmail.ru
 physiochmail.ru
 physiognomail.com
@@ -139022,7 +138921,6 @@ pobedamailer2.com
 pobep.com
 pobet.info
 poblx.com
-pobox.com
 pobpx.com
 pocebo.ga
 pochatkivkarmane.cf
@@ -139339,7 +139237,6 @@ polamakcl.cfd
 polameaangurata.com
 poland-nedv.ru
 polandcampus.edu.pl
-polandmail.com
 polandychart.com
 polaniel.xyz
 polar.pm
@@ -139412,7 +139309,6 @@ politicalcowboy.com
 politicalcripple.com
 politicfree.news
 politichesko.info
-politician.com
 politiciml.com
 politicsandmedicine.com
 politicspass.com
@@ -140091,7 +139987,6 @@ post-box.in
 post-box.xyz
 post-mail-server.com
 post-shift.ru
-post.com
 post.org.pl
 post123.site
 posta.store
@@ -141286,7 +141181,6 @@ pridemail.co
 prideonscreen.com
 pridetw.com
 priemu.pw
-priest.com
 priffe.com
 priffer.net
 prignant.com
@@ -141953,7 +141847,6 @@ programahoramilagrosa.org
 programfact.us
 programmaperspiarecellulari.info
 programmeimmobilier-neuf.org
-programmer.net
 programmerov.net
 programmingant.com
 programmiperspiarecellulari.info
@@ -142388,7 +142281,6 @@ protein-krasnodar.ru
 proteintopper.com
 protelpeca.ru
 protempmail.com
-protestant.com
 protestly.com
 protestore.co
 protestosteronereviews.com
@@ -142925,7 +142817,6 @@ publichobby.com
 publichosting.org
 publichub-vpn.net
 publicidas.ru
-publicist.com
 publicobituary.com
 publicreports.net
 publicreports.org
@@ -146703,7 +146594,6 @@ ravb.com
 rave-cage.org
 rave-tt.net
 ravemail.co.za
-ravemail.com
 ravenfieldfarms.com
 ravenol-bg.com
 ravenom.ru
@@ -147268,6 +147158,7 @@ realjordansforsale.xyz
 reallifegeorge.com
 reallivecamera.com
 realloveexhibition.com
+reallyfast.info
 reallymyemail.com
 reallymymail.com
 reallyneatgames.com
@@ -147319,7 +147210,6 @@ realtor-shorty.com
 realtor.ph
 realtreff24.de
 realtv8.com
-realtyagent.com
 realtyalerts.ca
 realtyexpertise.us
 realtygrouppa.com
@@ -147415,7 +147305,6 @@ rebootsecure.com
 rebootsecure.net
 rebootsecurity.net
 reborn-propertes.com
-reborn.com
 rebornlover.club
 rebrebasoer.shop
 rec.email
@@ -148094,7 +147983,6 @@ regentparkhall.com
 regentstudents.biz
 regerina.com
 reggaecarrentals.com
-reggaefan.com
 reggaestarz.com
 reggioemiliadaycare.com
 regieneff.com
@@ -148125,7 +148013,6 @@ registand.site
 register-form.online
 registered.cf
 registered.com
-registerednurses.com
 registermerpatislot88.live
 registermyninja.com
 registerrequest.com
@@ -148229,7 +148116,6 @@ rein20.site
 reinadogeek.com
 reinass.com
 reincarnamail.ru
-reincarnate.com
 reindeer.net
 reindustml.ru
 reinforcedpaper.com
@@ -148440,7 +148326,6 @@ relieval.com
 religionguru.ru
 religions.com
 religionunplugged.com
-religious.com
 religiousfestival.click
 religioussearch.com
 relika.cf
@@ -148799,7 +148684,6 @@ repairabmail.com
 repairalliance.org
 repaircreaterestore.com
 repairincontinence.net
-repairman.com
 repairnature.com
 repairservices-toronto.com
 repalcedietandfood.com
@@ -153635,7 +153519,6 @@ safqatgroup.com
 safrem3456ails.com
 safrequoppevei.shop
 safrgly.site
-safrica.com
 safrol.site
 safsd88nb.icu
 saga-asian-street-food.com
@@ -153835,7 +153718,6 @@ saintelizabethhome.com
 saintignatiusloyola.nyc
 saintlouischimneysweep.us
 saintloup.net
-saintly.com
 saintmirren.net
 saintpaulfcu.com
 saints.com
@@ -154483,7 +154365,6 @@ sanfranciscoairductcleaning.us
 sanfranciscochimneysweep.us
 sanfranciscorehabhelpline.com
 sanfranflowersinhair.com
-sanfranmail.com
 sangabazarshar.com
 sangamcentre.org.uk
 sangapro.store
@@ -155628,7 +155509,6 @@ scotbordersfilm.com
 scotchamerican.com
 scoteckleyinc.com
 scotiates.com
-scotlandmail.com
 scotlandnewstoday.com
 scotlandswar.info
 scotomasolution.com
@@ -156206,7 +156086,6 @@ secretagehy.info
 secretagent.co.uk
 secretariavirtualexpress.com
 secretaries-online.com
-secretary.net
 secretaryemail.ru
 secretbet5.com
 secretbet7.com
@@ -161908,7 +161787,6 @@ socialtracking.live
 socialtroopers.com
 socialventuresglobal.com
 socialviplata.club
-socialworker.net
 socialxbounty.info
 sociamedia.com
 sociative.xyz
@@ -161922,7 +161800,6 @@ sociobimail.com
 sociocrisio.com
 socioecnmail.com
 socioemail.com
-sociologist.com
 sociopath.dev
 sociopomail.com
 sociotasking.online
@@ -162477,7 +162354,6 @@ songtaitu.com
 songtaiu.com
 songtaolu.com
 songuneh.com
-songwriter.net
 songyangguang.com
 sonhaber.fun
 sonhaber.live
@@ -162982,7 +162858,6 @@ spain-nedv.ru
 spain-real-estate.ru
 spain-visual.com
 spainholidays2012.info
-spainmail.com
 spainreview.net
 spaintoday.club
 spajek.com
@@ -167639,7 +167514,6 @@ sweatwaterbrew.com
 sweb360.com
 swedbay.org
 swedenaidorchestra.com
-swedenmail.com
 swedesflyshop.com
 swedishcomics.se
 swedishpalms.online
@@ -167795,7 +167669,6 @@ swiss-bank-advisory.org
 swissbupx.space
 swisscannamedix.com
 swissglobalonline.com
-swissmail.com
 swissport.media
 swissreplicawatches.info
 swisssportsblog.site
@@ -169907,7 +169780,6 @@ teablog.com
 teachber.com
 teachcar.xyz
 teacherk12.io.vn
-teachers.org
 teachersblueprint.com
 teachfr.xyz
 teachglo.xyz
@@ -170128,7 +170000,6 @@ techhelp.website
 techholic.in
 techhub.lol
 techhubup.com
-techie.com
 techiedeals.xyz
 techiedevadssecure.club
 techielatest.com
@@ -170188,7 +170059,6 @@ technoinsights.info
 technoking.club
 technolfmail.ru
 technoliczni.pl
-technologist.com
 technologyaddicttreatment.com
 technologyaddicttreatmentprogram.com
 technologycipher.com
@@ -173064,7 +172934,6 @@ thepit.ml
 thepitujk79mgh.tk
 theplaidapron.com
 theplanningteam.net
-theplate.com
 theplug.org
 theplugchange.com
 theplugcolumbus.com
@@ -173106,7 +172975,6 @@ theraperse.com
 therapeuticerv.com
 theraphofmail.ru
 therapiesthatwork.org
-therapist.net
 therapy.cd
 therapyservicesllc.org
 therateguide.website
@@ -175565,7 +175433,6 @@ tokatgunestv.xyz
 tokatinadresi.com
 tokatta.org
 tokbeat.com
-toke.com
 toke88.co
 tokei-n.net
 tokeishops.jp
@@ -175901,7 +175768,6 @@ tooslokne.world
 tooslowtodoanything.com
 toothandmail.com
 toothdecay.website
-toothfairy.com
 toothfqualmo.cf
 toothfqualmo.ga
 toothfqualmo.gq
@@ -176349,7 +176215,6 @@ toronto-football-fanclub.com
 torontofeel.com
 torontogooseoutlet.com
 torontoincometax.com
-torontomail.com
 torontopropertyhousehunters.com
 toropic.site
 torprojectorg.ru
@@ -179341,7 +179206,6 @@ tvsch.site
 tvshare.space
 tvshow.com
 tvst.de
-tvstar.com
 tvtaxcos.info
 tvtech.org
 tvtmall.com
@@ -182526,7 +182390,6 @@ usa-phonezip.com
 usa-tooday.biz
 usa-video.net
 usa.cc
-usa.com
 usa.edu.pl
 usa215.gq
 usa623.gq
@@ -183173,7 +183036,6 @@ uyinnerssa.space
 uyinnerssa7.space
 uyizeaw8.com
 uyjo.com
-uymail.com
 uyomail.com
 uyosmail.com
 uyp5qbqidg.cf
@@ -184676,6 +184538,7 @@ veryday.ch
 veryday.eu
 veryday.info
 verydrunk.co.uk
+veryfast.biz
 veryfetch.com
 veryfinepay.com
 verygood4you.com
@@ -189228,7 +189091,6 @@ webmind-glu.online
 webmoil.com
 webmyselfym.com
 webname.cloud
-webname.com
 webnapfreefire.com
 webnavster.com
 webnet.cd

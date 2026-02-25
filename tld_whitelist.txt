@@ -1,4 +1,31 @@
 # a manual tld whitelist, this allows contributors to add tlds that may be false flagged
 
+# Government & Military
 gov
+mil
+int
+gov.uk
+gouv.fr
+gov.au
+gov.ca
+gc.ca
+gob.es
+gov.br
+
+# Academic (Accreditation Required)
+edu
 ac.uk
+sch.uk
+edu.au
+ac.jp
+ac.za
+edu.sg
+edu.my
+edu.cn
+
+# Financial & Heavily Regulated gTLDs
+bank
+insurance
+pharmacy
+post
+health

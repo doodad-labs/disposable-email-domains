@@ -1,0 +1,4 @@
+# a manual tld whitelist, this allows contributors to add tlds that may be false flagged
+
+.gov
+.ac.uk

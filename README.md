@@ -9,11 +9,24 @@
 
 This project automatically aggregates disposable email domains using curated public lists, third-party sources, and internally collected intelligence. All ingestion, validation, and publishing workflows are fully automated. *All domains are normalised and validated before inclusion.*
 
+## Repository Structure
+
+```
+├── data/
+│   ├── domains.txt  # All flagged disposable domains (includes subdomains)
+│   ├── root.txt     # Flagged disposable root domains
+│   └── active.txt   # Flagged root domains with active MX records
+│
+├── domain_whitelist.txt      # Manual domain whitelist
+└── tld_whitelist.txt         # Manual TLD whitelist
+```
+
 ## Data Update Frequency
 
 The dataset is continuously maintained:
 
 * `data/domains.txt` is updated every hour
+* `data/root.txt` is updated every hour
 * `data/active.txt` is updated once per day
 
 `active.txt` contains only domains that currently resolve with a valid MX record.
@@ -40,17 +53,6 @@ To contribute:
 3. Submit a pull request
 
 The allow list acts as a manual override to prevent false positives.
-
-## Repository Structure
-
-```
-├── data/
-│   ├── domains.txt        # All flagged disposable domains (plain text)
-│   └── active.txt         # Flagged domains with active MX records (plain text)
-│
-├── domain_whitelist.txt      # Manual domain whitelist (plain text)
-└── tld_whitelist.txt         # Manual TLD whitelist (plain text)
-```
 
 ## Contributions
 

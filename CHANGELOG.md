@@ -14,3 +14,4 @@ This project follows Keep a Changelog and Semantic Versioning.
 
 ### Changed
 - Refactored domain filtering and validation
+- Introduced and enforced strict formatting, ordering, and validation rules for whitelist entries.

@@ -4,6 +4,7 @@
 # Real-time Disposable Email Domains
 
 [![All Flagged Domains](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdoodad-labs%2Fdisposable-email-domains%2Frefs%2Fheads%2Fmain%2Fstats%2Fbadge.json\&style=flat-square\&cache=1)](https://github.com/doodad-labs/disposable-email-domains/blob/main/data/domains.txt)
+[![Flagged Root Domains](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdoodad-labs%2Fdisposable-email-domains%2Frefs%2Fheads%2Fmain%2Fstats%2Fbadge-root.json\&style=flat-square\&cache=1)](https://github.com/doodad-labs/disposable-email-domains/blob/main/data/root.txt)
 [![Active Domains](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdoodad-labs%2Fdisposable-email-domains%2Frefs%2Fheads%2Fmain%2Fstats%2Fbadge-active.json\&style=flat-square\&cache=1)](https://github.com/doodad-labs/disposable-email-domains/blob/main/data/active.txt)
 
 This project automatically aggregates disposable email domains using curated public lists, third-party sources, and internally collected intelligence. All ingestion, validation, and publishing workflows are fully automated. *All domains are normalised and validated before inclusion.*

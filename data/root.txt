@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-02-27T20:28:16.952Z
+# Aggregated blacklist generated on 2026-02-27T22:23:27.948Z
  
 0-30-24.com
 0-attorney.com
@@ -869,6 +869,7 @@
 101c62b.club
 101cs.ru
 101ead9a74b8.club
+101flow.site
 101gmail.com
 101livemail.top
 101peoplesearches.com
@@ -2667,6 +2668,7 @@
 20268037.com
 2027.cam
 20288037.com
+202fliks.site
 202qs.com
 20303.host
 2030ideas.com
@@ -14133,6 +14135,7 @@ agwbyfaaskcq.ga
 agwbyfaaskcq.gq
 agwbyfaaskcq.ml
 agwbyfaaskcq.tk
+agwebexp.com
 agwestvalley.com
 agwmiami.com
 agxazvn.pl
@@ -30265,6 +30268,7 @@ blawg.net
 blawg.org
 blaxion.com
 blaze444bet.com
+blazebrasil.info
 blazebusiness.biz
 blazeent.com
 blazeflex.store
@@ -31335,6 +31339,7 @@ bodog-asia.net
 bodog-poker.net
 bodog180.net
 bodog198.net
+bodogdownload.net
 bodonk.my.id
 bodosaodu.com
 bodrumcozummilas.xyz
@@ -42668,6 +42673,7 @@ cmtt5.com
 cmuddshc.shop
 cmusicsxil.com
 cmusun.com
+cmvsharperfinish.com
 cmx.ca
 cmxh.com
 cmxnbviuwerwe.ga
@@ -70380,6 +70386,7 @@ fritz.red
 fritzbee.com
 fritzkunze.net
 friulilanotte.net
+frivgames.info
 frivv.net
 frizbi.fr
 frizzart.ru
@@ -71923,6 +71930,7 @@ gambolapp.click
 gambolhq.click
 gambolly.click
 gambrush.shop
+gamdomabet.com
 gamdspot.com
 game-db.top
 game-drop.ru
@@ -71980,6 +71988,7 @@ gamefa.online
 gamefansdiy.com
 gameforlove.org
 gamefreak.org
+gameg88.com
 gamegoldies.org
 gamegowin.net
 gamegregious.com
@@ -72116,6 +72125,7 @@ gamuci.com
 gamudastudio.com
 gamutimaging.com
 gamvip-com.app
+gamvip88.info
 gamvipg88.net
 gamymail.online
 gamzwe.com
@@ -78204,6 +78214,7 @@ gtime.com
 gtk9.com
 gtkesh.com
 gtkh.us
+gtkl.us
 gtmail.com
 gtmail.net
 gtmail.one
@@ -85911,6 +85922,7 @@ huntfootandankleclinics.com
 huntfootclinics.com
 huntforyou.ru
 huntingdonvalleydentalarts.com
+huntingholsters.com
 huntingisconservation.net
 huntingmastery.com
 huntingtonbeachnewsdaily.com
@@ -95053,6 +95065,7 @@ joggtorra.ml
 joggtorra.tk
 jogjakarir.org
 jogmail.store
+jogo365bet.net
 jogos.cd
 jogosdemaquiar.info
 johanlibearth.com
@@ -109547,6 +109560,7 @@ magnetimail.com
 magnetiner.com
 magnetl.ink
 magnetmail.xyz
+magnetoelectmail.com
 magnetoes.com
 magnetohydrodymy.com
 magnetotelluricfield.ru
@@ -133898,6 +133912,7 @@ palesthope.biz.id
 palesthub.web.id
 palestinalove.my.id
 palestinavoice.web.id
+palestineharapan.web.id
 palestinehopecenter.biz.id
 palestinesolidarityhub.my.id
 palestineunity.web.id
@@ -135669,6 +135684,7 @@ pedropereiramd.com
 pedrosolis.net
 pedsovet.tk
 pedulibumipalestine.my.id
+pedulipalestine.my.id
 pedvax.pl
 peekaboothmx.com
 peekay.ch
@@ -135729,6 +135745,7 @@ peisky.icu
 peix.xyz
 pejovideomaker.tk
 pejr1l.com
+pejuangpalestine.my.id
 pejuangwin.com
 pekanrabu.biz
 pekcashop.com
@@ -139878,6 +139895,7 @@ pororogoreng.top
 porororebus.top
 porphyrimail.com
 porphyromail.com
+porphyropt.ru
 porquemail.com
 porrect.xyz
 porrtob.info
@@ -151208,6 +151226,7 @@ rondecuir.us
 ronell.me
 ronete.com
 rongbachkimnet.net
+rongbbachkim.com
 rongcai23.icu
 rongchuang-pz.com
 rongqi33.com
@@ -166547,6 +166566,7 @@ sumatraalam.biz.id
 sumatrabangunkita.my.id
 sumatracare.biz.id
 sumatracare.my.id
+sumatracrisis.web.id
 sumatraecoaid.web.id
 sumatraecocare.biz.id
 sumatralestari.biz.id
@@ -196299,6 +196319,7 @@ yahaoo.co.uk
 yahboo.com
 yahchoo.com
 yahd.com
+yahesazo.me
 yahgoo.com
 yahh.ca
 yahh.us.com
@@ -198747,6 +198768,7 @@ yurist-po-nasledstvu-msk-mo.ru
 yurist-po-razdelu-imushchestva1.store
 yurist-po-zhilishchnym-voprosam1.store
 yurist-po-zhilishchnym-voprosam2.store
+yurist-po-zhilishchnym-voprosam3.store
 yurist-razdel-imushchestva11.store
 yurist-razdel-imushchestva9.store
 yurist-razdel-imushchestva99.store

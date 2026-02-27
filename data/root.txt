@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-02-27T16:40:51.220Z
+# Aggregated blacklist generated on 2026-02-27T18:43:07.121Z
  
 0-30-24.com
 0-attorney.com
@@ -98619,6 +98619,7 @@ khoindvn.eu.org
 khoinghiephalong.com
 khoke.nl
 khong1die.io.vn
+khong2die.io.vn
 khong3die.io.vn
 khong4die.io.vn
 khong6die.io.vn
@@ -131776,6 +131777,7 @@ orbitforce.com
 orbitium.ru
 orbitjolly.com
 orbitnew.net
+orbixacoa.com
 orbrcleaning.com
 orbub.one
 orca-88.site

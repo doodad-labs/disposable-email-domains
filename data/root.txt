@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-02-26T22:33:44.843Z
+# Aggregated blacklist generated on 2026-02-27T02:03:27.654Z
  
 0-30-24.com
 0-attorney.com
@@ -17742,6 +17742,7 @@ ancientsa.online
 ancientwords.mobi
 anckrmail.com
 ancok.host
+ancok.my.id
 anconadue.it
 ancoreplus.com
 ancreator.com
@@ -194826,6 +194827,7 @@ xn--kksrenoveringstersund-hecm.se
 xn--kksrenoveringsundsvall-uhc.se
 xn--kltrkrtasiye-dlbc11f.com
 xn--koltukrts-57a2eb.com
+xn--krb1-6q5a.com
 xn--krhemp-3ya.com
 xn--kubt-dpa.vn
 xn--kxy59bg6e.xn--j6w193g

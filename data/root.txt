@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-02-27T12:59:37.493Z
+# Aggregated blacklist generated on 2026-02-27T14:38:39.334Z
  
 0-30-24.com
 0-attorney.com
@@ -184534,6 +184534,7 @@ verrighde.cf
 verrighde.ga
 verrighde.ml
 verrighde.tk
+verrillomotorcar.com
 versaces.cloud
 versaces.info
 versaces.it.com
@@ -193343,6 +193344,7 @@ xcvlolonyancat.com
 xcvrtasdqwe.com
 xcvv.fun
 xcvv.top
+xcvv.xyz
 xcvzfjrsnsnasd.sbs
 xcxqtsfd0ih2l.cf
 xcxqtsfd0ih2l.ga

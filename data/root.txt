@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-02-27T22:23:27.948Z
+# Aggregated blacklist generated on 2026-02-28T01:53:29.687Z
  
 0-30-24.com
 0-attorney.com
@@ -43965,6 +43965,7 @@ compesa.pl
 competamail.com
 competenergy.com
 competeshop.xyz
+competirer.com
 competirinternacional.website
 competitebml.ru
 competition-black.xyz
@@ -59915,6 +59916,7 @@ emailapps.info
 emailat.website
 emailate.com
 emailawb.pro
+emailax.pro
 emailay.com
 emailband.com
 emailbaruku.com
@@ -83294,6 +83296,7 @@ hm88betlatranggi.com
 hm88comvn.com
 hmail.co
 hmail.co.com
+hmail.cyou
 hmail.ninja
 hmail.top
 hmail.us
@@ -107899,6 +107902,7 @@ lowlifeairride.com
 lowmail.online
 lowmail.store
 lowpricefireworks.com
+lowprizo.com
 lowrance-elite.online
 lowrates.net
 lowtaperfade.style
@@ -135782,6 +135786,7 @@ pelangi9.org
 pelangiangka.org
 pelangiqq188.info
 pelangiqq188.net
+pelanpelanmas.my.id
 pelantosly.space
 pelav.org
 peldo.online
@@ -158925,6 +158930,7 @@ shopqueenstreet.com
 shopravensteamjerseys.com
 shopreglq.com
 shoproyal.net
+shoprpe.com
 shopru.host
 shopsale.cloud
 shopsarnialambton.com
@@ -168637,6 +168643,7 @@ taikhoanmarketing.com
 taikhoanpro.tech
 taikhoanprovip.tech
 taikhoanvip.io.vn
+taikhoanvip.site
 taikhoanx.net
 taikhoanykhoa.com
 taiking.site

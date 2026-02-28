@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-02-28T04:55:45.661Z
+# Aggregated blacklist generated on 2026-02-28T06:38:50.386Z
  
 0-30-24.com
 0-attorney.com
@@ -162271,6 +162271,7 @@ soloner.ru
 solonl.xyz
 soloou.xyz
 soloplex.xyz
+solopreneur.gg
 solopreneur365crm.com
 solosoloku.com
 solotioner.site

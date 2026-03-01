@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-01T20:27:41.586Z
+# Aggregated blacklist generated on 2026-03-01T22:24:23.886Z
  
 0-30-24.com
 0-attorney.com
@@ -2265,6 +2265,7 @@
 1pervd.us
 1petra.website
 1pfeyw.us
+1phbet.info
 1pi.org
 1pixeldesigns.com
 1pmok.site
@@ -2939,6 +2940,7 @@
 219ac.com
 219gmail.com
 21biolevel.ru
+21capy.site
 21cn.com
 21cn.net
 21daysugardetoxreview.org
@@ -3025,6 +3027,7 @@
 22aday-notok.info
 22aday-notok.mobi
 22bet.co.rw
+22capy.site
 22ccf.com
 22digital.ltd
 22eb.club
@@ -4554,6 +4557,7 @@
 388802.xyz
 388806.xyz
 388807.xyz
+3888win.net
 388901.xyz
 388903.xyz
 38992.monster
@@ -6697,6 +6701,7 @@
 58gmail.com
 58h.de
 58hotmail.com
+58jlvip.net
 58k.ru
 58twelve.com
 58win1vip.com
@@ -8437,6 +8442,7 @@
 777tez.info
 777tezgame.info
 777tiger6.net
+777xpgameonline.com
 777xpgamepk.com
 777y.buzz
 777y.monster
@@ -8656,6 +8662,7 @@
 7hy4qy.us
 7ihd9vh6.edu.pl
 7ijabi.com
+7j777game.com
 7jbsrsj4fzfl61x.xyz
 7k-777-spin.beauty
 7k-casinohub.cfd
@@ -12507,6 +12514,7 @@ ad2linx.net
 ad2linx.org
 ad2pixel.com
 ad6.net
+ad777gamelogin.com
 ada-duit.ga
 ada-janda.ga
 ada-remont.ru
@@ -15387,6 +15395,7 @@ alanischaritynetwork.com
 alankxp.com
 alannacain.top
 alannahtriggs.ga
+alanodt5game.com
 alanwilliams2008.com
 alanyadevekusu.xyz
 alanyaligheyeti.xyz
@@ -23446,6 +23455,7 @@ azflfjukcm.ga
 azfvbwa.pl
 azh1tq.site
 azhi.us
+azhigh.org
 azhirock.com
 azhour.fr
 azhq.com
@@ -27881,6 +27891,7 @@ betezpro.com
 betfafa.com
 betfairinfo.ru
 betfenomen.org
+betfest.net
 betfest10.com
 betfest8.com
 betfire24.com
@@ -38252,6 +38263,7 @@ ceco3kvloj5s3.ml
 ceco3kvloj5s3.tk
 cecol.us
 cecols.us
+cecolum.us
 cecolumbus.us
 cecolumbusschool.us
 cecos.us
@@ -43106,6 +43118,7 @@ codeverge.store
 codew.site
 codeworkswell.com
 codewritinglessons.com
+codexs.sbs
 codeyard.uk
 codeyou.site
 codezok.xyz
@@ -87155,6 +87168,7 @@ icloulb.kr
 iclound.com
 iclouud.com
 iclpud.com
+iclub-china.com
 iclud.com
 icluoud.com
 icmail.com
@@ -87535,6 +87549,7 @@ idsitusjudi.com
 idsly.xyz
 idsp.ga
 idspin.net
+idssh.net
 idstc.org
 idt8wwaohfiru7.cf
 idt8wwaohfiru7.ga
@@ -89640,6 +89655,7 @@ informeledatingsites.space
 informesaude.com.br
 informini.site
 informoteur.com
+informtomsk.store
 infornma.com
 inforoca.ovh
 inforreg.es
@@ -93283,6 +93299,7 @@ jarryngandjui.com
 jarsdigital.sbs
 jarspremium.com
 jarspremium.online
+jarsx.com
 jarszone.online
 jartexmail.com
 jartiyericgiyim.online
@@ -132014,6 +132031,7 @@ orionsbelt.download
 orionwebs.net
 orionworldwide.net
 orisale.ru
+oritholdings.com
 oriverahomes.com
 oriwijn.com
 orjinalkafur.club
@@ -141576,6 +141594,7 @@ prixfor.com
 priyaanjalirai.us
 priyadharsini.com
 priyo-mail.com
+priyo.edu.pl
 priyo.email
 priyo.ovh
 priyo.site
@@ -157471,6 +157490,7 @@ servizioeuropeodisolidarieta.info
 servizioeuropeodisolidarieta.net
 servmail.ru
 servogamer.ga
+servon.sbs
 servowjl.com
 servpro10094.com
 servproofnorthjackson.com
@@ -161253,6 +161273,7 @@ smataddys.com
 smatne.com
 smbc-card.xyz
 smbei.com
+smbetlogin.net
 smbjrrtk.xyz
 smbookobsessions.com
 smcalv.host
@@ -165728,6 +165749,7 @@ streamlines.us
 streammailtwitch.com
 streammarket.site
 streammmail.men
+streamnest.my.id
 streamnvr.net
 streamnvr.org
 streamonsport.stream

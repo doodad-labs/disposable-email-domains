@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-02-28T22:22:38.513Z
+# Aggregated blacklist generated on 2026-03-01T02:22:50.750Z
  
 0-30-24.com
 0-attorney.com
@@ -97280,6 +97280,7 @@ karichisholm.com
 karier-holding.ru
 karimanpa.shop
 karimuns.online
+karimwave.shop
 karina-strim.ru
 karinanadila.art
 karing.store
@@ -100916,6 +100917,7 @@ kronedigits.ru
 kronen-zeitung.site
 kronh.art
 kroniks.com
+krono.my.id
 kronoparkenspizzeria.se
 kronos.io
 kronostc.com
@@ -110735,6 +110737,7 @@ mailnest.xyz
 mailnestly.com
 mailnestpro.com
 mailnet.cfd
+mailnet.io.vn
 mailnet.top
 mailnetter.co.uk
 mailngon.net
@@ -149466,6 +149469,7 @@ rexvi.top
 rexvisualservices.com
 rexxyshophosting.my.id
 rexze.xyz
+rey678.shop
 reyalta.com
 reybenz.com
 reyco.fun
@@ -157206,6 +157210,7 @@ serasipoker.net
 serasiqq.online
 serbaada.me
 serbangilvitu.com
+serbaserbiid.my.id
 serbe.online
 serbia.edu.rs
 serbian-nedv.ru
@@ -157485,6 +157490,7 @@ sesedm.com
 sesforyou.com
 sesgetirenkur.site
 seshirpetfood.com
+sesiid.biz.id
 sesknehtmarka.space
 seskow.monster
 seskvizyon.com
@@ -166578,6 +166584,7 @@ sumatracare.my.id
 sumatracrisis.web.id
 sumatraecoaid.web.id
 sumatraecocare.biz.id
+sumatrahopecenter.my.id
 sumatralestari.biz.id
 sumatraunitycenter.biz.id
 sumavapersians.com
@@ -167145,6 +167152,7 @@ support22services.com
 support247live.us
 supportain.site
 supportapp.click
+supportbox.xyz
 supportfmail.com
 supportgm.com
 supporthpprinters.com
@@ -185144,6 +185152,7 @@ videodr.us
 videoeditors.org
 videofilling.ru
 videofix.biz.id
+videoforge.my.id
 videogamefeed.info
 videogameleadsheets.com
 videogo49.com
@@ -185257,6 +185266,7 @@ vidhosters.org
 vidify.biz.id
 vidihi.com
 viditag.com
+vidloop.biz.id
 vidltpvm.shop
 vidney.com
 vidnoe-beton-zavod.ru

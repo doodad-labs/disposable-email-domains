@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-01T18:34:20.058Z
+# Aggregated blacklist generated on 2026-03-01T20:27:41.586Z
  
 0-30-24.com
 0-attorney.com
@@ -58785,6 +58785,7 @@ egrn-ofical.ru
 egrps.com
 egs8zzgzsjo05090.buzz
 egsolucoes.shop
+egsouq.shop
 egteam.ru
 eguccibag-sales.com
 egumail.com

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-02T06:58:41.289Z
+# Aggregated blacklist generated on 2026-03-02T08:44:56.316Z
  
 0-30-24.com
 0-attorney.com
@@ -73035,6 +73035,7 @@ gendamesh.shop
 gendasynth.shop
 genderfuck.net
 genderuzsk.com
+gendon.my.id
 gendutpoker.net
 gendutpoker.org
 genebag.com

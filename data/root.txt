@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-02T05:15:01.087Z
+# Aggregated blacklist generated on 2026-03-02T06:58:41.289Z
  
 0-30-24.com
 0-attorney.com
@@ -20920,6 +20920,7 @@ asdqwevfsd.com
 asdqwrs-swex.xyz
 asdr.com
 asdrxzaa.com
+asdsas.shop
 asdsd.co
 asdslwerss.space
 asdua.com
@@ -28922,6 +28923,7 @@ bigdeficit.com
 bigdepo-onlinecasi2020.online
 bigdfitness.com
 bigdgolf.com
+bigdo.art
 bigdogautoparts.com
 bigdogcomm.com
 bigdogfrontseat.com
@@ -36405,6 +36407,7 @@ candcdiscount.com
 candcentertainment.com
 candcluton.com
 canddlelight.xyz
+cande.asia
 candesign.systems
 candgdelivery.com
 candiceclips.com
@@ -52363,6 +52366,7 @@ digitalparcels.xyz
 digitalpdfmanuales.xyz
 digitalpeaks.net
 digitalpigg.com
+digitalplus.site
 digitalproductprovider.com
 digitalpublishing.com
 digitalrecordconnector.com

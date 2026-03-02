@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-02T20:38:13.294Z
+# Aggregated blacklist generated on 2026-03-02T22:27:04.273Z
  
 0-30-24.com
 0-attorney.com
@@ -96561,6 +96561,7 @@ jxtmsicsc.ml
 jxvr.com
 jxyh168.com
 jxyzu.com
+jxz.im
 jy.biz
 jy3.net
 jyak.com
@@ -100869,6 +100870,7 @@ kriptocucesi.com
 kriptowallet.ml
 kriptozin.com
 kriqziol.shop
+kriscop.online
 kriseos.com
 krish.sydney
 krishen.net

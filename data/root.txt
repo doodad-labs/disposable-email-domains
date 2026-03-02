@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-02T02:07:12.015Z
+# Aggregated blacklist generated on 2026-03-02T05:15:01.087Z
  
 0-30-24.com
 0-attorney.com
@@ -141581,6 +141581,7 @@ privmail.cf
 privmail.edu.pl
 privmail.ml
 privseco.com
+privtalk.my.id
 privy-mail.com
 privy-mail.de
 privyinternet.com
@@ -196084,6 +196085,7 @@ xytorne.icu
 xyu.net.au
 xyussmc.xyz
 xywdining.com
+xyxy.app
 xyz-drive.info
 xyz-yy123.buzz
 xyz.io

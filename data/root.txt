@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-03T05:14:22.319Z
+# Aggregated blacklist generated on 2026-03-03T06:52:43.166Z
  
 0-30-24.com
 0-attorney.com
@@ -32858,6 +32858,7 @@ brandyourselfwebsite.com
 braninvi.cf
 braninvi.tk
 brank.io
+brankasmu.com
 branniganslaw.org
 branorus.ru
 bransonchoice.com

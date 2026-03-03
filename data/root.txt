@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-03T18:48:30.423Z
+# Aggregated blacklist generated on 2026-03-03T20:33:17.254Z
  
 0-30-24.com
 0-attorney.com
@@ -97640,6 +97640,7 @@ kayusnacks.com
 kayvsj.us
 kayyra.tk
 kayzliu.com
+kayzyhub.com.br
 kazaf.ru
 kazalaza.store
 kazalea.id
@@ -125788,6 +125789,7 @@ nikkibars.icu
 nikkibydesign.biz
 nikkifenton.com
 niklasanderson.com
+nikmatin.my.id
 niko-design.com
 niko313.com
 nikoa.best

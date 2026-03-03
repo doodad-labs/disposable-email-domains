@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-03T16:50:03.327Z
+# Aggregated blacklist generated on 2026-03-03T18:48:30.423Z
  
 0-30-24.com
 0-attorney.com
@@ -8718,6 +8718,7 @@
 7nglhuzdtv.ml
 7nglhuzdtv.tk
 7nka4e.us
+7novels.com
 7nsska.us
 7o3zds.online
 7o4g2.us
@@ -48234,6 +48235,7 @@ daemon.bot
 daemoniac.info
 daemonixgames.com
 daemsteam.com
+daerdy.com
 daeschools.net
 daesungmicron.com
 daetrius.com

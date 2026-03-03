@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-02T22:27:04.273Z
+# Aggregated blacklist generated on 2026-03-03T02:08:45.883Z
  
 0-30-24.com
 0-attorney.com
@@ -146745,6 +146745,7 @@ rawliteforskolin.com
 rawmails.com
 rawpitcher.com
 rawproductsfromthewild.com
+rawr.foo
 rawreredc.cf
 rawreredc.ga
 rawreredc.ml

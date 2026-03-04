@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-04T02:02:06.650Z
+# Aggregated blacklist generated on 2026-03-04T05:08:35.715Z
  
 0-30-24.com
 0-attorney.com
@@ -8458,6 +8458,7 @@
 77corner.com
 77gimail.com
 77hotmail.com
+77jldownloadapp.com
 77mail.xyz
 77pinas.net
 77q2j.com
@@ -12647,6 +12648,7 @@ add-links.online
 add1s.eu.org
 add3000.pp.ua
 add6site.tk
+adda52pokerdownload.com
 addcharlotte.com
 addcious.com
 addcom.de
@@ -18664,6 +18666,7 @@ antiqueras.cfd
 antiquerestorationwork.com
 antiquestores.us
 antiquitytile.com
+antiredeli.com
 antireg.com
 antireg.ru
 antirsmail.ru
@@ -26071,6 +26074,7 @@ bdf343rhe.de
 bdfgroup.org
 bdg56.site
 bdggame3com.com
+bdggameaviator.com
 bdgstr.com
 bdgstr.social
 bdigitalsignage.com
@@ -31734,6 +31738,7 @@ bongcs.com
 bongda.vin
 bongda7m.org
 bongdafun.info
+bongdanetco.net
 bongdung.com
 bongdungmuan.com
 bonggdalu.site
@@ -46838,6 +46843,7 @@ csiplanet.com
 csk22.site
 cskarmelita.com
 cslsmm.com
+cslua.com
 csm-88.com
 csmc.org
 csmediagroup.com
@@ -49631,6 +49637,7 @@ dd9nax.us
 dda-digital.com
 dda1fd.club
 ddaengggang.com
+ddat0511.click
 ddataintegrasi.com
 ddataliste.site
 ddbb99.xyz
@@ -60808,6 +60815,7 @@ endopolmail.com
 endorushapp.com
 endoscopicweightlosssoluctions.com
 endosferes.ru
+endosymalis.com
 endothelmy.com
 endotrsmail.ru
 endowinstitute.com
@@ -65624,6 +65632,7 @@ fbjs15.com
 fbk.info
 fbkubro2024.cloud
 fblay.com
+fbliang58958.top
 fblike.app
 fblo.com
 fbma.tk
@@ -66157,6 +66166,7 @@ feridunyilmazlar.xyz
 ferimoce.pro
 ferins.xyz
 ferios.site
+feriwor.com
 ferlix.motorcycles
 ferloq.click
 ferm-kinder.ru
@@ -70952,6 +70962,7 @@ funbangsan.gq
 funbangsan.ml
 funbangsan.tk
 funbet360.xyz
+funbetcasino.info
 funbeti.com
 funbetiran.com
 funblog.club
@@ -72577,6 +72588,7 @@ gaz-proms.website
 gaza-mohed.lat
 gaza-mohedzuhair.homes
 gazaforlife.biz.id
+gazahopefoundation.biz.id
 gazam.ru
 gazanfersoylemez.cfd
 gazarelief.biz.id
@@ -74246,6 +74258,7 @@ ghsch.us
 ghschool.us
 ghscl.us
 ghsed.us
+ghsedu.us
 ghservers.online
 ghsf.com
 ghsh.us
@@ -89519,6 +89532,7 @@ inflavma.gq
 inflavma.ml
 inflavma.tk
 inflechgyc.space
+inflectiofmail.ru
 inflight.media
 infloo.biz
 infloo.global
@@ -94794,6 +94808,7 @@ jkyvznnqlrc.gq
 jkyvznnqlrc.ml
 jkyvznnqlrc.tk
 jl.biz
+jl77login.com
 jlajah.com
 jlauryn.com
 jlctvmlxq.shop
@@ -95006,6 +95021,7 @@ jobposts.net
 jobras.com
 jobreadyedge.com
 jobrpq.us
+jobs-lavka.store
 jobs-to-be-done.net
 jobs.photography
 jobs316.com
@@ -95207,6 +95223,7 @@ joinemonend.com
 joiners.top
 joinfunnelprofits.com
 joingpts.com
+joinin567slots.com
 joiningup.site
 joinjp.com
 joinm3.com
@@ -111248,6 +111265,7 @@ mailusek.pl
 mailusemilitar.space
 mailusivip.xyz
 mailutill.com
+mailuvoo.com
 mailv.fr
 mailvat.com
 mailvb.pro
@@ -115222,6 +115240,7 @@ meowc.at
 meowfilms.com
 meowfurniture.com
 meowing.cf
+meowper.team
 meowush.site
 meox.com
 mepf1zygtuxz7t4.cf
@@ -126088,6 +126107,7 @@ nkebiu.xyz
 nkeepracga.cf
 nkeepracga.gq
 nkgursr.com
+nkh.edu.vn
 nkhfmnt.xyz
 nkiehjhct76hfa.ga
 nkjdgidtri89oye.gq
@@ -133961,6 +133981,7 @@ palestineharapan.web.id
 palestinehopecenter.biz.id
 palestinesolidarityhub.my.id
 palestineunity.web.id
+palestineunityaid.biz.id
 palestvoice.web.id
 palettepaint.com
 paletteswap.com
@@ -137001,6 +137022,7 @@ philosophmail.com
 philosophyofindia.com
 philosophyquotes.org
 philsdesign.pro
+philslotsonline.net
 philthevirtualizer.com
 philuent.com
 philwentworth.com
@@ -140394,6 +140416,7 @@ powiekszaniepenisaxxl.pl
 powlearn.com
 powmail.store
 powmatic.com
+powpearl.com
 powrie.net
 poww.me
 pox2.com
@@ -143073,6 +143096,7 @@ pukoni.com
 puks.de
 pularl.site
 pulating.site
+pulautidore.online
 pulawski.biz
 pulcrofilms.com
 pulfex.click
@@ -146338,6 +146362,7 @@ ramurop.tk
 ramuu.online
 ramvideo.us
 ramvv.com
+ramynd.com
 ramzihijjawi.me
 ranaphe.cf
 ranaphe.ga
@@ -146500,6 +146525,7 @@ rapaschi.ml
 rapatbahjatya.net
 rapatbareng.biz.id
 rapathub.my.id
+rapatiq.biz.id
 rapattemu.my.id
 rapdior.store
 rape.lol
@@ -149237,6 +149263,7 @@ retapps.cloud
 retarusblog.com
 reteculturalevirginia.net
 retep.com.au
+retexbit.com
 retgoetbej.ga
 rethmail.ga
 rethynkaus.com
@@ -157864,6 +157891,7 @@ sfell.com
 sfer.com
 sferamk.ru
 sferelle.com
+sferenc.com
 sferrabros.com
 sferyshar.xyz
 sfes.de
@@ -160035,6 +160063,7 @@ sistaz4life.net
 sistemasderadiocomunicacionaxc.com
 sister.com
 sisterjaneshop.com
+sisterment.com
 sisteronabudget.com
 sisterselement.com
 sistersisternannies.com
@@ -174279,6 +174308,7 @@ tilnopen.cf
 tilnopen.ga
 tilnopen.ml
 tilnopen.tk
+tilontad.com
 tilulatreasures.com
 tilumo.cfd
 tilvex.click
@@ -185641,6 +185671,7 @@ vinnow.info
 vino-sf.com
 vino-veritas.ru
 vino.ma
+vinochok-dnz17.com.ua
 vinogradcentr.com
 vinohrad.info
 vinopub.com
@@ -192131,6 +192162,7 @@ wow.com
 wow88.club
 wow888.site
 wow8888.xyz
+wow888app.net
 wowable.com
 wowauctionguide.com
 wowbd.fun
@@ -194924,6 +194956,7 @@ xn--kksrenoveringstersund-hecm.se
 xn--kksrenoveringsundsvall-uhc.se
 xn--kltrkrtasiye-dlbc11f.com
 xn--koltukrts-57a2eb.com
+xn--krakn33-rt4c.com
 xn--krb1-6q5a.com
 xn--krhemp-3ya.com
 xn--kubt-dpa.vn
@@ -196556,6 +196589,7 @@ yahoo.pn
 yahoo.pr
 yahoo.ps
 yahoo.rw
+yahoo.sex
 yahoo.sg
 yahoo.sh
 yahoo.si
@@ -198974,6 +199008,7 @@ yyhdress.com
 yyhmail.com
 yyhoo.com
 yyj295r31.com
+yylivebet.com
 yynkm.com
 yynw.f5.si
 yyo18.space
@@ -199703,6 +199738,7 @@ zeexc.pro
 zeezooooo.cloud
 zefara.com
 zefboxedl.com
+zefross.com
 zeft-ten.cf
 zeft-ten.ga
 zeft-ten.gq
@@ -200946,6 +200982,7 @@ zorameta.site
 zoramint.shop
 zorastack.store
 zoraviro.store
+zordeo.com
 zorgkaartzeeland.com
 zorin.icu
 zorlo.com

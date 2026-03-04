@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-04T06:48:23.261Z
+# Aggregated blacklist generated on 2026-03-04T08:39:34.111Z
  
 0-30-24.com
 0-attorney.com
@@ -29786,6 +29786,7 @@ bitlislisesi.xyz
 bitlisnemrut.com
 bitlly.xyz
 bitloan.one
+bitlove.world
 bitlucky.com
 bitly.lol
 bitly.space
@@ -38424,6 +38425,7 @@ celiacenzyme.com
 celikertarlakazan.cfd
 celikhanlimited.xyz
 celikogullaritraktor.xyz
+celin.click
 celinea.info
 celinebags2012.sg
 celinecityitalia.com
@@ -94385,6 +94387,7 @@ jiancokowe.ml
 jiang-ba.cc
 jiang-ddf.xyz
 jiang-vvx.shop
+jiangmen.icu
 jiangpeng.xyz
 jianguo1111.com
 jianguo1112.com
@@ -141051,6 +141054,7 @@ premiumeventspuntacana.com
 premiumgo.id
 premiumgreencoffeereview.com
 premiumisme.info
+premiumku.app
 premiumku.com
 premiumlabels.de
 premiumnator.com
@@ -168214,6 +168218,7 @@ systemy-call-contact-center.pl
 systemyear.us
 systemyregalowe.pl
 systemyrezerwacji.pl
+systenlink.com
 systhcomp.com
 sysv2.com
 syswars.com
@@ -175809,6 +175814,7 @@ tomnaza.site
 tomocoll.website
 tomogavk.online
 tomoos.biz.id
+tomoos.my.id
 tomorjerry.com
 tomorrow5.fun
 tomoworks.tech

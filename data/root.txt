@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-05T10:39:21.001Z
+# Aggregated blacklist generated on 2026-03-05T13:00:48.762Z
  
 0-30-24.com
 0-attorney.com
@@ -175823,6 +175823,7 @@ tomocoll.website
 tomogavk.online
 tomoos.biz.id
 tomoos.my.id
+tomoos.web.id
 tomorjerry.com
 tomorrow5.fun
 tomoworks.tech

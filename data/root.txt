@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-06T20:32:22.420Z
+# Aggregated blacklist generated on 2026-03-06T22:29:04.056Z
  
 0-30-24.com
 0-attorney.com
@@ -76419,6 +76419,7 @@ golviagenxs.com
 golzarbonab.com
 gomagic.net
 gomail.com
+gomail.edu.pl
 gomail.in
 gomail.my.id
 gomail.to
@@ -94852,6 +94853,7 @@ jlfsas.com
 jlgiuptgtl.ga
 jlhg.org
 jljc.site
+jljl99app.info
 jljlbb.com
 jljz.edu.kg
 jlktraining.com
@@ -99820,6 +99822,7 @@ km6uj.xyz
 km7p7.xyz
 km7st.xyz
 km88abcvip.com
+km88legit.net
 kmai.pw
 kmail.host
 kmail.li
@@ -113694,6 +113697,7 @@ maxzhong.com
 maxzora.site
 may-bk.org
 may17kural.net
+may88bet.info
 maya.me
 mayaaaa.cf
 mayaaaa.ga
@@ -126587,6 +126591,7 @@ nohallta.ga
 nohallta.gq
 nohasslecoverage.com
 nohavirtualassistance.com
+nohu28.info
 nohu65.org
 noicd.com
 noideamail.com
@@ -129699,6 +129704,7 @@ ok52.com
 ok8037.com
 ok888.site
 ok8883.com
+ok8br.net
 ok9.io
 ok9227.com
 ok9aacom.info
@@ -136803,6 +136809,7 @@ pg77sss.com
 pg77vvvv.com
 pg77yyy.com
 pg9327.com
+pg99casino.net
 pgafricagroup.com
 pgazhyawd.pl
 pgbrealtyservicesllc.com
@@ -136956,6 +136963,7 @@ phazed.au
 phbikemart.com
 phbuwenaslogin.net
 phc-valeo.info
+phcash11.info
 phcash17login.com
 phclaim.ml
 phclip.com
@@ -163649,6 +163657,7 @@ spinofis.gq
 spinofis.ml
 spinofis.tk
 spinomaniac.com
+spinph7.info
 spinplusph.info
 spinsterism.best
 spinteractive.net

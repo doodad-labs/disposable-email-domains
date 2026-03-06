@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-05T22:32:09.416Z
+# Aggregated blacklist generated on 2026-03-06T02:05:00.094Z
  
 0-30-24.com
 0-attorney.com
@@ -3706,6 +3706,7 @@
 2m51.space
 2m55.space
 2m5u.com
+2m9xk4q7pa.io.vn
 2mail.com
 2mail2.ru
 2mailcache.com
@@ -6278,6 +6279,7 @@
 51cp66.com
 51de.com
 51forex.online
+51gameapp.info
 51icq.com
 51jel.com
 51jiaju.net
@@ -8707,7 +8709,9 @@
 7mailinbox6.kozow.com
 7manbet.org
 7mbrand.com
+7mcnlivescoresmacao.com
 7mcnlivescoresmacao.net
+7mcnmacao.net
 7med24.co.uk
 7mtff.us
 7n2a.us
@@ -23781,6 +23785,7 @@ b24api1.xyz
 b251dhew.buzz
 b25fh.space
 b272nk.site
+b29bet.net
 b29betapk.net
 b29betapk.org
 b29dc.site
@@ -27830,6 +27835,7 @@ betbarg1.org
 betbargone.com
 betbax.com
 betbet.club
+betbhaired9.com
 betbien5.com
 betbigo100.com
 betbigo102.com
@@ -37536,6 +37542,7 @@ casinosmaestro.com
 casinosns.com
 casinosonlinenew.com
 casinosport88.pro
+casinotds.xyz
 casinothraki.gr
 casinotopwinplay.best
 casinotrip.co
@@ -39462,6 +39469,7 @@ chatgirl.tech
 chatgpt-ar.com
 chatgpt.bounceme.net
 chatgptgo.web.id
+chatgptku.com
 chatgptku.pro
 chatgpto.nl
 chatgptt.biz.id
@@ -44381,6 +44389,7 @@ connectcrossword.com
 connectdeshi.com
 connected-project.online
 connecteddesign.net
+connecthiv.biz.id
 connecticut-nedv.ru
 connecticutdetox.center
 connecticutquote.com
@@ -57255,6 +57264,7 @@ e6wa.com
 e72sh.com
 e73ca.xyz
 e7666.com
+e7777game.com
 e7ghn0.com
 e7n06wz.com
 e7xcfk7etkjxjnb.xyz
@@ -71708,6 +71718,9 @@ gaccula.ml
 gaccula.tk
 gace.com
 gachngay.com
+gachoic1com.net
+gachoic1com.org
+gachoic1thomo.org
 gachupa.com
 gacifa.info
 gacoky.info
@@ -72592,6 +72605,7 @@ gaz-proms.website
 gaza-mohed.lat
 gaza-mohedzuhair.homes
 gazaforlife.biz.id
+gazaharapan.my.id
 gazahopefoundation.biz.id
 gazam.ru
 gazanfersoylemez.cfd
@@ -79256,6 +79270,8 @@ h65syz4lqztfrg1.gq
 h65syz4lqztfrg1.ml
 h65syz4lqztfrg1.tk
 h6657052.ga
+h666.info
+h666gamelogin.com
 h6gyj.us
 h6kepf-mail.xyz
 h6xoap.us
@@ -96763,6 +96779,7 @@ k95iqh.com
 k9621.top
 k98.fun
 k99.fun
+k99game.info
 k99m.com
 k99z.com
 k9ifse3ueyx5zcvmqmw.cf
@@ -99547,6 +99564,7 @@ kk3l.com
 kk8ty.com
 kk903.site
 kk9827.com
+kk99game.info
 kkack.com
 kkahbb.site
 kkamii.tk
@@ -107313,6 +107331,7 @@ lootx.cf
 looup.com
 loozer.my.id
 lopcoaviation.com
+lopebetcasino.net
 lopeure.com
 lopezfood.com
 lopezgoeman.com
@@ -108306,6 +108325,7 @@ lucky101login.com
 lucky101official.info
 lucky102login.com
 lucky117game.net
+lucky122game.com
 lucky22game.info
 lucky238.org
 lucky47.info
@@ -108314,6 +108334,7 @@ lucky66jlty.com
 lucky804.info
 lucky98game.com
 lucky999-th.net
+lucky99game.info
 luckybetlogin.net
 luckydesign.info
 luckydragon-cabra.com
@@ -119380,6 +119401,7 @@ motcovit.com
 moteciea.site
 moteko.biz
 motel5music.com
+moteldulxor.com
 motelfive.com
 motels-near-me.org
 motemoteacchi.com
@@ -120954,6 +120976,7 @@ mwh.group
 mwinda.cd
 mwkancelaria.com.pl
 mwm.ca
+mwmbetapp.net
 mwnemnweroxmn.com
 mwnemnweroxmn.org
 mwoi.us
@@ -124563,6 +124586,7 @@ new.ovh
 new688e.ga
 new8822.net
 new888vip.com
+new88betlive.com
 newa.wtf
 newaddr.com
 newage.press
@@ -125286,6 +125310,7 @@ ngmail.web.id
 ngmne.life
 ngo1.com
 ngobakha.ga
+ngobram.my.id
 ngobrolspace.my.id
 ngochuyen.xyz
 ngoclong.tech
@@ -130454,6 +130479,7 @@ one.cloudns.cc
 one.gb.net
 one.lt
 one.pl
+one21slotsgame.com
 one23bet.com
 one2mail.info
 one55.app
@@ -133992,6 +134018,7 @@ palestinavoice.web.id
 palestineharapan.web.id
 palestinehopecenter.biz.id
 palestinesolidarityhub.my.id
+palestinesolidcare.biz.id
 palestineunity.web.id
 palestineunityaid.biz.id
 palestvoice.web.id
@@ -155057,6 +155084,8 @@ savbus.info
 save-on-energy.org
 save4now.com
 save55.org
+savealquds.biz.id
+savealquds.my.id
 saveboxmail.ga
 savebrain.com
 savecashusingsolar.com
@@ -157095,6 +157124,7 @@ seo4pymes.com
 seo4u.site
 seo4website.co.uk
 seo8.co.uk
+seoai.band
 seoandwordpress.com
 seoankur.info
 seoapi.pro
@@ -166679,6 +166709,7 @@ sumatraecocare.biz.id
 sumatrahopecenter.my.id
 sumatralestari.biz.id
 sumatraunitycenter.biz.id
+sumatravision.web.id
 sumavapersians.com
 sumayyaejaz.com
 sumbatouristic.com
@@ -167464,6 +167495,7 @@ sushiblog.com
 sushida-dublin.com
 sushimail.xyz
 sushiojibarcelona.com
+sushisalmon.xyz
 sushisalonbadalona.com
 sushiseeker.com
 sushitaikiyuki.com
@@ -175762,6 +175794,7 @@ tolpo.xyz
 tolsonmgt.com
 tolteca-camden-street.com
 tolufan.ru
+toluna.com.tr
 toluna.cyou
 tom-wright.me
 tom.com

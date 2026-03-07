@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-07T04:04:44.419Z
+# Aggregated blacklist generated on 2026-03-07T06:41:00.036Z
  
 0-30-24.com
 0-attorney.com
@@ -82968,6 +82968,7 @@ hiphopintheville.com
 hiphopmoviez.com
 hipmi.net
 hipmisfitgui.website
+hipoowiq.site
 hippie.dk
 hippobox.info
 hippolyt.help

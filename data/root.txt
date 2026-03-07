@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-07T20:26:18.606Z
+# Aggregated blacklist generated on 2026-03-07T22:23:25.777Z
  
 0-30-24.com
 0-attorney.com
@@ -17038,6 +17038,7 @@ amano.financial
 amantapkun.com
 amanual.site
 amapp01.com
+amaqu.com
 amaracruises.com
 amaralsteel.com
 amarandnikita.com
@@ -19311,6 +19312,7 @@ apostv.com
 apotekberjalan.com
 apotekerid.com
 apotekmu.net
+apotemalu.ru
 apothecary7.com
 apothegmail.com
 apothegmaml.com
@@ -31654,6 +31656,7 @@ bollyastro.com
 bollywoodbabylon.com
 bollywoodu.com
 bololo.com
+bolometmalis.com
 bolomycarsiscute.com
 bolotin.info
 bolq.ru
@@ -43430,6 +43433,7 @@ colbs.us
 colcannon.com
 colce.us
 colcen.us
+colcent.us
 colchesterelderlawgroup.com
 colchicine247.video
 colchonesonyrico.com
@@ -54985,6 +54989,7 @@ dotmsg.com
 dotnetnukeskins.net
 dotnot.pl
 dotoctuvo.com
+dotos.dev
 dotpars.com
 dotph.website
 dotproperty.asia
@@ -110413,6 +110418,7 @@ mailexpire.com
 mailext.xyz
 maileze.net
 mailezee.com
+mailf.site
 mailf5.com
 mailf5.us
 mailfa.cf
@@ -156219,6 +156225,7 @@ searsgaragedoor.org
 searzh.com
 seascoutbeta.org
 seasearch.network
+seashawl.sbs
 seasiapoker.info
 seasidebpg.com
 seasidebrighton.com
@@ -161933,6 +161940,7 @@ soapa.solutions
 soapgram.com
 soapmarket.com
 soapoperablog.com
+soaringdreammail.com
 soaronwings.shop
 sobakanazaice.cf
 sobakanazaice.ga
@@ -186319,6 +186327,7 @@ vitrifiedtiles.net
 vitrifmail.com
 vitrina82.ru
 vitrineproducoes.com
+vitriolmail.com
 vitriolmail.ru
 vitrisemail.ru
 vitstratumfho.site

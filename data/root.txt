@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-07T01:57:43.525Z
+# Aggregated blacklist generated on 2026-03-07T04:04:44.419Z
  
 0-30-24.com
 0-attorney.com
@@ -28301,6 +28301,7 @@ bettomi.com
 bettsnap2020.xyz
 betttt.info
 betturan.com
+bettvilematbet.com
 bettycropper.com
 bettysnewyork.com
 betulozcan.net
@@ -29996,6 +29997,7 @@ bjzxb.com
 bk19e6.us
 bk2010.club
 bk8vietnam.net
+bk8xamvn.com
 bk999gameapk.net
 bkaaluu.com
 bkbcom.com
@@ -31014,6 +31016,7 @@ blunomval.cf
 blunomval.ga
 bluntspace.ru
 blupeardesign.com
+bluphim3.net
 blurbulletbody.website
 blurelizer.com
 blurmail.net
@@ -48301,6 +48304,7 @@ dafuq.top
 dag76.site
 dag8gi7ryh893b4.xyz
 daga3799.com
+daga88supperclub.com
 dagagd.pl
 dagao.live
 dagatour.com
@@ -82772,6 +82776,7 @@ highwranim.tk
 higiena-pracy.pl
 higimo.ru
 higogoya.com
+higuruma.site
 higuuyys11316.ga
 higuuyys13759.ml
 higuuyys92071.cf
@@ -94501,6 +94506,7 @@ jiliaaacom.info
 jiliacefreebonus.com
 jilibet-online.ph
 jilibet020.net
+jilibetloginregister.com
 jilibetrealmoneyplatform.com
 jilide.icu
 jilievobdt.info
@@ -113310,6 +113316,7 @@ matamuasu.ml
 matanmail.com
 matanyashope.com
 matari.me
+matbetongirisi.com
 match365.soccer
 match365.us
 matchb.site
@@ -121247,6 +121254,7 @@ mybestmail.sbs
 mybestmailbox.biz
 mybestmailbox.com
 mybestpoker77.com
+mybets.gg
 mybettermarketing.net
 mybicyclepost.com
 mybiginbox.info
@@ -129708,6 +129716,7 @@ ok8883.com
 ok8br.net
 ok9.io
 ok9227.com
+ok9989.info
 ok9aacom.info
 ok9betvn.com
 okabashidonerkebabmadrid.com
@@ -138913,6 +138922,7 @@ plus-info.ru
 plus-media.co.uk
 plus-size-promdresses.com
 plus553.com
+plus777download.com
 plus777link.net
 plusance.com
 plusbrokers.net
@@ -183147,6 +183157,7 @@ uu57822.com
 uu6.top
 uu7wqv.ru
 uu888bet.info
+uu88casino.info
 uu9827.com
 uuamail.com
 uuaoo.com

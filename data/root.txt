@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-07T10:23:59.886Z
+# Aggregated blacklist generated on 2026-03-07T12:47:26.678Z
  
 0-30-24.com
 0-attorney.com
@@ -70122,6 +70122,7 @@ freepdfmagazines.club
 freepdfmanuales.xyz
 freephonenumbers.us
 freephotoretouch.com
+freepik.io.vn
 freeplongmels.cf
 freeplongmels.gq
 freeplongmels.ml
@@ -75305,6 +75306,7 @@ glowinthedarkproducts.net
 glowmail.xyz
 glowmatch.com
 glownymail.waw.pl
+glowponent.com
 glowrecip.com
 glozed.net
 glpbalcashcard.com
@@ -76678,6 +76680,7 @@ google.tm
 google.us
 google2019.ru
 google2u.com
+googleaiultra.io.vn
 googleappmail.com
 googleappsmail.com
 googlebox.com
@@ -122060,6 +122063,7 @@ mysafemail.gq
 mysafemail.ml
 mysafemail.tk
 mysahmlife.com
+mysaints.net
 mysaitenew.ru
 mysamp.de
 mysanity.space
@@ -131571,6 +131575,7 @@ oppamail.com
 oppax.com
 oppein.pl
 oppenheim.cd
+oppgrp.net
 oppihane.com
 oppobitty-myphen375.com
 oppoesrt.online
@@ -140966,6 +140971,7 @@ precision-leds.com
 precision.management
 precisiondigitalmedia.com
 precisiondoorhillsborough.com
+precisionhomeimprovements.net
 precisionmarina.management
 precisionmarinamanagement.com
 precisionmetalsmiths.com

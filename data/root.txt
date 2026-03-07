@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-07T08:31:59.498Z
+# Aggregated blacklist generated on 2026-03-07T10:23:59.886Z
  
 0-30-24.com
 0-attorney.com
@@ -137839,6 +137839,7 @@ pinnaclekor.com
 pinnaclekor2.com
 pinnaclekor3.com
 pinnaclesportsfitness.com
+pinnstudio.net
 pino99.info
 pinocytemail.ru
 pinokiosa.my.id

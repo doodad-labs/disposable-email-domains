@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-06T22:29:04.056Z
+# Aggregated blacklist generated on 2026-03-07T01:57:43.525Z
  
 0-30-24.com
 0-attorney.com
@@ -23032,6 +23032,7 @@ awaldi.com
 awalt.dk
 awandehaw.app
 awanhitamwoy.fun
+awanuiro.shop
 awardnningodad.cloud
 awarecro.xyz
 awareiv.recipes

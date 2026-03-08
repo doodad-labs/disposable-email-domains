@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-08T06:42:37.444Z
+# Aggregated blacklist generated on 2026-03-08T08:31:52.149Z
  
 0-30-24.com
 0-attorney.com
@@ -966,6 +966,7 @@
 10m.email
 10m.in
 10mail.com
+10mail.info
 10mail.org
 10mail.tk
 10mail.xyz
@@ -83343,6 +83344,7 @@ hiphopintheville.com
 hiphopmoviez.com
 hipmi.net
 hipmisfitgui.website
+hipoow.shop
 hipoowiq.site
 hippie.dk
 hippobox.info
@@ -111751,6 +111753,7 @@ mailtor.net
 mailtorro.com
 mailtothis.com
 mailtouiq.com
+mailtowin.com
 mailtoyou.top
 mailtoyougo.xyz
 mailtrail.xyz
@@ -120871,6 +120874,7 @@ mucizedoktor.ml
 mucizejel.xyz
 mucizekur.site
 muckbots.com
+muckersins.com
 mucwegsns.shop
 mudagigih.com
 mudahmaxwin.com
@@ -138092,6 +138096,7 @@ picklebizadvisors.com
 picklez.org
 picklezilla.com
 pickme.es
+pickmemail.com
 picknameme.fun
 pickpack.co.il
 picktu.pics
@@ -178176,6 +178181,7 @@ trashmail.hu
 trashmail.in
 trashmail.io
 trashmail.live
+trashmail.lol
 trashmail.me
 trashmail.net
 trashmail.org

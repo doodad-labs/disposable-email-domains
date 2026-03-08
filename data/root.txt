@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-08T05:09:27.650Z
+# Aggregated blacklist generated on 2026-03-08T06:42:37.444Z
  
 0-30-24.com
 0-attorney.com
@@ -41143,6 +41143,7 @@ chudmailer2.com
 chudosbor-yagodnica.ru
 chue.today
 chufasustentable.com
+chugax.io.vn
 chuh.com
 chuhstudent.org
 chuj.de

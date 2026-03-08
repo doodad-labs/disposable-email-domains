@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-08T16:29:13.309Z
+# Aggregated blacklist generated on 2026-03-08T18:35:04.185Z
  
 0-30-24.com
 0-attorney.com
@@ -186631,6 +186631,7 @@ vipclub.icu
 vipcodes.info
 vipcontracting.net
 vipconverter.org
+vipcz.dev
 vipdewapoker.com
 vipdieta.info
 vipdigi.com

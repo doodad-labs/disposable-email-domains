@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-08T20:27:16.297Z
+# Aggregated blacklist generated on 2026-03-08T22:23:52.437Z
  
 0-30-24.com
 0-attorney.com
@@ -93865,6 +93865,7 @@ jarsdigital.sbs
 jarspremium.com
 jarspremium.online
 jarsx.com
+jarszone.com
 jarszone.online
 jartexmail.com
 jartiyericgiyim.online

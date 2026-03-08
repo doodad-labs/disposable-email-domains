@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-08T02:06:49.594Z
+# Aggregated blacklist generated on 2026-03-08T05:09:27.650Z
  
 0-30-24.com
 0-attorney.com
@@ -157467,6 +157467,7 @@ sellamivpnvit.tk
 sellcircuitboards.com
 sellclonesieutrau.site
 sellcow.net
+seller-millionaire.store
 seller1hit.website
 sellerku.info
 sellerku.us
@@ -167332,6 +167333,7 @@ suirovig.tk
 suitableland.net
 suitcasesjapan.com
 suiteange.xyz
+suitebeatae.my.id
 suiteoptions.net
 suitesatkillington.com
 suitetru.xyz

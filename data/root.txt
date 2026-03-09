@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-09T07:02:22.978Z
+# Aggregated blacklist generated on 2026-03-09T08:43:52.891Z
  
 0-30-24.com
 0-attorney.com
@@ -26919,6 +26919,7 @@ bej.com
 bejasus.com
 bejolu.live
 bekaselektrik.com
+bekasi.me
 beke.site
 bekhetr.com
 bekirqua.cf
@@ -75045,6 +75046,7 @@ gingreree.gq
 gingreree.ml
 gingreree.tk
 ginicanbreathe.com
+giniey.my.id
 ginkkvetbor.cf
 ginkkvetbor.ga
 ginkkvetbor.gq
@@ -79165,6 +79167,7 @@ gunscutlo.cf
 gunscutlo.ml
 gunscutlo.tk
 gunsngames.com
+gunstar.web.id
 guntherfamily.com
 gunyao.com
 gunzuki.info
@@ -126403,6 +126406,7 @@ nicoleaniston.site
 nicoleberkers55places.com
 nicolecoachingservices.com
 nicolecornejo.com
+nicoleir.biz.id
 nicolekentphotography.com
 nicoleturner.xyz
 nicolhampel.com

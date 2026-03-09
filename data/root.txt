@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-09T05:19:27.591Z
+# Aggregated blacklist generated on 2026-03-09T07:02:22.978Z
  
 0-30-24.com
 0-attorney.com
@@ -99282,6 +99282,7 @@ khoiho.com
 khoindvn.eu.org
 khoinghiephalong.com
 khoke.nl
+khong10die.io.vn
 khong1die.io.vn
 khong2die.io.vn
 khong3die.io.vn

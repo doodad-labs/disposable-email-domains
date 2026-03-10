@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-10T02:01:02.706Z
+# Aggregated blacklist generated on 2026-03-10T05:09:43.166Z
  
 0-30-24.com
 0-attorney.com
@@ -3740,6 +3740,7 @@
 2lgvhy.us
 2listen.ru
 2lj.info
+2lottery8.com
 2lqkqz.us
 2lug.com
 2lyvui3rlbx9.cf
@@ -4286,6 +4287,7 @@
 335588211.com
 335gmail.com
 3363casino.com
+3363cc.net
 336688211.com
 336gmail.com
 33760.xyz
@@ -10121,6 +10123,7 @@
 900br88.com
 900dafa.com
 900k.es
+900letekas.site
 901fernie.com
 901gmail.com
 902gmail.com
@@ -37816,6 +37819,7 @@ casinobit.club
 casinobonusual2.com
 casinobordeaux1.com
 casinobronze.org
+casinocalientemx.com
 casinocanada.com
 casinocanberra.com.au
 casinocashstars.com
@@ -43106,6 +43110,8 @@ cnballnatural.net
 cnbcnewstoday.com
 cnbet8.com
 cnbishi.com
+cnc7mcnmacao.net
+cnc7mcnmacao.org
 cncb.de
 cncelectric.net
 cncfabrication.us
@@ -46589,6 +46595,7 @@ crgs.org
 criarblogue.com
 cribcomfort.com
 cric99betbet.com
+cricbet999login.net
 cricbett.icu
 cricerev.cf
 cricerev.gq
@@ -48687,6 +48694,7 @@ dag8gi7ryh893b4.xyz
 daga3799.com
 daga88supperclub.com
 dagadola777.com
+dagadonc1.com
 dagagd.pl
 dagao.live
 dagatour.com
@@ -52310,6 +52318,7 @@ diagnosistreatmentprograms.com
 diagnostic-kit.com
 diagnostikaavtov.ru
 diagonalli.com
+diagonli.com
 diagonml.com
 diaheliomail.com
 diahpermatasari.art
@@ -69657,6 +69666,7 @@ fortuneelevatorconsultants.com
 fortuneequipment.com
 fortunefavorsbold.com
 fortunegodsvn.online
+fortuneslotgame.com
 fortuneteam.com
 fortunetees.shop
 fortuneteomail.com
@@ -71406,6 +71416,7 @@ fun417.xyz
 fun5k.com
 fun64.com
 fun64.net
+fun888viet.com
 fun88cm.com
 fun88entrance.com
 fun88esport.org
@@ -72170,6 +72181,7 @@ gaccula.ml
 gaccula.tk
 gace.com
 gachngay.com
+gachoic1com.com
 gachoic1com.net
 gachoic1com.org
 gachoic1thomo.org
@@ -74663,6 +74675,7 @@ ghgjgyk.cloud
 ghgluiis.tk
 ghherty.com
 ghhi.us
+ghhigh.us
 ghhsc.us
 ghid-afaceri.com
 ghiencoiphim.online
@@ -80298,6 +80311,7 @@ haliesnxx.ml
 halifax.us
 halil.ml
 halimonos.ru
+halimwin.my.id
 halionex.cfd
 halkasor.com
 halkmedia.xyz
@@ -83411,6 +83425,7 @@ hindimeinhelp.com
 hindimusic.info
 hindiroman.com
 hindkanapakkojawab.com
+hindubetapp.com
 hindugoddessempowerment.com
 hindustandiagnostics.com
 hineck.shop
@@ -89414,6 +89429,7 @@ inacup.ml
 inacup.tk
 inadtia.com
 inadvertweb.com
+inadvili.com
 inafmail.com
 inakmain.info
 inalamd.com
@@ -91236,6 +91252,7 @@ interstats.org
 interstellarminds.com
 intersteller.com
 interstock24.com
+interterli.com
 intertesseemail.ru
 interval-bistro-tallaght.com
 intervenemail.ru
@@ -95397,6 +95414,7 @@ jljc.site
 jljl1casinologin.com
 jljl777legit.com
 jljl90casinologin.com
+jljl90login.com
 jljl99app.info
 jljl99casino.net
 jljlbb.com
@@ -102356,6 +102374,7 @@ kyj27.com
 kyjewa.info
 kykarachy.site
 kykareku.ru
+kylean.web.id
 kylebritt.com
 kyleburnip.com
 kylegrenell.club
@@ -125197,6 +125216,7 @@ neuro-safety.net
 neuro-safety.org
 neuroanaic.com
 neuroanatmail.com
+neuroanli.com
 neurobimail.com
 neurobimail.ru
 neurobiomail.ru
@@ -130666,6 +130686,7 @@ oktoberfest2012singapore.com
 oktoscrape.com
 oktrips.com
 okttcasino.net
+okttlogin.net
 oktv.sbs
 oku.ovh
 okuito.xyz
@@ -131767,6 +131788,7 @@ onofmail.com
 onomaemail.ru
 onomamail.ru
 onomatmail.com
+onomli.com
 ononymous.com
 onopolymail.com
 onoranzefunebridegiovine.com
@@ -136852,6 +136874,7 @@ pentobarfml.com
 pentolina.rest
 pentowerdublin8.com
 penturi.com
+pentyleneli.com
 penuyul.online
 penya.cl
 penyewaanmobiljakarta.com
@@ -140999,6 +141022,7 @@ posiklan.com
 posisiku.pw
 positionrivverthree.com
 positive.bet
+positivili.com
 positivity.news
 posliquidators.com
 posmayma.cf
@@ -142758,6 +142782,7 @@ profcsn.eu
 profeocn.pl
 profeocnn.pl
 profesional.ovh
+profesionalfoto.my.id
 profesionalia.net
 profesjonalne-pozycjonowanie.com
 profesorsaracoglu.com
@@ -147247,6 +147272,7 @@ ramireschat.com
 ramizan.com
 ramkolz.xyz
 ramnavmi23.xyz
+ramo.vn
 ramosiflo.email
 ramot.biz
 rampas.ml
@@ -182434,6 +182460,7 @@ unconqueramail.ru
 unconsciousartspace.com
 unconsmail.com
 unconstifmail.ru
+unconstituli.com
 uncoordmail.ru
 uncoordmails.ru
 uncoorsmail.ru
@@ -190799,6 +190826,7 @@ wellnesswelder.com
 wellnessworkshealth.com
 wello.systems
 wellorg.com
+wellot.me
 wellpromdresses.com
 wellpromdresses.net
 wells.org.uk
@@ -194302,6 +194330,7 @@ x7tzhbikutpaulpb9.ml
 x7xjou.us
 x866.cc
 x888apk.com
+x89gameapp.net
 x8casino.info
 x8h8x941l.com
 x8rbn.cloud
@@ -200465,6 +200494,7 @@ zannuaire.com
 zanoripmlexavq.io.vn
 zanosgames.com
 zanprtmail.com
+zanqavonirplmx.io.vn
 zanqir.cfd
 zantrax.com
 zantsuppno.ga

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-09T22:28:58.049Z
+# Aggregated blacklist generated on 2026-03-10T02:01:02.706Z
  
 0-30-24.com
 0-attorney.com
@@ -99719,6 +99719,7 @@ kingplan10.site
 kingplus88.site
 kingpol.eu
 kingpolloasadoelcasar.com
+kingproplan.site
 kingreadse.cf
 kingreadse.gq
 kingreadse.ml

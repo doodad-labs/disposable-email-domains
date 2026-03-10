@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-10T05:09:43.166Z
+# Aggregated blacklist generated on 2026-03-10T06:51:12.535Z
  
 0-30-24.com
 0-attorney.com
@@ -42803,6 +42803,7 @@ cloudtemail.com
 cloudtempmail.net
 cloudts.shop
 cloudturnos.com
+cloudvxz.com
 cloudwatch.net
 cloudweb.app
 cloudxanh.vn
@@ -103003,6 +103004,7 @@ lalimat.ml
 lalomp.com
 laltina.store
 laltranotteanzio.com
+lalulahoot.me
 lalunametaphysical.com
 lalune.ga
 lalunelab.com

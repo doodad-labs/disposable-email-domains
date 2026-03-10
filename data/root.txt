@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-10T16:56:18.311Z
+# Aggregated blacklist generated on 2026-03-10T18:48:50.304Z
  
 0-30-24.com
 0-attorney.com
@@ -4791,6 +4791,7 @@
 3dhsng.com
 3diifwl.mil.pl
 3dinews.com
+3dkai.com
 3dlab.tech
 3dlenticularegypt.com
 3dmail.top
@@ -65952,6 +65953,7 @@ faxico.com
 faxiin.ml
 faxjet.com
 faxterilios.today
+faxzu.com
 fay13.shop
 fay2.shop
 faybetsy.com
@@ -89712,6 +89714,7 @@ indescribamail.ru
 indescrifml.com
 indesolml.ru
 indeterminality.ru
+indevgo.com
 index-mail.com
 index-raiffein-services-hu.xyz
 index-reputation.ru
@@ -122875,6 +122878,7 @@ mystery-samurai.com
 mysteryofthemissingyou.com
 mysteryworksgames.com
 mysti.fyi
+mysticflare.xyz
 mystickof.com
 mysticmarmotmirage.site
 mysticmarmotmirage.store
@@ -164784,6 +164788,7 @@ sportbro72.com
 sportbrobananat.ru
 sportbrohome.ru
 sportchek.ru
+sportcornwall.org
 sportdsirect.com
 sportech-il.com
 sporteventmanager.net
@@ -181411,6 +181416,7 @@ udacitychallenge.info
 udacityy.com
 udaepyo11.net
 udaepyo13.net
+udah.online
 udaijnakre.ga
 udane-wesele.pl
 udariyabrite.shop

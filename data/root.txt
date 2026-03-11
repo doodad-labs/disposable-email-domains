@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-11T06:54:36.327Z
+# Aggregated blacklist generated on 2026-03-11T08:41:49.355Z
  
 0-30-24.com
 0-attorney.com
@@ -30291,6 +30291,7 @@ bjqjvtodz.shop
 bjs-team.com
 bjsiequykz.ga
 bjsnc.com
+bjstore.foo
 bjsulu.com
 bjsy6p.com
 bjtpg.us
@@ -67690,6 +67691,7 @@ finrigtht.finance
 finrigthtfinance.com
 finsilan.gq
 finsilan.tk
+finsmine.info
 finspirations.com
 finspreads-spread-betting1.com
 finsta.cyou
@@ -200014,6 +200016,7 @@ yurakim.cfd
 yurevia.cfd
 yurfirmadres.xyz
 yuri.rocks
+yuricdos.tech
 yuridicheskaya-konsultaciya-onlajn.ru
 yuridicheskaya-konsultaciya101.ru
 yuridicheskaya-konsultaciya11.ru

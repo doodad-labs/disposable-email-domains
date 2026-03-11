@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-11T10:39:22.383Z
+# Aggregated blacklist generated on 2026-03-11T13:00:51.073Z
  
 0-30-24.com
 0-attorney.com
@@ -81543,6 +81543,7 @@ hcuglasgow.com
 hcuz.com
 hcvj.com
 hcvoid.us
+hcwyj.cn
 hcxnw.info
 hcyb.email
 hcysw.info
@@ -94819,6 +94820,7 @@ jguy.uk
 jgweeks.com
 jgwinindia.com
 jgy7as.us
+jgyaadn.shop
 jgyjt.live
 jh1858.com
 jhalakibs21.gq
@@ -181692,6 +181694,7 @@ uganondee.host
 ugaritopari.site
 ugbwy.com
 ugdr7k.us
+ugezlze.shop
 ugf1xh8.info.pl
 ugf9bd.host
 ugg-bootsoutletclearance.info
@@ -198772,6 +198775,7 @@ yknmpx.fun
 yko.xyz
 ykoylgfjjl.ga
 ykp9.com
+ykqrp.cn
 ykrazy.top
 ykrmgb.fun
 ykrmkp.fun

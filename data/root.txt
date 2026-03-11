@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-10T22:28:46.959Z
+# Aggregated blacklist generated on 2026-03-11T02:00:40.261Z
  
 0-30-24.com
 0-attorney.com
@@ -51848,6 +51848,7 @@ devlr.site
 devls.site
 devlt.site
 devlu.site
+devlug.com
 devlv.site
 devlw.site
 devlx.site
@@ -68681,6 +68682,7 @@ flormidabel.com
 florokerama.ru
 flort.site
 floru.click
+flosek.com
 flossed.org
 flossic.com
 flossieinterio.com
@@ -83803,6 +83805,7 @@ hlikprytlabs.net
 hlinsd.us
 hliwa.cf
 hljxtjs.com
+hlkes.com
 hlkpro.com
 hlkprytly.net
 hll888.com
@@ -126750,6 +126753,7 @@ nipa.it
 nipef.com
 nippabailey.com
 nipponian.com
+niprack.com
 niqr.com
 niquesglamlounge.net
 nirapatta24.com
@@ -199931,6 +199935,7 @@ yukemon.online
 yuki.ren
 yukiji.org
 yukios.biz.id
+yukios.my.id
 yukios.web.id
 yukiz.biz.id
 yukkiflix.ml

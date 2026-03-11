@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-11T05:11:28.680Z
+# Aggregated blacklist generated on 2026-03-11T06:54:36.327Z
  
 0-30-24.com
 0-attorney.com
@@ -29315,6 +29315,7 @@ bigmood.net
 bigmood.xyz
 bignaldesign.com
 bignobbymir.net
+bigonla.com
 bigorbust.net
 bigotes.org
 bigpicnic.ru
@@ -132090,6 +132091,7 @@ ope.net
 ope037.com
 ope5566.com
 opeasdeeacredla.space
+opelkun.net
 opelkun.online
 opelmail.com
 opemails.com

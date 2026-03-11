@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-11T02:00:40.261Z
+# Aggregated blacklist generated on 2026-03-11T05:11:28.680Z
  
 0-30-24.com
 0-attorney.com
@@ -29536,6 +29536,7 @@ bilytica.africa
 bimail.store
 bimarketdigital.com
 bimbetka.com
+bimbingan.store
 bimehshoma.com
 bimgir.net
 bimilleml.com
@@ -63423,6 +63424,7 @@ evarosdianadewi.art
 evascxcw.com
 evasea.com
 evashirts.net
+evaslots7.casino
 evasud.com
 evavbe.ga
 evavbe.gq
@@ -96208,6 +96210,7 @@ joyexporthub.info
 joyfitpulse.com
 joyful-harmony.com
 joyfulczzp.space
+joyfulheartmail.com
 joyfullife.style
 joyfullwing.com
 joygoods.space
@@ -102059,6 +102062,7 @@ kunsum.com
 kuntul.buzz
 kunwardanishali.com
 kunwojituan.com
+kunz.web.id
 kunzjanitorial.net
 kunzlawpllc.com
 kuokxongtuoidep.site
@@ -122801,6 +122805,7 @@ mysecondarydns.com
 mysecretnsa.net
 mysecurebox.online
 mysecuredoctor.com
+mysecuremail.xyz
 myselfship.com
 mysend-mailer.ru
 myseneca.ga
@@ -131310,6 +131315,7 @@ onedaymail.ga
 onedayyylove.xyz
 onedie.club
 onedie.xyz
+onedigimail.xyz
 onedollarbooking.com
 onedonation.com
 onedrive.web.id
@@ -194444,6 +194450,7 @@ xautostabilbetsnup.xyz
 xav.buzz
 xaviestore.xyz
 xavnadn.com
+xavonirmplqesa.io.vn
 xavru.xyz
 xaxadoxtras.store
 xaxugen.org

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-12T18:54:40.591Z
+# Aggregated blacklist generated on 2026-03-12T20:35:40.255Z
  
 0-30-24.com
 0-attorney.com
@@ -2495,6 +2495,7 @@
 1winrussia.com
 1winstyle.ru
 1wk.site
+1wn.top
 1wyws.top
 1x1.su
 1x1zsv9or.pl
@@ -22934,6 +22935,7 @@ av9090.top
 av9090.xyz
 av9707.com
 ava-studio.ru
+ava666.online
 avaba.ru
 avabit.io
 avabots.com
@@ -47289,6 +47291,7 @@ cst-service.biz
 csuclub.com
 csuley.com
 csupes.com
+csus.us
 csustan.com
 csuzetas.com
 csvcialis.com
@@ -67711,6 +67714,7 @@ finxmail.com
 finxmail.net
 finxol.io
 finzastore.com
+finzdorov7777.ru
 fiocharrest.cf
 fiocharrest.ga
 fiocharrest.tk
@@ -74208,6 +74212,7 @@ getmail.site
 getmail.solutions
 getmail.store
 getmail1.com
+getmailapp.org
 getmailet.com
 getmailfree.cc
 getmails.eu
@@ -74647,6 +74652,7 @@ ghastlynursyahid.biz
 ghat.us
 ghatefar.com
 ghaths.us
+ghatkh.us
 ghatkhali.org
 ghatkhalihs.us
 ghatkhalionline.us
@@ -78794,6 +78800,8 @@ gtoalumni.com
 gtpindia.com
 gtptk.com
 gtq59.xyz
+gtr-giris.info
+gtr-giris.online
 gtr.accesscam.org
 gtr98bet.com
 gtrcinmdgzhzei.cf
@@ -139341,6 +139349,7 @@ planttoys.com
 planyourwed.com
 plaqcomp.com
 plashmoistenscrew.site
+plasmachem.vn
 plasmaforcure.com
 plasmodium.fun
 plasmoemail.ru
@@ -142123,6 +142132,7 @@ prestativo.pro
 prestawebexperts.com
 presteg.com
 prestfelde.com
+prestfx.com
 prestidigimail.ru
 prestig-okno.com
 prestigeii.com
@@ -144796,6 +144806,7 @@ qaoloty.com
 qaqc.com
 qaqco.com
 qaqgpt.com
+qardex.com
 qardun.cfd
 qarea.com
 qargocoffee.org
@@ -147206,6 +147217,7 @@ ralib.com
 raligaan.com
 ralkstruck.com
 rallralo.shop
+rally.lat
 rallyraf.cf
 rallyraf.ga
 rallyraf.gq
@@ -150501,6 +150513,7 @@ rexhuntress.com
 reximus.com
 rexmail.fun
 rexnet.ca
+rexoss.com
 rexp2.com
 rexsr.com
 rexton.tk
@@ -153723,6 +153736,7 @@ rusvidos.online
 rusyakikerem.network
 rutale.ru
 ruthann.best
+ruthas.com
 rutherford-group.co.uk
 rutherfordchemicals.com
 rutherfordium.best
@@ -158065,6 +158079,7 @@ seo-for-pussies.pl
 seo-google.site
 seo-host.pl
 seo-laboratory.ru
+seo-links.ru
 seo-local.site
 seo-mailer.com
 seo-neo.net
@@ -178144,6 +178159,7 @@ tradernox.shop
 tradersinsight.com
 tradersoffortune.com
 tradertest.site
+traderxd.com
 tradesconnection.net
 tradeseze.com
 tradeshowproweb.tech
@@ -185681,6 +185697,7 @@ verifiedclimate.com
 verifiedlinklist.com
 verify-dates-online.com
 verify-mymobiledevice.com
+verify-orders.site
 verifycenter.net
 verifyerror.online
 verifyfb.xyz
@@ -190208,6 +190225,7 @@ web-model.info
 web-page.us
 web-ryugaku.net
 web-seo24.ru
+web-service-check.xyz
 web-sift.com
 web-site-sale.ru
 web-sites-sale.ru
@@ -196706,6 +196724,7 @@ xrumgo.site
 xrummer.com
 xrust.club
 xrust.com
+xrwine.com
 xrxrxr.host
 xrzgxj.icu
 xs-foto.org

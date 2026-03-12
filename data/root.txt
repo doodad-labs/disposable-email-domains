@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-12T10:39:00.866Z
+# Aggregated blacklist generated on 2026-03-12T13:00:29.105Z
  
 0-30-24.com
 0-attorney.com
@@ -33810,6 +33810,7 @@ browseksa.net
 browselounge.pl
 browserflare.com
 browserinfo.ru
+browsermax.xyz
 browserpot.com
 browserscout.com
 browsertab.xyz
@@ -84532,6 +84533,7 @@ homesolutionsec.com
 homesphenixcity.com
 homesrockwallgroup.com
 homessearcher.com
+homestartbromley.org.uk
 homestay.ink
 homestayvietnam.org
 homesteadingchat.com
@@ -172251,7 +172253,9 @@ temptrashmail.com
 temptsteam.email
 temptti.buzz
 tempttrend.email
+tempumail.art
 tempumail.cc
+tempumail.cv
 tempumail.org
 tempumail.show
 tempusmail.com

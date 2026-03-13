@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-12T22:26:57.781Z
+# Aggregated blacklist generated on 2026-03-13T02:04:14.001Z
  
 0-30-24.com
 0-attorney.com
@@ -166845,6 +166845,7 @@ streaming-mangas.net
 streaming.cash
 streamingbokepx.info
 streamingfoot.biz
+streamingku.live
 streamingz.xyz
 streamlifecoin.com
 streamlifeproductions.live

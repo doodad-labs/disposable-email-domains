@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-13T06:54:20.405Z
+# Aggregated blacklist generated on 2026-03-13T08:40:03.347Z
  
 0-30-24.com
 0-attorney.com
@@ -59926,6 +59926,7 @@ eligibilitysolutions.com
 eligou.com
 eligou.store
 elijahdrinks.com
+eliksir.foo
 eliksir.web.id
 elilind.info
 elilogan.us
@@ -123634,6 +123635,7 @@ namemail.xyz
 namemaker.online
 namemerfo.co.pl
 namemerfo.com
+namenan.me
 nameo.kozow.com
 nameofname.pw
 nameofpic.org.ua
@@ -142235,6 +142237,7 @@ prftcshr.site
 prgsifmfhq.ga
 prhuws.shop
 priam-partners.com
+priasolo.biz.id
 price-depot.com
 price-shop-sale.ru
 price.lease
@@ -163605,6 +163608,7 @@ sonnenkinder.org
 sonnier.family
 sonnox.com
 sonny.servemp3.com
+sonny.tk
 sonodisimpex.com
 sonofapo.com
 sonohilight.com
@@ -168514,6 +168518,7 @@ sushiblog.com
 sushida-dublin.com
 sushimail.xyz
 sushiojibarcelona.com
+sushisalmon.online
 sushisalmon.xyz
 sushisalonbadalona.com
 sushiseeker.com
@@ -175125,6 +175130,7 @@ thvid.net
 thw.de
 thwequ.xyz
 thx40.site
+thxm3.pro
 thxmail.net
 thxmate.com
 thxrnhiual.host

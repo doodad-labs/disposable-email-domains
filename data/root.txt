@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-13T10:37:16.988Z
+# Aggregated blacklist generated on 2026-03-13T12:59:02.321Z
  
 0-30-24.com
 0-attorney.com
@@ -179648,6 +179648,7 @@ tsedalel.ml
 tsedalel.tk
 tseh10.ru
 tsendzerusticcampsite.com
+tsespren.com
 tsgci.com
 tsgelas.club
 tsgjw.info

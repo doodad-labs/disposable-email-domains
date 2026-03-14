@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-13T22:27:59.174Z
+# Aggregated blacklist generated on 2026-03-14T02:01:58.141Z
  
 0-30-24.com
 0-attorney.com
@@ -16079,6 +16079,7 @@ alhs.us
 alhutaib.com
 alhzfw.us
 ali-baba.info
+ali.et
 aliagaberrakemlak.com
 aliannedal.tech
 alianza-editores.com
@@ -42149,6 +42150,7 @@ clayware.com
 clbed.us
 clbedu.us
 clbsc.us
+clbss.us
 clbu.us
 clbus.us
 clckgumshoe.us
@@ -47329,6 +47331,7 @@ ctaylor.com
 ctcables.com
 ctdetoxcenter.com
 ctdfms.us
+ctdtech.io.vn
 ctechdidik.me
 ctesu.com
 ctexas.net
@@ -50713,6 +50716,7 @@ dejtinggranska.com
 dejuancarlos.com
 deka-trading.com
 dekabet56.com
+dekamails.my.id
 dekao59.icu
 dekaps.com
 dekatri.cf
@@ -51622,6 +51626,7 @@ destypad.gq
 destypad.ml
 destypad.tk
 desulfemail.ru
+desulfurime.ru
 desultorydrivel.com
 desuze.info
 desve.giize.com
@@ -79254,6 +79259,7 @@ gurulegal.ru
 gurumail.xyz
 gurumediation.com
 gurungkhabar.com
+gurur.store
 gurutransfer.com
 gusarkazino777.com
 guscares.com
@@ -79340,6 +79346,7 @@ guycuco.tk
 guydumais.com
 guyfawkesfireworks.biz
 guyfawkesfireworks.net
+guygd.eu.org
 guykoshop.xyz
 guymail.shop
 guymail.site
@@ -87995,6 +88002,7 @@ identity-confermation.com
 identity-portrait.com
 identityinnovation.com
 ideograpml.ru
+ideolfmals.com
 ideologimail.ru
 ideologiomail.com
 ideondo.xyz
@@ -113785,6 +113793,7 @@ maskitop.cf
 maskmail.net
 maskmemail.com
 maskmy.id
+maskr.me
 masks-muzik.ru
 masksickness.com
 maskstore.world
@@ -137918,6 +137927,7 @@ philosophicalresearch.org
 philosophmail.com
 philosophyofindia.com
 philosophyquotes.org
+philosopmail.com
 philsdesign.pro
 philslotsonline.net
 philthevirtualizer.com
@@ -175516,6 +175526,7 @@ timmphiha.gq
 timmphiha.tk
 timmyknowlesofficial.com
 timnas88.biz
+timnhathau.com
 timoer.info
 timoloogkn.space
 timon-vdr.com
@@ -182088,6 +182099,7 @@ uktrainers4sale.com
 uktrainersale.com
 uktrainerssale.com
 ukttht.xyz
+ukusa.edu.pl
 ukvisa.space
 ukvy.com
 ukwebtech.com
@@ -194850,6 +194862,7 @@ xevents.buzz
 xevents.site
 xevm.com
 xevni.click
+xevra.sbs
 xevton.click
 xevtu.top
 xex66.com

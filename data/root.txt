@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-14T06:45:56.570Z
+# Aggregated blacklist generated on 2026-03-14T08:36:18.414Z
  
 0-30-24.com
 0-attorney.com
@@ -154526,6 +154526,7 @@ sadness.website
 sadoffmedia.com
 sadomasocmail.ru
 sadosad.cloud
+sadove.shop
 sadrain.shop
 sadri-ong.cd
 sads-ads-awe.top
@@ -200135,6 +200136,7 @@ yuweioaso.tk
 yuwixms.xyz
 yuxdeo.info
 yuxuan.mobi
+yuyiquming.com
 yuyoshop.site
 yuyu.asia
 yuzecroicrofei2636.live
@@ -201537,6 +201539,7 @@ zil4czsdz3mvauc2.ml
 zil4czsdz3mvauc2.tk
 zilbercoin.space
 zilchess.com
+zillermins.com
 zillionsofdollars.info
 zilmail.cf
 zilmail.ga

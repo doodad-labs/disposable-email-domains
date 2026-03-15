@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-15T10:30:53.926Z
+# Aggregated blacklist generated on 2026-03-15T12:53:35.113Z
  
 0-30-24.com
 0-attorney.com
@@ -159266,6 +159266,7 @@ share4now.com
 shareacarol.com
 shareaccountvn.com
 sharebooklib.com
+sharebot.net
 sharecap.my.id
 sharecaregiver.net
 sharecity.net

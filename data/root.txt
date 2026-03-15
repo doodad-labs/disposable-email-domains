@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-15T06:57:33.532Z
+# Aggregated blacklist generated on 2026-03-15T08:36:42.263Z
  
 0-30-24.com
 0-attorney.com
@@ -7120,6 +7120,7 @@
 5yh55.com
 5yi9xi9.mil.pl
 5ymail.com
+5ymail.me
 5ytff56753kkk.cf
 5ytff56753kkk.ga
 5ytff56753kkk.gq
@@ -49014,6 +49015,7 @@ damatiy.space
 damazk.ru
 damcongremill.shop
 damde.space
+dameallans.com
 damebreak.com
 damelin.com
 damian-ekb.ru
@@ -76952,6 +76954,7 @@ gomedal8.xyz
 gomei.com
 gomelkosmos.site
 gomen-da.com
+gomerchant.app
 gomessage.ml
 gometrodesign.com
 gomez-rosado.com
@@ -135141,6 +135144,7 @@ paolonovelli.it
 paonlinegambling.net
 paonuo87.icu
 paopaocvhigh.com
+paoracmoss.com
 paosk.com
 paoue.com
 paovod.com
@@ -161556,6 +161560,7 @@ skinhealings.com
 skinhub.online
 skinid.info
 skinkaito.fun
+skinnersum.com
 skinny-yet.com
 skinnyhandw.com
 skinnyskinnysoaps.com
@@ -186834,6 +186839,7 @@ vinogradcentr.com
 vinohrad.info
 vinopub.com
 vinordknkz.ru
+vinosmotis.com
 vinospasiego.com
 vinosydeliciascanelas.com
 vins.com
@@ -186882,6 +186888,7 @@ violentvipiet.com
 violetta-boutique.com
 violifmail.ru
 violimail.com
+violimakos.com
 violin.link
 viollee.com
 violympic.online

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-15T22:28:31.603Z
+# Aggregated blacklist generated on 2026-03-16T02:28:12.288Z
  
 0-30-24.com
 0-attorney.com
@@ -49564,6 +49564,7 @@ dateligenu-confirmed.com
 dateligenu-meet-backup.com
 dateligenu-meet.com
 datelli.com.br
+datemail.online
 datendesf.cf
 datendesf.ml
 datendesf.tk

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-16T07:17:39.800Z
+# Aggregated blacklist generated on 2026-03-16T08:57:05.176Z
  
 0-30-24.com
 0-attorney.com
@@ -36516,6 +36516,7 @@ camedicalcannabis.expert
 camefrog.com
 cameliaewiss.com
 camelisete.ru
+camellieso.com
 camelotcostumes.com
 camelotepc.xyz
 cameltok.com
@@ -72857,6 +72858,7 @@ gardn.net
 gardner144.store
 gardner49.store
 gardsiir.com
+gardu.dev
 gareascx.com
 garena.biz
 garenaa.vn
@@ -194478,6 +194480,7 @@ xakw1.com
 xalipcode.xyz
 xalipcodes.online
 xalme.cfd
+xammersoly.com
 xamog.com
 xamsi.com
 xan.earth

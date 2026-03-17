@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-16T22:33:22.170Z
+# Aggregated blacklist generated on 2026-03-17T02:07:28.970Z
  
 0-30-24.com
 0-attorney.com
@@ -36822,6 +36822,7 @@ canfima.ml
 canfima.tk
 cangacloud.online
 cangcuters.my.id
+cangcutku.pro
 cangdazzdec.ga
 cangdazzdec.gq
 cangdazzdec.ml
@@ -47744,6 +47745,7 @@ cursorpro1.xyz
 cursorproz.xyz
 cursorvutr.com
 cursosdeinglesbarcelona.com
+cursosgenius.online
 cursosonlinechefcarlamaia.com
 cursospara.net
 cursosprofissionalize.online
@@ -71064,6 +71066,7 @@ fruitclos.buzz
 fruitingbodymushrooms.online
 fruitroug.fun
 fruitscolour.xyz
+fruitservice.xyz
 fruitsforreal.org
 fruitshps.website
 fruitslotmachines.cfd
@@ -92270,6 +92273,7 @@ isf4e2tshuveu8vahhz.ml
 isf4e2tshuveu8vahhz.tk
 isfahantourism.info
 isfake.com
+isfew.com
 isfp.com
 isfp.wiki
 isfu.ru
@@ -131256,6 +131260,7 @@ onbachin.ga
 onbachin.gq
 onbachin.ml
 onbachin.tk
+onbap.com
 onbehalfof.online
 onbehalfof.store
 onbet.org
@@ -135677,6 +135682,7 @@ pascherairjordanchaussuresafr.com
 pascherairjordanssoldes.com
 paschke.org
 pasco.store
+pascoasagrada.online
 pascoding.com
 pascyprus.com
 paseacuba.com
@@ -136122,6 +136128,7 @@ payinbox.co.uk
 payinbox.us
 paying-tax.com
 paykasabozdurma.org
+paylaar.com
 paylasimisi.com
 paylessclinic.com
 paylevo.net
@@ -136192,6 +136199,7 @@ paytvgratis.net
 paytvgratis.online
 payweiner.com
 payxinsijitv.info
+pazard.com
 pazarlamadahisi.com
 pazos-marchante.net
 pazuric.com
@@ -163064,6 +163072,7 @@ socksbest.com
 sockshare.watch
 soclesa.es
 socmail.net
+soco7.com
 socofoam.com
 socoolglasses.com
 socoori.com

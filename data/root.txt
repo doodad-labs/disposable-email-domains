@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-17T05:21:23.500Z
+# Aggregated blacklist generated on 2026-03-17T07:04:58.401Z
  
 0-30-24.com
 0-attorney.com
@@ -25181,6 +25181,7 @@ bananafarming.net
 bananamail.org
 bananamails.info
 bananashakem.com
+bananasmile.me
 bananatv.xyz
 banancaocap.com
 bananmail.com
@@ -57000,6 +57001,7 @@ duofel.com
 duogasm.club
 duol3.com
 duolcxcloud.com
+duoley.com
 duongbacviet.me
 duongdz.site
 duongtang.com

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-17T10:52:19.793Z
+# Aggregated blacklist generated on 2026-03-17T13:12:52.042Z
  
 0-30-24.com
 0-attorney.com
@@ -54980,6 +54980,7 @@ dominguesweb.net
 domini-group.com
 dominicanreload.com
 dominickgatto.com
+dominicur.my.id
 dominikan-nedv.ru
 dominikcumhuriyeti.com
 dominionbotarena.com

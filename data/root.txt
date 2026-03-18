@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-18T10:53:31.978Z
+# Aggregated blacklist generated on 2026-03-18T13:13:02.209Z
  
 0-30-24.com
 0-attorney.com
@@ -192445,6 +192445,7 @@ wintermore.org
 winterpilot.com
 wintersarea.xyz
 wintersbootsonline.info
+wintersgf.store
 wintershop.icu
 wintersnowremovalservices.com
 wintersupplement.com

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-18T18:59:32.712Z
+# Aggregated blacklist generated on 2026-03-18T20:36:34.826Z
  
 0-30-24.com
 0-attorney.com
@@ -29565,6 +29565,7 @@ bimbingan.store
 bimehshoma.com
 bimgir.net
 bimilleml.com
+bimillfml.ru
 bimishops.site
 bimmarket.com
 bimmerdieselna.com
@@ -44023,6 +44024,7 @@ colpaniconsultoria.com
 cols.us
 colsc.us
 colsch.us
+colsedu.us
 coltonattorneys.com
 coltonpower.com
 coltprint.com
@@ -44044,6 +44046,7 @@ columbusquote.com
 columbusschoolhn.org
 columbustaps.com
 columbuswellnessmedicine.com
+columedu.us
 colurmish.com
 colus.us
 com-04536875422364784521.top
@@ -68466,6 +68469,7 @@ flex-n-roll.ru
 flexa.town
 flexapplab.com
 flexbeltcoupon.net
+flexbud24.pl
 flexbureauzekerheid.com
 flexcellent.com
 flexcodejam.org
@@ -74762,12 +74766,14 @@ ghjfgh.online
 ghjtv.site
 ghk55.us
 ghkal.us
+ghkedu.us
 ghkh.us
 ghkhl.us
 ghkhs.us
 ghkl.us
 ghkli.us
 ghks.us
+ghksc.us
 ghkykhdf.top
 ghkyukjb7-privytfg.host
 ghkyukjb7-privytfg.press
@@ -75475,6 +75481,7 @@ gkqmfl.fun
 gkrmck.fun
 gkrmfz.fun
 gkrmnx.fun
+gksc.us
 gksk.com
 gksmftlx.com
 gksqjsejf.com
@@ -81678,6 +81685,7 @@ hdfgh45gfjdgf.tk
 hdfshop.ir
 hdfshsh.stream
 hdgana.website
+hdhdj.com
 hdhe.com
 hdhkmbu.ga
 hdhkmbu.ml
@@ -88011,6 +88019,7 @@ idealny-stylowy.pw
 idealpersonaltrainers.com
 idealtool.com
 idealweightsystemsct.com
+ideamail.asia
 ideamarts.net
 ideamax.com
 ideamill19.com
@@ -142681,6 +142690,7 @@ priyo.email
 priyo.ovh
 priyo.site
 priyoapk.com
+priyodown.com
 priyoemail.site
 priyomail.co.uk
 priyomail.in

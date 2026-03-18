@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-18T05:25:53.477Z
+# Aggregated blacklist generated on 2026-03-18T07:02:32.603Z
  
 0-30-24.com
 0-attorney.com
@@ -11501,6 +11501,7 @@ aaron243.store
 aaronbalan.com
 aaronboydarts.com
 aaronbriggs.buzz
+aarondean.net
 aaronelevatorss.shop
 aaronlights.com
 aaronlittles.com
@@ -26970,6 +26971,7 @@ belamar.pt
 belan.site
 belan.space
 belan.website
+belanja.world
 belanjaonlineku.web.id
 belanjaterus.shop
 belaplus.com.br
@@ -72891,6 +72893,7 @@ gardn.net
 gardner144.store
 gardner49.store
 gardsiir.com
+gardu.codes
 gardu.dev
 gareascx.com
 garena.biz
@@ -80417,6 +80420,7 @@ halmstadflygfoto.se
 halmstadstad.com
 halofarmasi.com
 halogeterer.monster
+halohobi.xyz
 halonews.us
 halongmedia.com
 halopere.shop
@@ -132261,6 +132265,7 @@ opennetgame.org
 openneural.host
 openneural.net
 openpabexample.site
+openpedia.lol
 openperegrinate.click
 openpoland.org
 openroyalmanagement.com
@@ -135260,6 +135265,7 @@ papillommails.ru
 papinvlog.ru
 papirobizurado.com
 papki.shop
+papl-help.store
 papl.icu
 papl45tvy.buzz
 papl46tbu.buzz
@@ -168190,6 +168196,7 @@ supergovertomail.com
 supergreatmail.com
 supergreen.com
 supergreentonic.com
+supergsm.com
 superhappyfunnyseal.com
 superhemail.com
 superhnmail.com
@@ -170294,6 +170301,7 @@ tangelo.dev
 tangeriin.com
 tangerinecreations.com
 tangerline.com
+tangica.com
 tangkaskitaid.org
 tangkasnetid.site
 tanglewoodstudios.com
@@ -176637,6 +176645,7 @@ tobiasbm.com
 tobilinz.de
 tobinproperties.com
 tobio.gq
+tobioke.com
 tobir.cz
 tobjl.info
 toblessyou.com
@@ -177047,6 +177056,7 @@ tondarvpn-shop.xyz
 tondi.hu
 toneapi.com
 tonehy.info
+toneke.com
 toneralias.com
 tonermix.ru
 tonerstream.eu
@@ -180484,6 +180494,7 @@ tuu7jy.com
 tuubz.com
 tuugo.com
 tuulu-altai.ru
+tuunic.com
 tuupd.com
 tuuwc.com
 tuvae.email
@@ -183489,6 +183500,7 @@ uptiwin.gq
 uptiwin.ml
 uptiwin.tk
 upto1.shop
+uptodate.company
 uptodate.tech
 uptoupmail.com
 uptours.ir
@@ -185098,6 +185110,7 @@ vasir.site
 vasoinhibmfri.com
 vasomin.com
 vasomly.com
+vasonew.com
 vasosrojosamericanos.com
 vasqa.com
 vasquezcreeklodge.com

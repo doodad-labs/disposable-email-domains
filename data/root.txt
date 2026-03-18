@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-17T22:33:42.547Z
+# Aggregated blacklist generated on 2026-03-18T02:11:08.044Z
  
 0-30-24.com
 0-attorney.com
@@ -426,6 +426,7 @@
 07900010.com
 07900044.com
 079827.com
+079betcc.net
 079gmail.com
 079i080nhj.info
 07d.xyz
@@ -2923,6 +2924,7 @@
 212812.com
 212912.com
 212bet.info
+212betlogin.net
 212gmail.com
 212staff.com
 213269.xyz
@@ -3022,6 +3024,7 @@
 2227728.com
 2229837.com
 222betcasino.info
+222betloginapp.net
 222bubu.com
 222gmail.com
 222hghg.com
@@ -6363,6 +6366,7 @@
 518799.xyz
 518802.xyz
 5188yg.com
+518bet.info
 518bet12.net
 518gmail.com
 518lawns.com
@@ -8590,6 +8594,7 @@
 777phslot.net
 777plusfun.com
 777pubapk.info
+777pubapp.info
 777pubcasino.net
 777pubclub.com
 777score-ag.com
@@ -8719,6 +8724,7 @@
 789win88.info
 78avalon.green
 78avalon.land
+78brlbet.net
 78e4f9a.club
 78gmail.com
 78jxs.com
@@ -9084,6 +9090,7 @@
 808qs.com
 8090jd.com
 809gmail.com
+80betgame.info
 80br88.com
 80cnb.space
 80gmail.com
@@ -66010,6 +66017,7 @@ fazamail.com
 fazdnetc.com
 faze.biz
 fazeclan.space
+fazendabrasil2.com
 fazer-site.net
 fazipic.site
 faziti.info
@@ -72709,6 +72717,7 @@ gana777.info
 gana777soporte.com
 ganabetbono.com
 ganam.com
+ganamax.info
 gancio.online
 gandaiameiomart.online
 gandepiaoliang.com
@@ -90472,6 +90481,7 @@ inkbete90.org
 inkecho.cfd
 inkecho.click
 inker.com
+inkerbasin.com
 inkerdots.com
 inkermagazine.com
 inkgraphicspublicidad.com
@@ -137757,6 +137767,7 @@ ph23casino.info
 ph357login.com
 ph365casino.info
 ph367login.com
+ph44login.com
 ph567casino.net
 ph678casino.net
 ph6xhw.us
@@ -177328,6 +177339,7 @@ topicalbionom.com
 topicalspectrumhemp.com
 topicbooking.online
 topiemas.com
+topig.vn
 topigx.com
 topikt.com
 topikurrohman.xyz

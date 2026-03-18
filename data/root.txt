@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-18T02:11:08.044Z
+# Aggregated blacklist generated on 2026-03-18T05:25:53.477Z
  
 0-30-24.com
 0-attorney.com
@@ -32392,6 +32392,7 @@ boombeachgenerator.cf
 boombeats.info
 boomboost.online
 boombustbailout.com
+boomchicken.us
 boomdate.xyz
 boomemail.website
 boomerangcentral.com
@@ -117436,6 +117437,7 @@ millnevi.cf
 millnevi.gq
 millnevi.ml
 millnevi.tk
+millonix.info
 millslevine.com
 millstonepenyffordd.com
 millstreetbarandtable.com
@@ -187060,6 +187062,7 @@ vipiskaegryult.xyz
 vipitv.com
 vipivip.vip
 vipizka-iz-egrp.ru
+vipjililogin.com
 vipjis.top
 viplasvegasparty.com
 viplink.eu
@@ -189036,6 +189039,7 @@ vytevident.com
 vyuo.ru
 vyvod-iz-zapoya.ru
 vywbltgr.xyz
+vz66.net
 vz99bet.net
 vzanguard.com
 vzap.top

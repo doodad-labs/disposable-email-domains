@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-19T08:41:54.017Z
+# Aggregated blacklist generated on 2026-03-19T10:40:16.255Z
  
 0-30-24.com
 0-attorney.com
@@ -101178,6 +101178,7 @@ kopibajawapunya15711640.cf
 kopibajawapunya15711640.ga
 kopibajawapunya15711640.ml
 kopibajawapunya15711640.tk
+kopidingin.org
 kopienak.website
 kopikapalapi11821901.cf
 kopikapalapi11821901.ga

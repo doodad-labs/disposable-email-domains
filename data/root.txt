@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-18T22:33:03.585Z
+# Aggregated blacklist generated on 2026-03-19T02:12:01.248Z
  
 0-30-24.com
 0-attorney.com
@@ -134944,6 +134944,7 @@ palfreyman.net
 palgan.biz
 palgong80.com
 palingbaru.tech
+palingeudp.com
 palingmail.com
 paliny.com
 paliospiti.com
@@ -201319,6 +201320,7 @@ zestroy.info
 zeta-telecom.com
 zeta.edu.pl
 zetabh.com
+zetaecommerce.com
 zetafoto.pl
 zetagames.club
 zetalabz.com

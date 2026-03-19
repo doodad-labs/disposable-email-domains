@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-19T02:12:01.248Z
+# Aggregated blacklist generated on 2026-03-19T05:22:12.051Z
  
 0-30-24.com
 0-attorney.com
@@ -14650,6 +14650,7 @@ ai-pct.com
 ai-report.ru
 ai-story-generator.net
 ai-trader.io
+ai108.online
 ai2111.com
 ai4000.com
 ai4trade.info
@@ -46992,6 +46993,7 @@ crypinchom.tk
 crypoe.shop
 crypoe.store
 crypstats.top
+crypt-news.store
 crypt-world-ar.site
 crypt-world-az.site
 crypt-world-be.site
@@ -98882,6 +98884,7 @@ kepczynski.net
 kepeznakliyat.com
 kepeztesisat.xyz
 kepezun.xyz
+kepkat.com
 kepnet.com
 kepo.ml
 kepqs.ovh
@@ -125216,6 +125219,7 @@ netscape.org
 netscapezs.com
 netscspe.net
 netsec.onl
+netsecuremail.xyz
 netsense.us
 netseoservice.com
 netsolutions.top
@@ -149965,6 +149969,7 @@ replacementwindowsnearme.net
 replanding.site
 replatform.live
 replay-wg.site
+replaymail.xyz
 replenishcosmetic.com
 replica-surfaces.com
 replicadiploma1.com
@@ -157360,6 +157365,7 @@ secondhandscotch.com
 secondhandselection.com
 secondimpact.com
 secondjourneyschool.com
+secondmail.xyz
 secondmic.com
 secondmindsoftware.com
 secondset1.com

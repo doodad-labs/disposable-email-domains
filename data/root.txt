@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-19T14:48:42.109Z
+# Aggregated blacklist generated on 2026-03-19T16:58:23.376Z
  
 0-30-24.com
 0-attorney.com
@@ -58868,6 +58868,7 @@ educatolica.org
 educenter.us
 educharved.site
 educhat.email
+educolum.us
 educourse.xyz
 educre.us
 educt.us
@@ -64081,6 +64082,7 @@ exo-eco-photo.net
 exo6s.site
 exoacre.com
 exobiolmail.ru
+exocaudp.com
 exocharter.com
 exocmet.cf
 exocmet.ga
@@ -88850,6 +88852,7 @@ ilichil.xyz
 ilico.info
 iligansocial.info
 ilike.black
+ilike168.com
 ilikemoney.com
 iliken.com
 ilikepancakes.ink
@@ -91189,6 +91192,7 @@ interdepartli.com
 interdepemalu.ru
 interdependmail.com
 interdependmail.ru
+interdige.com
 interdiscpt.ru
 interdivegai.ru
 interdmail.com
@@ -135635,6 +135639,7 @@ parlimentpetitioner.tk
 parmageddon.net
 parmansliquor.com
 parmesan-foods-takeaway.com
+parnixovleq.io.vn
 parobet10.com
 parobet3.com
 parobet5.com
@@ -143888,6 +143893,7 @@ ptct.net
 ptcto.net
 ptcu.dev
 pteddyxo.com
+pteridospudp.com
 pterippi.info
 pterodactyl.email
 ptfawyuwk.shop
@@ -170524,6 +170530,7 @@ tar00ih60tpt2h7.tk
 tara-management.com
 taraartstudio.com
 taraeria.ru
+tarafashionhouse.com
 taraftarium.xyz
 taraftartekstil.com
 taragateszgj7.store
@@ -180121,6 +180128,7 @@ tugobro.tk
 tuguiabolivia.com
 tugurywag.life
 tugxbd.online
+tuhintraders.com
 tuholesa.site
 tuhsuhtzk.pl
 tuhzih.icu

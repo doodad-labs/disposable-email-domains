@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-19T18:59:19.759Z
+# Aggregated blacklist generated on 2026-03-19T20:38:13.489Z
  
 0-30-24.com
 0-attorney.com
@@ -80415,6 +80415,7 @@ hallawallah.com
 hallbarhetschef.se
 hallbarhetschefen.se
 halleland-thunem.me
+halliford.net
 hallitech.com
 hallmark-trinidad.com
 hallmarkinsights.com
@@ -116764,6 +116765,7 @@ mgaba.com
 mgabratzboys.info
 mgangabet.com
 mgapoker88.org
+mgastudents.com
 mgazenonli-man.space
 mgb-iris-blue.online
 mgbett.com

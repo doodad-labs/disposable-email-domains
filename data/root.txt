@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-19T16:58:23.376Z
+# Aggregated blacklist generated on 2026-03-19T18:59:19.759Z
  
 0-30-24.com
 0-attorney.com
@@ -48151,6 +48151,7 @@ cyber-zeka.ru
 cyber30.com
 cyberacademy.org
 cyberasteroid.com
+cyberberspy.com
 cyberbesttech.com
 cyberbulk.me
 cybercandy.live
@@ -89230,6 +89231,7 @@ immatetmnn.space
 immatmail.com
 immediategoodness.org
 immense.org
+immenseignite.info
 immensematurity.club
 immenso-studios.com
 immethodicfl.com
@@ -185864,6 +185866,7 @@ verifiedlinklist.com
 verify-dates-online.com
 verify-mymobiledevice.com
 verify-orders.site
+verify-portal.site
 verifycenter.net
 verifyerror.online
 verifyfb.xyz
@@ -200654,6 +200657,7 @@ zakatdimas.site
 zakatharta.net
 zakaz-ber.space
 zakazat-aviabilet.ru
+zakazat-cveti-moskva.ru
 zakazmarketing.ru
 zakhura.site
 zakitri.website

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-19T05:22:12.051Z
+# Aggregated blacklist generated on 2026-03-19T06:58:46.233Z
  
 0-30-24.com
 0-attorney.com
@@ -23504,6 +23504,7 @@ axiemeta.fun
 axiomasmovie.com
 axiomatml.ru
 axiomboatworks.com
+axionexonit.com
 axiongard.net
 axis-com.com
 axisbank.co
@@ -69487,6 +69488,7 @@ foreskin.ml
 foreskin.tk
 foresmail.com
 foresmo.com
+forest-arrow-play.online
 forest-reach-agree-snow.xyz
 forest-schools.com
 forestages.com
@@ -89046,6 +89048,7 @@ imagnumhealthcare.com
 imail.autos
 imail.edu.pl
 imail.edu.vn
+imail.onl
 imail.sbs
 imail1.net
 imail5.net
@@ -90303,6 +90306,7 @@ informatioabout.com
 informatioabout.net
 information-account.net
 information-blog.xyz
+information-xr.online
 information1.biz
 information4u.com
 informational.systems
@@ -137489,6 +137493,7 @@ peskdr.com
 pesna.com
 pesnibeez.ru
 peso63casino.net
+peso789casinologin.com
 peso888casino.info
 peso99casino.net
 pesobet.info
@@ -181649,6 +181654,7 @@ udtghr.online
 udubnation.com
 udumu.com
 uduomail.com
+udvinci.com
 udvnzhccbr.ga
 udx.web.id
 udyrc.site
@@ -190710,6 +190716,7 @@ webtraffico.top
 webtrafficstation.net
 webtrip.ch
 webtroy.com
+webuildbacklinks.com
 webuildstuff.dev
 webuiltyoursite.com
 webundance.com

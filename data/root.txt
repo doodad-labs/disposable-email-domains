@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-19T06:58:46.233Z
+# Aggregated blacklist generated on 2026-03-19T08:41:54.017Z
  
 0-30-24.com
 0-attorney.com
@@ -13361,6 +13361,7 @@ adstabym.cf
 adstabym.ml
 adstabym.tk
 adstam.com
+adstellara.com
 adstra.dev
 adstreet.es
 adsvave.com
@@ -24684,6 +24685,7 @@ bagsguccisaleukonliness.co.uk
 bagshare.com
 bagshare.org
 bagslouisvuitton2012.com
+bagso.bond
 bagsofficer.info
 bagsonline-store.com
 bagsops.club
@@ -56812,6 +56814,7 @@ ducklingapp.net
 ducklingapp.us
 ducklington.org
 duckmail.cf
+duckmail.sbs
 duckrd1s.site
 duckreliablecold.website
 duckspam.com
@@ -66029,6 +66032,7 @@ fazamail.com
 fazdnetc.com
 faze.biz
 fazeclan.space
+fazendabrasil1.com
 fazendabrasil2.com
 fazer-site.net
 fazipic.site
@@ -176365,6 +176369,7 @@ tmail8.website
 tmail9.com
 tmailavi.ml
 tmailbox.ru
+tmailbox.site
 tmailcloud.com
 tmailcloud.net
 tmaildir.com
@@ -179205,6 +179210,7 @@ tripster.info
 tripsterfoodies.net
 trisana.net
 trishkimbell.com
+trisioover.com
 tristanabestolaf.com
 tristandance.com
 tristansims.com

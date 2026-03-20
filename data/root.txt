@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-20T20:33:34.812Z
+# Aggregated blacklist generated on 2026-03-20T22:28:57.440Z
  
 0-30-24.com
 0-attorney.com
@@ -13015,6 +13015,7 @@ adenocmail.com
 adenocmail.ru
 adenohypli.com
 adenoidectmail.ru
+adenomail.ru
 adenorsmail.ru
 adenose.info
 adenov.ru
@@ -24879,6 +24880,7 @@ bainncmq.fun
 baipo.lat
 baique.fun
 baireselfie.net
+baisch.org
 baitify.com
 baixarlegenda.com
 baixeeteste.tk
@@ -52799,6 +52801,7 @@ digital-kitchen.tech
 digital-message.com
 digital-photo-frame-market.info
 digital-resilience.info
+digital-service.shop
 digital-work.net
 digital-x-press.com
 digital10network.com
@@ -65599,6 +65602,7 @@ fashgate.com
 fashion-fantastic.com
 fashion-hairistyle.org
 fashion-handbagsoutlet.us
+fashion-turkiye.com
 fashionablefmail.com
 fashionablychicboutique.shop
 fashionactivist.com
@@ -70904,6 +70908,7 @@ frez.com
 frezn.top
 frgh.com
 frgviana-nedv.ru
+friarystudentmail.com
 frickeya.com
 frictionla.com
 fridastoreh.xyz
@@ -74725,6 +74730,7 @@ ghastlier.com
 ghastlynursyahid.biz
 ghat.us
 ghatefar.com
+ghathigh.us
 ghaths.us
 ghatkh.us
 ghatkhali.org
@@ -90093,6 +90099,7 @@ inevitabmail.com
 inevital.org
 inevitmail.com
 inevmail.com
+inevudp.com
 inews.id
 inewx.com
 inexcitmail.com
@@ -101529,6 +101536,7 @@ kraidi.com
 krainafinansow.com.pl
 krainiumprox.us
 kraizn.me
+kraken-shop24.com
 krakenforwin.xyz
 krakentickets.us
 krakjax.com
@@ -109600,6 +109608,7 @@ lvc2txcxuota.ml
 lvc2txcxuota.tk
 lvcheapsua.com
 lvcheapusa.com
+lvcva.org
 lvdev.com
 lvdskjn.store
 lvfityou.com
@@ -138358,6 +138367,7 @@ phytofluid.com
 phytopathome.ru
 phytopatmail.com
 phytosociolymail.com
+phytosoudp.com
 phytosuccmalis.com
 phytosumail.ru
 pi-ka.ru
@@ -143857,6 +143867,7 @@ psychopathomail.ru
 psychopatmail.com
 psychopedialife.com
 psychophysiomail.com
+psychophyudp.com
 psychoprophsalo.ru
 psychosexuaml.com
 psychosmail.com
@@ -190409,6 +190420,7 @@ web-mail.pp.ua
 web-mail1.com
 web-maill.com
 web-mailz.com
+web-market-check.shop
 web-model.info
 web-page.us
 web-ryugaku.net

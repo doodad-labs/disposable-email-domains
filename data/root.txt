@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-20T18:51:15.122Z
+# Aggregated blacklist generated on 2026-03-20T20:33:34.812Z
  
 0-30-24.com
 0-attorney.com
@@ -4110,6 +4110,7 @@
 317betcasino.net
 3182020.xyz
 31862.monster
+318bet1.net
 318factory.com
 318gmail.com
 318road.com
@@ -121844,6 +121845,7 @@ mwgoqmvg.xyz
 mwgwqe.us
 mwh.group
 mwinda.cd
+mwingame.info
 mwkancelaria.com.pl
 mwm.ca
 mwmbetapp.net
@@ -137825,6 +137827,7 @@ ph567casino.net
 ph678casino.net
 ph6xhw.us
 ph947casino.net
+ph999.info
 phaantm.de
 phagy.com
 phahuy.com
@@ -153636,6 +153639,7 @@ ruk17.space
 ruka.cam
 rukal.shop
 rula.com
+rule34xxx.info
 rulersonline.com
 ruletka-online.ru
 ruletkacsgo.com

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-20T06:56:10.109Z
+# Aggregated blacklist generated on 2026-03-20T08:40:43.171Z
  
 0-30-24.com
 0-attorney.com
@@ -18786,6 +18786,7 @@ answersworld.ru
 ant-q.net
 antabuse.website
 antabuse247.video
+antacomp.web.id
 antade.xyz
 antakyamadoevi.xyz
 antalyaescortkizlar.com
@@ -21115,6 +21116,7 @@ ascensoripozzan.com
 ascentruggedmobile.com
 ascesion.org
 aschenbrandt.net
+aschente.my.id
 ascianbox.com
 ascidi.ru
 asciibinder.net
@@ -25418,6 +25420,7 @@ bantin30s.online
 bantisik.com
 bantler.com
 bantoken247.net
+bantuangazaku.my.id
 banubadaeraceva.com
 banyakfollowers.my.id
 banyakhadiah.xyz
@@ -36606,6 +36609,8 @@ campano.cl
 campatar.com
 campbellap.com
 campbellnet.ca
+campcupt.biz.id
+campcupt.web.id
 campcuts.com
 campeonbet24.com
 camperscorner.net
@@ -175225,6 +175230,7 @@ thuexedulichhanoi.com
 thuexemay.top
 thug.pw
 thuguimomo.ga
+thuha99.com
 thuisworkoutset.online
 thulinh.net
 thulsitvuk.com

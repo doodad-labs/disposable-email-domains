@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-21T06:43:08.918Z
+# Aggregated blacklist generated on 2026-03-21T08:34:02.778Z
  
 0-30-24.com
 0-attorney.com
@@ -91813,6 +91813,7 @@ ipad3.co
 ipad3.net
 ipad3release.com
 ipaddlez.info
+ipaddressforme.com
 ipadhd3.co
 ipadrecovery.net
 ipadzzz.com
@@ -125964,6 +125965,7 @@ nexalyntesto.com
 nexamint.store
 nexapay.one
 nexario.shop
+nexavirolpq.io.vn
 nexazora.shop
 nexbet40.online
 nexcv.com

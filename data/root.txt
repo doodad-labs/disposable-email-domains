@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-21T18:36:37.060Z
+# Aggregated blacklist generated on 2026-03-21T20:27:38.358Z
  
 0-30-24.com
 0-attorney.com
@@ -44037,6 +44037,7 @@ colpaniconsultoria.com
 cols.us
 colsc.us
 colsch.us
+colscho.us
 colsedu.us
 coltonattorneys.com
 coltonpower.com
@@ -49391,6 +49392,7 @@ dariolo.com
 dariosblanchardstown.com
 daritute.site
 dark-tempmail.zapto.org
+dark-webmarket.com
 dark.lc
 dark.support
 dark2.ru
@@ -56391,6 +56393,7 @@ dropmaily.xyz
 dropmeon.com
 dropmire.org
 dropnlock.net
+dropons.com
 dropopttrends.site
 droppingsize.com
 dropshipbikinis.com
@@ -69608,6 +69611,7 @@ forkshape.com
 forksmedia.com
 forlent.online
 forlent.store
+forliion.com
 forlite.se
 forloans.org
 forlornofhope.com
@@ -75479,6 +75483,7 @@ gkcrhl.us
 gkd06.space
 gkdcsi.ru
 gkha.us
+gkhalis.us
 gkhghyv.cn
 gkhh.us
 gkhhi.us
@@ -77259,6 +77264,7 @@ google2u.com
 googleaiultra.io.vn
 googleappmail.com
 googleappsmail.com
+googlebox.co.kr
 googlebox.com
 googlebox.kr
 googlecn.com
@@ -131865,6 +131871,7 @@ onlinesmpt200.com
 onlinestodays.info
 onlinetantraclasses.com
 onlinetantracourses.com
+onlinetavlaoyna5.com
 onlinete-bfirsati.org
 onlinetelehealthdoctor.com
 onlinetoernooien.shop

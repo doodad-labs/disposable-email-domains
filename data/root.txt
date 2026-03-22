@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-22T18:37:30.784Z
+# Aggregated blacklist generated on 2026-03-22T20:28:47.441Z
  
 0-30-24.com
 0-attorney.com
@@ -42651,6 +42651,7 @@ clonchectu.cf
 clonchectu.ga
 clonchectu.gq
 clonchectu.ml
+clone21.io.vn
 clone79.com
 cloneads.top
 clonebox.uno
@@ -198753,6 +198754,7 @@ yetmail.store
 yetonvata.com
 yeumark.ga
 yeumarknhieu.ga
+yeummo.io.vn
 yeuniverse.net
 yeuniverse.org
 yeupmail.cf

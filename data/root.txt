@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-22T05:18:50.867Z
+# Aggregated blacklist generated on 2026-03-22T06:52:48.884Z
  
 0-30-24.com
 0-attorney.com
@@ -155690,6 +155690,7 @@ sandwish.website
 sandypil767676.store
 sandyretro.shop
 sandyrhythms.com
+sandysecondary.net
 sandyspringsnewsdaily.com
 sandyteo.com
 sandytowingservices.com

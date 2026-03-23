@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-23T20:37:49.758Z
+# Aggregated blacklist generated on 2026-03-23T22:33:03.953Z
  
 0-30-24.com
 0-attorney.com
@@ -65461,6 +65461,7 @@ fanzuku.com
 faoue.com
 fap.buzz
 fapa.com
+fapdex.fun
 fapet.edu.pl
 fapeta.info
 fapfiction.com
@@ -102229,6 +102230,7 @@ kupi.dev
 kupiarmaturu.ru
 kupidonapp.lat
 kupiru.net
+kupit-ajfon-cs1.ru
 kupit-aviabilety-na-samolet.ru
 kupit-aviabilety-ofitsialnyy-sayt.ru
 kupit-matras111.ru
@@ -166899,6 +166901,7 @@ storos.ru
 storpool.info
 storrent.net
 storrowband.com
+stors.shop
 storsmail.com
 stortonconstruction.com
 stortop.com

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-23T18:55:09.595Z
+# Aggregated blacklist generated on 2026-03-23T20:37:49.758Z
  
 0-30-24.com
 0-attorney.com
@@ -57186,6 +57186,7 @@ dv24.store
 dv6w2z28obi.pl
 dv7.com
 dv88bet.info
+dv8student.com
 dvader.club
 dvag-karriere.de
 dvc-india.com
@@ -168097,6 +168098,7 @@ sunnyblogportal.com
 sunnycommerce.com
 sunnydaycubbies.com
 sunnydaymail.com
+sunnydaysmail.com
 sunnydeptrai.cloud
 sunnylandschool.com
 sunnyleonexxx.mobi
@@ -184635,6 +184637,7 @@ v-holode.ru
 v-kirove.ru
 v-kuhne.ru
 v-kv.com
+v-mail.cc
 v-mail.xyz
 v-on-honey.com
 v-pizdu.net

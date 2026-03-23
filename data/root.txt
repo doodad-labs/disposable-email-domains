@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-23T02:13:21.020Z
+# Aggregated blacklist generated on 2026-03-23T05:39:29.154Z
  
 0-30-24.com
 0-attorney.com
@@ -5490,6 +5490,7 @@
 463bv.space
 465279.com
 465gmail.com
+466betapp.net
 466gmail.com
 46735.xyz
 4674445.com
@@ -7044,6 +7045,7 @@
 5rof.cf
 5rxsy.us
 5salhtoo.shop
+5sbet4.net
 5sbetwin.net
 5scode.email
 5se.life
@@ -7330,6 +7332,7 @@
 655559999.com
 655869s.shop
 655bet3.net
+655betwin.net
 655gmail.com
 655qs.com
 6564445.com
@@ -8142,6 +8145,7 @@
 706mail.com
 70742e.club
 707579.com
+7075betapp.info
 7075plataforma.info
 707909.com
 707gmail.com
@@ -8220,6 +8224,7 @@
 7219zz.com
 721gmail.com
 722552.com
+722betlogin.net
 7234445.com
 72388dzz.com
 72388sx.com
@@ -10862,6 +10867,8 @@
 9ebrklpoy3h.gq
 9ebrklpoy3h.ml
 9ebrklpoy3h.tk
+9eeebet.net
+9eeeplataforma.net
 9ejz6q.us
 9email.com
 9en6mail2.ga
@@ -28108,6 +28115,7 @@ bet325group.xyz
 bet333casino.net
 bet365agent.com
 bet43design.xyz
+bet466.net
 bet49day.xyz
 bet49design.xyz
 bet4shop.com
@@ -44066,6 +44074,7 @@ columbuswellnessmedicine.com
 columedu.us
 colurmish.com
 colus.us
+coluscho.us
 com-04536875422364784521.top
 com-101634586696.help
 com-1024493459167.online
@@ -148665,6 +148674,7 @@ recklesstech.club
 reclaimbellydancing.com
 reclaimyourtimemasterclass.com
 recliner.buzz
+recloudmail.xyz
 recockulas.com
 recode.me
 recodificfmail.ru
@@ -150290,6 +150300,7 @@ responsibilmfri.com
 responsive.co.il
 responsiveclassroom.info
 responsiveclassrooms.org
+responsivemail.xyz
 responziashands.com
 respublica.app
 resself.site

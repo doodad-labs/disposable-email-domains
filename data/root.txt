@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-24T02:05:34.785Z
+# Aggregated blacklist generated on 2026-03-24T05:23:00.801Z
  
 0-30-24.com
 0-attorney.com
@@ -95571,6 +95571,7 @@ jlgiuptgtl.ga
 jlhg.org
 jljc.site
 jljl1casinologin.com
+jljl333casino.com
 jljl777legit.com
 jljl90casinologin.com
 jljl90login.com
@@ -158367,6 +158368,7 @@ seomarketingservices.nl
 seomarketleaders.com
 seomastergroup.com
 seomediadesign.online
+seomkt.dad
 seomoz.org
 seondes.com
 seoneo.app
@@ -186713,6 +186715,7 @@ vidltpvm.shop
 vidney.com
 vidnoe-beton-zavod.ru
 vidoc.ru
+vidoza.biz.id
 vidozz24.com
 vidred.cf
 vidred.ga

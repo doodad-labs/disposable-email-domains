@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-23T22:33:03.953Z
+# Aggregated blacklist generated on 2026-03-24T02:05:34.785Z
  
 0-30-24.com
 0-attorney.com
@@ -35686,6 +35686,7 @@ bypass4dubbo.com
 bypebbles.info
 bypebbles.net
 byplxu.com
+bypochta-xr.ru
 byporax.live
 bypyn.es
 byq85.com
@@ -55023,6 +55024,7 @@ dominationozuwari.club
 dominatome.com
 dominguesweb.net
 domini-group.com
+dominic.biz.id
 dominicanreload.com
 dominickgatto.com
 dominicur.my.id
@@ -90381,6 +90383,7 @@ infos.site
 infos.st
 infosdating.info
 infoseek.jp
+infoseguridad.lat
 infositus88.com
 infosklad.shop
 infoslot88.com
@@ -142091,6 +142094,7 @@ preklady-polstina.cz
 prekuldown47mmi.ml
 prellaner.online
 preludelights.com
+premail.my.id
 premarex.ga
 premarex.gq
 premarex.ml

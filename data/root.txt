@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-24T13:12:21.473Z
+# Aggregated blacklist generated on 2026-03-24T14:58:25.427Z
  
 0-30-24.com
 0-attorney.com
@@ -32567,6 +32567,7 @@ borntufftrainer.com
 boroda.tech
 borogodobrands.online
 boromirismyherobro.com
+boros.biz.id
 borrowernews.com
 borsa-gayrimenkul.xyz
 borschoff.biz
@@ -64048,6 +64049,7 @@ exerdi.ml
 exerdi.tk
 exergaming.academy
 exertwheen.com
+exespay.com
 exeulink.com
 exf5iqst87.icu
 exfactor.com
@@ -121468,6 +121470,7 @@ munchnburritobarkildare.com
 munchon.net
 munchtalk.net
 muncieschool.org
+muncloud.com
 muncloud.online
 mundo-visocial.org
 mundo-visozial.org
@@ -162670,6 +162673,7 @@ smjilicasino.info
 smk.li
 smk96.cloudns.be
 smkalfatihcipongkor.my.id
+smkanba.com
 sml2020.xyz
 smldv.ru
 smllc.xyz

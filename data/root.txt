@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-24T07:04:39.926Z
+# Aggregated blacklist generated on 2026-03-24T08:54:00.345Z
  
 0-30-24.com
 0-attorney.com
@@ -48185,6 +48185,7 @@ cybercommunist.org
 cybercommunistparty.org
 cyberdada.live
 cyberdefend-solutions.space
+cyberdigital.site
 cyberdive.net
 cyberdude.dk
 cyberdynemobile.com
@@ -142183,6 +142184,7 @@ premiumnator.com
 premiumnezhealthcare.shop
 premiumneznaturalbeauty.shop
 premiumnna.biz.id
+premiumonebd.store
 premiumperson.website
 premiumplantforskolin.com
 premiumproductdiet.com
@@ -154624,6 +154626,7 @@ saclouisvuittonenfrance.com
 saclouisvuittonnpascher.com
 saclouisvuittonpascherenligne.com
 saclouisvuittonsoldesfrance.com
+saclover.one
 saclovutonsfr9u.com
 sacluxcomptechspecialst.com
 sacnskcn.com

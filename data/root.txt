@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-24T19:03:33.494Z
+# Aggregated blacklist generated on 2026-03-24T20:41:43.785Z
  
 0-30-24.com
 0-attorney.com
@@ -63890,6 +63890,7 @@ exaforge.shop
 exaggerfml.ru
 exaggermail.com
 exaggreath.site
+exahut.com
 exaltatio.com
 exaltedgames.com
 exaltic.com
@@ -71530,6 +71531,7 @@ fun-ss.com
 fun2.biz
 fun2night.club
 fun417.xyz
+fun4k.com
 fun5k.com
 fun64.com
 fun64.net
@@ -83904,6 +83906,7 @@ hksmnm.fun
 hkstar.com
 hkstorey.com
 hksuning.store
+hkteami.store
 hktmail.com
 hktmrd.fun
 hkuyurt.fun
@@ -96621,6 +96624,7 @@ jsjns.com
 jskypedo.com
 jsmail.it
 jsmention.com
+jsncos.com
 jso.com
 jsoa.com
 json-check.best
@@ -99822,6 +99826,13 @@ kineticleadershipinstitute.net
 kineticsystems.com
 kinex.cd
 kinflow.family
+king-agency.online
+king-agencygloballlc.online
+king-agencyinc.com
+king-agencyinc.online
+king-agencyinc.store
+king-agencyllc.online
+king-agencyllc.store
 king-bricks.com
 king-csgo.ru
 king-sniper.com
@@ -99833,6 +99844,7 @@ king333casino.com
 king368aff.com
 king4dstar.com
 king88.asia
+kingagencyglobal.store
 kingairpma.com
 kingandcouture.com
 kingbaltihouse.com

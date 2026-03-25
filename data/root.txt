@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-25T18:56:02.099Z
+# Aggregated blacklist generated on 2026-03-25T20:38:36.650Z
  
 0-30-24.com
 0-attorney.com
@@ -1320,6 +1320,7 @@
 123tuyetvoi.com
 123w321.ru
 123win.club
+123win58.net
 123winvin.net
 123worldcup.com
 124033.com
@@ -6511,6 +6512,7 @@
 533ac.com
 5351188.net
 5354445.com
+535betcomapp.com
 535gmail.com
 5363305.com
 536898.club
@@ -8828,6 +8830,7 @@
 7efwe0.com
 7f20.icu
 7f40.club
+7f777.info
 7fewrg.com
 7ffbet.info
 7fge6u.us
@@ -8908,8 +8911,10 @@
 7mbrand.com
 7mcnlivescoresmacao.com
 7mcnlivescoresmacao.net
+7mcnlivescoresmacao.org
 7mcnmacao.net
 7med24.co.uk
+7mmacao1.com
 7mtff.us
 7n2a.us
 7nation.com
@@ -9753,11 +9758,13 @@
 888newbet.info
 888now22com.com
 888pbet.info
+888pgvip.net
 888phlapp.net
 888phpcasino.net
 888pokercasino.net
 888qq59.xyz
 888riobet.info
+888slotapps.com
 888slotsapp.net
 888starz.click
 888starz.cyou
@@ -9771,6 +9778,7 @@
 888tron.org
 888vibet.com
 888vndbet.com
+888win9.net
 888wincasino.net
 888z5.cf
 888z5.ga
@@ -9795,7 +9803,10 @@
 88cnb.space
 88cot.info
 88fbpro.com
+88gamesbr.com
 88gobet8.com
+88gopartner.com
+88gopartner.net
 88hotmail.com
 88jilicasino.net
 88kaskings.com
@@ -9803,6 +9814,7 @@
 88macaupools.com
 88mon.space
 88online4.info
+88online66.com
 88onlinecasino.info
 88org.cloudns.org
 88rbrb.com
@@ -9829,6 +9841,8 @@
 88trader.com
 88urtyzty.pl
 88videos.site
+88vinbet1.com
+88vinchat.com
 88vinproios.org
 88vinzon.com
 88xengbet.com
@@ -10325,6 +10339,7 @@
 92no3o.us
 92ooxx.xyz
 92pkr1.info
+92pkrgamedownload.com
 930.dog
 930gmail.com
 930zb.com
@@ -23012,6 +23027,7 @@ avantbazaar.com
 avantcreditoffer.com
 avantemta.store
 avantgardescientificjournal.xyz
+avantiac.com
 avantiioptical.com
 avapardaz9.info
 avaphpnet.com
@@ -24165,6 +24181,7 @@ b4xfzg.us
 b514qgly.buzz
 b51wc.space
 b52cocktail.com
+b52dangnhap.net
 b52dangnhap.org
 b536jxzf.buzz
 b540zoes.buzz
@@ -32051,6 +32068,7 @@ bombence.com
 bomber81.com
 bombermanba.com
 bombgovernorbrow.website
+bombingfish.online
 bomboclutch.online
 bombohu.com
 bomboladielioperpalloncini.com
@@ -37839,6 +37857,7 @@ cashredeemms.shop
 cashspincasino.com
 cashstroked.com
 cashtogoods.com
+cashtornadoapp.com
 cashvpn.com
 cashwm.com
 cashxl.com
@@ -37922,6 +37941,7 @@ casinomores.cl
 casinomxbigwin77.com
 casinonair.com
 casinonov.xyz
+casinonovibet.net
 casinonv.info
 casinoohnedeutschelizenz.net
 casinoonlind.com
@@ -38716,6 +38736,7 @@ ceco3kvloj5s3.ml
 ceco3kvloj5s3.tk
 cecol.us
 cecols.us
+cecolsch.us
 cecolum.us
 cecolumbus.us
 cecolumbusschool.us
@@ -47980,6 +48001,7 @@ cveiguulymquns4m.ga
 cveiguulymquns4m.gq
 cveiguulymquns4m.ml
 cveiguulymquns4m.tk
+cvejie-cveti.ru
 cvelbar.com
 cverizon.net
 cveti-omsk.ru
@@ -68058,6 +68080,7 @@ fishmail.top
 fishnets.xyz
 fishnspin.com
 fishpomd.com
+fishprawncrab1.online
 fishslack.com
 fishtailjoinery.com
 fishtankbubbler.com
@@ -73313,6 +73336,7 @@ gcmail.top
 gcmvc.info
 gcnc.com
 gcodes.de
+gcomadescertj1.com
 gcordobaguerrero.com
 gcosmic.ru
 gcp.ong
@@ -76576,6 +76600,7 @@ gobet889bola.com
 gobet889skor.com
 gobig3dprinters.com
 gobimission.org
+gobivoy7.ru
 gobizpros.com
 goblindarts.com
 goblinhammer.com
@@ -83433,6 +83458,7 @@ hii5pdqcebe.ga
 hii5pdqcebe.gq
 hii5pdqcebe.ml
 hii5pdqcebe.tk
+hiii88.info
 hiirimatot.com
 hiize.com
 hijayt.shop
@@ -95201,6 +95227,7 @@ jili49casino.com
 jili711casino.com
 jili777casino.info
 jiliaaacom.info
+jiliaaaslot.info
 jiliacefreebonus.com
 jilibet-online.ph
 jilibet020.net
@@ -95882,6 +95909,7 @@ joggtorra.tk
 jogjakarir.org
 jogmail.store
 jogo365bet.net
+jogodeourobet.net
 jogos.cd
 jogosdemaquiar.info
 johanlibearth.com
@@ -98939,6 +98967,7 @@ kenzhop1.xyz
 kenzoget.club
 kenzototo.site
 keo88bet.net
+keobet88.org
 keobzmvii.pl
 keokeg.com
 keonhacai55bet.com
@@ -99394,6 +99423,7 @@ khalinin.cf
 khalinin.gq
 khalinin.ml
 khalinin.tk
+khalis.us
 khalisady.store
 khalpacor.cf
 khalpacor.ga
@@ -123887,6 +123917,7 @@ nannegagne.online
 nanniesofengland.net
 nano-scaffolding.com
 nano.edu.kg
+nano3dsystems.com
 nanobeerandfood.site
 nanobrewbakery.com
 nanobumper.com
@@ -125745,6 +125776,7 @@ newmaildomain.ml
 newmailsc.com
 newmandarinmalahide.com
 newmangroupstore.com
+newmano.store
 newmansecuritygroup.com
 newmarketingcomapny.info
 newmarlborough.icu
@@ -131524,6 +131556,7 @@ oneemailstore.com
 oneeuro.club
 oneexch.live
 onefarmatatime.org
+onefastmail.xyz
 onefilteronefamily.com
 onefineline.com
 onefivepro.se
@@ -134923,6 +134956,7 @@ pak-ab.net
 pak-ab.shop
 pak111game.info
 pak777pkgame.com
+pak92.com
 pakadebu.ga
 pakarate.com
 pakargadget.com
@@ -138135,6 +138169,7 @@ phitsanulokfc.com
 phjmsrc.ml
 phjouoznu.shop
 phjwsz.com
+phl63login.com
 phl777casino.net
 phlagocasino.info
 phlbestapk.com
@@ -139123,6 +139158,7 @@ piwopiwo.com.pl
 pixaco.info
 pixaco.org
 pixatate.com
+pixbetcassino.org
 pixcasino.info
 pixcassino1.com
 pixdd.com
@@ -157569,6 +157605,7 @@ securemail.cf
 securemail.gq
 securemail.solutions
 securemaill.ga
+securemailpro.xyz
 securemailserver.cf
 securemailserver.ga
 securemailserver.gq
@@ -165226,6 +165263,7 @@ springleafbooks.com
 springmelodyteashop.website
 springrive.com
 springriverresort.com
+springse.com
 springswindowfashion.com
 springtowngeneralstore.com
 springvilleschool.org
@@ -170025,6 +170063,7 @@ tai-asu.ml
 tai-chi.tech
 tai-nedv.ru
 tai789.fun
+tai88vinlink.org
 taiapp188bet.com
 taib29bet.org
 taicaiwang.xyz
@@ -170619,6 +170658,7 @@ taptopsmart.com
 taptype.me
 tapvia.com
 tapvpnfree.website
+tapwin.net
 tar00ih60tpt2h7.cf
 tar00ih60tpt2h7.ga
 tar00ih60tpt2h7.gq
@@ -181744,6 +181784,7 @@ uditgtguqo.ga
 uditkarode.shop
 uditt.cf
 udkd.com
+udla.edu.pl
 udlicenses.com
 udlmiuojt.shop
 udmail.com
@@ -183779,6 +183820,7 @@ urbanvelo.ru
 urbaza.com
 urbismail.com
 urblms.shop
+urbolife.com
 urbsound.com
 urcarfresheners.irish
 urcemxrmd.pl
@@ -184334,6 +184376,7 @@ utclubsxu.com
 utcoiproc.cf
 utcoiproc.ga
 utcoiproc.tk
+utcuong368.info
 ute15.space
 utelzcpd.shop
 utemail.ru
@@ -185136,6 +185179,7 @@ vanuatu-nedv.ru
 vanvlachsen.com
 vanzadelhoff.org
 vanzcloud.web.id
+vaobong88com.net
 vapaka.com
 vaparisy.info
 vapealiciousjuice.com
@@ -188894,6 +188938,7 @@ vuatrochoi.nl
 vuatrochoi.online
 vubby.com
 vubi.us
+vubids.com
 vubori13.space
 vucan.xyz
 vudisdiz.space
@@ -190687,6 +190732,7 @@ webm1.xyz
 webm4il.in
 webm4il.info
 webmail-optibelt.com
+webmail.fit
 webmail2.site
 webmail24.to
 webmail24.top
@@ -190768,6 +190814,7 @@ websearchusa.net
 websecuremail.com
 websend.net
 webseo1.store
+webseom.com
 webservers.info
 webserverwst.com
 webshid.com
@@ -192369,6 +192416,7 @@ win789vn8.com
 win8.cd
 win888casino.info
 win888vip.net
+win88apps.com
 win9rolet.xyz
 winallinpro.xyz
 winalways.ru
@@ -196827,6 +196875,7 @@ xormail.org
 xoroda.com
 xorpaopl.com
 xoru.ga
+xorvy.com
 xoso.online
 xoso168.org
 xoso66apps.com
@@ -200860,6 +200909,7 @@ zaoregistr.xyz
 zaorinu.is-a.dev
 zaoseda.ru
 zaoshweika.ru
+zaoverse.com
 zap-trade46.store
 zap2.nl
 zap2q0drhxu.cf

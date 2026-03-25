@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-24T22:32:05.528Z
+# Aggregated blacklist generated on 2026-03-25T02:10:49.358Z
  
 0-30-24.com
 0-attorney.com
@@ -64826,6 +64826,7 @@ faatest.info
 faatest.net
 faawaiver.info
 faawaiver.net
+fabaos.com
 fabaporter.com
 fabelk.monster
 fabelklug.de
@@ -93392,6 +93393,7 @@ izicq.com
 izip.site
 izipebikes.net
 izipelectricbike.net
+izkat.com
 izkr.com
 izkyqr.xyz
 izlvsmyl.shop
@@ -196790,6 +196792,7 @@ xolymail.ga
 xolymail.gq
 xolymail.ml
 xolymail.tk
+xomail.my.id
 xomaioosdwlio.cloud
 xomawmiux.pl
 xomll.com

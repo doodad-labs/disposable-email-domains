@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-25T02:10:49.358Z
+# Aggregated blacklist generated on 2026-03-25T05:23:08.150Z
  
 0-30-24.com
 0-attorney.com
@@ -86109,6 +86109,7 @@ hsdsmartboard.com
 hsebgqivgf.ga
 hseedsl.com
 hsehfr.us
+hsemonitor.com
 hserey.com
 hsestudentsat.us.org
 hsfinternationalgroup.com
@@ -128234,6 +128235,7 @@ novaevs.xyz
 novagun.com
 novainfosecportal.com
 novaivyi.com
+novaix.vn
 novakilo.com
 novakilo.net
 novakilo.org
@@ -158952,6 +158954,8 @@ seventol.xyz
 seveproduction.com
 severimlers.site
 sevgisoysal.org
+sevid.me
+sevid.tech
 sevillatimtour.com
 sevilshop.ir
 sevingetraadele.com
@@ -161319,6 +161323,7 @@ sistersisternannies.com
 sistersprouts.com
 sistertimedesigns.com
 sistewep.online
+sistm.in
 sisvode.cf
 sisvode.ga
 sisvode.gq
@@ -164083,6 +164088,7 @@ sounzaaf.online
 soupans.ru
 soupcorpsman.com
 souqdeal.site
+souqegweave.shop
 sour.red
 sourcedcpg.com
 sourcedrx.com

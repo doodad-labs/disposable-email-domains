@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-25T13:11:11.597Z
+# Aggregated blacklist generated on 2026-03-25T14:59:28.178Z
  
 0-30-24.com
 0-attorney.com
@@ -132404,6 +132404,7 @@ opentrash.com
 opentrashbox.org
 opentravel.click
 opentraveller.click
+opentravellersrest.click
 openturnon.click
 openuni.org
 openupbycassiopea.com
@@ -134815,6 +134816,7 @@ pagroda.com
 pagudpudrinnovati.com
 paguesufactura.net
 paguesuimpuesto.com
+paguyuban86.my.id
 pahalfinserv.com
 pahalfpricedlisting.com
 pahalfpricedlistings.com

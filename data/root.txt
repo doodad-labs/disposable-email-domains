@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-26T17:01:52.684Z
+# Aggregated blacklist generated on 2026-03-26T19:06:03.860Z
  
 0-30-24.com
 0-attorney.com
@@ -49470,6 +49470,7 @@ darlinggoodsjp.com
 darlingtonradio.net
 darloneaphyl.cf
 darmabaliwisata.com
+darmajinaka.dev
 darmaris.fr
 darmowedzwonki.waw.pl
 darnellmooremusic.com

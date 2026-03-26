@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-26T19:06:03.860Z
+# Aggregated blacklist generated on 2026-03-26T20:36:23.315Z
  
 0-30-24.com
 0-attorney.com
@@ -35962,6 +35962,7 @@ c3e3r7qeuu.tk
 c3email.win
 c3gn9t.us
 c3jsw.com
+c3nvl.edu.vn
 c3rodc.info
 c3zkn9.us
 c4.fr
@@ -87110,6 +87111,7 @@ hype-mission.buzz
 hype68.com
 hypearound.com
 hypebav.com
+hypebonus.casino
 hypecasino-ugx.online
 hypedcarts.com
 hypefreehealth.com
@@ -99421,6 +99423,7 @@ khalekfaker.site
 khali.us
 khaliban.com
 khalifahallah.com
+khalihi.us
 khalilnajar.com
 khalilv2.com
 khalinin.cf

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-03-26T02:24:40.445Z
+# Aggregated blacklist generated on 2026-03-26T05:41:12.836Z
  
 0-30-24.com
 0-attorney.com
@@ -53749,6 +53749,7 @@ dissimimyu.ru
 dissipatml.com
 dissloo.com
 dissoemail.ru
+dissolpt.ru
 dissonance.app
 dissonant-tech.com
 dist-vmax.com
@@ -75994,6 +75995,7 @@ gm.dnsabr.com
 gm1.lol
 gm4il.life
 gm5om.info
+gm7ail.com
 gm9ail.com
 gma-il.xyz
 gma.com
@@ -131082,6 +131084,7 @@ oligohymalu.ru
 oligomeio.com
 oligomenli.com
 oligosml.ru
+oligudp.com
 olimagsimple.com
 olimbec.com
 olimp-case.ru

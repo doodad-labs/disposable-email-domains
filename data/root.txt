@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-01T10:56:27.663Z
+# Aggregated blacklist generated on 2026-04-01T13:22:32.002Z
  
 0-30-24.com
 0-attorney.com
@@ -97166,6 +97166,7 @@ jurarrafmerkin69.ml
 juremajourney.store
 jurgensrealtors.com
 jurgisdidziulis.com
+jurin.engineer
 jurisdictions.icu
 jurisfisca.cd
 jurnaliki.com
@@ -160812,6 +160813,7 @@ sifedya.ru
 sificationmail.com
 sifirbir.net
 siftportal.ru
+sifu.lol
 sifumail.com
 sify.com
 sigaint.org
@@ -164439,6 +164441,7 @@ spacecityrecords.net
 spacecolonyearth.com
 spacecore.blog
 spaceepics.com
+spacefast.site
 spaceflight.enterprises
 spacegreat.site
 spacehotline.com
@@ -185400,6 +185403,7 @@ varnion.net.id
 varnishbrush.net
 varnishbrush.us
 varnishbrushes.net
+varokah.tech
 varos.co
 varout.com
 varparide.com

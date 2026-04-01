@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-01T15:04:09.986Z
+# Aggregated blacklist generated on 2026-04-01T16:55:31.727Z
  
 0-30-24.com
 0-attorney.com
@@ -71807,6 +71807,7 @@ furiousunion.com
 furkanozturk.cfd
 furkantanem.shop
 furla.email
+furla.tech
 furmol.website
 furnato.com
 furnicular.site
@@ -112966,6 +112967,7 @@ mangbongda.site
 mangbongda.tech
 mangbongda.xyz
 mangbongda.zone
+mangea.xyz
 mangfjst.online
 manghinsu.com
 mangiamediterraneo.club

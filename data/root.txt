@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-01T02:36:42.608Z
+# Aggregated blacklist generated on 2026-04-01T05:54:58.824Z
  
 0-30-24.com
 0-attorney.com
@@ -2269,6 +2269,7 @@
 1num.ru
 1nut.com
 1o4nww.us
+1oaug79u6r.online
 1off.it
 1oh1.com
 1oim.ru

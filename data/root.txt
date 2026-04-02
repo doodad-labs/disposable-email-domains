@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-02T16:56:15.357Z
+# Aggregated blacklist generated on 2026-04-02T18:57:07.979Z
  
 0-30-24.com
 0-attorney.com
@@ -102781,6 +102781,7 @@ kzednftik.shop
 kzenc.tk
 kzfnl.site
 kzfzwc.site
+kzhmr.web.id
 kzk2o.club
 kzle.com
 kzmta.xyz

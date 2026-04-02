@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-02T13:14:21.553Z
+# Aggregated blacklist generated on 2026-04-02T14:56:16.449Z
  
 0-30-24.com
 0-attorney.com
@@ -19658,6 +19658,7 @@ apparls.com
 appboolean.com
 appbotbsxddf.com
 appc.se
+appcloudmurah.email
 appcloudmurah.works
 appcrossings.org
 appdeliverynetworks.com
@@ -20994,6 +20995,7 @@ artrodigital.com
 artropad.net
 arts-3d.net
 artschool.mov
+artsdigi.store
 artshandsa.info
 artswear.store
 artsyhomez.com
@@ -135836,6 +135838,7 @@ parkbipper.com
 parkcc.me
 parkcityrealestateutah.com
 parkcrestlakewood.xyz
+parkeer.site
 parkerglobal.com
 parkernorfolk.com
 parkerparts.net
@@ -201917,6 +201920,7 @@ zhibo69.com
 zhibo69.xyz
 zhibozhiyuan.xyz
 zhidkiy-gazon.ru
+zhiezmotion.me
 zhiezpremium.biz.id
 zhiezpremium.store
 zhilecai.xyz

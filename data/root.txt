@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-02T10:51:19.982Z
+# Aggregated blacklist generated on 2026-04-02T13:14:21.553Z
  
 0-30-24.com
 0-attorney.com
@@ -19658,6 +19658,7 @@ apparls.com
 appboolean.com
 appbotbsxddf.com
 appc.se
+appcloudmurah.works
 appcrossings.org
 appdeliverynetworks.com
 appdev.science
@@ -30371,6 +30372,7 @@ bjmedia.site
 bjmsulawesi.xyz
 bjog.blog
 bjog.tech
+bjork.asia
 bjorn-frantzen.art
 bjornmeulendijks.online
 bjorwi.click

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-02T07:13:16.800Z
+# Aggregated blacklist generated on 2026-04-02T08:57:03.513Z
  
 0-30-24.com
 0-attorney.com
@@ -99009,6 +99009,7 @@ kennyconstruction.com
 kennyet.com
 kennysmusicbox.com
 keno.pw
+kenomik.biz.id
 kenotown.com
 kenpeck.net
 kenshuwo.com
@@ -104123,6 +104124,9 @@ lazarskipl.com
 lazcano.com.ar
 lazdmzmgke.mil.pl
 lazer.lat
+lazerbade.fr
+lazerbade.org
+lazerbade.store
 lazernaiaepilatcia.ru
 lazernokta.com
 lazghem.cf

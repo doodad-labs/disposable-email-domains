@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-01T22:37:37.941Z
+# Aggregated blacklist generated on 2026-04-02T02:23:02.193Z
  
 0-30-24.com
 0-attorney.com
@@ -85362,6 +85362,9 @@ hotelpam.xyz
 hotelpame.store
 hotelpame.xyz
 hotelperelikpalace.com
+hotelplazer.fr
+hotelplazer.org
+hotelplazer.store
 hotelposadadelyaqui.com
 hotelpost.click
 hotelqq59.xyz
@@ -142359,6 +142362,7 @@ premiumisme.info
 premiumku.app
 premiumku.com
 premiumlabels.de
+premiummin.store
 premiumnator.com
 premiumnezhealthcare.shop
 premiumneznaturalbeauty.shop

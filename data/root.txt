@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-03T14:41:46.534Z
+# Aggregated blacklist generated on 2026-04-03T16:40:46.471Z
  
 0-30-24.com
 0-attorney.com
@@ -142418,6 +142418,7 @@ premiumgreencoffeereview.com
 premiumisme.info
 premiumku.app
 premiumku.com
+premiumku.tech
 premiumlabels.de
 premiummin.store
 premiumnator.com
@@ -168097,6 +168098,7 @@ suitableland.net
 suitcasesjapan.com
 suiteange.xyz
 suitebeatae.my.id
+suitenulla.my.id
 suiteoptions.net
 suitesatkillington.com
 suitetru.xyz
@@ -191502,6 +191504,7 @@ wephrr.us
 weprintgroup.com
 weprof.it
 wepulaversion3alpha.xyz
+wer-xv.art
 wer34276869j.ga
 wer34276869j.gq
 wer34276869j.ml

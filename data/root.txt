@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-03T02:24:26.128Z
+# Aggregated blacklist generated on 2026-04-03T05:42:07.647Z
  
 0-30-24.com
 0-attorney.com
@@ -119752,6 +119752,7 @@ monadress.online
 monagame.club
 monahan.com
 monaito.website
+monal.sbs
 monalisa-galway.com
 monalisadublin12.com
 monalisatouchmarketing.com

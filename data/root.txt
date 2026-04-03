@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-03T16:40:46.471Z
+# Aggregated blacklist generated on 2026-04-03T18:48:07.878Z
  
 0-30-24.com
 0-attorney.com
@@ -101566,6 +101566,7 @@ kotaksurat.com
 kotaksurat.online
 kotanirae.com
 kotao.xyz
+kotarodie.biz.id
 kotastone.org
 kotbuy.space
 kotea.pl
@@ -189722,6 +189723,7 @@ waffwlwolf.live
 wafgenerator.site
 wafgenerator.space
 wafnewdog.xyz
+wafproject.my.id
 wafrem3456ails.com
 waftage.site
 wafture.site

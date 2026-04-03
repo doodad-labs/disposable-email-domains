@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-03T20:36:57.968Z
+# Aggregated blacklist generated on 2026-04-03T22:33:44.050Z
  
 0-30-24.com
 0-attorney.com
@@ -7140,6 +7140,7 @@
 5wjft.us
 5x25.com
 5xgzdu.com
+5xu.vn
 5y5u.com
 5yahoo.com
 5yaochu.top
@@ -16531,6 +16532,7 @@ alliescoin.org
 alliescoins.com
 allietaylorlaw.com
 allin28.com
+allinalaqsa.web.id
 allincludedpuntacana.com
 allinclusivesandiegowedding.com
 allinfoondrugs.com
@@ -30200,6 +30202,7 @@ bitkiyetistirme.com
 bitkizenlosyon.xyz
 bitkizenlosyonu.xyz
 bitkrak.com
+bitku.biz.id
 bitlay.buzz
 bitlessthegame.com
 bitlinux.org
@@ -37268,6 +37271,7 @@ capoc.us
 caponivory.site
 cappacutpro.icu
 cappadociadaytours.com
+cappcot.my.id
 capphra.biz.id
 cappriccio.ru
 cappuccinipiemonte.it
@@ -40011,6 +40015,7 @@ chatmenow.ml
 chatnak.com
 chatonsky.com
 chatpolynesie.com
+chatrapat.my.id
 chatroomforadult.com
 chatroomsforadult.com
 chatsbot.my.id
@@ -41724,6 +41729,7 @@ cinnamonre.com
 cinoe.click
 cinotuq.net
 cinselseks.com
+cintagaza.web.id
 cintaipoker.net
 cintaqq.net
 cinturatidesigns.com
@@ -50512,6 +50518,7 @@ debonair-designs.com
 debonmail.com
 debonnehumeur.com
 deboors.com
+deborahat.web.id
 deborahosullivan.com
 deborahpodolsky.org
 deborahvess.org
@@ -55086,6 +55093,7 @@ domen-treker.space
 domen-vsem.shop
 domeninfo.info
 domenkaa.com
+domenku.biz.id
 domenvds135.ru
 domerdi.cf
 domerdi.ga
@@ -60286,6 +60294,7 @@ elmundillodental.com
 elnukhba.top
 elo.nl
 elobits.com
+elobus.my.id
 elocumail.com
 eloelo.com
 elograder.com
@@ -73312,12 +73321,14 @@ gaz-prominvest.ru
 gaz-proms.website
 gaza-mohed.lat
 gaza-mohedzuhair.homes
+gazacompassion.my.id
 gazaforlife.biz.id
 gazaharapan.my.id
 gazahopefoundation.biz.id
 gazam.ru
 gazanfersoylemez.cfd
 gazarelief.biz.id
+gazaresponse.web.id
 gazastarts.com
 gazduire-domeniu.biz
 gazebostoday.com
@@ -79864,6 +79875,7 @@ gyp1.site
 gyp4.site
 gyp5.site
 gyp7.site
+gypost.com
 gyps.com
 gypsd.com
 gypsyflights.com
@@ -81099,6 +81111,8 @@ harakirimail.com
 harameyn.com
 haramod.com
 haramshop.ir
+harapangaza.web.id
+harapanuntukgaza.my.id
 harassduejockey.website
 harbach.com
 harberisonlopig.ga
@@ -101430,6 +101444,7 @@ koprkr.shop
 kor-test.ru
 korailmail.com
 koralldesign.se
+koramarketing.my.id
 koran3000.com
 korankiu.info
 korarlocalbrand.com
@@ -115681,6 +115696,7 @@ meettheclarks.net
 meettravel.click
 meettraveller.click
 meettravellersrest.click
+meettrend.biz.id
 meetturnon.click
 meetupmonkey.com
 meetvideoflowspace.biz.id
@@ -118169,6 +118185,7 @@ miracayberk.cfd
 miraciousmoty.com
 miracle3.com
 miracle5123.com
+miracleatpalestine.web.id
 miraclediet1.com
 miraclegarciniareview.com
 miraclemillwork.com
@@ -128145,6 +128162,7 @@ northandpeach.com
 northandsouth.pl
 northatlantakids.com
 northblade.com
+northbrixa.info
 northbrookcpa.net
 northcarolinaultimate.com
 northchicagoapartments.com
@@ -132613,6 +132631,7 @@ openves.org
 openvitality.com
 openvpc.com
 openvpc.net
+openwaveo.online
 openwebmail.contractors
 openzem.com
 opepe.com
@@ -135230,11 +135249,14 @@ palesmail.com
 palestcare.web.id
 palesthelp.biz.id
 palesthope.biz.id
+palesthope.web.id
 palesthub.web.id
 palestinalove.my.id
 palestinavoice.web.id
 palestineharapan.web.id
+palestinehelp.biz.id
 palestinehopecenter.biz.id
+palestineresponse.web.id
 palestinesolidarityhub.my.id
 palestinesolidcare.biz.id
 palestineunity.web.id
@@ -137022,6 +137044,7 @@ pedrosolis.net
 pedsovet.tk
 pedulibumipalestine.my.id
 pedulipalestine.my.id
+pedulisumatra.my.id
 pedvax.pl
 peekaboothmx.com
 peekay.ch
@@ -138472,6 +138495,7 @@ photochrfml.com
 photochronomail.ru
 photocircuits.com
 photocoainf.com
+photocoamal.com
 photocompany.com.br
 photocomposmail.ru
 photoconception.com
@@ -139424,6 +139448,7 @@ pizzament.com
 pizzanadiapro.website
 pizzandfriedchicken.com
 pizzanewcas.eu
+pizzanow.sbs
 pizzapastatakeaway.com
 pizzaplanet-waterford.com
 pizzaplus-limerick.com
@@ -143518,6 +143543,7 @@ prometheusx.pl
 promgmt.com.sa
 promin-33.com
 prominentapp.com
+prominx.my.id
 promiron.com
 promisetoact.info
 promisetoact.org
@@ -147266,6 +147292,7 @@ radiobmail.com
 radiobruaysis.com
 radiocbb.com
 radiochemail.ru
+radiocomalis.com
 radiodale.com
 radiodaze.biz
 radiodiagnoomail.com
@@ -149220,6 +149247,7 @@ redmail.shop
 redmail.store
 redmail.tech
 redmedellin.com
+redmi.at
 redmi.redirectme.net
 redmn.com
 redmob.site
@@ -155274,6 +155302,7 @@ sah-ilk-han.com
 sahabatasas.com
 sahabatcoding.com
 sahabatharamain.com
+sahabatpalestina.my.id
 sahabatpk.net
 sahabnet.com
 sahaiicharity.com
@@ -158724,6 +158753,7 @@ sepican.xyz
 sepoisk.ru
 sepole.com
 sepotify.com
+sepotipi.my.id
 seprams.org
 sepropertyanalytics.com
 septeberuare.ru
@@ -168199,6 +168229,7 @@ sumail.web.id
 sumakang.com
 sumakay.com
 sumarymary.xyz
+sumaterareliefhub.my.id
 sumatraaidnetwork.my.id
 sumatraalam.biz.id
 sumatrabangunkita.my.id
@@ -171616,6 +171647,7 @@ teamjn.com
 teamjulie.com
 teamkg.tk
 teamlabs.click
+teamlay.biz.id
 teamleases.com
 teamliquid.org
 teamlitty.de
@@ -180601,6 +180633,7 @@ tunestan.com
 tunezja-przewodnik.pl
 tunghalinh.top
 tungnamtuoi.click
+tungsahur.my.id
 tungsten-carbide.info
 tungstenfabric.space
 tunhide.com
@@ -183803,6 +183836,7 @@ upil.com
 upimage.net
 upimagine.com
 upimail.com
+upina.biz.id
 upived.com
 upived.online
 upizmail.com
@@ -187010,10 +187044,12 @@ vidihi.com
 viditag.com
 vidloop.biz.id
 vidltpvm.shop
+vidnex.biz.id
 vidney.com
 vidnoe-beton-zavod.ru
 vidoc.ru
 vidoza.biz.id
+vidozen.biz.id
 vidozz24.com
 vidred.cf
 vidred.ga
@@ -187528,6 +187564,7 @@ vipproaccount.com
 vipqq.eu.org
 vipracing.icu
 vipraybanuk.co.uk
+vipregclone.click
 vipremium.xyz
 vips.pics
 vipsale2015online.com
@@ -195280,6 +195317,7 @@ xdtgme.online
 xducation.us
 xdumb.com
 xdvsagsdg4we.ga
+xdwang.fun
 xdwlaqjmvl.ga
 xdwtfc.online
 xe2g.com
@@ -200346,6 +200384,7 @@ yspwhc.us
 ystea.org
 ystowt.com
 ystradgynlais.biz
+ysugar1.my.id
 ysuhd.art
 ysvit7.online
 ysweb.id
@@ -202743,6 +202782,7 @@ zoompro.fun
 zooms.pro
 zoomslug.com
 zoomspace.biz.id
+zoomsync.my.id
 zoomx.cloudns.ph
 zoonti.pl
 zoophagy.xyz

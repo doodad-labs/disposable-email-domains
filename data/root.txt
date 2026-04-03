@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-03T05:42:07.647Z
+# Aggregated blacklist generated on 2026-04-03T07:09:31.006Z
  
 0-30-24.com
 0-attorney.com
@@ -74837,6 +74837,7 @@ ggtoll.com
 ggumlotto.com
 ggutah.com
 gguw.com
+ggvendas.store
 ggvgmail.com
 ggvk.ru
 ggvk.store

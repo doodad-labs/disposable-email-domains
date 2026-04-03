@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-02T22:31:52.710Z
+# Aggregated blacklist generated on 2026-04-03T02:24:26.128Z
  
 0-30-24.com
 0-attorney.com
@@ -2132,6 +2132,7 @@
 1e80.com
 1ebestday.online
 1ec-v.icu
+1eecom.info
 1email.ru
 1eo-v.icu
 1errz9femsvhqao6.cf
@@ -3132,6 +3133,7 @@
 234dhyjgj.com
 234gmail.com
 234wincasino.net
+234winlogin.net
 235francisco.com
 235gm.com
 235gmail.com
@@ -4533,6 +4535,7 @@
 365890.com
 365casino.sbs
 365generators.com
+365gold.info
 365happyflower.com
 365jjs.com
 365live7m.com
@@ -8647,6 +8650,7 @@
 777vip8.net
 777win97.net
 777wincasino.net
+777xgame.net
 777xkgame.net
 777xpgame.info
 777xpgameonline.com
@@ -11155,6 +11159,7 @@ a-nd.info
 a-ng.ga
 a-p-i.info
 a-parser.site
+a-parserim.site
 a-party.com
 a-prime-macular-degeneration.fyi
 a-q.xyz
@@ -11706,6 +11711,7 @@ abctoto.biz
 abctoto.live
 abctq.com
 abcv.info
+abcvipj88.net
 abcwholesaleproducts.com
 abdal.com
 abdathletics.com
@@ -14234,6 +14240,7 @@ agent388a-casinoonline.org
 agent47.tech
 agentannecook.com
 agentblog.com
+agentescp.com
 agentlibr3.com
 agentogelasia.com
 agentoto4d.org
@@ -15756,6 +15763,7 @@ alawin.online
 alazan.biz
 alazard.info
 alazharhs.org
+alazhs.org
 alaztagtc.com
 alb-gaming.com
 albadefilippis.com
@@ -16050,6 +16058,7 @@ alexisalo.ru
 alexisfawx.best
 alexitemail.ru
 alexkhine.com
+alexkyro.info
 alexlojareleks.com
 alexmailforalex.com
 alexmarco.net
@@ -23759,6 +23768,7 @@ azacavesuite.com
 azacmail.com
 azacor.site
 azaddictiontreatmentcenter.com
+azahram.site
 azaka.shop
 azaloptions.com
 azamail.com
@@ -28339,6 +28349,7 @@ betkarat.com
 betkarat20.com
 betkava.com
 betking365.com
+betlabelapk.net
 betlabelcasino.info
 betlae.com
 betland.fun
@@ -28676,6 +28687,7 @@ bettilt70.com
 betting-melbets9.ru
 betting777.net
 betting786.net
+bettingfunnyexchange.com
 bettinglinenow.com
 bettingsite.host
 bettingsnap.xyz
@@ -29726,6 +29738,7 @@ bingok.site
 bingolarackiralama.com
 bingolife.biz
 bingomama.com
+bingoplusapk.com
 bingoplusapp.net
 bingotonight.co.uk
 bingshopin.xyz
@@ -30067,6 +30080,7 @@ biskvitus.ru
 bismail.cam
 bismark.me
 bismeshop.online
+bismillahfurniturebd.com
 bisnis2030.com
 bisnisbisnis.net
 bisnisemail.web.id
@@ -31267,6 +31281,7 @@ blue-magic.red
 blue-mail.org
 blue-rain.org
 blue653.icu
+blueance.com
 blueauramassage.com
 bluebabyrecordings.com
 bluebasketbooks.com.au
@@ -33306,6 +33321,7 @@ branniganslaw.org
 branorus.ru
 bransonchoice.com
 bransonweddingchapels.com
+brapub.info
 bras-bramy.pl
 brasbeeralcaladehenares.com
 braseniors.com
@@ -33376,6 +33392,7 @@ braziliannannies.com
 braziltelefone.com
 brazinno777.net
 brazino777app.org
+brazino777cancion.com
 brazino777casino.info
 brazino777login.net
 brazucasms.com
@@ -39333,6 +39350,7 @@ cesbfledin.gq
 cesbfledin.ml
 cesc.us
 cesch.us
+ceschool.us
 ceshi02.xyz
 ceshizhuanyong4.icu
 ceshopshop.com
@@ -42686,6 +42704,7 @@ clkcindia.com
 clm-blog.pl
 clmatty.com
 clmbs.us
+clmbus.us
 clmcaythenhi.site
 clmcaythenhi.space
 clmcaythenhi.store
@@ -49870,6 +49889,7 @@ davidsouthwood.co.uk
 davidtanana.com
 davidtaylormp.com
 davidtbernal.com
+davidtrix.biz
 davidvogellandscaping.com
 davies-club.com
 davies-family.uk.com
@@ -51377,6 +51397,7 @@ depoidn.poker
 depoisdotoque.com
 depoladang.com
 depolarebml.ru
+depolarisfkml.com
 depolitika.com
 deponote.org
 depopar.net
@@ -57545,6 +57566,7 @@ dynu.com
 dyoeii.com
 dypri.shop
 dyre.site
+dyregvip.website
 dyrochka.website
 dyru.site
 dysadapt.org
@@ -58459,6 +58481,7 @@ echendia.ga
 echendia.gq
 echendia.ml
 echendia.tk
+echinocfkml.com
 echinocomail.com
 echinodmail.com
 echinodmali.ru
@@ -58977,6 +59000,7 @@ educatolica.org
 educenter.us
 educharved.site
 educhat.email
+educol.us
 educolum.us
 educourse.xyz
 educre.us
@@ -71539,6 +71563,7 @@ fulig.in
 fuligimails.ru
 full-moon-bites.com
 full-moon.com
+full88bet.com
 fullalts.cf
 fullangle.org
 fullbellek.online
@@ -72420,6 +72445,7 @@ gadgetsparadijs.online
 gadgetstech.shop
 gadgetvirtuoso.com
 gadingbola.info
+gadingjaya.live
 gadisperawan.club
 gadonthomobet.net
 gads-88.com
@@ -74910,6 +74936,7 @@ ghk55.us
 ghkal.us
 ghkedu.us
 ghkh.us
+ghkhal.us
 ghkhl.us
 ghkhs.us
 ghkl.us
@@ -75596,7 +75623,9 @@ gkcomunicaciones.com
 gkcrhl.us
 gkd06.space
 gkdcsi.ru
+gkedu.us
 gkha.us
+gkhalihs.us
 gkhalis.us
 gkhghyv.cn
 gkhh.us
@@ -80193,6 +80222,7 @@ hactzayvgqfhpd.ml
 hactzayvgqfhpd.tk
 had.su
 hadal.net
+hadanu.us
 haddego.cf
 haddego.ga
 haddego.gq
@@ -84217,6 +84247,7 @@ ho2zgi.host
 ho3twwn.com
 ho500.com
 ho770.site
+ho88vip.com
 ho9mm.tech
 hoa-collect.com
 hoa-collect.net
@@ -94215,6 +94246,7 @@ jasonpearce.com
 jasonprycememorial.org
 jasonrohona.com
 jasonscheffel.com
+jasonvix.asia
 jasper-robot.com
 jasper133.store
 jasperai.one
@@ -99565,6 +99597,7 @@ kheig.ru
 khel.de
 khelo24betc.com
 khelo24match777.net
+khelo24matchbet.com
 khezzelsiaflaskbuster.com
 khfi.net
 khgkrsxc.shop
@@ -99882,6 +99915,7 @@ kimoanh.online
 kimoja.com
 kimonar.com
 kimora.space
+kimoto.asia
 kimouche-fateh.net
 kimpok.com
 kimpro-77.com
@@ -108312,6 +108346,7 @@ looup.com
 loozer.my.id
 lopcoaviation.com
 lopebetcasino.net
+lopebetgame.com
 lopeure.com
 lopezfood.com
 lopezgoeman.com
@@ -109335,6 +109370,7 @@ luckygiveaway.win
 luckyhour.xyz
 luckyjet.cfd
 luckyjet.monster
+luckykingph.net
 luckykingvip.com
 luckyladydress.com
 luckyladydress.net
@@ -114344,6 +114380,7 @@ matchvibes.lat
 matcjesfashion.com
 mateb.site
 matejlcasino.net
+matelecombd.com
 matemails.ru
 matenow.site
 matepay.space
@@ -122221,6 +122258,7 @@ my4d777.com
 my66plus.com
 my6com.com
 my6mail.com
+my777app.net
 my777yono.org
 my7km.com
 myaa316.xyz
@@ -123108,6 +123146,7 @@ myriolmail.ru
 myriotrichiaceous.best
 myriviera.ru
 myrmecolmail.ru
+myrmecophafkml.com
 myrockywave.com
 myroobee.ru
 myroofingexpert.info
@@ -134190,6 +134229,7 @@ overcodential.com
 overcomcs.ru
 overcomebf.com
 overcomeoj.com
+overcomplfkml.com
 overcondfidential.com
 overconfidenti.com
 overconfidentia.com
@@ -137992,6 +138032,7 @@ pg77yyy.com
 pg9327.com
 pg99casino.net
 pgafricagroup.com
+pgasia.info
 pgasiacasino.info
 pgasiacasino.net
 pgazhyawd.pl
@@ -138179,6 +138220,7 @@ phdaily.com
 phdify.info
 phdlfy.com
 phdream44login.net
+phdream88.net
 phdriw.com
 phdsearchandselection.com
 phdzso.info
@@ -138197,6 +138239,7 @@ phefinsi.gq
 phefinsi.ml
 phefinsi.tk
 phelans.cloud
+phelieuvn.com
 phellomail.top
 phen375-help1.com
 phen375.tv
@@ -144100,6 +144143,7 @@ psychopanmails.ru
 psychopathomail.ru
 psychopatmail.com
 psychopedialife.com
+psychopharmacof.ru
 psychophysiomail.com
 psychophyudp.com
 psychoprophsalo.ru
@@ -148052,6 +148096,8 @@ ratiosk.xyz
 ratioska.xyz
 ratixq.com
 ratmail.store
+ratmiku.info
+ratmiku.online
 ratnariantiarno.art
 ratnnyhfs.gq
 ratsnaijie.space
@@ -149585,6 +149631,7 @@ regulartipz.shop
 regulataemail.com
 regulaurgr.space
 regutav.xyz
+regvippro.site
 rehabcenterwebdesign.com
 rehabcounterr.com
 rehabformee.com
@@ -151796,6 +151843,7 @@ rixoscasino38.com
 rixtgxpxtl.ga
 rixyle.com
 rixyqt.uno
+riyadtelecom.com
 riycademia.cfd
 riyoshi.my.id
 riytita.cf
@@ -156712,6 +156760,7 @@ scaa-scan976.com
 scabiesguide.info
 scabiml.ru
 scadaerp.com
+scadaotomasyon.com.tr
 scadenet.com
 scaffoldinglab.com
 scafs.com
@@ -161644,6 +161693,7 @@ sivasspo.xyz
 sivassporluyuz.xyz
 sivasticaretmerkezi.com
 sivasticaretmerkezi.xyz
+sivathvegai.ru
 siverekkuce.xyz
 sivex.top
 sivgmbh.de
@@ -164432,6 +164482,7 @@ sp-aa.com
 sp-market.ru
 sp.br.com
 sp666h.com
+sp88bet.info
 spa-114.com
 spa-fish.ru
 spa-resort-lombok.com
@@ -174822,6 +174873,7 @@ theseamstress.online
 thesearchmarkefirm.net
 thesecret.com
 thesector.org
+thesecuremail.xyz
 theseedsociety.online
 thesenholding.com
 theseoangels.com
@@ -177803,6 +177855,7 @@ topqualityjewelry.info
 topranklist.de
 topread.fun
 toprecipecenter.com
+topreg.click
 topregal.com
 toprel.store
 topretirements.org
@@ -182967,6 +183020,7 @@ uncompemalu.ru
 uncomplimmail.ru
 uncompromisimail.ru
 uncond.us
+unconditionfkml.com
 unconquerableufml.ru
 unconqueramail.ru
 unconsciousartspace.com
@@ -183465,6 +183519,7 @@ unnuhol.gq
 unnuhol.ml
 unnuhol.tk
 unobetcasino.com
+unobetslot.info
 unobitex.com
 unobjectiotomail.com
 unofyfcu.com
@@ -186601,6 +186656,7 @@ viabol.com
 viacentrum.net
 viachinonk.ml
 viacimex.info
+viacloudmail.xyz
 viadodinheiro.com
 viados.online
 viaferrata.net
@@ -187264,6 +187320,7 @@ vingorod.ru
 vingsmanagement.com
 vingtsunschool.com
 vinhclonefb.top
+vinhde.us
 vinhdo.shop
 vinheduca.life
 vinhenglish.site
@@ -194888,6 +194945,7 @@ x8vplxtmrbegkoyms.ml
 x8vplxtmrbegkoyms.tk
 x9094.com
 x90b.club
+x9999game.info
 x9dofwvspm9ll.cf
 x9dofwvspm9ll.ga
 x9dofwvspm9ll.gq

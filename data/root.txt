@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-04T10:33:29.958Z
+# Aggregated blacklist generated on 2026-04-04T12:56:04.524Z
  
 0-30-24.com
 0-attorney.com
@@ -84321,6 +84321,7 @@ hoangthuytra.com
 hoangticusa.com
 hoanguhanho.com
 hoangvannam.ga
+hoangviet.site
 hoangvuson.ga
 hoankengeh.com
 hoanokhapthienha.lol
@@ -183825,6 +183826,7 @@ upgalumni.com
 upgcsjy.com
 upgo.host
 upgradein.site
+upgradeinaja.site
 upgrademyconsciousness.com
 upgradeyourhustle.com
 uphold.financial

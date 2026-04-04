@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-04T12:56:04.524Z
+# Aggregated blacklist generated on 2026-04-04T14:33:43.879Z
  
 0-30-24.com
 0-attorney.com
@@ -38666,6 +38666,7 @@ cconscious.com
 cconsistwe.com
 ccosmetic.site
 ccparx.net
+ccpro.click
 ccpro.xyz
 ccpro0.icu
 ccpt.lol
@@ -48620,6 +48621,7 @@ d4ffwamjrua3ayp.xyz
 d4jgpnug.xyz
 d4n1.tk
 d4networks.org
+d4ngerssquy.info
 d4rkness.net
 d4vi4mail.ru
 d4voice.com

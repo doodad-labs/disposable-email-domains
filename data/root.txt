@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-04T20:32:00.320Z
+# Aggregated blacklist generated on 2026-04-04T22:29:50.853Z
  
 0-30-24.com
 0-attorney.com
@@ -116878,6 +116878,7 @@ mevoti.xyz
 mevoto.xyz
 mevoty.xyz
 mevrouwhartman.nl
+mevuba.tech
 mew88.com
 mewinsni.cf
 mewinsni.ga

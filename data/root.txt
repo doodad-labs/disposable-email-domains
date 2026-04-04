@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-04T18:42:05.420Z
+# Aggregated blacklist generated on 2026-04-04T20:32:00.320Z
  
 0-30-24.com
 0-attorney.com
@@ -22254,6 +22254,7 @@ atolyezen.com
 atomdev.eu
 atomeca.com
 atomic-nutrition.com
+atomicwallet.lat
 atomistifml.com
 atomixgames.net
 atomoxetinenjoyer.me
@@ -74380,6 +74381,7 @@ getgambol.click
 getgear.press
 getgmbreviews.com
 getgoodfiles.site
+getgptcode.com
 getgymbags.com
 gethappysound.com
 gethelpnyc.com
@@ -99171,6 +99173,7 @@ kerenamiburasi.sbs
 keretasakti.me
 kerficians.xyz
 kerfuffle.me
+keria.my.id
 kerim-hub.de
 kerimhan.ga
 kerimhanfb.ml

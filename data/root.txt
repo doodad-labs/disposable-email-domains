@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-04T02:09:11.210Z
+# Aggregated blacklist generated on 2026-04-04T05:21:09.488Z
  
 0-30-24.com
 0-attorney.com
@@ -15559,6 +15559,7 @@ aksmtmail.online
 aksmtmail.xyz
 aksnamub423.com
 akstel32.icu
+aksuncity.com
 aksvish.com
 aktactogaynrb.shop
 aktantekten.shop
@@ -71839,6 +71840,7 @@ fuqi.info
 fuqq.org
 fuqtees.com
 fuqus.com
+furab.biz.id
 furaugn.com
 furaz.com
 fureverafteradopt.org

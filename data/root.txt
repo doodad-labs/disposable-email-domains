@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-03T22:33:44.050Z
+# Aggregated blacklist generated on 2026-04-04T02:09:11.210Z
  
 0-30-24.com
 0-attorney.com
@@ -12384,6 +12384,7 @@ aceupthesleeve.com
 aceventscatering.com
 acevidcom.com
 acexchange.com
+aceztea.com
 acfddy.ltd
 acfunny.site
 acg.news
@@ -34739,6 +34740,7 @@ bunnyphcasino.com
 bunnysitesqa.com
 bunnyze.info
 bunsenhoneydew.com
+bunshin.biz.id
 bunshint.dev
 buntatukapro.com
 bunteks.online
@@ -90205,6 +90207,7 @@ indozoom.net
 indpro.tk
 indrapuri.my.id
 indrawcrxa.space
+indrre.my.id
 indstate.com
 indtredust.com
 indubitic.com
@@ -99831,6 +99834,7 @@ kikie.club
 kikihu.com
 kikikikikii.shop
 kikikovic.com
+kikitaro.biz.id
 kikivip.shop
 kikoxltd.com
 kikscool.com
@@ -199909,6 +199913,7 @@ youngwebcamsex.com
 younho9.com
 youniquebymom.com
 youniquelycrowned.com
+younjung.web.id
 younowporn.com
 younsih.store
 youonlinemailbox.com

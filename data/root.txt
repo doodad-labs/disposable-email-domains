@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-05T14:35:45.228Z
+# Aggregated blacklist generated on 2026-04-05T16:36:56.681Z
  
 0-30-24.com
 0-attorney.com
@@ -146235,6 +146235,7 @@ qualifimails.ru
 qualifmail.ru
 qualifyamerica.com
 qualitatsproduktgeschenke.men
+qualiteapp.store
 qualitehpad.com
 qualitific.com
 qualitta.com
@@ -158538,6 +158539,7 @@ senoramail.com
 senpai.codes
 senpai810.dns-dynamic.net
 senpaigamer.com
+senpro.store
 sensadrive.com
 sensavault.com
 sensearticle.com

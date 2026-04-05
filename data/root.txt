@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-05T02:30:44.658Z
+# Aggregated blacklist generated on 2026-04-05T05:44:26.861Z
  
 0-30-24.com
 0-attorney.com
@@ -108401,6 +108401,7 @@ loozer.my.id
 lopcoaviation.com
 lopebetcasino.net
 lopebetgame.com
+lopemit.online
 lopeure.com
 lopezfood.com
 lopezgoeman.com
@@ -120482,6 +120483,7 @@ morvei-solutions.at
 morwyn.online
 morxin.com
 morygina.ru
+moryne.site
 morzem.pl
 morziv.online
 mos-kwa.ru

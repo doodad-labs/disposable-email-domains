@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-05T12:58:04.457Z
+# Aggregated blacklist generated on 2026-04-05T14:35:45.228Z
  
 0-30-24.com
 0-attorney.com
@@ -101851,6 +101851,7 @@ krb.asia
 krclip.com
 krd.ag
 kre8ivelance.com
+kreabaka.site
 kreacja.info
 kreacjainfo.net
 kreamerfuneralhome.com

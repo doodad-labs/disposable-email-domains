@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-04T22:29:50.853Z
+# Aggregated blacklist generated on 2026-04-05T02:30:44.658Z
  
 0-30-24.com
 0-attorney.com
@@ -9769,6 +9769,7 @@
 8888vi.info
 888971.xyz
 888casinologin.info
+888clbvn.net
 888club.info
 888dyqp.com
 888getcare.com
@@ -10351,6 +10352,7 @@
 929.be
 929932.xyz
 92bossgame.info
+92cocologin.net
 92dyj.com
 92ff.xyz
 92glorylogin.net
@@ -20604,6 +20606,7 @@ arlegalgroup.com
 arlenedunkley-wood.co.uk
 arlenstepanov35.online
 arlexpressimports.com
+arlia.ink
 arlinc.org
 arlington-chimneysweep.us
 arlingtonautoaccidentlawyer.com
@@ -24321,6 +24324,7 @@ b9adiv5a1ecqabrpg.ml
 b9adiv5a1ecqabrpg.tk
 b9cash.club
 b9casinologin.com
+b9games.info
 b9x45v1m.com
 ba-ca.com
 ba-s-tet.ru
@@ -42030,6 +42034,7 @@ ckancheck.xyz
 ckatalog.pl
 ckc9du.xyz
 ckcarpetcare.com
+ckcbetlogin.net
 ckcltd.ru
 ckcmzm.fun
 ckconsultingllc.org
@@ -42773,6 +42778,7 @@ clonefbig.shop
 clonefbtmc1.club
 cloneforsale.com
 clonegiare.shop
+clonehotmail.click
 cloneig.shop
 cloneigngon.click
 cloneiostrau.org
@@ -45392,6 +45398,7 @@ coolbikejp.com
 coolbild.ru
 coolbluemedia.com
 coolbluenet.com
+coolbreezemai.com
 coolbye2.fun
 coolc.cloudns.org
 coolcarsnews.net
@@ -47331,6 +47338,7 @@ csbrowns.mom
 cscasessteam.com
 csccblida.com
 csccsports.com
+cscedu.us
 cschammel.com
 cschl.us
 cschwabllc.com
@@ -47469,6 +47477,7 @@ csyriam.com
 csys.host
 cszbl.com
 cszu.com
+ct.ws
 ct27.de
 ct345fgvaw.cf
 ct345fgvaw.ga
@@ -63009,6 +63018,7 @@ esportgaming.com
 esportmeesters.com
 esports-latam.com
 esportscoaching.net
+esportspnxbet.com
 espresso.co.uk
 espressomachine.buzz
 esprit-pixel.com
@@ -72330,6 +72340,7 @@ g50hlortigd2.ga
 g50hlortigd2.ml
 g50hlortigd2.tk
 g50pb.site
+g555game.info
 g56ce.com
 g57sn.site
 g59xg.space
@@ -74903,6 +74914,7 @@ ghatkhalihs.us
 ghatkhalionline.us
 ghatkhalischool.us
 ghatkhaliusa.us
+ghatkhs.us
 ghats.us
 ghbceyuunw.ga
 ghcj.com
@@ -75198,6 +75210,7 @@ giftyoulove.com
 gifuniverse.com
 gifwork.com
 gigabetcasino.info
+gigabets.info
 gigabitstreaming.com
 gigabitz.xyz
 gigabonus.fr
@@ -75312,6 +75325,7 @@ gine.com
 ginearr.com
 ginel.com
 ginet.org
+gingabet.info
 gingerbruce55places.com
 gingerhanrahan.com
 gingertail.in
@@ -76934,6 +76948,7 @@ goingbeyond.icu
 goingbeyond.news
 goinggrape.com
 goinglownow.com
+gojackpot88login.com
 gojek303.info
 gojinkatakeaway.com
 gojomi.com
@@ -82395,6 +82410,7 @@ heirret.shop
 heirsandhers.com
 heirsinsuranceinc.com
 heisawofa.com
+heise-network.com
 heisei.be
 heisenburger.biz.id
 heisserreifen.com
@@ -88221,6 +88237,7 @@ ideaaweb.com
 ideabright.co.uk
 ideacantech.com
 ideacentre.info
+ideaclickdigital.com
 ideadesignlab.net
 ideadrive.com
 ideageneration.info
@@ -94214,6 +94231,7 @@ jarringsafri.biz
 jarrodhill.com
 jarryngandjui.com
 jarsdigital.sbs
+jarsku.pro
 jarspremium.com
 jarspremium.online
 jarsx.com
@@ -95618,6 +95636,7 @@ jjmsb.eu.org
 jjmyhmiqgl.ga
 jjnan.com
 jjnnbet.info
+jjnnplataforma.com
 jjo77.space
 jjodri.com
 jjohbqppg.shop
@@ -95730,9 +95749,12 @@ jl.biz
 jl16casino.info
 jl16link.net
 jl17casino.com
+jl1casinologin.com
 jl365bet.net
 jl63casino.com
 jl6casino.net
+jl6casinologin.com
+jl6login.info
 jl77login.com
 jl7bet.net
 jl9casino.info
@@ -102172,6 +102194,7 @@ ktlacomheroes2.club
 ktm303.org
 ktmedia.asia
 ktobet.info
+ktobetbr.info
 ktopomozeseniorom.sk
 ktotey6.mil.pl
 ktrina.ga
@@ -109381,6 +109404,7 @@ lucky22game.info
 lucky238.org
 lucky47.info
 lucky4u.site
+lucky505login.com
 lucky66jlty.com
 lucky777apk.net
 lucky804.info
@@ -135270,9 +135294,11 @@ palestinavoice.web.id
 palestineharapan.web.id
 palestinehelp.biz.id
 palestinehopecenter.biz.id
+palestinerelie.my.id
 palestineresponse.web.id
 palestinesolidarityhub.my.id
 palestinesolidcare.biz.id
+palestinestrength.web.id
 palestineunity.web.id
 palestineunityaid.biz.id
 palestvoice.web.id
@@ -156579,6 +156605,7 @@ saverpa.tk
 savesausd.com
 savestagram.com
 savests.com
+savesumateraku.my.id
 savesumateraku.web.id
 savetheater.net
 savethechildrenactionnetwork.com
@@ -172976,6 +173003,7 @@ teramira.store
 teranim.website
 terapgd.shop
 terarmail.com
+terascafe.live
 terasd.com
 terato.ru
 teratopebml.ru
@@ -177233,6 +177261,7 @@ toglobalist.org
 toglobe.top
 togrls.top
 toh.info
+tohal.org
 tohdesignstudio8.com
 tohetheragain.org.ua
 tohive.org
@@ -177328,6 +177357,7 @@ tokobeken.xyz
 tokobibit.co
 tokofavorit.com
 tokogpt24jam.online
+tokoidaman.store
 tokoimpian.shop
 tokoinduk.com
 tokojawa.top
@@ -194222,6 +194252,7 @@ wrpills.com
 wrqbw.info
 wrqn.com
 wrrapd.com
+wrsch.org
 wrt.de
 wrvl.com
 wrwint.com
@@ -202790,6 +202821,7 @@ zoomiun.com
 zoomku.pro
 zoomku.today
 zoomm.site
+zoommate.my.id
 zoomnation.info
 zoomnavi.net
 zoomnet.my.id

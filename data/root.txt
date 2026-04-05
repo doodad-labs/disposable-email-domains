@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-05T05:44:26.861Z
+# Aggregated blacklist generated on 2026-04-05T07:07:18.913Z
  
 0-30-24.com
 0-attorney.com
@@ -98902,6 +98902,7 @@ kegangraves.xyz
 kegleyelectric.com
 kehacasa.com
 kehangatan.ga
+keheddd.store
 kehoeelectronics.net
 kehonkoostumusmittaus.com
 kei-digital.com
@@ -146286,6 +146287,7 @@ quantfycapital.org
 quanthax.com
 quanticmedia.co
 quantize587rc.online
+quantmailx.com
 quantnetwork.city
 quantnodes.com
 quantobasta.ru
@@ -196794,6 +196796,7 @@ xn--kksrenoveringstersund-hecm.se
 xn--kksrenoveringsundsvall-uhc.se
 xn--kltrkrtasiye-dlbc11f.com
 xn--koltukrts-57a2eb.com
+xn--kr11-rzb.com
 xn--krakn33-rt4c.com
 xn--krb1-6q5a.com
 xn--krhemp-3ya.com

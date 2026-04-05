@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-05T20:34:01.803Z
+# Aggregated blacklist generated on 2026-04-05T22:31:13.316Z
  
 0-30-24.com
 0-attorney.com
@@ -21468,6 +21468,7 @@ asiapoker389.info
 asiapoker389.net
 asiapoker389.org
 asiaprofiles.com
+asiapulso.info
 asiaqq59.xyz
 asiaqq7.com
 asiaqq8.com
@@ -40362,6 +40363,7 @@ checkacc.org
 checkadmin.me
 checkalertfriends.info
 checkaskfriends.info
+checkback.vn
 checkbesthosting.com
 checkbox.biz
 checkcc.in
@@ -52711,6 +52713,7 @@ dickydick.xyz
 dickyvps.com
 dicopto.com
 dicountsoccerjerseys.com
+dictatemail.com
 dictatemail.xyz
 dictatmail.ru
 dictatmails.ru
@@ -93663,6 +93666,7 @@ j3j.org
 j3nn.net
 j3olp.icu
 j3r8qd.site
+j3r8qd.store
 j3rik.info
 j3rqt89ez.com
 j3xbes.us
@@ -99921,6 +99925,7 @@ kilokaerikajuice.fun
 kilomando.site
 kilomerica.xyz
 kiloprime.com
+kilotikm.site
 kilowattsecond.ru
 kiloyard.com
 kilr.dk
@@ -126909,6 +126914,7 @@ nicos-kebabs-takeaway.com
 nics-mail.space
 nics2-mail.space
 nicton.ru
+nicvare.com
 nidalwsedd.tech
 nidama.cf
 nidama.ga
@@ -136442,6 +136448,7 @@ pauvoiplek.tk
 pav2r.site
 pavandesign.com
 pavcaufzdu.ga
+pavecode.com
 pavelmister.ru
 pavelp.ro
 paverol.ru
@@ -153145,6 +153152,7 @@ row-keeper.com
 row.kr
 rowancountync.us
 rowantreepublishing.com
+rowdent.com
 rowdydow.com
 rowe-solutions.com
 roweryo.com
@@ -161033,6 +161041,7 @@ signaturemedstaffing.com
 signatureprintingsolutions.com
 signaturerealtynj.com
 signaturetrainingandleadership.com
+signcals.com
 signdastsaq.cf
 signdastsaq.ga
 signdastsaq.gq
@@ -164243,6 +164252,7 @@ sopowstran.cf
 sopowstran.ga
 sopowstran.gq
 sopowstran.tk
+sopranojo.ru
 sopranomaster.com
 sopranospizzeriawaterford.com
 soprasmail.com
@@ -191055,6 +191065,7 @@ weblovein.ru
 webm1.xyz
 webm4il.in
 webm4il.info
+webm6.com
 webmail-optibelt.com
 webmail.fit
 webmail2.site

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-06T19:00:00.180Z
+# Aggregated blacklist generated on 2026-04-06T20:37:37.786Z
  
 0-30-24.com
 0-attorney.com
@@ -51077,6 +51077,7 @@ deltabox.cfd
 deltacharliecommunity.com
 deltacplus.info
 deltafuturemali.com
+deltajohnsons.com
 deltakontrol.com
 deltalumen.gr
 deltanet.com
@@ -104533,6 +104534,7 @@ lealifen.ga
 lealifen.gq
 lealifen.ml
 lealifen.tk
+lealking.com
 leamecraft.com
 leanbiomeweightloss.com
 leanedir.com
@@ -116701,6 +116703,7 @@ messengermarketingstrategist.com
 messengers.email
 messerservice.com
 messiahmbc.com
+messibucu.click
 messihalocal.com
 messing.life
 messio.beauty
@@ -124622,6 +124625,7 @@ nazimail.ga
 nazimail.gq
 nazimail.ml
 nazimail.tk
+nazisat.com
 nazuboutique.site
 nazwa.pl
 nazyno.com

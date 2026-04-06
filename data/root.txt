@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-06T13:11:11.001Z
+# Aggregated blacklist generated on 2026-04-06T14:47:30.370Z
  
 0-30-24.com
 0-attorney.com
@@ -23929,6 +23929,7 @@ aztrailsapp.org
 aztraumacenter.com
 aztraumacenter.org
 azu17053eveav.com
+azucore.com
 azulaomarine.com
 azulejoslowcost.es
 azulgold.com
@@ -101028,6 +101029,7 @@ koalaltd.net
 koalappliances.com
 koalaswap.com
 koash.com
+kobace.com
 kobava.site
 kobe.org
 kobessa.com
@@ -136041,6 +136043,7 @@ parsiigrampay.com
 parsimani.xyz
 parsinglabs.com
 parsiparsibet.club
+parsitv.com
 parsssiigraaam.club
 part-time.dev
 part107tests.com

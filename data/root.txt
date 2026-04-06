@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-06T07:57:34.970Z
+# Aggregated blacklist generated on 2026-04-06T09:16:38.515Z
  
 0-30-24.com
 0-attorney.com
@@ -4742,6 +4742,7 @@
 3b5fzy.com
 3ba.online
 3bdyw.info
+3bersaudara.biz.id
 3bez.com
 3bffpe.us
 3blasertech.com
@@ -77608,6 +77609,7 @@ gornostroyalt.ru
 gorofytravels.shop
 goromail.ga
 gorommasala.com
+goroon.biz.id
 gorosc.ru
 goround.info
 gorpy.net
@@ -108124,6 +108126,7 @@ lokersolo.net
 lokerupdate.me
 lokesh-gamer.ml
 loketa.com
+lokin.tech
 lokingmi.cf
 lokingmi.gq
 lokingmi.ml

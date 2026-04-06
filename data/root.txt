@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-06T10:56:37.611Z
+# Aggregated blacklist generated on 2026-04-06T13:11:11.001Z
  
 0-30-24.com
 0-attorney.com
@@ -147356,6 +147356,7 @@ radiocbb.com
 radiochemail.ru
 radiocomalis.com
 radiodale.com
+radiodata.dev
 radiodaze.biz
 radiodiagnoomail.com
 radiodirectory.ru

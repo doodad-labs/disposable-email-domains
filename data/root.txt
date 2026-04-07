@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-06T22:36:49.040Z
+# Aggregated blacklist generated on 2026-04-07T02:27:04.834Z
  
 0-30-24.com
 0-attorney.com
@@ -22588,6 +22588,7 @@ aureatape.com
 aureliajobs.com
 aureliaprime.net
 aureliasaxophonequartet.com
+aureliawilliam.biz.id
 aureliosot.website
 aurelstyle.ru
 aurenics.com
@@ -29108,6 +29109,7 @@ biasaelho.space
 biasalah.me
 biasdocore.com
 biazz2.live
+bibah.cloud
 bibars.cloud
 bibbiasary.info
 bibbtoko.site
@@ -33092,6 +33094,7 @@ bpool.site
 bpornd.com
 bpos-ms-tkcc.com
 bpospe.info
+bpotogo.com
 bpparkercpa.com
 bpqagency.xyz
 bpqwnefou.com
@@ -37349,6 +37352,7 @@ caputoesp.llc
 capybaras.site
 capytumbum.online
 capzone.io
+capzoomer.my.id
 caqcut.top
 caqmmw.shop
 caqpacks.com
@@ -68798,6 +68802,7 @@ flixtrend.net
 flld8d.us
 flledge.com
 flmail.info
+flmail.my.id
 flmcat.com
 flmhorwqqh.ga
 flmmo.com
@@ -70216,6 +70221,7 @@ fputra.xyz
 fpvhawk.com
 fpvweb.com
 fpvy.com
+fpxnet.com
 fq-sale.online
 fq1my2c.com
 fq248.site
@@ -73355,6 +73361,7 @@ gazacompassion.my.id
 gazaforlife.biz.id
 gazaharapan.my.id
 gazahopefoundation.biz.id
+gazahumanityaid.my.id
 gazam.ru
 gazanfersoylemez.cfd
 gazarelief.biz.id
@@ -86715,6 +86722,7 @@ humanityenterprise.com
 humanityenterprise.org
 humanityenterprises.asia
 humanityenterprises.com
+humanityforsumatra.biz.id
 humanlight.org
 humanloop.xyz
 humanoid.net
@@ -90225,6 +90233,7 @@ indoplay303.com
 indoproperty.com
 indopteropanel.biz.id
 indopvp.info
+indoschedu.my.id
 indosearch.shop
 indoserver.stream
 indosingo2.com
@@ -110359,6 +110368,7 @@ macam-ber.uk
 macangarong.buzz
 macaniuo235.cf
 macankumbang.com
+macanshop.biz.id
 macanta.quest
 macaoguojihui.com
 macaototo.com
@@ -120811,6 +120821,7 @@ movingfurnitureinmadinaty.xyz
 movingmagnolia.com
 movingmatterkc.com
 movistar-empresas.net
+movmeet.biz.id
 movply.site
 movreq.click
 movstoreoffc.com
@@ -123942,6 +123953,7 @@ nailartpro.ru
 nailba.info
 naildiscount24.de
 nailfie.cd
+nailooong.site
 nails111.com
 nailsalonbook.com
 nailsmasters.ru
@@ -128930,6 +128942,7 @@ ntlword.com
 ntlworkd.com
 ntlworld.com
 ntnrw.info
+ntntnt.my.id
 ntp.homes
 ntrefz.icu
 nts.org
@@ -129593,6 +129606,7 @@ nyrrc.net
 nyscengage.com
 nysmail.com
 nysolomon.com
+nyspring.com
 nystage.site
 nytaudience.com
 nytbnjk.icu
@@ -137112,6 +137126,7 @@ pedrosolis.net
 pedsovet.tk
 pedulibumipalestine.my.id
 pedulipalestine.my.id
+pedulipalestine.web.id
 pedulisumatra.my.id
 pedvax.pl
 peekaboothmx.com
@@ -155408,6 +155423,7 @@ sahrulselow.ga
 sahrulselow.gq
 sahrulselow.ml
 sahuparhay.tk
+sahurkack.my.id
 sai-tai.net
 saiagaia.online
 saibaagora.website
@@ -155813,6 +155829,7 @@ sambhmail.com
 samblad.ga
 samblad.ml
 sambuzh.com
+sambvid.my.id
 samcloudq.com
 samcurie.com
 samdang.io.vn
@@ -157187,6 +157204,7 @@ scleraxmwa.space
 sclerodmail.com
 sclerokeramail.ru
 sclgdetbm.shop
+sclp.my.id
 sclub88vip.com
 sclwu7.com
 scmail.cf
@@ -166086,6 +166104,7 @@ stacktix.xyz
 stacku.site
 stackupapp.com
 stacyes.biz.id
+stacyes.my.id
 stacyes.web.id
 stacyhummel.com
 stacys.mom
@@ -168311,6 +168330,7 @@ sumaterareliefhub.my.id
 sumatraaidnetwork.my.id
 sumatraalam.biz.id
 sumatrabangunkita.my.id
+sumatrabersih.web.id
 sumatracare.biz.id
 sumatracare.my.id
 sumatracrisis.web.id
@@ -169790,6 +169810,7 @@ syndonation.site
 synds.ga
 synecious17mc.online
 synecious419qe.online
+synelo.my.id
 synergie.tk
 synergilestari.com
 synergisticmel.com
@@ -172904,6 +172925,7 @@ temsagroup.com
 temstory.com
 temukamu.my.id
 temukerja.biz.id
+temvak.biz.id
 temvid.my.id
 temxp.net
 temz.net
@@ -177406,6 +177428,7 @@ tokopremium.co
 tokopulsa.shop
 tokosehati.xyz
 tokot.ru
+tokovard.my.id
 toksss.app
 toksss.com
 toktokmail.com
@@ -202843,6 +202866,7 @@ zoombdcmi.shop
 zoombie.servegame.com
 zoomclick.online
 zoomclick.ru
+zoomcloud.my.id
 zoomdayinst.biz.id
 zoomera.biz.id
 zoomfield.my.id
@@ -202871,6 +202895,7 @@ zooms.pro
 zoomslug.com
 zoomspace.biz.id
 zoomsync.my.id
+zoomwave.biz.id
 zoomx.cloudns.ph
 zoonti.pl
 zoophagy.xyz

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-07T02:27:04.834Z
+# Aggregated blacklist generated on 2026-04-07T05:46:31.487Z
  
 0-30-24.com
 0-attorney.com
@@ -17603,6 +17603,7 @@ amertiech.net
 amerusa.online
 amesamed.shop
 amesbulletinboard.com
+ametipsa.my.id
 ametitas.com
 ametitco.com
 ametmail.com
@@ -19212,6 +19213,7 @@ aoige.com
 aojd-online.com
 aokfeo.online
 aokinawa.uno
+aokka.net
 aokohc.fun
 aokpcaledonia.org
 aol.ac
@@ -48880,6 +48882,7 @@ daffniee.sbs
 daffodilssociety.ong
 daffstyle.shop
 dafgtddf.com
+dafinakaramoy.my.id
 dafinally.com
 dafrem3456ails.com
 daftardetikcapsa.com
@@ -101491,6 +101494,7 @@ kopikapalapi11821901.ml
 kopikapalapi11821901.tk
 kopiko.ml
 kopikudakopo.com
+kopilambada.my.id
 kopilover.cloud
 kopipahit.ga
 kopipapua.biz

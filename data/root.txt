@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-07T07:17:33.155Z
+# Aggregated blacklist generated on 2026-04-07T09:02:32.011Z
  
 0-30-24.com
 0-attorney.com
@@ -22263,6 +22263,7 @@ atolyezen.com
 atomdev.eu
 atomeca.com
 atomic-nutrition.com
+atomicman.lat
 atomicwallet.lat
 atomistifml.com
 atomixgames.net
@@ -48023,6 +48024,7 @@ custonish.xyz
 cut-the-cord.news
 cutbebytsabina.art
 cutcap.me
+cutcat.biz.id
 cutcopydigital.com
 cuteblanketdolls.com
 cuteboyo.com
@@ -49888,6 +49890,7 @@ david279.us
 davidallencaldwell.com
 davidandmarc.com
 davidcasinghino.com
+davidcoremail.site
 davidcrozier.com
 daviddjroy.com
 daviddrapeau.com
@@ -77956,6 +77959,7 @@ gptonesollution.tech
 gptpremapp.me
 gptpremlog.tech
 gptsapp.net
+gptte.site
 gptvn.cfd
 gptworkone.dev
 gpui.ru
@@ -148920,6 +148924,7 @@ reaper.li
 reaperarsenal.com
 reapermachine.com
 reapersociety.com
+reapsed.xyz
 rearchain.ru
 rearepe.shop
 rearised.com

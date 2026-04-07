@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-07T20:48:29.982Z
+# Aggregated blacklist generated on 2026-04-07T22:38:16.418Z
  
 0-30-24.com
 0-attorney.com
@@ -143727,6 +143727,7 @@ promosbclive.com
 promosegur.com
 promosegur.org
 promosfer.com
+promositew.ru
 promosolutionsusa.com
 promospainservices.com
 promot.site

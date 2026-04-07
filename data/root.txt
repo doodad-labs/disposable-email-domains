@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-07T10:55:27.153Z
+# Aggregated blacklist generated on 2026-04-07T13:19:47.440Z
  
 0-30-24.com
 0-attorney.com
@@ -97782,6 +97782,7 @@ kaakaao.com
 kaaleej.com
 kaamalspa.cfd
 kaanapp.online
+kaaner.com
 kaansimavcan.cfd
 kaapiroyalecoffee.com
 kaarinbound.com

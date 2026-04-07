@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-07T13:19:47.440Z
+# Aggregated blacklist generated on 2026-04-07T15:07:41.285Z
  
 0-30-24.com
 0-attorney.com
@@ -3000,6 +3000,7 @@
 21jag.com
 21kky.club
 21lr12.cf
+21mail.top
 21mail.xyz
 21newhomes.com
 21nove.com
@@ -173712,6 +173713,7 @@ thambdistpec.ga
 thambdistpec.gq
 thambdistpec.ml
 thambdistpec.tk
+thameschamberorchestra.co.uk
 thamesidelabourhire.com
 thamesvalley.exposed
 thamlenhangkenh.com

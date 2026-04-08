@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-08T05:46:44.860Z
+# Aggregated blacklist generated on 2026-04-08T07:20:13.794Z
  
 0-30-24.com
 0-attorney.com
@@ -20261,6 +20261,7 @@ archive.lat
 archiveus.best
 archivewest.com
 archivision.pl
+archma.my.id
 archnicebook.site
 archnicebooks.site
 archnicefiles.site
@@ -102419,6 +102420,7 @@ kukuite.ch
 kukuka.org
 kukuljanovo.info
 kukuljanovo.net
+kukupanika.my.id
 kukushoppy.site
 kula.uno
 kulapozca.cfd
@@ -179610,6 +179612,7 @@ trial.rocks
 trialaloo.xyz
 trialforyou.com
 trialmail.de
+trialname.shop
 trialseparationtop.com
 triangagame.com
 triangletlc.com

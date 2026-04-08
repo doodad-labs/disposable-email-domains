@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-08T17:02:52.977Z
+# Aggregated blacklist generated on 2026-04-08T19:16:11.989Z
  
 0-30-24.com
 0-attorney.com
@@ -78078,6 +78078,7 @@ graffitt.ru
 grafiame.com.br
 graficagutenberg.com
 graficasmaracena.com
+grafikaly.mg
 grafisch.works
 grafixmaven.com
 grafluent.site

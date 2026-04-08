@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-08T10:56:25.152Z
+# Aggregated blacklist generated on 2026-04-08T13:20:16.431Z
  
 0-30-24.com
 0-attorney.com
@@ -30649,6 +30649,7 @@ blaczajrang.ga
 blaczajrang.ml
 blaczajrang.tk
 bladdebbzw.space
+blade.biz.id
 bladeandsoul-gold.us
 blademod.icu
 blader.com
@@ -149840,6 +149841,7 @@ rehomestudio.com
 rehtdita.com
 rehyt.icu
 rei-shirataki.com
+rei.my.id
 reichwerden.me
 reicono.cf
 reicono.ga
@@ -192626,6 +192628,7 @@ wikilibhub.ru
 wikilimpieza.com
 wikimastery.net
 wikimediane.org
+wikinime.com
 wikinoir.com
 wikipedi.biz
 wikipedia-inc.cf

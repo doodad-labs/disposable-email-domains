@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-08T02:27:46.903Z
+# Aggregated blacklist generated on 2026-04-08T05:46:44.860Z
  
 0-30-24.com
 0-attorney.com
@@ -47849,6 +47849,7 @@ cuppingtherapy.info
 cupq.net
 cupreman.me
 cupremplus.com
+cupria.my.id
 cupscakefiva.com
 cuptober.com
 cupu.site
@@ -54595,6 +54596,7 @@ doanart.com
 doanhnhanfacebook.com
 doanhnhanviet.info.vn
 doanlp.com
+doapalestina.my.id
 doatre.com
 doawaa.com
 doawildthing.com
@@ -66014,6 +66016,7 @@ fastmobileemail.win
 fastmoney.pro
 fastmotion.site
 fastnissan.com
+fastnodo.click
 fastnotify.press
 fasto.ml
 fastology.net
@@ -98128,6 +98131,7 @@ kamhl.com
 kamibakier.com
 kamien-naturalny.eu
 kamilahnur.com
+kamilganteng.biz.id
 kamillight.cf
 kamillight.ml
 kamillight.tk
@@ -116972,6 +116976,7 @@ meveatan.gq
 meveatan.ml
 mevityny.tk
 mevj.de
+mevo.my.id
 mevori.com
 mevoti.xyz
 mevoto.xyz
@@ -128604,6 +128609,7 @@ noveoninternational.com
 noveonlaser.com
 noveskincare.com
 novetas.net
+novexa.biz.id
 novezejuduh.space
 novgorod-nedv.ru
 novibet.com
@@ -188041,6 +188047,7 @@ vit-toy.site
 vita-email.site
 vita-healthcare.com
 vitabc.ru
+vitacimin.me
 vitaelix.dev
 vitaesupps.com
 vitahicks.com

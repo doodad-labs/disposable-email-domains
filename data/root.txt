@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-08T19:16:11.989Z
+# Aggregated blacklist generated on 2026-04-08T20:42:30.136Z
  
 0-30-24.com
 0-attorney.com
@@ -55911,6 +55911,7 @@ dpluse.net
 dpm5g8.us
 dpmchqfi.shop
 dpmcinternational.com
+dpmstore.id.vn
 dpmurt.my
 dpmwybaff.shop
 dpnf.us
@@ -138296,6 +138297,7 @@ phanerofmail.ru
 phanmembanhang24h.com
 phanmemfacebook.com
 phanmemmaxcare.com
+phannghiahbc.id.vn
 phantasmaebml.ru
 phantasmail.com
 phantasticthings11.ml
@@ -170510,6 +170512,7 @@ taikhoanao.tk
 taikhoancursorpro.me
 taikhoanfb.shop
 taikhoanfb.xyz
+taikhoankiro.pro
 taikhoanmarketing.com
 taikhoanpro.tech
 taikhoanprovip.tech

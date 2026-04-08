@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-08T15:10:31.838Z
+# Aggregated blacklist generated on 2026-04-08T17:02:52.977Z
  
 0-30-24.com
 0-attorney.com
@@ -94290,6 +94290,7 @@ jarrodhill.com
 jarryngandjui.com
 jarsdigital.sbs
 jarsku.pro
+jarsora.com
 jarspremium.com
 jarspremium.online
 jarsx.com
@@ -124925,6 +124926,7 @@ ndinstamail.ga
 ndiqj1.site
 ndiw.com
 ndiza-aviation.com
+ndjp.net
 ndjrglqbts.ga
 ndkjnd.life
 ndkvp.shop

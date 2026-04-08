@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-08T07:20:13.794Z
+# Aggregated blacklist generated on 2026-04-08T09:01:11.233Z
  
 0-30-24.com
 0-attorney.com
@@ -54608,6 +54608,7 @@ dobew.com
 dobidding.net
 dobimail.com
 dobitocudeponta.com
+dobleh.biz.id
 dobleveta.com
 doblyat.site
 doboinusunny.com
@@ -180798,6 +180799,7 @@ tunaarda1234.tk
 tunacrispy.com
 tunaeffect.com
 tunaland.fr
+tunaonag.page
 tunasbola.site
 tunasbola.website
 tunayseyhan.cfd

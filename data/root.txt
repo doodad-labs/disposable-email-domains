@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-07T22:38:16.418Z
+# Aggregated blacklist generated on 2026-04-08T02:27:46.903Z
  
 0-30-24.com
 0-attorney.com
@@ -36968,6 +36968,7 @@ canfima.cf
 canfima.ml
 canfima.tk
 cangacloud.online
+cangcimen.my.id
 cangcuters.my.id
 cangcutku.pro
 cangdazzdec.ga
@@ -37497,6 +37498,7 @@ cardtime.info
 cardtribute.com
 care-breath.com
 care-me.shop
+care4palestine.web.id
 careandvital.com
 carearoverseas.com
 careb.top
@@ -41755,6 +41757,7 @@ cinna.boo
 cinnamondread.com
 cinnamonproductions.com
 cinnamonre.com
+cinntaflix.biz.id
 cinoe.click
 cinotuq.net
 cinselseks.com
@@ -46921,6 +46924,7 @@ cronexus.com
 cronicasdepicnic.com
 cronkit.com
 cronostv.site
+cronot.my.id
 cronot.xyz
 cronx.com
 crookedcreekdesignz.com
@@ -61048,6 +61052,7 @@ emcinfo.pl
 emco-time.ru
 emcontem.com
 emdee.net
+emdprime.my.id
 emdwgsnxatla1.cf
 emdwgsnxatla1.ga
 emdwgsnxatla1.gq
@@ -63354,6 +63359,7 @@ etiology167vz.online
 etiqets.biz
 etiquetteconfidencecredibility.com
 etiquettelatex.com
+etisalat77.shop
 etisbew.xyz
 etisun.com
 etj64.space
@@ -77205,6 +77211,7 @@ goliokao.gq
 goliokao.ml
 goliszek.net
 golivejasmin.com
+golivestream.my.id
 gollanp.top
 golld.us
 golldredboost.store
@@ -103064,6 +103071,7 @@ labara.com
 labarbatella.net
 labas.com
 labebeh.net
+labebeh.site
 labebx.com
 labedroom.com
 label-m.ru
@@ -142288,6 +142296,7 @@ prawamoskwa.ru
 prawasrf.ru
 praxeologos.com
 praxersmail.ru
+praxis.biz.id
 praxis.web.id
 praxisds.com
 prayagsteel.com
@@ -146420,6 +146429,7 @@ quartz-co.ru
 quartzmail.org
 quarvex.cfd
 quasdmail.com
+quasimagnam.my.id
 quasimoney.ru
 quasoro.ga
 quasoro.gq

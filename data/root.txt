@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-08T20:42:30.136Z
+# Aggregated blacklist generated on 2026-04-08T22:38:48.660Z
  
 0-30-24.com
 0-attorney.com
@@ -171380,6 +171380,7 @@ tawserdog.com
 tawtar.com
 tax315.xyz
 taxaudits.online
+taxdept.us
 taxfilingsite.com
 taxfreeemail.com
 taxi-animalier-breuilpont.com
@@ -201702,6 +201703,7 @@ ze1ckq.com
 ze3.my.id
 ze31.com
 ze4rty.pw
+ze4rtyyulin.my.id
 ze87.com
 zeah.de
 zealian.com

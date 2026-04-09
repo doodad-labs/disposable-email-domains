@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-09T19:07:07.253Z
+# Aggregated blacklist generated on 2026-04-09T20:52:06.289Z
  
 0-30-24.com
 0-attorney.com
@@ -78241,6 +78241,7 @@ graphapi.site
 graphemsemail.com
 graphic-arts-international.com
 graphiccommunicationsinternational.com
+graphiclean.io.vn
 graphictee.store
 graphinasdx.com
 graphite.email
@@ -112543,6 +112544,7 @@ maily.website
 mailyaha.ru
 mailybest.com
 mailyemen.biz
+mailyn.web.id
 mailyou.nl
 mailyouspacce.net
 mailyro.com
@@ -169762,6 +169764,7 @@ syarikatjepun.com
 sybaaemail.ru
 sybdfyy.com
 sybilmail.de
+sybilproxy.com
 sycdns.com
 sych.store
 sycharconsulting.com
@@ -183016,6 +183019,7 @@ ultraxmail.pw
 ultraz1.io.vn
 ultrazeelwatchluxnow.com
 ultrazzam.online
+ultrazzam.space
 ultronbet.com
 ultrtime.org.ua
 ulturmail.com

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-09T05:48:17.901Z
+# Aggregated blacklist generated on 2026-04-09T07:22:43.986Z
  
 0-30-24.com
 0-attorney.com
@@ -120123,6 +120123,7 @@ monomails.ru
 monomangmail.ru
 monometmail.ru
 monommail.com
+monomoho.site
 monomolecufmals.com
 monomolpt.ru
 monomorphic.best

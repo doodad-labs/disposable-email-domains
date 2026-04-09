@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-08T22:38:48.660Z
+# Aggregated blacklist generated on 2026-04-09T02:23:20.241Z
  
 0-30-24.com
 0-attorney.com
@@ -34110,6 +34110,7 @@ bsjluitp.shop
 bsjnz.com
 bskbb.com
 bskelectronica.com
+bskrstore.my.id
 bskvzhgskrn6a9f1b.cf
 bskvzhgskrn6a9f1b.ga
 bskvzhgskrn6a9f1b.gq
@@ -74031,6 +74032,7 @@ genzaiichi.com
 genzmaile.com
 genznet.me
 genzotp.com
+genzstore.my.id
 genztrang.com
 geo-crypto.com
 geo.gallery
@@ -140451,6 +140453,7 @@ plutus.social
 plutvid.ru
 plutvivo.ru
 pluvi.top
+pluzauo.shop
 plw.me
 plxa.com
 plxrd1.site
@@ -147367,6 +147370,7 @@ rachelsreelreviews.com
 rachfordbbns.cf
 rachidrachid.space
 rachitkhurana.tech
+rachmail.my.id
 rachsu.ru
 racialcomfort.com
 racingmtbiketeam.club
@@ -167302,6 +167306,7 @@ storegptone.page
 storehasina.shop
 storeide.net
 storeillet.co
+storeinnn.my.id
 storelivez.com
 storellin.co
 storemail.cf

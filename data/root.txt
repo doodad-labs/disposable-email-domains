@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-09T15:22:15.541Z
+# Aggregated blacklist generated on 2026-04-09T17:08:06.583Z
  
 0-30-24.com
 0-attorney.com
@@ -190285,6 +190285,7 @@ wantwp.com
 wanu.homes
 wanva.shop
 wanxing-yl.com
+wanzgpt.my.id
 waose.com
 waosu.com
 waotao.com

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-09T20:52:06.289Z
+# Aggregated blacklist generated on 2026-04-09T22:40:07.646Z
  
 0-30-24.com
 0-attorney.com
@@ -4719,6 +4719,7 @@
 39hair.com
 39hotmail.com
 39jili.net
+39jl.info
 39koyr.us
 39p.ru
 39pop.com
@@ -7288,6 +7289,7 @@
 63gmail.co.com
 63gmail.com
 63hotmail.com
+63jl.net
 6404445.com
 640gmail.com
 640niu.com
@@ -8757,6 +8759,7 @@
 78avalon.land
 78brlbet.net
 78e4f9a.club
+78fplataforma.com
 78gmail.com
 78jxs.com
 78sforsale.com
@@ -11593,6 +11596,7 @@ aazhs.org
 aazita.xyz
 aazixwrzca.com
 aazkan.com
+aazs.us
 aazzn.com
 ab-coaster.info
 ab-demo.com
@@ -23841,6 +23845,7 @@ azhigh.org
 azhirock.com
 azhour.fr
 azhq.com
+azhrs.us
 azhs.us
 aziamail.com
 azie.fun
@@ -26530,6 +26535,7 @@ be.sexy
 be0vsn.com
 be321app.xyz
 be401kinquiryok.com
+be7k.net
 beabedbugremovalok.live
 beacepu.cf
 beacepu.gq
@@ -27471,6 +27477,8 @@ berizals.world
 berjalansasuiquasd.codes
 berjaya777.live
 berjkilaosidhqusdhdqg.bond
+berjuangaceh.my.id
+berjuangsumatra.my.id
 berkah-herbal.com
 berkahfb.com
 berkahjaran.xyz
@@ -33652,6 +33660,7 @@ brightlighttouch.com
 brightnova.website
 brightonchoy.com
 brightonontheweb.com
+brightpatha.biz
 brightpathassociates.com
 brightpathinvestors.com
 brightpine.xyz
@@ -42416,6 +42425,7 @@ clearnmsdfkl86115.tk
 clearoptions.net
 clearpia.us
 clearskinaz.com
+clearstackr.site
 clearwaterarizona.com
 clearwatercpa.com
 clearwatermail.info
@@ -42705,6 +42715,7 @@ clip.lat
 clipboard.nl
 clipclip.email
 clipcut.biz.id
+clipera.biz.id
 clipmail.cf
 clipmail.eu
 clipmail.ga
@@ -47367,6 +47378,7 @@ csbrowns.mom
 cscasessteam.com
 csccblida.com
 csccsports.com
+csced.us
 cscedu.us
 cschammel.com
 cschl.us
@@ -73387,6 +73399,7 @@ gaz-prominvest.ru
 gaz-proms.website
 gaza-mohed.lat
 gaza-mohedzuhair.homes
+gazaaidnetwork.biz.id
 gazacompassion.my.id
 gazaforlife.biz.id
 gazaharapan.my.id
@@ -75031,6 +75044,7 @@ ghkl.us
 ghkli.us
 ghks.us
 ghksc.us
+ghksch.us
 ghkykhdf.top
 ghkyukjb7-privytfg.host
 ghkyukjb7-privytfg.press
@@ -86551,6 +86565,7 @@ hub-loading.xyz
 hub-pizzeria-takeaway.com
 hub-spot.us
 hubab.online
+hubabubas.site
 hubbardsophia.site
 hubbu.online
 hubcitytelecom.com
@@ -89743,6 +89758,7 @@ impulsionseo.club
 impulster.pw
 imputaemail.com
 imputamail.com
+imranbt.store
 imrekoglukoleksiyon.online
 imrekoglukoleksiyon.xyz
 imrekoglutesbih.online
@@ -91106,6 +91122,7 @@ insgit.com
 insgogc.com
 insgrmail.site
 inshapeactive.ru
+inshipatia.cat
 inshuan.com
 inside-review.com
 insidecondoclub.com
@@ -102246,6 +102263,8 @@ ksyhtc.com
 ksylonmartin.com
 kszsae.us
 kt-ex.site
+kt-family.my.id
+kt-family.web.id
 kt-gmail.com
 kt-static.com
 kt1k.com
@@ -102268,6 +102287,7 @@ ktcin.com
 ktds.co.uk
 kterer.com
 ktexaf.icu
+ktfamily.my.id
 ktg-game.ru
 ktgre.website
 kth.buzz
@@ -106689,6 +106709,7 @@ linksdown.net
 linkserver.es
 linksgold.ru
 linkshopin.xyz
+linksioami.biz.id
 linksmaximiser.com
 linksmonkey.com
 linksnb.com
@@ -106715,6 +106736,7 @@ linktrack.shop
 linku-2.icu
 linku-3.icu
 linku.in
+linkupzone.my.id
 linkusupng.com
 linkvaofun88.org
 linkvaow88bong88.com
@@ -132468,6 +132490,7 @@ onthewaterlifestyle.com
 ontheweblearning.com
 onthues.com
 onthwmarket.com
+ontiluso.com
 ontimecomputing.com
 ontimeeverytime.biz
 ontimeflight.ir
@@ -134980,6 +135003,7 @@ p90xlifeshow.com
 p90xstrong.com
 p92qe4-mail.xyz
 p99520.com
+p9bet1.info
 p9fnveiol8f5r.cf
 p9fnveiol8f5r.ga
 p9fnveiol8f5r.gq
@@ -135403,11 +135427,13 @@ palersmail.ru
 palesmail.com
 palestcare.web.id
 palesthelp.biz.id
+palesthelp.my.id
 palesthope.biz.id
 palesthope.web.id
 palesthub.web.id
 palestinalove.my.id
 palestinavoice.web.id
+palestineaidnet.my.id
 palestineharapan.web.id
 palestinehelp.biz.id
 palestinehopecenter.biz.id
@@ -136783,6 +136809,7 @@ pblcpchkn.com
 pbloodsgmu.com
 pbm-usa.com
 pbmbill247.com
+pbn-admin.com
 pbond.lat
 pbot.tk
 pbqr.org
@@ -138536,6 +138563,7 @@ phinvitation.com
 phisbe.site
 phitheon.com
 phitsanulokfc.com
+phjlactivety.com
 phjmsrc.ml
 phjouoznu.shop
 phjwsz.com
@@ -138715,6 +138743,7 @@ phototypesfkml.ru
 photozzz.com
 php-figurines.com
 php3.ru
+phparkvip.info
 phpbrasil.org
 phpcode.website
 phpduglist.info
@@ -153005,6 +153034,7 @@ roomfact.us
 roomiry.com
 roomka.online
 roommother.biz
+roomrapat.my.id
 roomserve.ir
 roomservicemassage.com
 roomsystem.us
@@ -157754,6 +157784,7 @@ seagullnet1.com
 seahawksportsshop.com
 seahawksproteamsshop.com
 seajaymfg.com
+seaku.dev
 seal-concepts.com
 sealized.info
 sealkitchen.com
@@ -163706,6 +163737,7 @@ socialxbounty.info
 sociamedia.com
 sociative.xyz
 sociedadcentral.com
+sociefan.com
 societalpro.com
 societycampblog.site
 societylionnews.club
@@ -163846,6 +163878,7 @@ softvanria.ga
 softvanria.gq
 softvanria.ml
 softvanria.tk
+softvault.biz.id
 softviagra.info
 softvista.my.id
 softwant.net
@@ -168349,6 +168382,7 @@ sujjn9qz.pc.pl
 sukaalkuma.com
 sukabaru.org
 sukabokep.tech
+sukadamai.tech
 sukadia.my.id
 sukapkv.xyz
 sukasukasuka.me
@@ -168439,6 +168473,7 @@ sumatracrisis.web.id
 sumatraearth.web.id
 sumatraecoaid.web.id
 sumatraecocare.biz.id
+sumatrafrhope.my.id
 sumatrahopecenter.my.id
 sumatralestari.biz.id
 sumatraunitycenter.biz.id
@@ -169573,6 +169608,7 @@ swenno.com
 swerpossa.ga
 swerpossa.gq
 swerpossa.tk
+swerte777.net
 swerte99casino.net
 swestudies.se
 swf.de
@@ -179666,6 +179702,7 @@ tribsearno.ga
 tribsearno.gq
 tribsearno.ml
 tribsearno.tk
+tribunnews.page
 tributeblog.com
 tricakesi.store
 tricdistsiher.xyz
@@ -195578,6 +195615,7 @@ xekes.com
 xekeshop.site
 xelacade.site
 xelevirtyl.shop
+xelix.biz.id
 xellonprime.com
 xelm.com
 xelo.pro

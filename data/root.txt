@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-09T17:08:06.583Z
+# Aggregated blacklist generated on 2026-04-09T19:07:07.253Z
  
 0-30-24.com
 0-attorney.com
@@ -74380,6 +74380,8 @@ getclipfree.com
 getcloudmango.net
 getcmoji.com
 getcode1.com
+getcodeig.com
+getcodeig1.com
 getcodemail.com
 getcoiinssaa.online
 getcontct.click
@@ -88737,6 +88739,7 @@ igcl5axr9t7eduxkwm.gq
 igcl5axr9t7eduxkwm.ml
 igcl5axr9t7eduxkwm.tk
 igclonesale.online
+igcodemail.com
 igcwellness.us
 igdinhcao.click
 igdinhcao.com

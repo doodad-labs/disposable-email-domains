@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-09T22:40:07.646Z
+# Aggregated blacklist generated on 2026-04-10T02:33:53.489Z
  
 0-30-24.com
 0-attorney.com
@@ -98963,6 +98963,7 @@ keepitsafeofcalifornia.com
 keepitsecurity.com
 keeplon.app
 keeplucky.pw
+keepmail.dev
 keepmail.online
 keepmoatregen.com
 keepmymail.com

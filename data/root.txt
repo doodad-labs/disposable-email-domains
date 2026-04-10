@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-10T18:53:13.599Z
+# Aggregated blacklist generated on 2026-04-10T20:37:05.163Z
  
 0-30-24.com
 0-attorney.com
@@ -41959,6 +41959,7 @@ citycouncilusa.top
 citydent96.ru
 cityguide.store
 cityhotelbergenopzoom.com
+cityhubz.tokyo
 citykurier.pl
 citylightsart.com
 citylightsbham.org
@@ -74516,6 +74517,7 @@ getlibbook.site
 getlibstuff.site
 getlibtext.site
 getlink.website
+getlinkbm.com
 getlinkyoutube.net
 getlistbooks.site
 getlisted.directory
@@ -78002,6 +78004,7 @@ gpstrackingreviews.net
 gptcodeshop.com
 gptennislyon.com
 gptkoe.nl
+gptlagi.tech
 gptlogistics.us
 gptmuramedia.biz.id
 gptnya.me
@@ -119917,6 +119920,7 @@ momostreaming.com
 momoweekly.com
 mompreneur.today
 momrell.ru
+momroad.org
 momscleaningtally.com
 momssa.tech
 momswithfm.com
@@ -164621,6 +164625,7 @@ sourishb.com
 sourismail.com
 sourtrush.site
 soushuba.xyz
+sousor.com
 sousousousou.com
 south-windinfo.online
 southafrica-nedv.ru

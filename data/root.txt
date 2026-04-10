@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-10T09:09:26.413Z
+# Aggregated blacklist generated on 2026-04-10T10:54:42.928Z
  
 0-30-24.com
 0-attorney.com
@@ -78003,6 +78003,7 @@ gptennislyon.com
 gptkoe.nl
 gptlogistics.us
 gptmuramedia.biz.id
+gptnya.me
 gptonesollution.app
 gptonesollution.live
 gptonesollution.tech
@@ -129613,6 +129614,7 @@ nyattorneys.org
 nyavo.com
 nyaweb.com
 nyawiki.com
+nyawitt.my.id
 nyayou.com
 nybbl12.com
 nybella.com

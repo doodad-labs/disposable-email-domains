@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-10T02:33:53.489Z
+# Aggregated blacklist generated on 2026-04-10T05:57:50.228Z
  
 0-30-24.com
 0-attorney.com
@@ -24545,6 +24545,7 @@ backlinkcity.info
 backlinkdomain.com.au
 backlinkhorsepower.com
 backlinkinfographics.com
+backlinks.monster
 backlinks.we.bs
 backlinkscheduler.com
 backlinkseo.monster
@@ -25766,6 +25767,7 @@ bas0scg0.xyz
 basair.org
 basak.cf
 basak.ml
+basakerrrrdigital.online
 basakgidapetrol.com
 basakhaber.org
 basalts.best
@@ -29174,6 +29176,7 @@ biboxcons.tk
 bibpond.com
 bibrus.ru
 bibsetore.online
+bibubib.site
 bibucabi.cf
 bibucabi.ga
 bibucabi.gq
@@ -40370,6 +40373,7 @@ cheapvps.space
 cheapwatch.store
 cheapwebtraffic.com
 cheapweekendgetawaysforcouples.com
+cheapwinner.com
 cheapxboxlive.com
 cheapyyyy.xyz
 cheatautomation.com
@@ -97289,6 +97293,7 @@ juniorcotillion.com
 junioretp.com
 junioriot.net
 juniorlinken.com
+juniorr.us
 junk-lugger.com
 junk-mail.us
 junk.to
@@ -112546,6 +112551,7 @@ mailwebbnets.space
 mailwebsite.info
 mailwebsittes.space
 mailwfree.com
+mailwhatmail.com
 mailwindowwws.space
 mailwithyou.com
 mailwizz.dev
@@ -197086,6 +197092,7 @@ xn--mgbad8a0b2cxa.com
 xn--mgbgvi3fi.com
 xn--mgbgz7e0zxg.com
 xn--mgbq7clv.com
+xn--mgmarkt5-9db.com
 xn--mirn-xpa7a.xyz
 xn--mlareume-9zah.nu
 xn--mlarnuppsala-tcb.se

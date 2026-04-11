@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-11T14:36:12.333Z
+# Aggregated blacklist generated on 2026-04-11T16:37:15.102Z
  
 0-30-24.com
 0-attorney.com
@@ -76225,6 +76225,7 @@ gmadretierra.org
 gmaeil.com
 gmaeil.site
 gmaeils.site
+gmaeilstore.xyz
 gmagl.com
 gmahil.com
 gmai.co
@@ -169537,6 +169538,7 @@ swagpapa.com
 swaidaindustry.org
 swakdesigns.info
 swalkinshaw.com
+swamex.email
 swan-intl.com
 swankbmdd.space
 swankyfood.us

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-11T02:12:38.541Z
+# Aggregated blacklist generated on 2026-04-11T05:24:16.686Z
  
 0-30-24.com
 0-attorney.com
@@ -951,6 +951,7 @@
 10bet881088.com
 10bet88888.com
 10betcasino.info
+10betcasinomx.net
 10betslife.com
 10bir.com
 10bo888810.com
@@ -8979,6 +8980,7 @@
 7p6kz0omk2kb6fs8lst.gq
 7p6kz0omk2kb6fs8lst.ml
 7p6kz0omk2kb6fs8lst.tk
+7p777app.info
 7pccf.cf
 7pccf.ga
 7pccf.gq
@@ -20061,6 +20063,7 @@ ar0dc0qrkla.tk
 ar2tingyan.com
 ar6j5llqj.pl
 ar777.info
+ar999gameapk.com
 ara-llc.com
 arab-internet.com
 arab-torrents.org
@@ -24330,6 +24333,7 @@ b9-club.store
 b90change.org
 b911d.xyz
 b9199.com
+b955.net
 b95md.com
 b96620.xyz
 b97ae.site
@@ -38844,6 +38848,7 @@ ceco3kvloj5s3.tk
 cecol.us
 cecols.us
 cecolsch.us
+cecolu.us
 cecolum.us
 cecolumb.us
 cecolumbus.us
@@ -75766,6 +75771,7 @@ gkrmck.fun
 gkrmfz.fun
 gkrmnx.fun
 gksc.us
+gksh.us
 gksk.com
 gksmftlx.com
 gksqjsejf.com
@@ -84373,6 +84379,7 @@ ho2zgi.host
 ho3twwn.com
 ho500.com
 ho770.site
+ho88top.info
 ho88vip.com
 ho9mm.tech
 hoa-collect.com
@@ -85773,6 +85780,7 @@ hotmilk.com
 hotmin.com
 hotml.fr
 hotmmail.fr
+hotmmal.com
 hotmmmail.com
 hotmobilephoneoffers.com
 hotmodel.nl
@@ -86165,6 +86173,7 @@ hoymail.co.uk
 hoymail.es
 hoymail.fr
 hoyote.com
+hozairatraders.com
 hozenkal.com
 hozi.site
 hozota.com
@@ -93386,6 +93395,7 @@ ivaguide.com
 ivalli.com
 ivaluandersen.me
 ivalujorgensen.me
+ivamobilecornar.com
 ivan0v.tk
 ivankasuwandi.art
 ivans.me
@@ -131106,6 +131116,7 @@ okbackpainreliefok.live
 okbatonrogue.com
 okbayarea.com
 okbeatsdrdre1.com
+okbet888.info
 okbetcasino.net
 okbetpromocode.com
 okbiloxi.com
@@ -140224,6 +140235,7 @@ playtubemusic.com
 playtubemusic.net
 playtubepk.com
 playtubes.net
+playuzu.info
 playuzucasino.info
 playwin247.net
 playwithkol.com
@@ -165397,6 +165409,7 @@ spinofis.tk
 spinolococasino.info
 spinomaniac.com
 spinph7.info
+spinph88casino.com
 spinplusph.info
 spinsterism.best
 spinteractive.net
@@ -173736,6 +173749,7 @@ tfzav6iptxcbqviv.gq
 tfzav6iptxcbqviv.ml
 tfzav6iptxcbqviv.tk
 tg-elektra.ru
+tg299game.info
 tg5r8trb.xyz
 tg7.net
 tg77777.info
@@ -190892,6 +190906,7 @@ wc-api-fjc--4.com
 wc-api-fjc--5.com
 wc.edu.kg
 wc2ttpxd7o0y9np.xyz
+wc7777game.com
 wc777game.info
 wc999game.com
 wca.cn.com
@@ -194682,6 +194697,7 @@ wuqol.com
 wurasu.info
 wurbil.site
 wurer.live
+wurkang.com
 wurric.site
 wusehe.com
 wusnet.site

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-11T05:24:16.686Z
+# Aggregated blacklist generated on 2026-04-11T07:01:01.526Z
  
 0-30-24.com
 0-attorney.com
@@ -21482,6 +21482,7 @@ asiapoker389.info
 asiapoker389.net
 asiapoker389.org
 asiaprofiles.com
+asiapulso.asia
 asiapulso.info
 asiaqq59.xyz
 asiaqq7.com
@@ -40427,6 +40428,7 @@ checkmatemail.info
 checkmyflight.online
 checkmyip.cc
 checkmymail.info
+checkmypanel.site
 checknew.pw
 checknow.online
 checknowmail.com
@@ -45672,6 +45674,7 @@ coreef.uk
 coreff.uk
 corefficiency.net
 corefitrun.com
+coregridx.website
 corehabcenters.com
 coreinsulators.net
 corejetgrid.com
@@ -87370,6 +87373,7 @@ hyperaebml.ru
 hyperallergic.uk
 hyperallergicstaff.com
 hyperapomail.com
+hyperbrachpt.ru
 hypercalcfmail.ru
 hypercarmail.com
 hypercomplete.net
@@ -98118,6 +98122,7 @@ kalinagallery.com
 kalindesiraye.com
 kaling.fun
 kalingra.website
+kaliningradblog.com
 kalinki.online
 kalitebet4.com
 kalitebet6.com
@@ -100585,6 +100590,7 @@ kixnewyork.com
 kixotic.com
 kiyan.co.com
 kiyastand.site
+kiyg.me
 kiyoapk.web.id
 kiyonna.ru
 kiyua.com
@@ -118391,6 +118397,7 @@ mirare.pl
 mirarmax.com
 mirasa.site
 mirastone.xyz
+mirasync.tokyo
 mirava.beauty
 mirbaikala03.ru
 mirbeauty.ru
@@ -144425,6 +144432,7 @@ psymejsc.pl
 psymerge.com
 psyonix.net
 psyplenum.net
+psytool.ru
 pszfp.fun
 pszxxh.us
 pt-bt.com
@@ -145445,6 +145453,7 @@ q8z.ru
 q9094.com
 q99919.com
 q9byhh.us
+q9k2m7x4pa.io.vn
 q9q1.com
 q9yepn.us
 q9zqpu.us
@@ -145518,6 +145527,7 @@ qavexo.online
 qavexo.site
 qavix.cfd
 qavol.shop
+qavonilermpxza.io.vn
 qaws.com
 qaxinsuoro.pro
 qaz-partner.com
@@ -158859,6 +158869,7 @@ seobravura.com
 seobrizz.com
 seobungbinh.com
 seobusinessclub1.com
+seobust.ru
 seobuzzvine.com
 seocdn.ru
 seocdvig.ru
@@ -162450,6 +162461,7 @@ skye.kiwi
 skyehigh.com
 skyelaf.com
 skyelanguagesolutions.com
+skyemails.app
 skyfall.dev
 skyfiberinternetservice.com
 skyfibernetworksnv.com
@@ -169542,6 +169554,7 @@ swarmhabi.us
 swarmonio.us
 swarmrout.email
 swarmroute.recipes
+swartluxury258.com
 swastickbookbox.com
 swat.rip
 swatch.com
@@ -188687,6 +188700,7 @@ vodka.in
 vodka.monster
 vodkacasinoigrat.ru
 vodkacasinopay.ru
+vodkafreespins.casino
 vodkatourism.click
 vodlockerseries.online
 vodmir.com
@@ -197122,6 +197136,7 @@ xn--mgbgvi3fi.com
 xn--mgbgz7e0zxg.com
 xn--mgbq7clv.com
 xn--mgmarkt5-9db.com
+xn--mgmarkt9-9db.com
 xn--mirn-xpa7a.xyz
 xn--mlareume-9zah.nu
 xn--mlarnuppsala-tcb.se

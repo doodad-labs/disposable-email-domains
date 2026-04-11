@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-10T22:37:26.608Z
+# Aggregated blacklist generated on 2026-04-11T02:12:38.541Z
  
 0-30-24.com
 0-attorney.com
@@ -14101,6 +14101,7 @@ aftership.biz
 afterspace.net
 afterthediagnosisthebook.com
 aftertherain.icu
+aftherrh.site
 aftksrabv.shop
 aftmail.store
 aftnfeyuwtzm.cf
@@ -111640,6 +111641,7 @@ mailfnmng.org
 mailfob.com
 mailfony.com
 mailforall.pl
+mailforgo.site
 mailformail.com
 mailforminutes.com
 mailforpo.com
@@ -126314,6 +126316,7 @@ newstylescarves.info
 newsunrisedublin7.com
 newsusfun.com
 newswimwear2012.info
+newszig.com
 newt0n.tech
 newtakemail.ml
 newtap.site
@@ -173084,6 +173087,7 @@ temukamu.my.id
 temukerja.biz.id
 temuviu.my.id
 temvak.biz.id
+temvialorqx.io.vn
 temvid.my.id
 temxp.net
 temz.net
@@ -183046,6 +183050,7 @@ ultralux.io.vn
 ultramaficrock.ru
 ultramailinator.com
 ultramicremail.ru
+ultramigos.online
 ultramodernfml.ru
 ultramomail.com
 ultramovie.biz

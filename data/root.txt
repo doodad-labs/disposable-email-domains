@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-11T18:44:34.331Z
+# Aggregated blacklist generated on 2026-04-11T20:33:48.332Z
  
 0-30-24.com
 0-attorney.com
@@ -35040,6 +35040,7 @@ busniss.com
 buspad.org
 buspilots.com
 busquedas.com
+bussaco.com
 bussbet.com
 bussdisc.com
 bussenea.tech
@@ -133166,6 +133167,7 @@ opude.com
 opulent-fx.com
 opulup.biz
 opus-cs.com
+opus.my.id
 opusbanes.gq
 opusdei.web.id
 opusdigitali.com
@@ -177630,6 +177632,7 @@ tokuriders.club
 tokuz.net
 tokyo-mail1.top
 tokyo.edu.pl
+tokyoflarex.tokyo
 tokyomail.com
 tokyomotion.mobi
 tokyoto.site

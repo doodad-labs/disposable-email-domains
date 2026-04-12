@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-12T20:36:40.983Z
+# Aggregated blacklist generated on 2026-04-12T22:34:29.428Z
  
 0-30-24.com
 0-attorney.com
@@ -13547,6 +13547,7 @@ advdent.net
 advdesignss.info
 adventistreview.org
 advents.icu
+adventurcraftmx.mx
 adventureabroadawaits.com
 adventureconcepts.net
 adventuredmail.com
@@ -45089,6 +45090,7 @@ conservativesagainstbush.com
 conservativeworlddaily.com
 conservconstruction.com
 consfant.com
+consfml.com
 conshypt.com
 considefmk.com
 considerinsurance.com
@@ -65842,6 +65844,7 @@ farzanehbeautysalon.ir
 fasa.com
 fasciaklinikerna.se
 fasciaspa.com
+fascinateuds.ru
 fascinery.com
 fasdfasdf.com
 fasdinformed.co.uk
@@ -75025,6 +75028,7 @@ ghatkhalihs.us
 ghatkhalionline.us
 ghatkhalischool.us
 ghatkhaliusa.us
+ghatkhl.us
 ghatkhs.us
 ghatks.us
 ghats.us
@@ -78216,6 +78220,7 @@ grandelimousines.com
 grandemutuelle.live
 grandeprairie.com
 grandherbalistoils.com
+grandi.cz
 grandinter.com
 grandlaketheband.com
 grandmamail.com
@@ -96467,6 +96472,7 @@ jonestowneevents.com
 jonezugazaga.com
 jongodigital.online
 jonira.sbs
+jonitreaders.com
 jonjonson.com
 jonkersmail.nl
 jonlancaster.net
@@ -117368,6 +117374,7 @@ mhotel.us
 mhpictures.de
 mhqdk9.us
 mhqxl.us
+mhs-tradersbd.com
 mhs78.space
 mhsanlucarinmobiliaria.com
 mhschool.info
@@ -119065,6 +119072,7 @@ mm88steam.com
 mm904.xyz
 mm9827.com
 mmaassaa.shop
+mmabetlogin.net
 mmach.ru
 mmaignite.com
 mmail.com
@@ -128963,6 +128971,7 @@ nrwxw.info
 nrzjw.info
 nrzrw.info
 ns-ei54.com
+ns-travelagent.store
 ns01.biz
 ns01.info
 ns01.us
@@ -156984,6 +156993,7 @@ sayinnet.net
 sayitsme.com
 saykocak.com
 saylpilean.online
+saymanfurniture.com
 saymeow.de
 saymework.com
 saymuscge.cf
@@ -164369,6 +164379,7 @@ somoscosta.com
 somosfarol.com.br
 somoslantian.net
 somoslantian.org
+somrattelecom.com
 soms-software.net
 somsmarketing.info
 somssoftware.net
@@ -164597,6 +164608,7 @@ sorensen.dk
 sorento.tk
 sorfia.com.br
 soricident.site
+soriftraders.com
 sorir.info
 soriro.info
 soroi.top
@@ -187920,6 +187932,7 @@ vipg.com
 vipgamecasino.net
 vipgamemarket.ru
 vipgod.ru
+viphihi123.tokyo
 viphomeljjljk658.info
 viphone.eu.org
 viphospitality.se
@@ -190469,6 +190482,7 @@ wanu.homes
 wanva.shop
 wanxing-yl.com
 wanzgpt.my.id
+wanzstoreofc.my.id
 waose.com
 waosu.com
 waotao.com

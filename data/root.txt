@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-12T18:50:55.699Z
+# Aggregated blacklist generated on 2026-04-12T20:36:40.983Z
  
 0-30-24.com
 0-attorney.com
@@ -75070,6 +75070,7 @@ ghiencoiphim.online
 ghienphimreview.online
 ghigh.us
 ghiglianocinzia.com
+ghijklmnopqrstuv.io.vn
 ghime.co.com
 ghiscarbices.tk
 ghislain239.store
@@ -127543,6 +127544,7 @@ njdkd.com
 njelarubangilan.cf
 njelarucity.cf
 njena-conseils.com
+njesz.com
 njetzisz.ga
 njhalfpricedlisting.com
 njhalfpricelisting.com
@@ -167732,6 +167734,7 @@ streampornsites.com
 streams-web.site
 streamsentiment.net
 streamsofedendesign.com
+streamtv.biz.id
 streamtv2pc.com
 streamup.ru
 streamwatchtv.live

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-12T10:38:33.656Z
+# Aggregated blacklist generated on 2026-04-12T13:01:41.426Z
  
 0-30-24.com
 0-attorney.com
@@ -57344,6 +57344,7 @@ dustinpattrson.info
 dustinpitcher.com
 dustinplains.buzz
 dustinry.com
+dustinsda.my.id
 dustofguest.com
 dustreaming.host
 dustreaming.info
@@ -76454,6 +76455,7 @@ gmailsku.email
 gmailsl.com
 gmailssdf.com
 gmailtemp.com
+gmailtook.tech
 gmailtop.com
 gmailtube.net
 gmailu.ru
@@ -102382,6 +102384,7 @@ ktwolff.com
 ktxr.com
 ktyl.com
 ktzmi.cf
+ktzu.tech
 ku-rong.com
 ku11net.org
 ku1hgckmasms6884.cf
@@ -183181,6 +183184,7 @@ ultraz1.io.vn
 ultrazeelwatchluxnow.com
 ultrazzam.online
 ultrazzam.space
+ultrmigos.online
 ultronbet.com
 ultrtime.org.ua
 ulturmail.com

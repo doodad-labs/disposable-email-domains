@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-12T14:39:05.251Z
+# Aggregated blacklist generated on 2026-04-12T16:39:23.572Z
  
 0-30-24.com
 0-attorney.com
@@ -109667,6 +109667,7 @@ luderi.ga
 luderi.gq
 ludi.com
 ludmiladuarte.com
+ludoviani.biz.id
 ludovicomedia.com
 ludovodka.com
 ludq.com

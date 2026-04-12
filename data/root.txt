@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-12T13:01:41.426Z
+# Aggregated blacklist generated on 2026-04-12T14:39:05.251Z
  
 0-30-24.com
 0-attorney.com
@@ -25058,6 +25058,7 @@ bakolfb.live
 bakrotizi.xyz
 bakso.rocks
 bakstaaj.com
+bakulab.com
 bakulan.site
 bakulanaws.com
 bakulcod.club
@@ -33268,6 +33269,7 @@ brainysoftware.net
 braithw8.uk
 brajampa.net
 brajer.pl
+brajraj.org
 brakasa.buzz
 brakecu.xyz
 brakecups.info

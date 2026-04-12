@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-11T22:32:25.535Z
+# Aggregated blacklist generated on 2026-04-12T02:35:44.177Z
  
 0-30-24.com
 0-attorney.com
@@ -4953,6 +4953,7 @@
 3kurge.us
 3l6.com
 3littlemiracles.com
+3luckybluegame.info
 3lwl.com
 3m4i1s.pl
 3m73.com
@@ -6638,6 +6639,7 @@
 555gmail.com
 555okcasino.com
 555papa.com
+555ugbet.com
 555uh.com
 555ur.com
 5564445.com
@@ -6725,6 +6727,7 @@
 567564.xyz
 5678.cd
 56787.com
+5678bet.net
 5679827.com
 567gmail.com
 567jili.net
@@ -9492,6 +9495,7 @@
 858585y.com
 858585z.com
 858ac.com
+858bet1.net
 858gmail.com
 859421.xyz
 859ac.com
@@ -9821,6 +9825,7 @@
 889931666.com
 88998.com
 889988211.com
+8899winlogin.net
 889betlogin.net
 88a9.com
 88av.net
@@ -10371,6 +10376,7 @@
 92macau.com
 92no3o.us
 92ooxx.xyz
+92pakgame.info
 92pkr1.info
 92pkrgamedownload.com
 930.dog
@@ -11299,6 +11305,7 @@ a54pd15op.com
 a555vgrx.buzz
 a557xtrq.buzz
 a55app.com
+a55gameapk.net
 a575gdcw.buzz
 a578xbxa.buzz
 a57wb.com
@@ -15215,6 +15222,7 @@ aistocks.xyz
 aisushigranada.com
 aiswitzerland.xyz
 ait-light.com
+ait-tesol.edu.vn
 aitaiwan.xyz
 aitechwala.site
 aitecleco.com
@@ -17728,6 +17736,7 @@ amogan.ml
 amoh00153.shop
 amokmail.com
 amokqidwvb630.ga
+amokrun.com
 amokstudios.com
 amoksystems.com
 amokuy.com
@@ -25557,6 +25566,9 @@ baoye365.com
 baoyuan-osb.ru
 bapatterson.com
 baphled.com
+bapnumail.com
+bapoggymail.com
+bapoggymail.net
 bapok.best
 bapratique.shop
 bapter.design
@@ -25915,6 +25927,7 @@ batanik-mir.ru
 batches.info
 batdongsanhatinh.org
 batdongsanmiennam.xyz
+batdongsanvgp.com
 batefy.info
 batel-online.ru
 baterias.xyz
@@ -28280,6 +28293,7 @@ betboss32.com
 betboss37.com
 betboss38.com
 betboyclub.com
+betbusapp.net
 betcashafrica.com
 betchan22.com
 betcity-app.ru
@@ -29946,6 +29960,7 @@ biospc.es
 biostatifmail.ru
 biostatistique.com
 biostatstudio.org
+biosu.dev
 biosupre.net
 biosupre.org
 biosyniksx.space
@@ -39101,6 +39116,7 @@ censor.sbs
 cent.cd
 cent23.com
 centa93.icu
+centcol.us
 center-kredit.de
 center-mail.de
 center-sicherheit-abteilung-update.xyz
@@ -40703,6 +40719,7 @@ chiasbuy.fun
 chiasbuy.services
 chiasbuy.shop
 chiasehoctap.net
+chiasekhoahoc.vn
 chiasemienphi.info
 chiasmusa.com
 chibakenma.ml
@@ -51315,6 +51332,7 @@ denmail.ru
 denmail.store
 denmandesign.com
 denmark4.biz.id
+denmarumail.com
 denniehoopingarner.info
 dennis31.store
 dennisburge.com
@@ -55333,6 +55351,7 @@ donfo.fun
 dong-phuc.net
 dongaaa.shop
 dongaaaaaaa.cloud
+dongagroup.vn
 donganta.my.id
 dongbeiyujie.sbs
 dongen.info
@@ -55345,6 +55364,7 @@ donghuudoi.com
 dongisi.ga
 dongisi.gq
 dongisi.tk
+donglucsport.com
 dongphuc.site
 dongphucaokhoac.net
 dongphucaophong.org
@@ -56970,6 +56990,8 @@ dtzdev.xyz
 du.su
 du88bet.net
 duacgel.info
+duahaumail.com
+duahaumail.net
 duajutadollar.my.id
 dual-extruder01.com
 dual-extruder64.com
@@ -59171,6 +59193,7 @@ edut1.us
 edut3.us
 edutools.store
 edutopic.sbs
+edutunebd.com
 eduu5.us
 eduup.us
 eduvationonline.com
@@ -77619,6 +77642,7 @@ goplf1.cf
 goplf1.ga
 goplmega.tk
 goplmega1.tk
+goplus777.org
 gopluscasino.com
 gopo.email
 gopoker303.org
@@ -81241,6 +81265,7 @@ harberisonlopig.ga
 harbibet11.com
 harbibet13.com
 harborgoos.xyz
+harborheights.education
 harbourandsmall.com
 harbourlights.com
 harbourtradecredit.com
@@ -84037,6 +84062,7 @@ hiwager.games
 hiwager.plus
 hiwave.org
 hiweb.org
+hiwin777login.com
 hiwjd.com
 hiwot.market
 hiwv.com
@@ -86882,6 +86908,8 @@ hungclone.xyz
 hungclonefb.io.vn
 hungeral.com
 hunghair.com
+hunght1890.com
+hunght1890.site
 hunghuka.com
 hungkaymedia.top
 hungly.xyz
@@ -87750,6 +87778,7 @@ iaca-aligner.com
 iacapitalgroup.net
 iaciu.com
 iacjpeoqdy.pl
+iacomputer.xyz
 iaek.com
 iaf.in
 iag1gu.us
@@ -89991,6 +90020,7 @@ inboxturtle.dev
 inbrisbane.org
 inc.gs
 inc.ovh
+incadigital.site
 incagijon.com
 incalculabmail.ru
 incaltaminteoriginala.info
@@ -91070,6 +91100,7 @@ inplay.red
 inplay888.org
 inpoker3.net
 inpoker3.org
+inpos.com.vn
 inpos.ru
 inpowiki.xyz
 inppares.org.pe
@@ -91169,6 +91200,7 @@ insightscreenings.com
 insightsintodesign.com
 insightsite.com
 insigniatalks.com
+insignifimail.ru
 insignimail.com
 insigno.com
 insipe.store
@@ -93139,6 +93171,7 @@ itemailing.com
 itemalerts.com
 itemdb.com
 itemef.bid
+itemjunction.net
 itemku.cfd
 itemp-mail.com
 itemp.email
@@ -98601,6 +98634,7 @@ katanganews.cd
 katanyoo.shop
 katanyoo.xyz
 katanyoobattery.com
+kataranmail.com
 katarinakp.se
 katarinalouise.com
 kataskopoi.com
@@ -99246,6 +99280,7 @@ kentuckybourbonwhisky.com
 kentuckygamerss.com
 kentuckyopiaterehab.com
 kentuckyquote.com
+kenturemail.com
 kentvwfestival.co.uk
 kenvanharen.com
 kenweb.ninja
@@ -103467,6 +103502,7 @@ lakarstwo.info
 lakarunyha65jjh.ga
 lake-capital.com
 lake411today.xyz
+lakebamail.com
 lakecharleslandsurveying.com
 lakecitycatt.buzz
 lakeelsinorerentals.com
@@ -103614,6 +103650,9 @@ lampshynesslimp.website
 lamseochuan.com
 lamshop.site
 lamtac.site
+lamtruonglab.com
+lamtruonglab.net
+lamtruongstudio.com
 lamudi.cd
 lamusicaamanseixlesferes.com
 lamutuelle.net
@@ -104102,6 +104141,7 @@ latamdate.review
 latamgateway.io
 latascopasepuros.es
 lataxandbusiness.com
+latbet.click
 latchandsleepbaby.com
 latechnologie.site
 latelierduchef.biz
@@ -106091,6 +106131,7 @@ lienquan.live
 lienquansk2023.com
 lienutile.com
 lienv.xyz
+lienvietlaw.com
 lienzoarte.com
 liepaia.com
 liepaven.cf
@@ -106733,6 +106774,7 @@ linkping.ru
 linkrer.com
 linkrun.xyz
 links-age.com
+links666.net
 linksaverser.com
 linksbobet.mobi
 linkscasino.info
@@ -107947,6 +107989,7 @@ localppc.us
 locals.net
 localsape.com
 localsem.us
+localseoguy.digital
 localserv.no-ip.org
 localshredding.com
 localslots.co
@@ -108350,6 +108393,7 @@ lolwegotbumedlol.com
 lolwithfb.com
 lom-vid8.site
 lom.kr
+lomadrek.my.id
 lomahskdbag.website
 lomaschool.org
 lombaniaga.shop
@@ -118636,6 +118680,7 @@ miteon.com
 mitersaw.buzz
 miterwnrsh.ru
 mitfo.com
+mithilafashionhouse.com
 mithilamart.net
 mithiten.com
 mithnew.online
@@ -118899,6 +118944,7 @@ mktorrent.com
 mktri.app
 mkualpmzac.cfd
 mkurg.com
+mkvesta.io.vn
 mkwang.shop
 mkwmjj.fun
 mkwojj.us
@@ -119351,6 +119397,7 @@ mobilelegend.my.id
 mobilemail365.com
 mobilemailprovider.top
 mobilemanres.com
+mobilemediabd.com
 mobilemeworld.com
 mobilenewsdaily.com
 mobileninja.co.uk
@@ -125409,6 +125456,7 @@ neotrade.ru
 neovalorinvestimento.com
 neoven.us
 neoviro.store
+neovortex.tokyo
 neowavehub.com
 neozora.shop
 nepabrownjw8.online
@@ -129301,6 +129349,7 @@ nurdeas.com
 nurdintv.com
 nurdsgetbad2015.com
 nurefy.info
+nurenterprisebd.com
 nurfuerspam.de
 nurkeremtugmen.buzz
 nurkowania-base.pl
@@ -130783,6 +130832,7 @@ ogclone.com
 ogdencondos.com
 ogemail.com
 oggology.com
+oggymail.net
 oghilj.com
 oghm.com
 oginski.ru
@@ -139831,6 +139881,7 @@ pkvheboh.net
 pkvkartu.com
 pkwaf.com
 pkwccarbnd.pl
+pkwinlogo.com
 pkwreifen.org
 pkxmbh.fun
 pkxxr.live
@@ -146472,6 +146523,7 @@ quangcaouidfb.club
 quanghuan.online
 quangnamfb.com
 quangvps.com
+quanlytinhgon.vn
 quanpzo.click
 quant-heyr.pro
 quant-rr.pro
@@ -152341,6 +152393,7 @@ rmpj.com
 rmpropane.com
 rmqkr.net
 rmr5na.us
+rmrmotorsbd.com
 rms-sotex.pp.ua
 rmsafetysolutions.com
 rmslegalnurse.com
@@ -152894,6 +152947,7 @@ roksbahis61.xyz
 roksbahis79.com
 roksbahis82.com
 rokubetcasino.net
+rokubetsu.com
 rokucollection.com
 rokzrdprvt.space
 rolandcleaning.com
@@ -156356,6 +156410,7 @@ sanmc.tk
 sannyaephc.online
 sannyaephc.ru
 sannyfeina.art
+sanpekomail.com
 sanpietroapostoloceccano.com
 sanprp.com
 sanrage.xyz
@@ -156395,6 +156450,7 @@ santannaenergyservices.biz
 santannawarrantyservices.info
 santaonoriginal4.xyz
 santapop.site
+santaramail.com
 santarosa.com
 santarosaresources.com
 santarosatours.com
@@ -156647,6 +156703,7 @@ satana.cf
 satana.ga
 satana.gq
 satangpoker.com
+satato.com.vn
 satcom.cf
 satcom.ga
 satcom.gq
@@ -158861,6 +158918,7 @@ seoartguruman.com
 seoarticlepowa.com
 seoasshole.com
 seoautomationpro.com
+seoautomationpro.online
 seobacklinks.edu
 seobest.website
 seobich.ru
@@ -159136,6 +159194,7 @@ serkaoblur.xyz
 serkaofauna.xyz
 serkaohype.xyz
 serl.world
+sermailtos.store
 sermonizer853ip.online
 sernativo.com
 serniak.com
@@ -161491,6 +161550,7 @@ simonlychecker.net
 simonmwhite.com
 simonsen.dk
 simonstreams.live
+simpace.edu.vn
 simpacked.com
 simpgava.cf
 simpgava.ga
@@ -170123,6 +170183,7 @@ sz13l7k9ic5v9wsg.gq
 sz13l7k9ic5v9wsg.ml
 sz13l7k9ic5v9wsg.tk
 sz777jiliapp.com
+sz777jililoginapp.com
 sz80ue21y77zmst.com
 szabo.or.at
 szachary.com
@@ -177340,6 +177401,7 @@ toanciamobile.com
 toanmobileapps.com
 toanmobilemarketing.com
 toanpk.site
+toanthinhphatmedical.com
 toaraichee.cf
 toaraichee.ga
 toaraichee.gq
@@ -183095,6 +183157,7 @@ ultranationamy.com
 ultranomads.com
 ultraperformans.online
 ultrapinky.online
+ultrapro.buzz
 ultraschallanlagen.de
 ultraslimdvr.com
 ultrasomail.ru
@@ -185395,6 +185458,7 @@ v8ze.icu
 v9094.com
 v99.store
 v9bet.markets
+v9betse.net
 v9fxq.us
 v9paying.com
 v9pays.com
@@ -185749,6 +185813,7 @@ vanzcloud.web.id
 vaobong88com.net
 vapaka.com
 vaparisy.info
+vape19797.shop
 vapealiciousjuice.com
 vapecasdiesel.com.br
 vapecentral.ru
@@ -186851,6 +186916,7 @@ vevf.com
 vevhjlks.cf
 vevhjlks.ga
 vevhjlks.ml
+vevo.pw
 vevomail.cf
 vevomail.ml
 vevomail.tk

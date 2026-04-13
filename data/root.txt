@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-13T19:14:15.218Z
+# Aggregated blacklist generated on 2026-04-13T20:55:56.965Z
  
 0-30-24.com
 0-attorney.com
@@ -57536,6 +57536,7 @@ dwraygc.com
 dwrf.net
 dwriters.com
 dwse.edu.pl
+dwseal.com
 dwsfhe.us
 dwsongs.net
 dwswd8ufd2tfscu.cf
@@ -123360,6 +123361,7 @@ myperfumeshop.net
 mypersonal.bid
 mypersonal.fun
 mypersonalnewstempest.com
+mypethealh.com
 mypetsrecipes.com
 myphantomemail.com
 myphonam.gq

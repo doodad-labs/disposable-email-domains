@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-13T17:04:05.612Z
+# Aggregated blacklist generated on 2026-04-13T19:14:15.218Z
  
 0-30-24.com
 0-attorney.com
@@ -147006,6 +147006,7 @@ qurea.org
 qureta.net
 qurio.ru
 qurist.com
+qurotak.me
 quto.site
 qutonic.org
 qutzovgerv.ga
@@ -149830,6 +149831,7 @@ reflextekstil.com
 refm.site
 refo.site
 refoeier.site
+reforgesaga.com
 reformabgmail.ru
 reformabymail.com
 reformbigo.xyz

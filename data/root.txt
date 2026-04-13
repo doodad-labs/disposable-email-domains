@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-12T22:34:29.428Z
+# Aggregated blacklist generated on 2026-04-13T02:40:56.915Z
  
 0-30-24.com
 0-attorney.com
@@ -47083,6 +47083,7 @@ crowdpress.it
 crowdstoo.site
 crowdwi.xyz
 crowdwid.xyz
+crowdzone.click
 croweproject.com
 croweteam.com
 crowfiles.shop
@@ -105024,6 +105025,7 @@ legesa.es
 legiastore.com
 legibbean.site
 legion.live
+legion9.online
 legiondesign.ru
 legioninvestingleak.com
 legislamail.ru
@@ -158727,6 +158729,7 @@ semut-kecil.com
 semutireng.com
 semutkecil.com
 semx.cf
+senacloud.email
 senakelem.online
 senang.tech
 senangpoker.site
@@ -167349,6 +167352,7 @@ stolidwiid.space
 stolls.me
 stoloto-lotterypartner.site
 stomach4m.com
+stomatogomail.ru
 stomatolog.pl
 stomatolog4-3d-printery.store
 stomatolomail.ru
@@ -177846,6 +177850,7 @@ tomshoesoutletus.com
 tomsoutletsalezt.com
 tomsoutletw.com
 tomsoutletzt.com
+tomspal.com
 tomsshoeoutletzt.com
 tomsshoesonline4.com
 tomsshoesonsale4.com
@@ -190091,6 +190096,7 @@ w7wdhuw9acdwy.ga
 w7wdhuw9acdwy.gq
 w7wdhuw9acdwy.ml
 w7wdhuw9acdwy.tk
+w80.it
 w8196.com
 w888b.com
 w888info.com
@@ -203514,6 +203520,7 @@ zumrut.xyz
 zumruttepe.com
 zumruttepe.com.tr
 zumy.dev
+zumys.store
 zun-s.icu
 zun00000.com
 zundee.com

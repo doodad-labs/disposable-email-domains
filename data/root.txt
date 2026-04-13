@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-13T11:17:14.700Z
+# Aggregated blacklist generated on 2026-04-13T13:26:21.376Z
  
 0-30-24.com
 0-attorney.com
@@ -31555,6 +31555,7 @@ bmks.com
 bmllw.com
 bmmh.com
 bmmoon.com
+bmoar.com
 bmobilerk.com
 bmomento.com
 bmonlinebanking.com
@@ -44699,6 +44700,7 @@ comprensivosattacarbonia.it
 compress.to
 compressionrelief.com
 compressjpg.io
+comproa.org
 compromissoml.com
 compscorerric.eu
 compservmail.com
@@ -165825,6 +165827,7 @@ spotoaaa.com
 spotoid.com
 spotprem.shop
 spotream.online
+spotshops.com
 spotspeople.com
 spotteddogrestaurant.com
 spottswoods.com

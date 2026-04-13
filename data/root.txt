@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-13T02:40:56.915Z
+# Aggregated blacklist generated on 2026-04-13T06:14:18.415Z
  
 0-30-24.com
 0-attorney.com
@@ -40049,6 +40049,7 @@ chatdig.com
 chateastern.com
 chateauvermontgym.com
 chateauxvip.com
+chatech.site
 chater.com
 chaterba.com
 chatfap.info
@@ -78818,6 +78819,7 @@ grodins.ml
 groei-vandaag.online
 groil.su
 grok-mail.co
+grokheavy.co
 groklan.com
 grokleft.com
 grokosan.website
@@ -113400,6 +113402,7 @@ mannitol.net
 mannnwii.site
 mannogem.com
 mannogem.net
+mannstore.my.id
 manocong.cf
 manocong.ga
 manocong.gq

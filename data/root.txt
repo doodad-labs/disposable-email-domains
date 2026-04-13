@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-13T13:26:21.376Z
+# Aggregated blacklist generated on 2026-04-13T15:15:26.554Z
  
 0-30-24.com
 0-attorney.com
@@ -109675,6 +109675,7 @@ lucysummers.biz
 lucytab.com
 lucyu.com
 luddo.me
+ludejo.fr
 luderi.cf
 luderi.ga
 luderi.gq
@@ -162625,6 +162626,7 @@ skyrtiador.ga
 skyrtiador.tk
 skysip.com
 skysmail.gdn
+skysmail.me
 skytale.net
 skytech.im
 skyterracecondos.com

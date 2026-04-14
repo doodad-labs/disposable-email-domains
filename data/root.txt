@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-14T17:07:23.708Z
+# Aggregated blacklist generated on 2026-04-14T19:15:40.963Z
  
 0-30-24.com
 0-attorney.com
@@ -59509,6 +59509,7 @@ eggrade.com
 eggrockholdings.com
 eggrockmodular.com
 eggscryptoinvest.xyz
+eggso.click
 eggsolution.com
 eggur.com
 eggviews.xyz
@@ -72816,6 +72817,7 @@ gamale.com
 gamamail.tk
 gamar.fun
 gamarraonline.com
+gamau.tech
 gambainc.cfd
 gambarelligroup.com
 gambariosgoalkeeper.club

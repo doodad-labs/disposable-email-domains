@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-14T06:00:26.721Z
+# Aggregated blacklist generated on 2026-04-14T09:17:58.772Z
  
 0-30-24.com
 0-attorney.com
@@ -25790,6 +25790,7 @@ bas0scg0.xyz
 basair.org
 basak.cf
 basak.ml
+basakerrr.digital
 basakerrrrdigital.online
 basakgidapetrol.com
 basakhaber.org
@@ -78072,6 +78073,7 @@ gptnya.me
 gptonesollution.app
 gptonesollution.live
 gptonesollution.tech
+gptpluz.shop
 gptpremapp.me
 gptpremlog.tech
 gptsapp.net
@@ -171745,6 +171747,7 @@ tbteamhehe2.online
 tbteamhehe2.site
 tbttravels.com
 tbuildersw.com
+tbung.tech
 tbupapxq.shop
 tbwzidal06zba1gb.cf
 tbwzidal06zba1gb.ga

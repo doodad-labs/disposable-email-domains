@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-14T09:17:58.772Z
+# Aggregated blacklist generated on 2026-04-14T11:03:05.076Z
  
 0-30-24.com
 0-attorney.com
@@ -143027,6 +143027,7 @@ prgsifmfhq.ga
 prhuws.shop
 priam-partners.com
 priasolo.biz.id
+priasoloid.my.id
 price-depot.com
 price-shop-sale.ru
 price.lease

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-13T22:42:37.124Z
+# Aggregated blacklist generated on 2026-04-14T02:34:21.479Z
  
 0-30-24.com
 0-attorney.com
@@ -78318,6 +78318,7 @@ graphemsemail.com
 graphic-arts-international.com
 graphiccommunicationsinternational.com
 graphiclean.io.vn
+graphiclean.site
 graphictee.store
 graphinasdx.com
 graphite.email
@@ -140643,6 +140644,7 @@ pmcasino-online.ru
 pmchtv.info
 pmcindia.com
 pmck.info
+pmdeal.com
 pmdlt.win
 pmelegend-footwear.com
 pmelegend.clothing
@@ -162133,6 +162135,7 @@ sixlearning.com
 sixleaves.com
 sixmail.online
 sixmail.store
+sixoplus.com
 sixpackdifference.com
 sixsharp.com
 sixsigmaconsultants.com
@@ -166248,6 +166251,7 @@ ssij.pl
 ssinvestimentos.com
 ssisd.com
 ssjohnpaulburl.org
+sskaid.com
 sskifym.site
 sskinus.site
 sskitriy.site
@@ -172608,6 +172612,7 @@ telegra.ph
 telegra.site
 telegraaf-24.host
 telegram.moe
+telegramsignalcopier.com
 telegraphav.com
 telekbird.com.cn
 telekgaring.cf

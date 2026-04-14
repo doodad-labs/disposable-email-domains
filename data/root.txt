@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-14T15:13:22.730Z
+# Aggregated blacklist generated on 2026-04-14T17:07:23.708Z
  
 0-30-24.com
 0-attorney.com
@@ -84810,6 +84810,7 @@ holy-lands-tours.com
 holy-nevis.ru
 holycoweliquid.com
 holyevents.net
+holymoly.buzz
 holyokepride.com
 holypet.ru
 holysmokespr.com
@@ -183252,6 +183253,7 @@ ultrawit.online
 ultraxmail.pw
 ultraz1.io.vn
 ultrazeelwatchluxnow.com
+ultrazzam.buzz
 ultrazzam.online
 ultrazzam.space
 ultrmigos.online

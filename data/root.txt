@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-14T02:34:21.479Z
+# Aggregated blacklist generated on 2026-04-14T06:00:26.721Z
  
 0-30-24.com
 0-attorney.com
@@ -15789,6 +15789,7 @@ alazan.biz
 alazard.info
 alazharhs.org
 alazhs.org
+alazs.us
 alaztagtc.com
 alb-gaming.com
 albadefilippis.com
@@ -21155,6 +21156,7 @@ asab.com
 asacafes.com
 asad1235.shop
 asadfat333.shop
+asadulelectronicsandtelecom.com
 asafdsgadghaddfsg10.cloud
 asafdsgadghadsg1.cloud
 asafdsgadghadsgfg101.cloud
@@ -21811,6 +21813,7 @@ assoia.com
 assomail.com
 assortiekb.ru
 assospirlanta.shop
+assp.info
 asspoo.com
 assrec.com
 asss.net
@@ -27851,6 +27854,7 @@ bestgenericviagra.website
 bestglassbeads.com
 bestglockner.com
 bestglutenfreerecipes.org
+bestgoodmorningquotes.com
 bestgoodsz.com
 bestguccibags.com
 bestguidesapp.com
@@ -35322,6 +35326,7 @@ buyonlinestratterapills.com
 buyordie.info
 buyovz.com
 buypill-rx.info
+buypomeranianpups.com
 buypresentation.com
 buyprice.co
 buyprosemedicine.com
@@ -36209,6 +36214,7 @@ caballo-blanco.com
 caballosonline.net
 cabalpeerage.space
 caban8x.com
+cabancalan.com
 cabangnursalina.net
 cabarrusk12.us.com
 cabddisque.cf
@@ -49752,6 +49758,7 @@ dataarca.com
 dataazurro.com
 datab.info
 databasel.xyz
+databaseluke.com
 databnk.com
 databootcamp.org
 datacenteritalia.cloud
@@ -63128,6 +63135,7 @@ espressomachine.buzz
 esprit-pixel.com
 espritblog.org
 esprity.com
+espublicidades.com
 espun.click
 espycameras.com
 esq-eg.org
@@ -69660,6 +69668,7 @@ footballer.com
 footballfanapp.com
 footballsaintsstore.online
 footballstats24.com
+footballuds.ru
 footbcharlea.cf
 footbcharlea.ga
 footbcharlea.tk
@@ -96175,6 +96184,7 @@ jobsunleashed.vet
 jobthing.us
 jobtoto6.net
 jobtsreet.my
+jobz77.com
 jobzyy.com
 jobzzz.ru
 jocasta.live
@@ -97543,6 +97553,7 @@ justlikesugaruk.com
 justliveentertainment.com
 justlynhfks.email
 justmagicalevents.org
+justmail.click
 justmailorderbrides.com
 justmailservice.info
 justmakesense.com
@@ -112621,6 +112632,7 @@ mailvila.com
 mailvip.info
 mailvip.net
 mailvip.pro.vn
+mailvipclsr.tokyo
 mailviwav.tk
 mailvk.net
 mailvn.cf
@@ -114599,6 +114611,7 @@ mastplants.com
 mastur.be
 masturbates-to.men
 masudcl.com
+masudtraders.com
 masuk.shop
 masukbosku88.com
 masum.cc
@@ -114996,6 +115009,7 @@ maxtommy-ra.ru
 maxtoy3d.club
 maxtrememarketing.com
 maxturns.com
+maxuniversel.com
 maxvm.net
 maxwell-family.net
 maxwin88wins.homes
@@ -117001,6 +117015,7 @@ metastmail.ru
 metastockcyprus.com
 metastudio.net
 metatader4.com
+metatarsophalf.ru
 metathml.com
 metatokens.gg
 metatrader5.blog
@@ -117863,6 +117878,7 @@ mikelaming.biz
 mikelcain.com
 mikelnelson.net
 mikelson.online
+mikelsonmail.site
 mikeolivares.com
 mikepfunk.com
 mikerso.pl
@@ -122007,6 +122023,7 @@ munozrodriguez.me
 munqa.xyz
 munrohk.com
 munster-pizza-limerick.com
+muntahafashionmart.com.bd
 muntane.net
 muntuneky.com
 munx4i.space
@@ -124332,6 +124349,7 @@ namtruong318.com
 namunathapa.com.np
 namushops.site
 namuwikiusercontent.com
+namxuancompany.us
 namyn.com
 nan02.com
 nanabobsgifts.com
@@ -130486,6 +130504,7 @@ odevegec.com
 odgcrimes.com
 odin.city
 odinaklassnepi.net
+odincto.us
 odinsklinge.com
 odishakenduleaves.com
 odiventure.com
@@ -155146,6 +155165,7 @@ saagartakeaway.com
 saaheel.biz
 saaheel.online
 saalaram.com
+saalusna.site
 saamoo.com
 saarcxfp.priv.pl
 saaristomeri.info
@@ -159968,6 +159988,7 @@ shaghayegh1.com
 shagni.com
 shagpals.co
 shagranch.com
+shaguaaini.click
 shagun-swords.com
 shahabart.com
 shahapta.org
@@ -160464,6 +160485,7 @@ shinmortaz.xyz
 shinnemo.com
 shinsplintsguide.info
 shintabachir.art
+shiny-opt.ru
 shiny-star.net
 shinyandchrome.xyz
 shinystagesecretsreviews.com
@@ -171503,6 +171525,7 @@ tatataia.com
 tatbuffremfastgo.com
 tatchongtruot.com
 tatebayashi-zeirishi.biz
+tatefarm.com
 tatekub.info
 tatersik.eu
 tatertots.pw
@@ -174239,6 +174262,7 @@ theatersupport.org
 theatery.com
 theatlasofconsciousness.com
 theatrnmail.com
+theaumos.com
 theautomaticmovement.com
 theautonex.com
 theautothority.us
@@ -175022,6 +175046,7 @@ thenewenglandhouse.com
 thenewjubilee.com
 thenewlife.top
 thenewmadridpost.com
+thenewmobilecenter.com
 thenewmombod.com
 thenewoil.org
 thenewrustic.club
@@ -183425,6 +183450,7 @@ unauthentmails.ru
 unaux.com
 unavida.com
 unawaremail.xyz
+unbakmachinery.com
 unbanq.com
 unbedarft.love
 unbekannt.com
@@ -185023,6 +185049,7 @@ usufrmail.com
 usufrmails.ru
 usuus.com
 usvetcon.com
+uswaid.com
 usweek.net
 usyu.xyz
 usywjsm.xyz
@@ -192204,6 +192231,7 @@ wetteliga25.com
 wetters.ml
 wettertunesien.com
 wettish.best
+wetuns.com
 weturowox.xyz
 wetvibes.com
 wetvnetworks.com
@@ -192706,6 +192734,7 @@ whyhealth.life
 whyiquit.com
 whyitthis.org.ua
 whyiwantout.com
+whyknapp.com
 whymail.store
 whymustcodes.net
 whymustyarz.com
@@ -194018,6 +194047,7 @@ worcesterpartnership.com
 word-literature.xyz
 word-online.eu.org
 word.monster
+wordey.net
 wordfromthebirdblog.com
 wordlab.buzz
 wordmail.click
@@ -194391,6 +194421,7 @@ wowchina.club
 wowclassicbot.com
 wowcorp.com
 wowcream.ru
+woweix.com
 wowgarve.com
 wowgoldy.cz
 wowgrill.ru
@@ -202833,6 +202864,7 @@ zizo7.com
 zizobt.org
 zizozizo8818.shop
 zizuka.info
+zizvy.com
 zj-trade.com
 zjdkoq.best
 zjeondqvva.ga

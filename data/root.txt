@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-15T13:24:35.653Z
+# Aggregated blacklist generated on 2026-04-15T15:05:16.978Z
  
 0-30-24.com
 0-attorney.com
@@ -33330,6 +33330,7 @@ brandbaskit.com
 brandbaskit.net
 brandbaskit.org
 brandbeuro.com
+brandbookstores.com
 brandbuzzpromotions.com
 brandcommerce.biz
 brandcrucial.com

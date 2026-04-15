@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-15T19:18:13.685Z
+# Aggregated blacklist generated on 2026-04-15T20:50:05.119Z
  
 0-30-24.com
 0-attorney.com
@@ -78339,6 +78339,7 @@ graphapi.site
 graphemsemail.com
 graphic-arts-international.com
 graphiccommunicationsinternational.com
+graphiclean.click
 graphiclean.io.vn
 graphiclean.site
 graphictee.store
@@ -143485,6 +143486,7 @@ pro-tag.org
 pro-turism.ru
 pro-zakony.ru
 pro.cloudns.asia
+pro1.buzz
 pro100girl.ru
 pro100magazine.ru
 pro100sp.ru
@@ -183285,6 +183287,7 @@ ultrazeelwatchluxnow.com
 ultrazzam.buzz
 ultrazzam.online
 ultrazzam.space
+ultrazzam12.online
 ultrmigos.online
 ultronbet.com
 ultrtime.org.ua

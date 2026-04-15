@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-14T22:45:23.753Z
+# Aggregated blacklist generated on 2026-04-15T02:32:37.924Z
  
 0-30-24.com
 0-attorney.com
@@ -30915,6 +30915,7 @@ blockblocks.party
 blockbudg.xyz
 blockbusterhits.info
 blockbusterkiosk.com
+blockchain-development-company.xyz
 blockchain-wallet.live
 blockchainalternativeinvestment.com
 blockchainanddefinews.com
@@ -32741,6 +32742,7 @@ borsesvuitton-it.com
 borsety.com
 borsevuittonborse.com
 borsevuittonit1.com
+borstonlinemanagement.com
 borthutin.cf
 borthutin.ga
 borthutin.gq
@@ -77413,6 +77415,7 @@ gonoblamail.com
 gonomaddhom.com
 gonotebook.info
 gonpup.monster
+gonrr.net
 gonse.online
 gontek.pl
 gontour.com
@@ -94690,6 +94693,7 @@ jbnyfd.com
 jbopoker.org
 jbp22.space
 jbso8.us
+jbsze.ne
 jbvbulderbaan.nl
 jbx-hydra-dev.com
 jbxyuoyptm.ga
@@ -138809,6 +138813,7 @@ phongchongvirus.com
 phonghoithao.net
 phongkeha.com
 phongngu.com
+phongphysical.com
 phongpon.click
 phongthuyhomenh.store
 phongthuymanhdat.online
@@ -167438,6 +167443,7 @@ stonemountaindentistry.com
 stonenetworkonline.net
 stonerunapts.com
 stonesinwater.com
+stonethaispa.site
 stoneurope.com
 stonewalldevelopment.net
 stonicx.com
@@ -167540,6 +167546,7 @@ storegmail.net
 storegptone.email
 storegptone.page
 storehasina.shop
+storehouse24.com
 storeide.net
 storeillet.co
 storeinnn.my.id
@@ -189628,6 +189635,7 @@ vthalfpricelistings.com
 vthreadeda.com
 vtigers.com
 vtj0.buzz
+vtmpj.com
 vtmrjkbnrtk.space
 vtnc.com
 vtnjbkt.host
@@ -197317,6 +197325,7 @@ xn--mgbgvi3fi.com
 xn--mgbgz7e0zxg.com
 xn--mgbq7clv.com
 xn--mgmarkt5-9db.com
+xn--mgmarkt8-9db.com
 xn--mgmarkt9-9db.com
 xn--mirn-xpa7a.xyz
 xn--mlareume-9zah.nu

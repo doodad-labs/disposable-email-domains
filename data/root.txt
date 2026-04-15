@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-15T08:01:19.388Z
+# Aggregated blacklist generated on 2026-04-15T11:05:12.510Z
  
 0-30-24.com
 0-attorney.com
@@ -143115,6 +143115,7 @@ primaemi.com
 primails.me
 primalary.ru
 primalburnkenburge.com
+primalhigh.click
 primaperkasa.me
 primaryale.com
 primaryct.com

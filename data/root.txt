@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-15T22:41:16.643Z
+# Aggregated blacklist generated on 2026-04-16T02:39:15.235Z
  
 0-30-24.com
 0-attorney.com
@@ -94701,6 +94701,7 @@ jbnyfd.com
 jbopoker.org
 jbp22.space
 jbso8.us
+jbsze.com
 jbsze.ne
 jbvbulderbaan.nl
 jbx-hydra-dev.com
@@ -100725,6 +100726,7 @@ kjkeane-fineart.com
 kjkj99.net
 kjkjk.com
 kjkmail.xyz
+kjkpc.net
 kjkszpjcompany.com
 kjmnui.com
 kjncascoiaf.ru
@@ -132295,6 +132297,7 @@ onkyo1.com
 onlatedotcom.info
 onlayn-shkola-merkuriy.site
 onlcool.com
+onldm.net
 onleenmag-ruspe.space
 onlen.in
 onlias.com
@@ -172074,6 +172077,7 @@ tealeafsolution.com
 tealeavesone.com
 teallvbs.xyz
 team-affinity.com
+team110.biz.id
 team30.live
 teamails.net
 teamandclub.ga
@@ -189650,6 +189654,7 @@ vthreadeda.com
 vtigers.com
 vtj0.buzz
 vtmpj.com
+vtmpj.net
 vtmrjkbnrtk.space
 vtnc.com
 vtnjbkt.host

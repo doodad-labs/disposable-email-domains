@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-17T14:55:29.479Z
+# Aggregated blacklist generated on 2026-04-17T16:54:47.158Z
  
 0-30-24.com
 0-attorney.com
@@ -140631,6 +140631,7 @@ plumripe.com
 plumrite.com
 plungejunkies.com
 pluniversity.edu.pl
+plup.me
 pluproche.com
 pluralizes785ql.online
 plurilafml.ru

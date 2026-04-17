@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-17T06:03:11.613Z
+# Aggregated blacklist generated on 2026-04-17T09:17:45.878Z
  
 0-30-24.com
 0-attorney.com
@@ -38215,6 +38215,7 @@ castellochinese.com
 castillodepavones.com
 castilloforcongress2020.com
 castillolarry.online
+castipo.my.id
 castiron-jeans.com
 castiron.clothing
 castkidninf.cf
@@ -172682,6 +172683,7 @@ telecommunicattmail.ru
 telecomuplinks.com
 telecomvee.com
 telecomvne.org
+telecore.in
 telectrl.com
 telectro.us
 telefan.ru
@@ -179443,6 +179445,7 @@ transportslogisticssolutions.online
 transqube.com
 transselfies.com
 transsemalis.com
+transsgetrush.de
 trantamnhu.ga
 trantienclone.fun
 trantienclone.online

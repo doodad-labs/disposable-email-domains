@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-17T10:56:04.387Z
+# Aggregated blacklist generated on 2026-04-17T13:20:11.819Z
  
 0-30-24.com
 0-attorney.com
@@ -50815,6 +50815,7 @@ deeded.best
 deedinvesting.info
 deedsondeck.com
 deegitalist.bond
+deegitalist.cloud
 deekayen.us
 deemail.xyz
 deemfit.com

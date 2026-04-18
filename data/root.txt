@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-18T18:52:05.060Z
+# Aggregated blacklist generated on 2026-04-18T20:37:00.561Z
  
 0-30-24.com
 0-attorney.com
@@ -55072,6 +55072,7 @@ dola789download.com
 dolaar.fun
 dolapost.com
 dolarian.com
+dolby.buzz
 dolcemia.net
 dolcher.ru
 dolequ.com
@@ -62136,6 +62137,7 @@ epeiomail.ru
 epeirmalu.ru
 epeiromail.com
 epenpoker.com
+epetsoft.com
 epeva.com
 epewmail.com
 epexegmail.com
@@ -98857,6 +98859,7 @@ kayfilms.top
 kayflife.site
 kaygob.info
 kaygroup.top
+kayilo.com
 kayipesyadepolari.com
 kaykaykay.net
 kayleehaynes.com
@@ -158868,6 +158871,7 @@ sendermail.info
 senderoequities.com
 sendesco.com
 sendfree.org
+sendgrid.ovh
 sendify.email
 sendingspecialflyers.com
 sendisk.com
@@ -167824,6 +167828,7 @@ strawhous.icu
 strawsig.icu
 strawwa.xyz
 stray-apps.com
+strayhood.org
 stread.shop
 stread.tech
 stream-lite.monster
@@ -184655,6 +184660,7 @@ urgechen.com
 urgeinnovationlesson.website
 urgemam.com
 urgentmail.com
+urgentmail.ovh
 urgntx.com
 urhbzvkkbl.ga
 urheeazgqv.ga

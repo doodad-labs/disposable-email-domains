@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-18T08:51:27.230Z
+# Aggregated blacklist generated on 2026-04-18T10:40:18.169Z
  
 0-30-24.com
 0-attorney.com
@@ -194137,6 +194137,7 @@ word-literature.xyz
 word-online.eu.org
 word.monster
 wordey.net
+wordfang.cloud
 wordfromthebirdblog.com
 wordlab.buzz
 wordmail.click

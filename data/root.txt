@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-18T05:41:09.428Z
+# Aggregated blacklist generated on 2026-04-18T07:08:05.933Z
  
 0-30-24.com
 0-attorney.com
@@ -157112,6 +157112,7 @@ sayonara.gq
 sayonara.ml
 saysyouth.org
 saytren.tk
+sayverfox.com
 sayweee.tech
 sayyesyes.com
 sayyyesss.com

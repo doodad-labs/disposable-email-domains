@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-19T08:54:38.497Z
+# Aggregated blacklist generated on 2026-04-19T10:38:48.206Z
  
 0-30-24.com
 0-attorney.com
@@ -60376,6 +60376,7 @@ elizabethscleanremedy.com
 elizathewiz.com
 elizstudio.ru
 eljadida24.org
+eljawir.com
 eljekarna.com
 eljkblwjys.icu
 eljzcl.us

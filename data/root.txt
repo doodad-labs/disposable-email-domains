@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-18T22:35:21.939Z
+# Aggregated blacklist generated on 2026-04-19T02:40:59.046Z
  
 0-30-24.com
 0-attorney.com
@@ -12799,6 +12799,7 @@ acunsleep.gq
 acunsleep.tk
 acuntco.com
 acupkeep.net
+acupunctmalis.com
 acupuncturecharlottenorthcarolina.com
 acupuncturedragon.com
 acupunctureithaca.com
@@ -23867,6 +23868,7 @@ azhour.fr
 azhq.com
 azhrs.us
 azhs.us
+azhsc.us
 aziamail.com
 azie.fun
 azim.one
@@ -25495,6 +25497,7 @@ bankparibas.pl
 bankpay-cfb.ru
 bankpln.com
 bankpravo.ru
+bankqa.blog
 bankrau.com
 bankrobbersindicators.com
 bankrotbankodin.xyz
@@ -54247,6 +54250,7 @@ djsfw.com
 djsjfmdfjsf.com
 djskd.com
 djsys.xyz
+djtenev.com
 djtmechanthe.site
 djubya.us
 djuimaspuu.ga
@@ -54391,6 +54395,7 @@ dll32.ru
 dllonhquan.com
 dllpiper.com
 dllyjamalk.com
+dlmail.cc
 dlman.site
 dlmkme.ga
 dlmkme.ml
@@ -76414,6 +76419,7 @@ gmailh.com
 gmailhost.net
 gmailhre.com
 gmailhre.net
+gmailhub.cloudns.pro
 gmailil.xyz
 gmailines.online
 gmailines.site
@@ -96233,6 +96239,7 @@ jobsunleashed.vet
 jobthing.us
 jobtoto6.net
 jobtsreet.my
+jobw4.com
 jobz77.com
 jobzyy.com
 jobzzz.ru
@@ -96458,6 +96465,7 @@ jokerofalltrades.org
 jokerpoker.best
 jokerpython.tech
 jokerstash.cc
+jokerz.sbs
 jokes.cd
 jokespedia.com
 jokix.org
@@ -99831,6 +99839,7 @@ khali.us
 khaliban.com
 khalifahallah.com
 khalihi.us
+khalihs.us
 khalilnajar.com
 khalilv2.com
 khalinin.cf
@@ -111609,6 +111618,7 @@ mailchior.fr
 mailchop.com
 mailcker.com
 mailclain.space
+mailclick.shop
 mailclient.com
 mailclone.site
 mailclone.top
@@ -112084,6 +112094,7 @@ maillist.in
 mailll.xyz
 mailllc.download
 mailllc.top
+mailllshop.website
 mailloading.com
 maillog.uk
 maillogin.site
@@ -167215,6 +167226,7 @@ stereophotomail.com
 stereopmail.com
 stereoraudp.com
 stereoreceivers.info
+stereotapt.ru
 stereotrmail.ru
 stereotypmy.com
 stereotypoemail.ru
@@ -202182,6 +202194,7 @@ zelenki.net
 zelfe.fun
 zelfe.top
 zelia.online
+zelia.uk
 zelknow.com
 zellatrix.cfd
 zeller.cx

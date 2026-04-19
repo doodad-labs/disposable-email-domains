@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-19T20:38:05.542Z
+# Aggregated blacklist generated on 2026-04-19T22:35:50.819Z
  
 0-30-24.com
 0-attorney.com
@@ -44281,6 +44281,7 @@ columbusschoolhn.org
 columbustaps.com
 columbuswellnessmedicine.com
 columedu.us
+colums.us
 colurmish.com
 colus.us
 coluscho.us
@@ -55199,6 +55200,7 @@ domainlease.xyz
 domainmail.cf
 domainmoi.me
 domainmoi.tech
+domainmurah.online
 domainnamemobile.com
 domainnameoffice.com
 domainnameslife.com
@@ -126618,6 +126620,7 @@ nexgenwebsite.biz
 nexgo.com
 nexhibit.com
 nexhost.nl
+nexio.sbs
 nexio.us
 nexitele.com
 nexlab.pro
@@ -135883,6 +135886,7 @@ panisoxvenezuela.com
 panjalu.digital
 panjalu.nl
 panjalupusat.online
+panjangkeras.cloud
 pank.vin
 pankasyno23.com
 pankasyno30.com
@@ -165591,6 +165595,7 @@ spidercoal.icu
 spiderfracture.com
 spidersales.com
 spiderwamq.ru
+spidez.sbs
 spidite.com
 spielberater.com
 spierdalaj.xyz

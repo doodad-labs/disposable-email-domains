@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-19T07:41:35.216Z
+# Aggregated blacklist generated on 2026-04-19T08:54:38.497Z
  
 0-30-24.com
 0-attorney.com
@@ -171381,6 +171381,7 @@ tap.vin
 tap7p4.site
 tapbuybox.com
 tapchicuoihoi.com
+tapchief.com
 tapchitocdep.com
 tapdash.io
 tapeamos.com

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-19T14:39:31.477Z
+# Aggregated blacklist generated on 2026-04-19T16:40:29.845Z
  
 0-30-24.com
 0-attorney.com
@@ -53154,6 +53154,7 @@ digitalyou.media
 digitalzen.org
 digitalzenithhub.com
 digitalzeroone.com
+digitalzz2.shop
 digitava.com
 digitbeauty.com
 digitchernob.xyz

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-19T10:38:48.206Z
+# Aggregated blacklist generated on 2026-04-19T13:01:32.931Z
  
 0-30-24.com
 0-attorney.com
@@ -78112,6 +78112,7 @@ gptonesollution.app
 gptonesollution.live
 gptonesollution.tech
 gptpluz.shop
+gptpluz2.shop
 gptpremapp.me
 gptpremlog.tech
 gptsapp.net
@@ -133560,6 +133561,7 @@ oregongreencareerpathways.org
 oregonnewspress59.site
 oreidresume.com
 oreilly-depalma.com
+orema.my.id
 oremailing.com
 oremal.com
 oremdoctors.com
@@ -154091,6 +154093,7 @@ ruangbonus.com
 ruangbonus.net
 ruangjawa.com
 ruangkita.online
+ruangpamer.com
 ruangsmk.info
 ruangtes.com
 ruarhitect.ru

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-19T18:51:55.351Z
+# Aggregated blacklist generated on 2026-04-19T20:38:05.542Z
  
 0-30-24.com
 0-attorney.com
@@ -34490,6 +34490,7 @@ budapestsegwaytour.com
 budapeststagdoactivities.com
 budaundarshan.com
 budaya-tionghoa.com
+budayasantri.com
 budayationghoa.com
 budbankrot.xyz
 budded.site
@@ -66465,6 +66466,7 @@ fbhoreku.my.id
 fbhotro.com
 fbi.one
 fbiagent.cyou
+fbinis.biz.id
 fbins607.com
 fbinsta.click
 fbinsta.shop
@@ -117019,6 +117021,7 @@ met5fercj18.ga
 met5fercj18.gq
 met5fercj18.ml
 met5fercj18.tk
+meta-ads.icu
 meta-bet.ru
 meta-forum.ru
 meta-support-12sk6xj81.com
@@ -142185,6 +142188,7 @@ powell1.net
 power-leveling-service.com
 power-shopping.info
 power5mastermind.com
+poweradxas.online
 powerballtobog.com
 powerbike.de
 powercenternj.com

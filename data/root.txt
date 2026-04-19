@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-19T05:58:16.902Z
+# Aggregated blacklist generated on 2026-04-19T07:41:35.216Z
  
 0-30-24.com
 0-attorney.com
@@ -43196,6 +43196,7 @@ clubnika-elitecasino.website
 clubnika-play.buzz
 clubnika-vault.top
 clubnika-zone.buzz
+clubnikagames777guide.top
 cluboholic.com
 clubonline.top
 clubpetancavelez.es
@@ -47297,6 +47298,7 @@ cryptoboss-wildcard.beauty
 cryptoboss-wildcard.click
 cryptoboss-wildcard.lat
 cryptoboss-wildcard.top
+cryptoboss-zerkaloss.top
 cryptoboss.wiki
 cryptoboss023.site
 cryptoboss101.site
@@ -79121,6 +79123,7 @@ gsasearchengineranker.services
 gsasearchengineranker.shop
 gsasearchengineranker.site
 gsasearchengineranker.space
+gsasearchengineranker.support
 gsasearchengineranker.top
 gsasearchengineranker.xyz
 gsasearchenginerankerdiscount.com
@@ -197411,6 +197414,7 @@ xn--mgmarkt5-9db.com
 xn--mgmarkt6-9db.com
 xn--mgmarkt8-9db.com
 xn--mgmarkt9-9db.com
+xn--mgmrket6-px0d.com
 xn--mirn-xpa7a.xyz
 xn--mlareume-9zah.nu
 xn--mlarnuppsala-tcb.se

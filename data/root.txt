@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-20T11:24:16.190Z
+# Aggregated blacklist generated on 2026-04-20T13:42:52.097Z
  
 0-30-24.com
 0-attorney.com
@@ -3411,6 +3411,7 @@
 268gmail.com
 2694445.com
 269ac.com
+26ai.org
 26c7.club
 26ca93.xyz
 26cc.top
@@ -17981,6 +17982,7 @@ anakavi.net
 anakayam99.live
 anakcapcut.store
 anakharam.online
+anakindonesiamenghafal.com
 anakjalanan.ga
 anakjembutad.cf
 anakjembutad.ga
@@ -78376,6 +78378,7 @@ graphemsemail.com
 graphic-arts-international.com
 graphiccommunicationsinternational.com
 graphicedge.click
+graphicedge.io.vn
 graphicedge.site
 graphicedge.tokyo
 graphiclean.click

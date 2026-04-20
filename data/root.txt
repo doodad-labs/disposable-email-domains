@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-20T09:57:57.179Z
+# Aggregated blacklist generated on 2026-04-20T11:24:16.190Z
  
 0-30-24.com
 0-attorney.com
@@ -176275,6 +176275,7 @@ ticemail.xyz
 ticgris.com
 tichala.shop
 tichenorsauto.com
+tichxanhabc.com
 tickedmail.ru
 ticket-please.ga
 ticket.gifts

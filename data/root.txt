@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-21T11:06:41.067Z
+# Aggregated blacklist generated on 2026-04-21T13:26:57.714Z
  
 0-30-24.com
 0-attorney.com
@@ -80447,6 +80447,7 @@ hackingtruths.net
 hackingyourfunnel.com
 hackiz.com
 hacklet.com
+hacknapp.com
 hackney.gov.uk
 hacknophobia.net
 hackrz.xyz
@@ -138225,6 +138226,7 @@ perthusedcars.co.uk
 perthwrite.com
 pertinem.ml
 pertinenthersavira.net
+pertok.com
 pertomail.top
 pertoys.shop
 pertusari.com
@@ -172337,6 +172339,7 @@ techchamak.com
 techclouder.tech
 techcreative.us
 techcz.com
+techdan.site
 techdevacademy.info
 techdf.com
 techdigitalinc.com

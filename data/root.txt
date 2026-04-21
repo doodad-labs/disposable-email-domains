@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-21T17:01:54.868Z
+# Aggregated blacklist generated on 2026-04-21T19:12:11.774Z
  
 0-30-24.com
 0-attorney.com
@@ -14733,6 +14733,7 @@ ai4000.com
 ai4trade.info
 ai6188.com
 ai6554.com
+aiaccount.click
 aiadvertising.xyz
 aiafhg.com
 aiafrica.xyz
@@ -14761,6 +14762,7 @@ aichristmas.xyz
 aici.me
 aiciphering.com
 aiclbd.com
+aiclit.asia
 aicogz.com
 aicomplete.com
 aicraft.agency
@@ -15223,6 +15225,9 @@ aisquad.net
 aist-lipetsk.ru
 aistis.xyz
 aistocks.xyz
+aisubpro.click
+aisubstore.click
+aisupply.click
 aisushigranada.com
 aiswitzerland.xyz
 ait-light.com
@@ -68213,6 +68218,7 @@ firmspp.com
 firmtoon.com
 firmyuradres.xyz
 fironia.com
+firpurwa.me
 firrior.ru
 firsatmarketim.com
 firsharlea.cf
@@ -128870,6 +128876,7 @@ novartismails.com
 novasagres.com
 novashere.site
 novastreams661.xyz
+novasub.click
 novataim.com
 novatiz.com
 novauniverse.org
@@ -154969,6 +154976,7 @@ ryzdgwkhkmsdikmkc.ga
 ryzdgwkhkmsdikmkc.gq
 ryzdgwkhkmsdikmkc.tk
 ryzenmail.com
+ryzid.com
 ryznmail.web.id
 rz1.uk
 rz5ha8.site
@@ -189607,6 +189615,7 @@ vrloco.com
 vrmmeh.com
 vrmqacrq.shop
 vrmtr.com
+vrockleads.shop
 vroomvroomvroom.rentals
 vropin.click
 vrou.cf

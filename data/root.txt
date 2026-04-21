@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-21T15:13:16.640Z
+# Aggregated blacklist generated on 2026-04-21T17:01:54.868Z
  
 0-30-24.com
 0-attorney.com
@@ -167929,6 +167929,7 @@ streamtv.biz.id
 streamtv2pc.com
 streamup.ru
 streamwatchtv.live
+streamwolf.store
 streamzt.org
 streamzy.cyou
 streber24.de

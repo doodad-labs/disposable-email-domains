@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-20T22:42:46.452Z
+# Aggregated blacklist generated on 2026-04-21T02:36:00.626Z
  
 0-30-24.com
 0-attorney.com
@@ -26226,6 +26226,7 @@ bbl4.net
 bblfintness.in
 bblogstormn.site
 bblounge.co.za
+bbmail.store
 bbmail.win
 bbmindustriesinc.com
 bbmoe.com
@@ -143497,6 +143498,7 @@ priyomail.net
 priyomail.nl
 priyomail.org
 priyomail.ovh
+priyomail.site
 priyomail.top
 priyomail.uk
 priyomail.us
@@ -201136,6 +201138,7 @@ ytoof.app
 ytownhub.sbs
 ytparks.net
 ytpayy.com
+ytpremium.store
 ytpza.space
 ytpzcsf.site
 ytqou.space

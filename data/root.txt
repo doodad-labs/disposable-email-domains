@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-21T02:36:00.626Z
+# Aggregated blacklist generated on 2026-04-21T06:02:40.121Z
  
 0-30-24.com
 0-attorney.com
@@ -14157,6 +14157,7 @@ agaigoizalo.com
 againautoparts.info
 againautoparts.net
 againsa.site
+againstity.com
 againstsa.shop
 againsughu.website
 agallagher.id
@@ -44269,6 +44270,7 @@ coltonpower.com
 coltprint.com
 colud.us
 columbcasino.ru
+columbce.us
 columbianagency.com
 columbiapopalock.com
 columbus-edu.us
@@ -75093,6 +75095,7 @@ ghatkhl.us
 ghatkhs.us
 ghatks.us
 ghats.us
+ghatsh.us
 ghbceyuunw.ga
 ghcj.com
 ghcptmvqa.pl
@@ -76873,6 +76876,7 @@ goaaogle.site
 goabaltihouse.com
 goacardonationok.haus
 goacc.ru
+goacter.com
 goaction.club
 goadjunipergive.website
 goaglie.com
@@ -83653,6 +83657,7 @@ hideweb.xyz
 hidezzdnc.com
 hidheadlightconversion.com
 hidingmail.com
+hidingmail.net
 hidjuhxanx9ga6afdia.cf
 hidjuhxanx9ga6afdia.ga
 hidjuhxanx9ga6afdia.gq
@@ -94752,6 +94757,7 @@ jbp22.space
 jbso8.us
 jbsze.com
 jbsze.ne
+jbsze.net
 jbvbulderbaan.nl
 jbx-hydra-dev.com
 jbxyuoyptm.ga
@@ -111676,6 +111682,7 @@ mailcua.com
 mailcua.cyou
 mailcua.store
 mailcuatoi.click
+mailcucvipno1.online
 mailcuk.com
 mailculture.xyz
 mailcupp.com
@@ -112056,6 +112063,7 @@ mailkom.site
 mailkon.com
 mailkor.xyz
 mailkp.pro
+mailkryza.online
 mailksders.com
 mailku.co
 mailku.kozow.com
@@ -162027,6 +162035,7 @@ sipinitial.top
 sipintar.com
 sipkamedia.com
 sippingonhistory.org
+sippusud.com
 sipstrore.com
 siptogel.org
 siptrunkvoipbusinessphone.shop

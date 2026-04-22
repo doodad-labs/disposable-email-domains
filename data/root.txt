@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-22T17:00:50.230Z
+# Aggregated blacklist generated on 2026-04-22T19:13:19.650Z
  
 0-30-24.com
 0-attorney.com
@@ -82244,6 +82244,7 @@ he8he.com
 he903.com
 heaa.info
 headachetreatment.net
+headcc.io.vn
 headincloud.com
 headlineglobally.xyz
 headpack.org.ua

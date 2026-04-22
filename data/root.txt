@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-22T13:27:28.595Z
+# Aggregated blacklist generated on 2026-04-22T15:13:33.285Z
  
 0-30-24.com
 0-attorney.com
@@ -156415,6 +156415,7 @@ samueloppong.com
 samuelsanjose.com
 samuelstcyr.com
 samuelz.dev
+samvix.life
 samye.cd
 san-maria-takeaway.com
 san-marino-nedv.ru

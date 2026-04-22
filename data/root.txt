@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-21T22:37:40.168Z
+# Aggregated blacklist generated on 2026-04-22T02:34:32.488Z
  
 0-30-24.com
 0-attorney.com
@@ -5883,6 +5883,7 @@
 4headhunters.com
 4heartskombucha.com
 4heat.ru
+4heats.com
 4herbs.com
 4hickory.com
 4hiking.com
@@ -78400,6 +78401,7 @@ grapevinegroup.com
 graphapi.site
 graphemsemail.com
 graphic-arts-international.com
+graphicbulk.site
 graphiccommunicationsinternational.com
 graphicedge.click
 graphicedge.io.vn
@@ -78409,6 +78411,7 @@ graphiclean.click
 graphiclean.io.vn
 graphiclean.site
 graphiclean.tokyo
+graphiclens.site
 graphictee.store
 graphinasdx.com
 graphite.email
@@ -91969,6 +91972,7 @@ intrxi6ti6f0w1fm3.ml
 intrxi6ti6f0w1fm3.tk
 intsv.net
 inttec.com
+intualis.biz.id
 intuicaofeminino.com
 intuitivefund.com
 intuitivehealingprogram.com
@@ -121936,6 +121940,7 @@ muglavo.tk
 mugmail.store
 mugshots.fun
 mugsnbuds.com
+mugstock.com
 mugua1.com
 muguafu.com
 muhabbetkusufiyatlari.com
@@ -132644,6 +132649,7 @@ onlyuzed.com
 onlyways.ru
 onlywedding.ru
 onmagic.ru
+onmahdihh.fun
 onmail.fun
 onmail.store
 onmail.top
@@ -141100,6 +141106,7 @@ pois0n.su
 poisedtoshrike.com
 poisoncycles.com
 poisontech.net
+poisonword.com
 poissonsvivants.info
 poistaphdes.cf
 poistaphdes.ga
@@ -164753,6 +164760,7 @@ sopowstran.cf
 sopowstran.ga
 sopowstran.gq
 sopowstran.tk
+soppat.com
 sopranojo.ru
 sopranomaster.com
 sopranospizzeriawaterford.com

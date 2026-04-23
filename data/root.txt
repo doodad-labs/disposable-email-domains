@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-23T19:08:35.489Z
+# Aggregated blacklist generated on 2026-04-23T20:52:49.356Z
  
 0-30-24.com
 0-attorney.com
@@ -11472,6 +11472,7 @@ aabpm.xyz
 aabspoti.fun
 aabvf.xyz
 aac8.xyz
+aachendate.de
 aacnw.xyz
 aacons.site
 aacr.com
@@ -40120,6 +40121,7 @@ chatgptgo.web.id
 chatgptku.cloud
 chatgptku.com
 chatgptku.pro
+chatgptmail.shop
 chatgpto.nl
 chatgptt.biz.id
 chatgptuk.pp.ua
@@ -53040,6 +53042,8 @@ digi-value.fr
 digi-women.com
 digi1s.com
 digiactiveai.com
+digibeast.my
+digibeast.store
 digibeat.pl
 digibet.biz
 digibet.net
@@ -60977,6 +60981,7 @@ emailmobile.net
 emailmom.top
 emailmonkey.club
 emailmu.xyz
+emailmuaqat.shop
 emailmultimedia.com
 emailmynn.com
 emailmysr.com
@@ -124667,6 +124672,8 @@ narrereste.ml
 narrowmouthed.ru
 narsaab.site
 narsan.ru
+narsub.online
+narsub.shop
 narthehpnk.space
 narublevku.ru
 narushiteli.info
@@ -152089,6 +152096,7 @@ rikasprems.ga
 rikekvinner.com
 rikemail.com
 rikkalove.top
+riko.my
 riko.site
 rikofly.com
 rikpeduli.org
@@ -174513,6 +174521,7 @@ thebeautybargain.one
 thebegoodtanyas.com
 thebenefit.xyz
 thebest4ever.com
+thebest73.shop
 thebestacupuncturedavenport.com
 thebestanimals.fun
 thebestarticles.org

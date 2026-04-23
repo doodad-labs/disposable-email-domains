@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-23T15:52:54.219Z
+# Aggregated blacklist generated on 2026-04-23T17:20:11.511Z
  
 0-30-24.com
 0-attorney.com
@@ -30484,6 +30484,7 @@ bjorn-frantzen.art
 bjornmeulendijks.online
 bjorwi.autos
 bjorwi.click
+bjorwi.site
 bjorwi.space
 bjorwi.store
 bjq53.space
@@ -200335,6 +200336,7 @@ yodt.site
 yodw2020.site
 yodx.ro
 yody.cloud
+yoeki.my.id
 yoenjins.com
 yoex0s.us
 yofashops.site

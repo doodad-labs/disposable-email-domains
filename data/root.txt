@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-23T11:08:22.106Z
+# Aggregated blacklist generated on 2026-04-23T13:42:44.356Z
  
 0-30-24.com
 0-attorney.com
@@ -116572,6 +116572,7 @@ memlekettenevime.xyz
 memo-news.com
 memonetwork.net
 memoney.site
+memoniclife.online
 memoovie.site
 memoovo.com
 memorafmk.com
@@ -116949,6 +116950,7 @@ merotx.com
 merpare.ml
 merpare.tk
 merpati.live
+merqola.biz.id
 merrellshoesale.com
 merrilgentle.com
 merrittnils.ga

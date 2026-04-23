@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-22T22:48:09.257Z
+# Aggregated blacklist generated on 2026-04-23T02:38:13.508Z
  
 0-30-24.com
 0-attorney.com
@@ -55527,6 +55527,7 @@ dontsmtp.me
 dontsp.am
 dontspammy.email
 dontstress.online
+donumart.com
 donusumekatil.com
 donutkidsclub.hk
 donutpalace.com

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-23T02:38:13.508Z
+# Aggregated blacklist generated on 2026-04-23T06:05:39.896Z
  
 0-30-24.com
 0-attorney.com
@@ -18125,6 +18125,7 @@ ancientcivil.com
 ancientsa.online
 ancientwords.mobi
 anckrmail.com
+ancok.biz.id
 ancok.host
 ancok.my.id
 anconadue.it
@@ -30481,7 +30482,9 @@ bjork.pics
 bjork.rest
 bjorn-frantzen.art
 bjornmeulendijks.online
+bjorwi.autos
 bjorwi.click
+bjorwi.space
 bjq53.space
 bjqjvtodz.shop
 bjs-team.com
@@ -50848,6 +50851,7 @@ deedinvesting.info
 deedsondeck.com
 deegitalist.bond
 deegitalist.cloud
+deegitalist.web.id
 deekayen.us
 deemail.xyz
 deemfit.com
@@ -62065,6 +62069,7 @@ enwi7gpptiqee5slpxt.tk
 enwsueicn.com
 eny.kr
 eny.pl
+enyashan.cfd
 enypoh.us
 enzomail.tk
 enzon.site
@@ -66377,6 +66382,7 @@ fayesilag.com
 fayiman.com
 faynexfarma.site
 faynexpharma.club
+fayrozaa.shop
 fazamail.com
 fazdnetc.com
 faze.biz
@@ -80740,6 +80746,7 @@ haizi360.com
 haizz.com
 haja.me
 hajckiey2.pl
+hajiher.biz.id
 hajmail.store
 hak-pol.pl
 hakandurmaz.live
@@ -143637,6 +143644,7 @@ pro13pro.top
 pro2mail.net
 pro33.icu
 pro5g.com
+pro7.icu
 proactivechirowellness.net
 proactiveinnovations.store
 proadech.com

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-24T11:06:29.507Z
+# Aggregated blacklist generated on 2026-04-24T13:23:56.013Z
  
 0-30-24.com
 0-attorney.com
@@ -39043,6 +39043,7 @@ celebfap.net
 celebleak.co
 celebmarket.net
 celebmetrics.com
+celebnewsss.com
 celebracionco.com
 celebrante.com
 celebratelifebc.info
@@ -200359,6 +200360,7 @@ yodp.site
 yodq.site
 yodt.site
 yodw2020.site
+yodwg.sbs
 yodx.ro
 yody.cloud
 yoeki.my.id

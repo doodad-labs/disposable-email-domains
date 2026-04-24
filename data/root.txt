@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-23T22:43:28.946Z
+# Aggregated blacklist generated on 2026-04-24T02:38:26.421Z
  
 0-30-24.com
 0-attorney.com
@@ -190883,6 +190883,7 @@ warmail.store
 warman.global
 warmbreezemail.com
 warmence.com
+warmeta.net
 warmion.com
 warmmail.com
 warmmail.online
@@ -200597,6 +200598,7 @@ youinspiredfitness.com
 youinweb.xyz
 youjury.com
 youjustgotbranded.com
+youk.biz.id
 youke1.com
 youkiss-me.online
 youknow.blog

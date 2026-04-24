@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-24T02:38:26.421Z
+# Aggregated blacklist generated on 2026-04-24T06:07:41.538Z
  
 0-30-24.com
 0-attorney.com
@@ -30487,6 +30487,8 @@ bjork.rest
 bjorn-frantzen.art
 bjornmeulendijks.online
 bjorwi.autos
+bjorwi.buzz
+bjorwi.cfd
 bjorwi.click
 bjorwi.site
 bjorwi.space
@@ -88957,6 +88959,7 @@ igcl5axr9t7eduxkwm.ml
 igcl5axr9t7eduxkwm.tk
 igclonesale.online
 igcodemail.com
+igcodemail1.com
 igcwellness.us
 igdinhcao.click
 igdinhcao.com
@@ -90157,6 +90160,7 @@ inboxnow.ru
 inboxnow.store
 inboxorigin.com
 inboxpro.top
+inboxpro247.click
 inboxproxy.com
 inboxrapid.cfd
 inboxrefresh.com
@@ -109860,6 +109864,7 @@ luepotho.ml
 lufaf.com
 lufcfans.website
 luffem.com
+luffygadgets.com
 luffygod.me
 lufi.lu
 lufrand.ru
@@ -112849,6 +112854,7 @@ mailzi.ru
 mailzilla.com
 mailzilla.org
 mailzinoit.com
+mailzone38.click
 mailzxc.pl
 mailzy.org
 maimare.site
@@ -125852,6 +125858,7 @@ netaxistech.com
 netbonking.com
 netbruger.dk
 netchilee.cl
+netclick82.click
 netcol.club
 netcom.com
 netcom.ws
@@ -160062,6 +160069,7 @@ sgb-itu-bangsat.ml
 sgb-itu-bangsat.tk
 sgb-sukabumi.com
 sgb.team
+sgbteam.co
 sgbteam.ga
 sgbteam.nl
 sgbteambalikpapan.me
@@ -191037,6 +191045,7 @@ washoeschool.org
 washstnqzz.ru
 wasimismail.com
 wasistforex.net
+waskat.id
 waskitacorp.cf
 waskitacorp.ga
 waskitacorp.gq
@@ -196081,6 +196090,7 @@ xekes.com
 xekeshop.site
 xelacade.site
 xelevirtyl.shop
+xelio.sbs
 xelix.biz.id
 xellonprime.com
 xelm.com

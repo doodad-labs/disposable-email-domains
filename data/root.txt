@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-24T16:56:58.092Z
+# Aggregated blacklist generated on 2026-04-24T18:52:27.653Z
  
 0-30-24.com
 0-attorney.com
@@ -41796,6 +41796,7 @@ cimas.info
 cimatop.es
 cimit.site
 cimnfg.com
+cimpta.biz.id
 cims-india.com
 cimsimm.ga
 cinchapi.org
@@ -108485,6 +108486,7 @@ lokingmi.cf
 lokingmi.gq
 lokingmi.ml
 lokis.com
+lokiscat.cyou
 lokitwcx.space
 lokka.net
 lokkju.com
@@ -158537,6 +158539,7 @@ seedscommerce.com
 seedspeed.site
 seedtein.com
 seedue.cd
+seedx.site
 seegars.com
 seegetaway.site
 seeingoffer.com

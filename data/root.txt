@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-25T16:41:07.317Z
+# Aggregated blacklist generated on 2026-04-25T18:53:40.376Z
  
 0-30-24.com
 0-attorney.com
@@ -109897,6 +109897,7 @@ luckywinner.vegas
 luclyvitamin.com
 lucrandoonline.tech
 lucrasystems.com
+lucu.mom
 lucubunga.org
 lucvu.com
 lucyd.xyz
@@ -115443,6 +115444,7 @@ mbpro2.xyz
 mbroundhouseaquarium.org
 mbryonatemail.com
 mbs.re
+mbsc.tech
 mbsho.com
 mbsl.com
 mbstoto.biz

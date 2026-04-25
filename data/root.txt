@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-25T10:43:07.540Z
+# Aggregated blacklist generated on 2026-04-25T13:04:37.418Z
  
 0-30-24.com
 0-attorney.com
@@ -78483,6 +78483,7 @@ graphicedge.click
 graphicedge.io.vn
 graphicedge.site
 graphicedge.tokyo
+graphicenda.site
 graphiclean.click
 graphiclean.io.vn
 graphiclean.site
@@ -99220,6 +99221,7 @@ kebabgironacoloma.com
 kebabhouse-kilkenny.com
 kebabhouse-laois.com
 kebabishcosladacoslada.com
+kebajek.biz.id
 kebandara.com
 kebl0bogzma.ga
 kebmail.com
@@ -111430,6 +111432,7 @@ mail1003.click
 mail1004.click
 mail1005.click
 mail101.xyz
+mail1012.shop
 mail102.ru
 mail10m.com
 mail10p.com
@@ -173613,6 +173616,7 @@ tengger.live
 tenghen.site
 tengicungduoc.it.com
 tengyunyule.com
+tenhepe.tech
 tenhub.uk
 tenia578at.online
 tenikla.cf

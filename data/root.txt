@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-25T13:04:37.418Z
+# Aggregated blacklist generated on 2026-04-25T14:41:24.342Z
  
 0-30-24.com
 0-attorney.com
@@ -36545,6 +36545,7 @@ cakabahis.com
 cakdays.com
 cakdays.store
 cake99.ml
+cakecaine.web.id
 cakegroupusa.com
 cakeitzwo.com
 cakemayor.com

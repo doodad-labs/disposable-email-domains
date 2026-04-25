@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-25T05:47:57.537Z
+# Aggregated blacklist generated on 2026-04-25T07:16:51.999Z
  
 0-30-24.com
 0-attorney.com
@@ -78488,6 +78488,7 @@ graphiclean.io.vn
 graphiclean.site
 graphiclean.tokyo
 graphiclens.site
+graphiclever.site
 graphicmen.site
 graphictee.store
 graphinasdx.com

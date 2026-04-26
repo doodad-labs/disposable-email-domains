@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-26T16:42:12.719Z
+# Aggregated blacklist generated on 2026-04-26T18:55:10.467Z
  
 0-30-24.com
 0-attorney.com
@@ -40131,6 +40131,7 @@ chastellc.com
 chasteprojectgroupe.com
 chasvede.info
 chat-ai.fun
+chat-gpt.web.id
 chat-wa.click
 chat.supplies
 chat080.net

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-26T13:07:03.786Z
+# Aggregated blacklist generated on 2026-04-26T14:42:44.501Z
  
 0-30-24.com
 0-attorney.com
@@ -11671,6 +11671,7 @@ abastonet.org
 abate08.com
 abatido.com
 abatiscapitalus.com
+abaww.my.id
 abaxmail.com
 abaytiegypt.com
 abb.dns-cloud.net

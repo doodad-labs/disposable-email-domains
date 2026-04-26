@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-26T14:42:44.501Z
+# Aggregated blacklist generated on 2026-04-26T16:42:12.719Z
  
 0-30-24.com
 0-attorney.com
@@ -36551,6 +36551,7 @@ cakabahis.com
 cakdays.com
 cakdays.store
 cake99.ml
+cakecaine.biz.id
 cakecaine.web.id
 cakegroupusa.com
 cakeitzwo.com
@@ -41972,6 +41973,7 @@ circlebpo.com
 circlechat.org
 circlenervesmooth.website
 circlesickness.com
+circlesosmed.com
 circlestarranch.info
 circlingtables.com
 circuitosa.com
@@ -169682,6 +169684,7 @@ surat.ddnsfree.com
 suratdirectory.com
 suratex.com
 suratku.dynu.net
+suratmail.dedyn.io
 suratmailmessage.web.id
 suratuntukpresiden.org
 surbhimisrasportsfoundation.com

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-26T10:44:16.785Z
+# Aggregated blacklist generated on 2026-04-26T13:07:03.786Z
  
 0-30-24.com
 0-attorney.com
@@ -41836,6 +41836,7 @@ cimatop.es
 cimit.site
 cimnfg.com
 cimpta.biz.id
+cimpta.web.id
 cims-india.com
 cimsimm.ga
 cinchapi.org

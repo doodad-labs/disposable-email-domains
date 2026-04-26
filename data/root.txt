@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-26T20:38:22.514Z
+# Aggregated blacklist generated on 2026-04-26T22:38:07.686Z
  
 0-30-24.com
 0-attorney.com
@@ -30520,6 +30520,7 @@ bjorwi.autos
 bjorwi.buzz
 bjorwi.cfd
 bjorwi.click
+bjorwi.rest
 bjorwi.site
 bjorwi.space
 bjorwi.store

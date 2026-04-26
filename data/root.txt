@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-25T22:37:12.987Z
+# Aggregated blacklist generated on 2026-04-26T02:44:09.369Z
  
 0-30-24.com
 0-attorney.com
@@ -17323,6 +17323,7 @@ alyxm.uk
 alzem.xyz
 alzeri.com
 alzh.us
+alzhar.us
 alzheimerslibrary.com
 alzhelpnow.com
 alzhs.org
@@ -23901,6 +23902,7 @@ azhq.com
 azhrs.us
 azhs.us
 azhsc.us
+azhsch.org
 aziamail.com
 azie.fun
 azim.one
@@ -25344,6 +25346,7 @@ banana.is-cool.dev
 banana18.com
 bananabreadrecipes.xyz
 bananacc.site
+bananacompany.us
 bananadream.site
 bananafarming.net
 bananamail.org
@@ -26713,6 +26716,7 @@ beasleyclu.com
 beastagram.com
 beastemail.com
 beastmagic.com
+beastmail.biz
 beastmail.space
 beastmailer.com
 beastpanda.com
@@ -34366,6 +34370,7 @@ btd4p9gt21a.tk
 btdavis.com
 bte.edu.vn
 bteditor.com
+bteg3n.click
 btemp.com
 btexch.com
 btexchange1.live
@@ -85992,6 +85997,7 @@ hotmazil.fr
 hotmcail.com
 hotmeal.com
 hotmediamail.com
+hotmeel.com
 hotmegamails.xyz
 hotmeil.fr
 hotmeil.it
@@ -90507,6 +90513,7 @@ individualbased.com
 individualistiymail.com
 individuative.best
 individusmail.ru
+indivifml.com
 indivimail.com
 indivismail.ru
 indkarta.org
@@ -96821,6 +96828,7 @@ joseanovip.com
 josedelcorral.es
 josefadventures.org
 josefasinculpa.com
+josefbarak.com
 joseihorumon.info
 josekacowicz.com
 josepabloweb.com
@@ -98968,6 +98976,7 @@ kavbc6fzisxzh.tk
 kavbet70.com
 kavbet71.com
 kavbet72.com
+kavkazmaz.ru
 kavlingpro.my.id
 kavory.site
 kavxx.xyz
@@ -103492,6 +103501,7 @@ labtoad.com
 labubutoymkt.site
 labum.com
 labunadawati.io
+labuncame.com
 laburnumtree.ru
 labvalesousa.pt
 labworld.org
@@ -117128,6 +117138,7 @@ mesquitagroup.co.mz
 mesquite.org
 mesquiteaccidentattorney.com
 mesquiteinjurylawyers.com
+mesquiteplumbing.com
 mesquitetexaschiropractor.com
 mesradsfi.cf
 mesradsfi.ml
@@ -159018,6 +159029,7 @@ semiaemail.ru
 semiasphalticflux.ru
 semiautml.ru
 semiautomail.com
+semiautomkl.ru
 semiautomli.com
 semicemail.com
 semidesigns.com
@@ -172992,6 +173004,7 @@ telemessage.com
 telemetmail.ru
 telemetrfl.com
 telemetricop.com
+telemiracle.com
 telemol.club
 telemol.fun
 telemol.online
@@ -177067,6 +177080,7 @@ tipsvk.best
 tipsygirlnyc.com
 tiptop.az
 tiptopik.tech
+tiptopmail.top
 tiptrip.ru
 tipuni.com
 tiqmlv.ru
@@ -191754,6 +191768,7 @@ webdesigrsbio.gr
 webdespro.ru
 webdev-pro.ru
 webdevex.com
+webdisk.lol
 webearnia.com
 webeditonline.info
 webehere.net

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-26T02:44:09.369Z
+# Aggregated blacklist generated on 2026-04-26T06:06:30.413Z
  
 0-30-24.com
 0-attorney.com
@@ -39408,6 +39408,7 @@ ceplik.xyz
 cepllc.com
 ceplok.xyz
 cepluk.xyz
+cepo63.eu.org
 cepwslow.works
 ceramiccoffecups.com
 ceramicdinos.com
@@ -53248,6 +53249,7 @@ digiteers-fuss.com
 digitex.ga
 digitex.gq
 digitisebd.xyz
+digitlolo.web.id
 digitora.my.id
 digitrillion.com
 digiuoso.com
@@ -62762,6 +62764,7 @@ erikkaestner086.xyz
 eriksen.dk
 eriksendesign.com
 erikthorsen.com
+erimim3ji9n349j439349340943.webredirect.org
 erinaria.info
 erindalton.net
 erindog.shop
@@ -99011,6 +99014,7 @@ kaxks55ofhkzt5245n.gq
 kaxks55ofhkzt5245n.ml
 kaxks55ofhkzt5245n.tk
 kaxze.cfd
+kay-grok.biz.id
 kayaemlaksusanoglu.com
 kayaqq.com
 kayatv.net
@@ -99385,6 +99389,7 @@ kelhamglobal.com
 kelhwang.com
 kelime.space
 kelimo.sbs
+kelinganja.eu.org
 kellan329.store
 kellencole.com
 kellergy.com
@@ -100501,6 +100506,7 @@ kingg.my.id
 kinggame247.club
 kinggame247.site
 kinggamecasino.info
+kinggpt.biz.id
 kingguddu.com
 kinghere.tech
 kingice-store.com
@@ -113188,6 +113194,8 @@ makmotors.com
 mako4.shop
 makoccino.com
 makodon.com
+makoli.site
+makoli.space
 makomalls.site
 makotamarketing.com
 makprofi.store

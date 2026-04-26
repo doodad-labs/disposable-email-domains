@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-26T18:55:10.467Z
+# Aggregated blacklist generated on 2026-04-26T20:38:22.514Z
  
 0-30-24.com
 0-attorney.com
@@ -113201,6 +113201,7 @@ makoccino.com
 makodon.com
 makoli.site
 makoli.space
+makoli.store
 makomalls.site
 makotamarketing.com
 makprofi.store
@@ -114615,6 +114616,7 @@ masdo88.top
 masdtgv2.cf
 masdtgv2.ml
 masdtgv2.tk
+masdwi.site
 mase2005.com
 maseczkapatryka.pl
 masedon.com

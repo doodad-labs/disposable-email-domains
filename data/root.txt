@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-26T22:38:07.686Z
+# Aggregated blacklist generated on 2026-04-27T02:46:31.115Z
  
 0-30-24.com
 0-attorney.com
@@ -38247,6 +38247,7 @@ casio-edu.tk
 casiobet.live
 casitsupartners.com
 casiwo.info
+caskiomna.fun
 caslno-faraon.ru
 caslonsvcs.com
 casmomail.com
@@ -75633,6 +75634,7 @@ gingreree.ml
 gingreree.tk
 ginicanbreathe.com
 giniey.my.id
+ginjio.web.id
 ginkkvetbor.cf
 ginkkvetbor.ga
 ginkkvetbor.gq
@@ -100179,6 +100181,7 @@ kibristime.com
 kibristurkhavayollari.xyz
 kibwot.com
 kicaubet.online
+kicaw.web.id
 kichco.com
 kichna.shop
 kichu1net.host
@@ -161737,6 +161740,7 @@ signup.vote
 signwin.site
 sigscapcut.my.id
 sigurs.net
+sihadewae.web.id
 sihanoma.store
 sihanoukville.blog
 sihembaaboud.com
@@ -172599,6 +172603,7 @@ techjmx.com
 techknowlogy.com
 techlabreviews.com
 techlabs.co
+techlaw-tap.click
 techlinkify.com
 techlo.nl
 techloveer.com
@@ -175406,6 +175411,7 @@ thenaturalhairdiva.com
 thenavy.com
 thenclexgroup.com
 theneedforsneed.me
+theneofund.org
 theneonarrow.com
 thenetcare.net
 thenetfx.website

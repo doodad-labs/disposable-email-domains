@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-27T06:27:14.322Z
+# Aggregated blacklist generated on 2026-04-27T10:15:13.069Z
  
 0-30-24.com
 0-attorney.com
@@ -24494,6 +24494,7 @@ babybet16.xyz
 babycounter.com
 babycutes.art
 babycutes.blog
+babyeat.food
 babyemail.ru
 babyfriendly.app
 babyfun.fun
@@ -30518,6 +30519,7 @@ bjork.email
 bjork.pics
 bjork.rest
 bjork.top
+bjork.wtf
 bjorn-frantzen.art
 bjornmeulendijks.online
 bjorwi.autos
@@ -37341,6 +37343,7 @@ capcuting.my.id
 capcutisme.app
 capcutisme.com
 capcutku.app
+capcutku.cc
 capcutku.com
 capcutku.io
 capcutku.store
@@ -134440,6 +134443,7 @@ ottomantheband.net
 ottopetra.com
 ottotech.net
 ottrme.com
+ottsathi.store
 ottscoop.com
 ottupdate.com
 ottvv.com
@@ -185025,6 +185029,7 @@ urology.com
 uromail.com
 uronva.com
 uropeatanda.com
+urqilhus.my.id
 urrala.cf
 urrala.ga
 urrala.gq

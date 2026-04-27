@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-27T19:21:52.541Z
+# Aggregated blacklist generated on 2026-04-27T21:02:02.757Z
  
 0-30-24.com
 0-attorney.com
@@ -839,6 +839,7 @@
 100gmail.com
 100guanya.com
 100hot.ru
+100jilislot.net
 100kkk.ru
 100kshoutoutguide.com
 100kti.xyz
@@ -1851,6 +1852,7 @@
 188ku.club
 188liga.onl
 188mbsport.net
+188pet.info
 188togel.com
 188xin.com
 189.cn
@@ -13394,6 +13396,7 @@ adramail.com
 adrautodesign.com
 adrenalina100x100.com
 adrenocortmail.com
+adrenomedix.com
 adrespocztowy.pl
 adresseemailtemporaire.com
 adrewire.com
@@ -37204,6 +37207,7 @@ cannoncostarica.com
 cannoncrew.com
 canny.net
 canoaquebradaconnect.online
+canohu.info
 canonicakl.ru
 canonicamail.com
 canonlensmanual.com
@@ -38743,6 +38747,7 @@ cc46.name.ng
 cc4av.info
 cc57822.com
 cc6ph4.org
+cc6ph6.org
 cc774.ru
 cc7casino.net
 cc7onlinecasino.net
@@ -52904,6 +52909,7 @@ diceservices.net
 diceservices.org
 dichalorli.xyz
 dichima.com
+dichoso777.net
 dichthuattructuyen.com
 dichvu92.com
 dichvudaorut247.com
@@ -53450,6 +53456,7 @@ dingyizixin.com
 dinhatban.info
 dinheiroextranaweb.com
 dinheironet.life
+dinhhnhatt.tokyo
 dinhnampro.io.vn
 dinhtamdan.com
 dinhtanfb.online
@@ -68564,6 +68571,7 @@ fitzola.com
 fiuedu.com
 fiuwhfi212.com
 fivan.store
+fivanstore.shop
 fivatu.info
 five-club.com
 five-plus.net
@@ -68757,6 +68765,7 @@ fl158.site
 fl1zr6.us
 fl2nyhomes.com
 fl4shmail.com
+fl88betapp.com
 fla-service.net
 fla.com.br
 flackrzjh.space
@@ -71974,6 +71983,7 @@ funbangsan.gq
 funbangsan.ml
 funbangsan.tk
 funbet360.xyz
+funbetapp.net
 funbetcasino.info
 funbeti.com
 funbetiran.com
@@ -72313,6 +72323,7 @@ fuzzpopstudio.com
 fuzzy-server.com
 fuzzymail.top
 fv-sale.ru
+fv888.net
 fvbtp.fun
 fvckme.love
 fvds.ru
@@ -77903,6 +77914,7 @@ goriliaaa.com
 gorilla-bett.ru
 gorilla-zoe.net
 gorilla0.site
+gorillabet.info
 gorillainventory.com
 gorillasharware.com
 gorillaswithdirtyarmpits.com
@@ -77939,6 +77951,7 @@ gosarlar.com
 goscompxka.club
 goscotland.com
 gosdaturacatala.org
+gosea.sbs
 goseahawks.net
 gosearchcity.us
 goseeding.website
@@ -80755,6 +80768,8 @@ hainals.com
 hainamcctv.com
 hainan.org
 hainescitynews.net
+haininhbc.tokyo
+haininhthi.tokyo
 hainopalm.cf
 hainopalm.ga
 hainopalm.ml
@@ -94052,6 +94067,7 @@ j3j.org
 j3nn.net
 j3olp.icu
 j3r8qd.site
+j3r8qd.space
 j3r8qd.store
 j3rik.info
 j3rqt89ez.com
@@ -95788,6 +95804,7 @@ jili178casino.info
 jili49casino.com
 jili711casino.com
 jili777casino.info
+jili77appdownloadfree.org
 jiliaaacom.info
 jiliaaaslot.info
 jiliacefreebonus.com
@@ -96475,6 +96492,7 @@ joeystays.info
 jofap.com
 joforce.us
 jofuso.com
+jogabet.info
 jogaobet.info
 jogdogshop.online
 jogformation.ru
@@ -101245,6 +101263,7 @@ km69ax.site
 km6uj.xyz
 km7p7.xyz
 km7st.xyz
+km888casino.com
 km88abcvip.com
 km88legit.net
 kmai.pw
@@ -126550,6 +126569,7 @@ newljeti.ml
 newlondonluxe.com
 newlookbykarina.com
 newlove.com
+newmacau.net
 newmail.edu.kg
 newmail.solutions
 newmail.store
@@ -127173,6 +127193,7 @@ nguyenxuandathd1994.win
 ngwalker.com
 ngwsw.info
 nh3.ro
+nh888.info
 nh88hlink.com
 nha.best
 nhabenhadat.com
@@ -131546,6 +131567,7 @@ okbeatsdrdre1.com
 okbet15.net
 okbet888.info
 okbetcasino.net
+okbetphp.org
 okbetpromocode.com
 okbiloxi.com
 okbimini.com
@@ -132331,6 +132353,7 @@ onebalu.com
 onebiginbox.com
 onebillionwait.org
 onebirdfly.email
+onebrabet.info
 onebucktwobuckthree.com
 onebyair.com
 onebyoneboyzooole.com
@@ -138782,6 +138805,7 @@ ph0jt.us
 ph11comapp.com
 ph123casino.info
 ph23casino.info
+ph333slotloginapp.com
 ph357login.com
 ph365casino.info
 ph367login.com
@@ -147439,6 +147463,7 @@ qvmao.com
 qvmassage.com
 qvo6jm.us
 qvpod.xyz
+qvttclass.us
 qvvcuk.com
 qvvnregdyh.ga
 qvvoxjfb.shop
@@ -153597,6 +153622,7 @@ rorhman.com
 roridulvegai.ru
 rorma.site
 roro4.cf
+roronoaz.me
 rorsprackningumea.se
 rory279.store
 rorybd.com
@@ -177460,6 +177486,7 @@ tkzumbsbottzmnr.tk
 tl-mc.com
 tl.community
 tl694.com
+tl88.info
 tl8dlokbouj8s.cf
 tl8dlokbouj8s.gq
 tl8dlokbouj8s.ml
@@ -185959,6 +185986,7 @@ v9094.com
 v99.store
 v9bet.markets
 v9betse.net
+v9betxa.net
 v9fxq.us
 v9paying.com
 v9pays.com
@@ -189156,6 +189184,7 @@ vn77777k.com
 vn7ag6.us
 vn86801.com
 vn8888m.com
+vn888com.info
 vn88io.com
 vn8b3.us
 vn92wutocpclwugc.cf
@@ -189987,6 +190016,7 @@ vstindo.net
 vstopsb.com
 vstoremisc.com
 vsv1js1belhluaw.xyz
+vswina1.net
 vsxz.pro
 vsyamebel-nn.ru
 vsz63.space
@@ -190329,6 +190359,7 @@ vwwy.com
 vwydus.icu
 vwzagoujq.shop
 vwzv.com
+vx88bet.info
 vxa34.space
 vxcae9z14z.xyz
 vxcbe12x.com
@@ -190572,6 +190603,7 @@ w7wdhuw9acdwy.ml
 w7wdhuw9acdwy.tk
 w80.it
 w8196.com
+w81bet.org
 w888b.com
 w888info.com
 w888me.com
@@ -193562,6 +193594,7 @@ wiltshirevirtualexpo.com
 wilver.club
 wilver.store
 wilyapps.com
+wim444.info
 wimbl.com
 wimine.tk
 wimsg.com

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-27T10:15:13.069Z
+# Aggregated blacklist generated on 2026-04-27T13:53:09.607Z
  
 0-30-24.com
 0-attorney.com
@@ -22927,6 +22927,7 @@ autoinsurance-help.zone
 autoinsurancesanantonio.xyz
 autointoximail.com
 autoketban.online
+autokey247.com
 autoknowledge.ru
 autolainat.com
 autolicious.info
@@ -26269,6 +26270,7 @@ bblogstormn.site
 bblounge.co.za
 bbmail.store
 bbmail.win
+bbmailku.com
 bbmindustriesinc.com
 bbmoe.com
 bbn.cloud
@@ -78507,6 +78509,7 @@ grapevinegroup.com
 graphapi.site
 graphemsemail.com
 graphic-arts-international.com
+graphicanal.site
 graphicbulk.site
 graphiccommunicationsinternational.com
 graphicedge.click
@@ -140498,6 +140501,7 @@ platedeph.ml
 platedeph.tk
 plates4skates2.info
 platformassociates.com
+platggaming.store
 platin.dev
 platingaming.dev
 platinhosting.cloud

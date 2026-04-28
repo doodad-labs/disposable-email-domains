@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-28T06:28:52.228Z
+# Aggregated blacklist generated on 2026-04-28T10:13:02.379Z
  
 0-30-24.com
 0-attorney.com
@@ -76751,6 +76751,7 @@ gmeli.com
 gmelk.com
 gmex.fr
 gmflsodlgmail.com
+gmforums.com
 gmg116hz.com
 gmgh.com
 gmgmne.site
@@ -137943,6 +137944,7 @@ pengemand.dk
 pengenemut.com
 penghacurlemak.top
 penghasilan.online
+penghuan.pro
 penguen.tk
 penguinburger.com
 penguincreationdate.pw

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-27T22:52:08.746Z
+# Aggregated blacklist generated on 2026-04-28T02:53:50.296Z
  
 0-30-24.com
 0-attorney.com
@@ -28472,6 +28472,7 @@ betkarat.com
 betkarat20.com
 betkava.com
 betking365.com
+betlabapp.com
 betlabelapk.net
 betlabelcasino.info
 betlae.com
@@ -98697,6 +98698,7 @@ karamanrehber.xyz
 karamansoneremlak.com
 karamanvitrin.xyz
 karamelbilisim.com
+karamelka-mail.ru
 karamudini.com
 karamumba.network
 karamuratdiraz.shop
@@ -111723,6 +111725,7 @@ mailbaytw.top
 mailbbelga.space
 mailbeaver.net
 mailbehance.info
+mailbejbe.top
 mailbetter.top
 mailbidon.com
 mailbird.cc
@@ -113141,6 +113144,7 @@ makapay.online
 makaronibasah.com
 makasarpost.cf
 makaya.buzz
+makbisah.site
 make-bootable-disks.com
 makeablunder.click
 makeacase.com
@@ -134487,6 +134491,7 @@ otucri.ml
 otucri.tk
 oturizme.net
 otvetinavoprosi.com
+otvinta161.store
 otwetka.com
 otwmail.com
 otx.ca
@@ -191138,6 +191143,7 @@ waroengku.digital
 waroengku.store
 waroengkuy.com
 waroengmail.app
+waroengmail.com
 waroengpremium.com
 waroengpt.com
 waroengsuite.com

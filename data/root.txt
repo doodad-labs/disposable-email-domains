@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-28T02:53:50.296Z
+# Aggregated blacklist generated on 2026-04-28T06:28:52.228Z
  
 0-30-24.com
 0-attorney.com
@@ -19980,6 +19980,7 @@ apsnetworks.com
 apsora.com
 apssdc.ml
 apster.com
+apsteriio.my.id
 aptally.com
 aptarmezzovico.com
 aptaseniorlivingrad.live
@@ -36719,6 +36720,7 @@ calmedhemp.com
 calmgatot.net
 calmkeepalma.ml
 calmpros.com
+calmriver.info
 calmyourinbox.com
 calnam.com
 calnaser.cf
@@ -71545,6 +71547,7 @@ frostnet.us
 frosttopia.online
 frostygrass.net
 frostyonpoint.site
+frostypeak.info
 frothly.org
 frouse.ru
 frownmarc.email
@@ -77489,6 +77492,7 @@ golidi.net
 golighcars.cf
 golighcars.gq
 golighcars.ml
+golika.shop
 golimar.com
 goliokao.cf
 goliokao.ga
@@ -120344,6 +120348,7 @@ momobet-888.com
 momobet-vip.com
 momodewa.com
 momoi.uk
+momoisme.site
 momomacknang.com
 momonono.info
 momopoker88.xyz
@@ -142391,6 +142396,7 @@ potammail.com
 potamog.ru
 potarveris.xyz
 potasf.com
+potatocompany.us
 potatod.com
 potatoheaded.ga
 potatoman.space
@@ -152624,6 +152630,7 @@ rixoscasino38.com
 rixtgxpxtl.ga
 rixyle.com
 rixyqt.uno
+riyadi.my.id
 riyadi.online
 riyadtelecom.com
 riycademia.cfd
@@ -155211,6 +155218,7 @@ rytovdigital.com
 rytwjg.site
 ryucodex.com
 ryugroup.org
+ryuhan.my.id
 ryukokuac.jp
 ryukyuxxrf.space
 ryukyuzxis.space
@@ -185392,6 +185400,7 @@ usetrip.click
 usettingh.com
 useturnon.click
 usetw-dev.com
+usewisetransfer.click
 usewm.com
 usf.biz
 usfai.xyz
@@ -201985,6 +201994,7 @@ zabs.cc
 zabtec.ru
 zacenergy.com
 zacharychan.buzz
+zacharyir.web.id
 zachemeto.xyz
 zachery.com
 zachjmurphy.ca

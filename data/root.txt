@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-28T10:13:02.379Z
+# Aggregated blacklist generated on 2026-04-28T17:46:36.771Z
  
 0-30-24.com
 0-attorney.com
@@ -78532,6 +78532,7 @@ graphic-arts-international.com
 graphicanal.site
 graphicbulk.site
 graphiccommunicationsinternational.com
+graphicdany.site
 graphicedge.click
 graphicedge.io.vn
 graphicedge.site
@@ -156573,6 +156574,7 @@ samosters.site
 samowarvps24.pl
 samp-it.de
 samp-shop.ru
+sampah.work
 sampasmails.space
 sampleandbailey.com
 sampleapp.com
@@ -176691,6 +176693,7 @@ tiesmares.ga
 tiesmares.ml
 tiesmares.tk
 tietetech.store
+tieumuoishop.io.vn
 tieungoc.life
 tieuvuong.ga
 tievah.com

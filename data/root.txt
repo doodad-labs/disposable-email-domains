@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-29T02:52:31.712Z
+# Aggregated blacklist generated on 2026-04-29T06:23:07.082Z
  
 0-30-24.com
 0-attorney.com
@@ -15490,6 +15490,7 @@ akd-k.icu
 akdip.com
 akedits.com
 akee.co.pl
+akeey.web.id
 akekee.com
 akelshop.net
 akemakep.shop
@@ -30535,6 +30536,7 @@ bjorwi.autos
 bjorwi.buzz
 bjorwi.cfd
 bjorwi.click
+bjorwi.online
 bjorwi.rest
 bjorwi.site
 bjorwi.space
@@ -73501,6 +73503,7 @@ gasmail.store
 gasocin.pl
 gasofmass.com
 gasol1n.de
+gasolina.web.id
 gason.dk
 gasp.live
 gaspardphilippe.com
@@ -122574,6 +122577,7 @@ mustbedestroyed.org
 mustbeit.com
 mustbuy.com
 mustdoindubai.com
+musteai.shop
 mustekautomation.com
 mustfoxy.store
 mustgread.gq

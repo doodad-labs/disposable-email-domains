@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-29T06:23:07.082Z
+# Aggregated blacklist generated on 2026-04-29T10:05:44.407Z
  
 0-30-24.com
 0-attorney.com
@@ -170423,6 +170423,7 @@ sxzevvhpmitlc64k9.tk
 sy-honda.com
 sy168.cash
 sy90xo.us
+syaacantik.me
 syadouchebag.com
 syahmiqjoss.host
 syakilanabil.my.id
@@ -201288,6 +201289,7 @@ ypicall.shop
 ypkyl.fun
 ypkzn.com
 yplaygames.com
+ypmp.me
 ypolf.com
 ypolk1.site
 ypovert.shop

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-28T22:56:24.431Z
+# Aggregated blacklist generated on 2026-04-29T02:52:31.712Z
  
 0-30-24.com
 0-attorney.com
@@ -168170,6 +168170,7 @@ stratfordfootclinic.com
 strathearnmasons.org
 stratigagroup.com
 stratogame.ru
+stratosfera.site
 stratosphericheights.org
 stratoverity.net
 strattera.website
@@ -197742,10 +197743,16 @@ xn--kksrenoveringstersund-hecm.se
 xn--kksrenoveringsundsvall-uhc.se
 xn--kltrkrtasiye-dlbc11f.com
 xn--koltukrts-57a2eb.com
+xn--kr-nia.com
 xn--kr11-rzb.com
 xn--krakn33-rt4c.com
 xn--krb1-6q5a.com
+xn--krb3-6q5a.com
+xn--krb3-rzb.com
 xn--krhemp-3ya.com
+xn--krken-ucc.cc
+xn--krken25-bn4c.com
+xn--krken33-00c.com
 xn--kubt-dpa.vn
 xn--kxy59bg6e.xn--j6w193g
 xn--kzwm8eqye.xn--j6w193g

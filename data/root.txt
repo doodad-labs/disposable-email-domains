@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-30T21:00:50.870Z
+# Aggregated blacklist generated on 2026-04-30T22:52:59.001Z
  
 0-30-24.com
 0-attorney.com
@@ -17523,6 +17523,9 @@ ambassadorwe.us
 ambaththoor.com
 amber-frog.com
 amberfield.icu
+amberfields.site
+amberfields.space
+amberfields.website
 amberlogy.com
 amberofoka.org
 amberpember.com
@@ -31621,6 +31624,7 @@ bluyondr.org
 bluzora.site
 blymi.com
 blyons.me
+blyvo.store
 blyxen.org
 blz300.com
 blz700.com
@@ -35963,6 +35967,7 @@ bytebreeze.store
 bytedigi.com
 bytedrop.co
 bytedump.online
+bytegear.online
 bytegift.com
 byteleaders.amsterdam
 bytenest.cfd
@@ -84647,6 +84652,7 @@ hmtf.com
 hmuss.com
 hmwgeyyqsr.ga
 hmwitalia.com
+hmwork.shop
 hmx.at
 hmxmizjcs.pl
 hmyisitme.xyz
@@ -158521,6 +158527,7 @@ seattleplumbing.reviews
 seattlerealestate4you.com
 seattleroll.net
 seattlescooter.com
+seattlesea.shop
 seattlesluggers.org
 seattletummytuck.com
 seattleu.com
@@ -164021,6 +164028,7 @@ snaena.com
 snafoss.com
 snag.org
 snaganautoloan.com
+snagit.space
 snahandric.icu
 snail-mail.bid
 snail-mail.net
@@ -180377,6 +180385,7 @@ trewo.cfd
 trexilo.store
 trezvostrus.ru
 trezy.online
+trezza.store
 trf20.online
 trfu.to
 trg.pw
@@ -197808,6 +197817,7 @@ xn--krb3-6q5a.com
 xn--krb3-rzb.com
 xn--krhemp-3ya.com
 xn--krken-ucc.cc
+xn--krken23-bn4c.com
 xn--krken25-bn4c.com
 xn--krken33-00c.com
 xn--kubt-dpa.vn
@@ -202777,6 +202787,7 @@ zentronix.site
 zentropiatv.com
 zentrum.hopto.org
 zentrumbox.com
+zenviapro.store
 zenyth.marketing
 zenyth.online
 zenze.cf

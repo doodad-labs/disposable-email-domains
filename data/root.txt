@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-29T22:56:43.262Z
+# Aggregated blacklist generated on 2026-04-30T02:53:47.165Z
  
 0-30-24.com
 0-attorney.com
@@ -13566,6 +13566,7 @@ advantimal.com
 advantimals.com
 advantimo.com
 advarm.com
+advavel.com
 advd.site
 advdent.net
 advdesignss.info
@@ -16278,6 +16279,7 @@ alife.icu
 alifestyle.ru
 aligamel.com
 alight.mobi
+alightmotion.cloud
 alightmotion.id
 alightmotion.top
 aligmli.site
@@ -73347,6 +73349,7 @@ garagedoorselmirage.com
 garagemvitoria.com
 garajemail.com
 garanhunsgears.online
+garansian.com
 garantibuyutucu.xyz
 garantidennesine.com
 garantipazar.com
@@ -91586,6 +91589,7 @@ instant-email.org
 instant-job.com
 instant-mail.de
 instantblingmail.info
+instantbox.live
 instantbox.online
 instantbreakthrough.com
 instantbummer.com

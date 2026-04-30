@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-30T02:53:47.165Z
+# Aggregated blacklist generated on 2026-04-30T06:26:51.773Z
  
 0-30-24.com
 0-attorney.com
@@ -73514,6 +73514,8 @@ gaspardphilippe.com
 gaspariniadv.com
 gasparsantos.eu
 gasprem.ru
+gaspuol.biz.id
+gaspuol.web.id
 gaspworkoutwear.com
 gasreturn.ru
 gassfey.com
@@ -74901,6 +74903,7 @@ getspringsfast.com
 getstarter.com
 getstructuredsettlement.com
 getstuffedgoogle.com
+getsuite1.com
 getsupport.store
 getsupports.click
 getsupprts.click
@@ -113270,6 +113273,7 @@ makmotors.com
 mako4.shop
 makoccino.com
 makodon.com
+makoli.sbs
 makoli.site
 makoli.space
 makoli.store
@@ -116247,6 +116251,8 @@ medyumhanimaga.com
 meefff.com
 meekhost.com
 meekmail.online
+meekuah.biz.id
+meekuah.web.id
 meelbet.mobi
 meellcm.ga
 meelot55.com
@@ -130792,6 +130798,7 @@ octopoda.ru
 octopoos.news
 octopoos.social
 octopushome.ru
+octor.pro
 octovie.com
 octowall.com
 octoyo.xyz
@@ -131948,6 +131955,7 @@ olibrodesign.com
 olibru.com
 olididas.shop
 olidklsnjhxbhj.cloud
+oliespace.com
 olig.org
 oligodemail.com
 oligohymalu.ru
@@ -159266,6 +159274,7 @@ senfmoka.tk
 sengakmun.xyz
 sengi.top
 sengkang-grand-residences-sg.com
+sengketa.my.id
 sengokunaimo.life
 senguanteng.com
 sengyindang.com

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-30T15:47:29.967Z
+# Aggregated blacklist generated on 2026-04-30T17:20:54.493Z
  
 0-30-24.com
 0-attorney.com
@@ -75920,6 +75920,7 @@ givorlnjc.shop
 giwf.com
 giwwoljvhj.pl
 gixenmixen.com
+gixpos.com
 giyam.com
 giyanigold.com
 giyayy.my.id
@@ -91411,8 +91412,10 @@ inrahimmd.ga
 inrahimmd.ml
 inrahimmd.tk
 inrak.site
+inraud.com
 inregistrare-domeniu.biz
 inrelations.ru
+inreur.com
 inrim.cf
 inrim.ga
 inrim.gq
@@ -108603,6 +108606,7 @@ logwibisono870.ml
 logwulan9.ml
 logyanti412.ga
 loh.pp.ua
+lohinja.com
 lohipod.site
 lohpcn.com
 lohsrestaurant.com

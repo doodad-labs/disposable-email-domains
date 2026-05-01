@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-01T16:57:34.431Z
+# Aggregated blacklist generated on 2026-05-01T19:12:04.902Z
  
 0-30-24.com
 0-attorney.com
@@ -100464,6 +100464,7 @@ kimbu.net
 kimchichi.com
 kimchung.xyz
 kimcosales.com
+kimdokja.biz.id
 kimdyn.com
 kimfetme.com
 kimfetsnj.com
@@ -116361,6 +116362,7 @@ meetwave.my.id
 meetyourlove.com
 meetyourva.co
 meevpo.id
+meevpo.site
 meevwtardblume67.ga
 meexbet.net
 meey.tech
@@ -131999,6 +132001,7 @@ olibru.com
 olididas.shop
 olidklsnjhxbhj.cloud
 oliespace.com
+oliespace.id
 oliespace.site
 olig.org
 oligodemail.com
@@ -143173,6 +143176,7 @@ premarex.ml
 premarex.tk
 prembus.com
 prembyadetrio.com
+prembyrexiee.online
 premeiracharters.com
 premi2019.club
 premiair.media

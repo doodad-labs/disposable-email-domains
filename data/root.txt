@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-01T14:55:29.499Z
+# Aggregated blacklist generated on 2026-05-01T16:57:34.431Z
  
 0-30-24.com
 0-attorney.com
@@ -51981,6 +51981,7 @@ desitnationsmoke.com
 desitvforums.su
 desiys.com
 deskality.net
+deskdoc.app
 deskgamecasino.net
 deskinsagriculture.com
 deskinsmanure.com
@@ -76781,6 +76782,7 @@ gmdabuwp64oprljs3f.ml
 gmdabuwp64oprljs3f.tk
 gmeail.com
 gmeeail.com
+gmeenramy.com
 gmeh.com
 gmehl.net
 gmeial.com
@@ -102740,6 +102742,7 @@ ktobetbr.info
 ktools.web.id
 ktopomozeseniorom.sk
 ktotey6.mil.pl
+ktpingprox.id.vn
 ktrina.ga
 ktshort.com
 ktsr.email
@@ -144563,6 +144566,7 @@ prosisemail.com
 prositeportal.ru
 prosmail.info
 prosobrancmail.com
+prosocial.io.vn
 prosolutiongelreview.net
 prosolutionpillsreviews.org
 prosophys.site

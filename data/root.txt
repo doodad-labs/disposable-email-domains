@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-04-30T22:52:59.001Z
+# Aggregated blacklist generated on 2026-05-01T03:23:54.372Z
  
 0-30-24.com
 0-attorney.com
@@ -116348,6 +116348,7 @@ meetwave.lat
 meetwave.my.id
 meetyourlove.com
 meetyourva.co
+meevpo.id
 meevwtardblume67.ga
 meexbet.net
 meey.tech
@@ -131986,6 +131987,7 @@ olibru.com
 olididas.shop
 olidklsnjhxbhj.cloud
 oliespace.com
+oliespace.site
 olig.org
 oligodemail.com
 oligohymalu.ru
@@ -140812,6 +140814,7 @@ plcshools.org
 pldnzirspn.ga
 pldp.com
 pldppd.site
+pleaach.com
 pleadfl.xyz
 pleadid.email
 pleadlea.xyz
@@ -197810,13 +197813,17 @@ xn--kksrenoveringsundsvall-uhc.se
 xn--kltrkrtasiye-dlbc11f.com
 xn--koltukrts-57a2eb.com
 xn--kr-nia.com
+xn--kr-qia.com
 xn--kr11-rzb.com
+xn--krakn29-uya.com
 xn--krakn33-rt4c.com
 xn--krb1-6q5a.com
 xn--krb3-6q5a.com
 xn--krb3-rzb.com
 xn--krhemp-3ya.com
 xn--krken-ucc.cc
+xn--krken17-bn4c.com
+xn--krken21-bn4c.com
 xn--krken23-bn4c.com
 xn--krken25-bn4c.com
 xn--krken33-00c.com
@@ -197961,6 +197968,7 @@ xn--qery60bekcyw3d.xn--j6w193g
 xn--qxam.xyz
 xn--r2baebyf8c2dtc.com
 xn--r9zs2bd3v57d.xn--j6w193g
+xn--ra2-6ua.com
 xn--ray-bg-2h6j.net
 xn--razn-para-sonrer-nsb9g.info
 xn--realmatc-y09c.com

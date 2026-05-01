@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-01T06:36:00.989Z
+# Aggregated blacklist generated on 2026-05-01T09:45:56.076Z
  
 0-30-24.com
 0-attorney.com
@@ -15495,6 +15495,7 @@ akd-k.icu
 akdip.com
 akedits.com
 akee.co.pl
+akeey.biz.id
 akeey.web.id
 akekee.com
 akelshop.net
@@ -106859,6 +106860,7 @@ lillymeadows.com
 lilnx.net
 lilo.me
 lilo.org
+lilot.biz.id
 lilpup.shop
 lilrascalspartyfavors.com
 lilscleaningservice.com

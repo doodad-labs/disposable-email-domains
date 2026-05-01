@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-01T03:23:54.372Z
+# Aggregated blacklist generated on 2026-05-01T06:36:00.989Z
  
 0-30-24.com
 0-attorney.com
@@ -21959,6 +21959,7 @@ astral-polet.ru
 astralcars.com
 astralevolution.pro
 astralhotel.net
+astralltech.com
 astralyst.net
 astramail.ml
 astrastarlogistics.com
@@ -45911,6 +45912,7 @@ corluzubeydehanimao.xyz
 cormg.net
 corn-gratuito.top
 cornavirus.attorney
+cornela.biz.id
 corneliarose.de
 cornellhaskett.com
 cornerflowerbeadstand.com
@@ -60154,6 +60156,7 @@ elcid-dz.com
 elclicbubb.cf
 elclicbubb.ml
 elcoindonesia.com
+elcontole.my.id
 elcoz.fun
 elcyberbrujo.com
 eldeninfo.xyz
@@ -73525,6 +73528,7 @@ gasmail.store
 gasocin.pl
 gasofmass.com
 gasol1n.de
+gasolina.biz.id
 gasolina.web.id
 gason.dk
 gasp.live
@@ -91329,6 +91333,7 @@ innovationbay.info
 innovationeconomics.com
 innovationira.com
 innovations.edu.pl
+innovationunion.or.id
 innovative-orthodontics.com
 innovativebacksolutions.com
 innovativeedge.store
@@ -100274,6 +100279,7 @@ kibristime.com
 kibristurkhavayollari.xyz
 kibwot.com
 kicaubet.online
+kicaw.biz.id
 kicaw.web.id
 kichco.com
 kichna.shop
@@ -133194,6 +133200,7 @@ oorddictionaries.com
 oormi.com
 ooroos.com
 oos.cloudns.be
+oosher.biz.id
 oosln.com
 oot-m.ru
 ootech.vn
@@ -188532,6 +188539,7 @@ vipepe.com
 viper.email
 viperace.com
 viperrow.com
+viperstream.cloud
 vipfirstpay.com
 vipflix.xyz
 vipfon.ru

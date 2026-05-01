@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-01T20:52:42.145Z
+# Aggregated blacklist generated on 2026-05-01T22:50:32.209Z
  
 0-30-24.com
 0-attorney.com
@@ -33509,6 +33509,7 @@ brasil-empresas.com
 brasil-nedv.ru
 brasilbembolado.online
 brasilbites.site
+brasildigitalmotors.com
 brasileirinhobrands.site
 brasileirissimosblogs.site
 brasiliabots.store
@@ -73520,6 +73521,7 @@ gaselectricrange.com
 gash.com
 gashbucket.ru
 gashik.site
+gashoainam.io.vn
 gasil.com
 gasken.online
 gaskuy.me
@@ -78926,6 +78928,7 @@ greentreeheavyequipment.com
 greenville.us
 greenvillebankruptcyattorneys.com
 greenvillegraphics.com
+greenvin.io.vn
 greenwarez.org
 greenwavefilters.net
 greenwayvista.com
@@ -81367,6 +81370,7 @@ hanoi3bhotel.com
 hanoigeckohotel.com
 hanoimail.us
 hanoimoi.site
+hanoinet.io.vn
 hanoinews.org
 hanoisapphirehotel.com
 hanoitohalongbay.com
@@ -127943,6 +127947,7 @@ nitrocmail.ru
 nitrohjbba.space
 nitrohydromalis.com
 nitroshine.xyz
+nitrotokens.gg
 nittotune.com
 nittraproject.com
 nittygrittyproductions.net
@@ -178294,6 +178299,7 @@ tokito.sbs
 tokiyaki.com
 tokkabanshop.com
 tokki3124.com
+tokkimwaps.cfd
 tokmail.net
 toko3d.com
 tokoajaib.com
@@ -180916,6 +180922,7 @@ trumvia.online
 trumvn.online
 trung.name.vn
 trunghh.tk
+trunghocphothong.io.vn
 trungmetax.com
 trungtamimplant.org
 trungtamniengrang.vn
@@ -188169,6 +188176,7 @@ vietnamvisas.net
 vietpay.org
 vietquang.online
 vietregtoday.site
+viettravel.io.vn
 vietuctour.com
 vietvoters.org
 vievibrant.com

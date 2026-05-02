@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-02T10:52:07.034Z
+# Aggregated blacklist generated on 2026-05-02T13:11:45.252Z
  
 0-30-24.com
 0-attorney.com
@@ -34678,6 +34678,7 @@ bugboxmedia.com
 bugdomain9.com
 bugeyedbugs.com
 bugfoo.com
+bughats.online
 bugleridgetransport.com
 bugmenever.com
 bugmenot.com
@@ -99641,6 +99642,7 @@ kenticocheck.xyz
 kentishglory.ru
 kentol.buzz
 kentonsawdy.com
+kentoqa.cfd
 kentspurid.cf
 kentspurid.ga
 kentspurid.gq

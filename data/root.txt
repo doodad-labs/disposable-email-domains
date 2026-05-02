@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-02T02:41:37.954Z
+# Aggregated blacklist generated on 2026-05-02T06:06:31.511Z
  
 0-30-24.com
 0-attorney.com
@@ -20320,6 +20320,7 @@ archididmalis.com
 archiepiscopaml.com
 archildrens.com
 archimaag.com
+archine.my.id
 archine.online
 architectblog.com
 architectcurvature.site
@@ -37362,6 +37363,7 @@ capcut.sbs
 capcut.site
 capcut.team
 capcut.tech
+capcut02.shop
 capcut10.name.ng
 capcut72.online
 capcut72.site
@@ -43181,6 +43183,7 @@ cloudrepository.ru
 cloudsaveapp.com
 cloudsayt.xyz
 cloudscredit.com
+cloudserver.email
 cloudserver.store
 cloudservicesproviders.net
 cloudsigma.cloudns.biz
@@ -78328,6 +78331,7 @@ gptpluz.shop
 gptpluz2.shop
 gptpremapp.me
 gptpremlog.tech
+gptproz.web.id
 gptsapp.net
 gptte.site
 gptvn.cfd
@@ -100915,6 +100919,7 @@ kit-dv.su
 kit.gleeze.com
 kita-noni.de
 kitabangkit.mom
+kitabisacup.my.id
 kitacobadulu.mom
 kitamail.com
 kitanroipl.tk
@@ -114103,6 +114108,7 @@ marabalan.cf
 marabalan.ga
 maracanamarket.space
 maracatunet.online
+marahinaja.site
 marajomakers.site
 marallgel.website
 maranhaomedia.online
@@ -124747,6 +124753,7 @@ namibakery.com
 namibatch.me
 namibiansafari.org
 namify.services
+namiik.my.id
 namikaze.co.uk
 namilu.com
 namina.com
@@ -144067,6 +144074,7 @@ productfeedmanagement.com
 producti-online-pro.com
 production4you.ru
 productiondrywall.com
+productmm.shop
 productosamygo.com
 productosesotericos.cl
 productpacking.com
@@ -191282,6 +191290,7 @@ waroengin.com
 waroengku.cc
 waroengku.cfd
 waroengku.digital
+waroengku.net
 waroengku.store
 waroengkuy.com
 waroengmail.app
@@ -203591,6 +203600,7 @@ zl0irltxrb2c.tk
 zl3ici.us
 zlansa.site
 zlatrkb.ru
+zlaughter.me
 zlbpvs.us
 zlcai168.net
 zlcai1688.net
@@ -204173,6 +204183,7 @@ zucan.click
 zucc.com
 zucconi-dublin.com
 zuchakoo.club
+zuckberg.biz.id
 zudpck.com
 zudrm1dxjnikm.cf
 zudrm1dxjnikm.ga

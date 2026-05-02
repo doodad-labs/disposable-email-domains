@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-02T13:11:45.252Z
+# Aggregated blacklist generated on 2026-05-02T14:46:29.282Z
  
 0-30-24.com
 0-attorney.com
@@ -104011,6 +104011,7 @@ lamedusa.ca
 lamellirsmail.ru
 lamelta.com
 lamepajri.co
+lamernax.site
 lamesamail.com
 lamesamarquesa.es
 lamgido.site

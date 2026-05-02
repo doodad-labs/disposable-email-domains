@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-02T20:41:12.070Z
+# Aggregated blacklist generated on 2026-05-02T22:41:21.242Z
  
 0-30-24.com
 0-attorney.com
@@ -35038,6 +35038,7 @@ bursadekorhaliyikama.xyz
 bursaevlilikterapisi.com
 bursahealth.com
 bursakomoditi.xyz
+bursarazzi.com
 bursaservis.site
 bursayolu.xyz
 burstmail.info
@@ -112907,6 +112908,7 @@ mailtemp.info
 mailtemp.io
 mailtemp.my.id
 mailtemp.net
+mailtemp.online
 mailtemp.org
 mailtemp.top
 mailtemp.uk
@@ -128858,6 +128860,7 @@ nordnetab.com
 nordsecmedia.com
 norech.com
 noref.in
+noref.online
 noreferrer.net
 norefusals.info
 noreply.fr
@@ -131521,6 +131524,7 @@ oilsandinspiration.com
 oiltempof.icu
 oilvtc.com
 oimail.com
+oimail.info
 oimanix.com
 oiml0m.us
 oinea.com
@@ -183614,6 +183618,7 @@ uklouisvuittonoutletzt.co.uk
 ukly.com
 ukm.ovh
 ukmail.com
+ukmail.online
 ukmail.store
 ukmail.web.id
 ukmailhub.pro
@@ -184453,6 +184458,7 @@ unitegm.com
 uniteltu.gq
 unitips.shop
 unitmail.info
+unitmail.site
 unitrustinsurance.net
 unitsade.com
 unity.uk.com
@@ -192108,6 +192114,7 @@ webmaild.net
 webmailforall.info
 webmailious.top
 webmaill.info
+webmaill.pro
 webmailnl.nl
 webmailp.xyz
 webmails.top
@@ -201272,6 +201279,7 @@ yourquickcashloans.co.uk
 yourqwik.cf
 yourrealpartner1.com
 yourresult.ru
+yourrmail.info
 yours-sincerely.co.uk
 yours.tools
 yoursafeinv.website

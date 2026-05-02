@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-01T22:50:32.209Z
+# Aggregated blacklist generated on 2026-05-02T02:41:37.954Z
  
 0-30-24.com
 0-attorney.com
@@ -23724,6 +23724,7 @@ axuwv6wnveqhwilbzer.gq
 axuwv6wnveqhwilbzer.ml
 axuwv6wnveqhwilbzer.tk
 axvo.com
+axwait.store
 axwel.in
 axz6ii.us
 axza.com
@@ -44216,6 +44217,7 @@ coldemail.info
 coldenent.com
 coldepost.com
 coldirondesign.com
+coldit.store
 coldlander.us
 coldlatitudes.com
 coldmail.ga
@@ -44227,6 +44229,7 @@ coldsauce.com
 coldsoars.com
 coldstreamforge.com
 coldwater.fun
+coldwithit.store
 coldzera.fun
 coldzera.online
 cole121.store
@@ -60741,6 +60744,7 @@ elyamnelaraby.org
 elycevictoria.com
 elygifts.com
 elykarina.com
+elypto.store
 elyse.com
 elyse.top
 elysium.ml
@@ -84660,6 +84664,7 @@ hmpw.com
 hmsale.org
 hmscossack.org
 hmtf.com
+hmupon.shop
 hmuss.com
 hmwgeyyqsr.ga
 hmwitalia.com
@@ -109868,6 +109873,7 @@ ltlseguridad.com
 ltnclaudeproxy.shop
 ltnzempevy.ga
 ltrs.webhop.me
+ltserve.shop
 ltswireless.com
 ltt.us
 ltt0zgz9wtu.cf
@@ -126560,6 +126566,7 @@ newempreendorismoemcao.com
 newen.id.au
 newenglandcoinco.com
 newenglandmotorvehicleaccident.com
+newera2026.site
 neweradio.com
 neweranews1.com
 neweranews15.com
@@ -129751,6 +129758,7 @@ numbers2design.com
 numbersearch-id.com
 numbersgh.com
 numbersstationmovie.com
+numberth.com
 numberthirty.net
 numberwork.com
 numbic.com
@@ -136573,6 +136581,7 @@ parfum33.ru
 parfumcinta.club
 parfumpoint.store
 parhaatpelaa.online
+parhwest.com
 pari-match-affiliate.com
 pariag.com
 parichitta.xyz
@@ -139865,6 +139874,7 @@ pinehollowquilts.com
 pinellas.store
 pinemaile.com
 pinepo.top
+pinestudio.co
 pineswood.com
 pinetkitopotk.xyz
 pinetreeproperties.com
@@ -148072,6 +148082,7 @@ racsubsphar.ga
 racsubsphar.gq
 racsubsphar.ml
 racsubsphar.tk
+racuacte.com
 racycli.com
 rad-copy.com
 rad182.me
@@ -164056,6 +164067,7 @@ snafoss.com
 snag.org
 snaganautoloan.com
 snagit.space
+snagspotit.store
 snahandric.icu
 snail-mail.bid
 snail-mail.net
@@ -168685,6 +168697,7 @@ style-sporty.ru
 stylearis.xyz
 stylebostononline.com
 stylechec.recipes
+stylecrafters.store
 stylecut.biz.id
 styledesigner.co.uk
 styledigi.com
@@ -203110,6 +203123,7 @@ zguide.site
 zgupuf.site
 zgxxt.com
 zgzbqshy.com
+zh-9game-official.com
 zh.ax
 zh214.com
 zh9.info

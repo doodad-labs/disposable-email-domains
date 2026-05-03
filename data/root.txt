@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-02T22:41:21.242Z
+# Aggregated blacklist generated on 2026-05-03T02:53:50.545Z
  
 0-30-24.com
 0-attorney.com
@@ -10492,6 +10492,7 @@
 959.dog
 95926.monster
 95998833.net
+959betapp.net
 959betlogin.info
 959gmail.com
 959luoli.xyz
@@ -10849,6 +10850,7 @@
 999lucky-thai.net
 999nudes.com
 999o.buzz
+999phllogin.info
 999rbrb.com
 99a.uk
 99ac2.xyz
@@ -10960,6 +10962,7 @@
 9f52.club
 9f6819cd.club
 9fdy8vi.mil.pl
+9fgameslots.info
 9fgeme.com
 9ft.top
 9gals.com
@@ -20788,6 +20791,7 @@ arnoyengros.se
 arnulfo.com
 aro.stargard.pl
 arobirosa.com
+arobmobilepoint.com
 arockee.com
 aroec.com
 aroeiratennis.com
@@ -23965,6 +23969,7 @@ azirmail.com
 azithromaxozz.com
 azithromaxww.com
 aziu.com
+azizaryb.ru
 azizogludanismanlik.xyz
 azizoy.me
 azjuggalos.com
@@ -63729,6 +63734,7 @@ eu42ti.site
 eu5.net
 eu6genetic.com
 eu83t4nncmxv3g2.xyz
+eu88bet.net
 eu9casino.info
 euabds.com
 euamanhabr.com
@@ -74926,6 +74932,7 @@ getsimpleemail.com
 getsingspiel.com
 getsmag.co
 getsmail.site
+getsmarttraveller.click
 getsnooperapp.com
 getsoberfast.com
 getsomail.com
@@ -76040,6 +76047,7 @@ gkedu.us
 gkha.us
 gkhalihs.us
 gkhalis.us
+gkhedu.us
 gkhghyv.cn
 gkhh.us
 gkhhi.us
@@ -79243,6 +79251,7 @@ growthoob.com
 growtopia.store
 growup10.fun
 growwealthy.info
+growwithgoals.online
 growwthpartners.com
 growxlreview.com
 growyou.info
@@ -95880,10 +95889,13 @@ jildanshoppu.com
 jildmail.online
 jilet.net
 jili178casino.info
+jili2.info
 jili49casino.com
 jili711casino.com
 jili777casino.info
+jili777login.info
 jili77appdownloadfree.org
+jili88ph.org
 jiliaaacom.info
 jiliaaaslot.info
 jiliacefreebonus.com
@@ -96284,6 +96296,7 @@ jljl90login.com
 jljl99app.info
 jljl99casino.net
 jljlbb.com
+jljlgamelogin.com
 jljz.edu.kg
 jlktraining.com
 jlle.tk
@@ -163774,6 +163787,7 @@ smarttechdesignlab.com
 smarttestztn.site
 smarttickethub.com
 smarttipsannie.com
+smarttravellerhq.click
 smarttrut.space
 smarttvshop.life
 smarturl.web.id

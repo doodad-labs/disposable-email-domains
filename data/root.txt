@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-03T02:53:50.545Z
+# Aggregated blacklist generated on 2026-05-03T06:25:37.834Z
  
 0-30-24.com
 0-attorney.com
@@ -61166,6 +61166,7 @@ emailrod.com
 emailrtg.org
 emails-like-snails.bid
 emails.ga
+emails.garden
 emails2.me
 emails2u.shop
 emails92x.pl
@@ -89695,6 +89696,7 @@ ilyasov.tk
 ilyasozkurt.online
 ilydeen.org
 ilyseiris.xyz
+ilyy.org
 im-bella.com
 im-irsyad.tech
 im148.site
@@ -120791,6 +120793,7 @@ montanaquote.com
 montanaweddingdjs.com
 montclairpodiatry.com
 montebellunasportsystem.com
+montecarlo.pw
 montefino.cf
 montefiore.com
 monteiroequintao.adv.br
@@ -135662,6 +135665,7 @@ paabbiiloo.club
 paabbillo.club
 paaffshop.store
 paaland.com
+paans.me
 paaob.com
 paapitech.com
 pabbbiiilloo.club
@@ -158718,6 +158722,7 @@ secularmail.com
 seculife.ru
 secundogmail.ru
 secur.page
+securamail.org
 securaname.com
 securatrack.io
 securblockchain.net
@@ -183883,6 +183888,7 @@ ulusuhaliyikama.com
 uluzimar.pro
 uluzoqax.host
 ulveon.net
+ulvexiaropq.io.vn
 ulvmail.com
 ulxag.us
 ulyufyjwwrm4sni.xyz

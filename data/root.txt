@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-03T14:49:25.981Z
+# Aggregated blacklist generated on 2026-05-03T16:51:04.959Z
  
 0-30-24.com
 0-attorney.com
@@ -40275,6 +40275,10 @@ chaublog.com
 chauchat.net
 chaufast.net
 chauhanz.tk
+chauhuy.click
+chauhuy.io.vn
+chauhuy.online
+chauhuy.site
 chaukkas.com
 chaumobile.store
 chausport.store
@@ -40293,6 +40297,10 @@ chaussureslouboutinpascherparis.com
 chaussuresslouboutinpascherfrance.com
 chaussuresslouboutinppascher.com
 chaussurs1ouboutinffrance.com
+chautuyen.click
+chautuyen.io.vn
+chautuyen.online
+chautuyen.site
 chavezschool.org
 chavhanga.com
 chaweihsu.com
@@ -66177,6 +66185,7 @@ fashionzone69.com
 fashlend.com
 fasigula.name
 faskoss.website
+fasl4kas3.site
 fasnbuying.com
 fason-dla-ciebie.pw
 fasouza.me
@@ -87396,6 +87405,9 @@ huweimail.cn
 huxleymc.dev
 huy09zh.io.vn
 huyaf.eu.org
+huychau.click
+huychau.online
+huychau.site
 huydeptrai.co.uk
 huydgdyehj.xyz
 huydjfihbds.xyz
@@ -87417,6 +87429,9 @@ huynyu.icu
 huysfd.eu.org
 huysoftware.com
 huytdgte.xyz
+huytuyen.click
+huytuyen.online
+huytuyen.site
 huyuhnsj36948.ml
 huyuhnsj46849.tk
 huyuhnsj77254.ml
@@ -112454,6 +112469,7 @@ mailmag.info
 mailmagnet.co
 mailmail.biz
 mailmail.sbs
+mailmail.uk
 mailmailv.eu
 mailmall.online
 mailmama.top
@@ -182008,7 +182024,13 @@ tuxedomutt.com
 tuxforce.com
 tuxreportsnews.com
 tuyen889.ml
+tuyenchau.click
+tuyenchau.online
+tuyenchau.site
 tuyendung-batdongsan.org
+tuyenhuy.click
+tuyenhuy.online
+tuyenhuy.site
 tuyensinhonline.info
 tuyingan.co
 tuyistand.site
@@ -202787,6 +202809,7 @@ zeller.cx
 zellimarketing.com
 zellio.yachts
 zelmi.click
+zelnro.com
 zelooemail.ru
 zelras.ru
 zeltool.xyz

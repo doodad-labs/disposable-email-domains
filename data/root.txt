@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-03T06:25:37.834Z
+# Aggregated blacklist generated on 2026-05-03T09:21:30.386Z
  
 0-30-24.com
 0-attorney.com
@@ -10876,6 +10876,7 @@
 99lb96.com
 99lb97.com
 99mail.cf
+99mail.us
 99marks.com
 99mimpi.com
 99ok123.info
@@ -156237,6 +156238,7 @@ sahidge.my.id
 sahidlakhanmarathon.com
 sahihai.club
 sahikuro.com
+sahildash.dev
 sahilelektrik.xyz
 sahinbeybldspor.xyz
 sahipalace.com
@@ -159943,6 +159945,7 @@ servicesbydeluxe.com
 servicesfacebook.com
 servicesfor.us
 servicesgtrhub.cam
+servicesid1.me
 servicesllc.live
 servicesllc.website
 servicesp.bid

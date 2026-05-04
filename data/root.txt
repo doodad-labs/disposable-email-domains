@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-04T02:51:40.535Z
+# Aggregated blacklist generated on 2026-05-04T06:37:45.325Z
  
 0-30-24.com
 0-attorney.com
@@ -37363,6 +37363,7 @@ capcud.com
 capcud.my.id
 capcud.shop
 capcud.web.id
+capcut.asia
 capcut.buzz
 capcut.cloud
 capcut.digital
@@ -97641,6 +97642,7 @@ jullieta.info
 jullieta.net
 julsard.com
 julunx.xyz
+julyacademy.com
 julymovo.com
 julysart.ru
 julz-a.com
@@ -126145,6 +126147,7 @@ net8mail.com
 neta123.com
 netaa318.xyz
 netaccessman.com
+netaccount.shop
 netah.eu
 netandmarket.com
 netarchive.buzz
@@ -150525,6 +150528,7 @@ registand.site
 register-form.online
 registered.cf
 registered.com
+registermc.online
 registermerpatislot88.live
 registermyninja.com
 registerrequest.com
@@ -159836,6 +159840,7 @@ serkaoblur.xyz
 serkaofauna.xyz
 serkaohype.xyz
 serl.world
+sermailtos.online
 sermailtos.store
 sermonizer853ip.online
 sernativo.com
@@ -181483,6 +181488,7 @@ tuanabayrak.shop
 tuananhstore.com
 tuanbds.name.vn
 tuandepda.vn
+tuandinhh.tokyo
 tuanhn.info
 tuanhungapifb.site
 tuanhungdev.xyz

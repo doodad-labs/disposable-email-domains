@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-04T06:37:45.325Z
+# Aggregated blacklist generated on 2026-05-04T10:12:49.435Z
  
 0-30-24.com
 0-attorney.com
@@ -169636,6 +169636,7 @@ supergovertomail.com
 supergreatmail.com
 supergreen.com
 supergreentonic.com
+supergrok.biz.id
 supergsm.com
 superhappyfunnyseal.com
 superhemail.com

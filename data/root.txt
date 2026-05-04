@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-03T22:41:18.286Z
+# Aggregated blacklist generated on 2026-05-04T02:51:40.535Z
  
 0-30-24.com
 0-attorney.com
@@ -21966,6 +21966,7 @@ astral-polet.ru
 astralcars.com
 astralevolution.pro
 astralhotel.net
+astrallmain.shop
 astralltech.com
 astralyst.net
 astramail.ml

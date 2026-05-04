@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-04T19:28:25.106Z
+# Aggregated blacklist generated on 2026-05-04T21:08:49.552Z
  
 0-30-24.com
 0-attorney.com
@@ -105499,6 +105499,7 @@ lehman.tk
 lehner576.com
 lehoa.top
 lehoang.online
+lehoangbaoanh.shop
 lehrxira.cf
 lehrxira.ga
 lehrxira.gq
@@ -106137,6 +106138,7 @@ lexhindustan.org
 lexi.rocks
 lexicogramail.com
 lexicogymail.com
+lexicostapt.ru
 lexidot.com
 lexigra.com
 lexina.top
@@ -132380,6 +132382,7 @@ omnivofmail.ru
 omnyo.com
 omodigitex.com
 omoomn.host
+ompatel.co.in
 ompokerasia.com
 ompre.com
 omrj.com
@@ -188183,6 +188186,7 @@ videoxnxx.site
 videoxred.site
 videoxx-francais.fr
 videoxxl.info
+videyt.online
 vidhosters.org
 vidify.biz.id
 vidihi.com

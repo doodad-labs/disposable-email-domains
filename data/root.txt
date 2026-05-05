@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-05T21:02:46.936Z
+# Aggregated blacklist generated on 2026-05-05T22:55:12.000Z
  
 0-30-24.com
 0-attorney.com
@@ -26760,6 +26760,7 @@ beastmailer.com
 beastpanda.com
 beastrapleaks.blogspot.com
 beatbase.se
+beatbok.online
 beatboxer.com
 beatboxyedonebashe.xyz
 beatcruisesok.live
@@ -69971,6 +69972,7 @@ for0.net
 for1mail.tk
 for4.com
 for4mail.com
+for4u.net
 foradoexpediente.com
 forafore.shop
 foragentsonky.com
@@ -96533,6 +96535,7 @@ jobposts.net
 jobras.com
 jobreadyedge.com
 jobrpq.us
+jobs-lavka.ru
 jobs-lavka.store
 jobs-to-be-done.net
 jobs.photography
@@ -126210,6 +126213,7 @@ netflixs.redirectme.net
 netflixvip.xyz
 netflixweb.com
 netfox24.com
+netfusionhub.surf
 netfxd.com
 netg.me
 netgainmedia.com
@@ -129064,6 +129068,7 @@ nose-blackheads.com
 nosemail.com
 noseycrazysumrfs5.com
 nosh.ml
+noship.shop
 noshrwjg.space
 nosignal.my.id
 nosinga.cf
@@ -153975,6 +153980,7 @@ roughsexgifs.com
 roughvali.site
 rougp.xyz
 roujpjbxeem.agro.pl
+roulette-analyser.com
 roulette-megasystem.com
 roulettecash.org
 roulettesuperpieno.com

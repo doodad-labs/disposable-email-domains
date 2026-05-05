@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-05T02:43:50.272Z
+# Aggregated blacklist generated on 2026-05-05T06:16:07.390Z
  
 0-30-24.com
 0-attorney.com
@@ -126256,6 +126256,7 @@ netmarketingforum.com
 netmeesters.com
 netmidiadesign.com
 netmon.ir
+netmundo.xyz
 netn.top
 netnet.help
 netnewstoday.com
@@ -136585,6 +136586,7 @@ parasrsmail.ru
 parasyemail.ru
 paraterdeco.site
 paratmail.com
+paratrabajar.xyz
 paratudo.store
 paratyparadise.online
 parawansaassoniwora.id
@@ -149189,6 +149191,7 @@ raynaman.com
 rayofshadow.xyz
 rayong.mobi
 rayongbizspaces.com
+rayrayactive.com
 raysamericankarate.net
 raywvjt.space
 rayyanta.com
@@ -157740,6 +157743,7 @@ sbtjtj.com
 sburningk.com
 sbuttone.com
 sbuyam.site
+sbx.lol
 sbxglobal.net
 sc-court.org
 sc-outlook.com
@@ -163197,6 +163201,7 @@ skyelaf.com
 skyelanguagesolutions.com
 skyemails.app
 skyemails.tech
+skyeo.sbs
 skyfall.dev
 skyfiberinternetservice.com
 skyfibernetworksnv.com
@@ -199980,6 +199985,7 @@ yayobaebyeon.com
 yayoo.co.uk
 yayoo.com.mx
 yayoo.fr
+yayukos.codes
 yazahazirlik.site
 yazaral14.net
 yazenwesam.site
@@ -202110,6 +202116,7 @@ yzpcoygst.gq
 yzrbjc.com
 yzrd.org
 yzrggs.com
+yzrkive.cfd
 yzsdhi.us
 yztfgtqm.shop
 yzvy.com

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-05T15:52:51.095Z
+# Aggregated blacklist generated on 2026-05-05T17:23:33.171Z
  
 0-30-24.com
 0-attorney.com
@@ -108880,6 +108880,7 @@ lon.cm
 lon7e.buzz
 lonaddafac.it.com
 lonard-os.com
+lonaxter.site
 loncoca.org
 lonct.icu
 londh.site
@@ -127037,6 +127038,7 @@ nexlight.be
 nexmanti.net
 nexofinance.us
 nexondigi.com
+nexorabio.pro.vn
 nexosolucionespro.com
 nexosphere.lifestyle
 nexostartups.com

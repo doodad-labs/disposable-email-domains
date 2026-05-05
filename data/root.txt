@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-05T10:02:41.014Z
+# Aggregated blacklist generated on 2026-05-05T13:54:33.467Z
  
 0-30-24.com
 0-attorney.com
@@ -44998,6 +44998,7 @@ conbactgab.tk
 conbitar.com
 conbotopco.com
 conboxtv.com
+concanthieungu.buzz
 concavi.com
 concavodka.com
 concdysre.ga
@@ -52959,6 +52960,7 @@ dibtec.store
 dicaratooth.tk
 dicasdacasabaher.com
 dicasonline.xyz
+diccumay.online
 dicedica.shop
 dicejobalertsa13.com
 dicepic.com
@@ -80986,6 +80988,7 @@ haldihouse.net
 hale-namiotowe.net.pl
 halebale.com
 haledamn.us
+haleloya.site
 halenesswith.com
 haleyhouse.co
 half-blue.com
@@ -122125,6 +122128,7 @@ mtsautoshipping.net
 mtsdi.com
 mtservers.online
 mtsg.me
+mtshop18.io.vn
 mtsmy2.com
 mtsmy4.com
 mtstreet.online
@@ -140292,6 +140296,7 @@ pixtest.net
 pixymix.com
 piyahkc.xyz
 piyamipi.site
+piyo.my.id
 pizdolizi-tut.info
 piznu.xyz
 pizookahlounge.com
@@ -192024,6 +192029,7 @@ webadsprotectonline.club
 webaff.com
 webaheadstudios.com
 webail.co.za
+webairy.com
 webalpilean.online
 webanalyticsalert.com
 webandgraphicdesignbyphil.com
@@ -196400,6 +196406,7 @@ xcina.com
 xcisade129.ru
 xckerkorkf33.info
 xcl.pl
+xclone.asia
 xcloud.ovh
 xcmexico.com
 xcmitm3ve.pl

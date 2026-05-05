@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-05T19:22:36.827Z
+# Aggregated blacklist generated on 2026-05-05T21:02:46.936Z
  
 0-30-24.com
 0-attorney.com
@@ -37881,6 +37881,7 @@ carpetmartrugs.com
 carpetra.com
 carpetremoval.ca
 carpetstore.se
+carpetulin.xyz
 carpetway.com
 carpetworksuk.com
 carpilotcomic.com
@@ -42948,6 +42949,7 @@ clipz.top
 clipzavod.ru
 cliquementality.com
 cliqueone.com
+clissecol.com
 clit.games
 clit.loan
 clitbate.com
@@ -47615,6 +47617,7 @@ csccblida.com
 csccsports.com
 csced.us
 cscedu.us
+csceus.us
 cschammel.com
 cschl.us
 cschwabllc.com
@@ -75315,6 +75318,7 @@ ghatkhl.us
 ghatkhs.us
 ghatks.us
 ghats.us
+ghatsc.us
 ghatsh.us
 ghbceyuunw.ga
 ghcj.com
@@ -123453,6 +123457,7 @@ mygeoweb.info
 mygermancar.com
 myggemail.com
 mygid.online
+mygirlpipsqueak.nz
 mygkhs.us
 myglobalinfotech.com
 myglobalmail.eu
@@ -149809,6 +149814,7 @@ rebeccavena.com
 rebekahcarney.net
 rebekahryburn.com
 rebekamail.com
+rebeld.xyz
 rebelexac.icu
 rebelfi.icu
 rebellion21marketing.com
@@ -154559,6 +154565,7 @@ rtunerfjqq.com
 rtvlansingerland.nl
 rtvregion.ru
 rtwqeydgh.cloud
+rtx.re
 rtxcm.com
 rtyocum.dev
 ru-api-id-dns-cgi-bin.ru
@@ -187319,6 +187326,7 @@ venusocks.ru
 venusportfolio.com
 venusstri.com
 venweld.site
+venyra.fr
 veo.kr
 veo325k.io.vn
 veo325kcredit.io.vn
@@ -201964,6 +201972,7 @@ yutoewhmbo.ga
 yutol.gay
 yutongdt.com
 yutrier8e.com
+yutub.cloud
 yutubpremium.com
 yuugk9.us
 yuurok.com

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-06T21:10:34.090Z
+# Aggregated blacklist generated on 2026-05-06T22:52:49.010Z
  
 0-30-24.com
 0-attorney.com
@@ -104673,6 +104673,7 @@ launchdetectorbot.xyz
 launchfunnelsecrets.com
 launchjackings.com
 launchpadapp.com
+launchpadx.shop
 launchwithrica.com
 launders.money
 lauod.com
@@ -138591,6 +138592,7 @@ persianpay.club
 persicoin.com
 persimmongrove.org
 persiscreations.com
+persisherr142.buzz
 persistnwcd.email
 persja.com
 perslihelp.cf

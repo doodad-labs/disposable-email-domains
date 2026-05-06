@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-06T14:11:20.652Z
+# Aggregated blacklist generated on 2026-05-06T17:40:47.099Z
  
 0-30-24.com
 0-attorney.com
@@ -18257,6 +18257,7 @@ andrewbraun.dev
 andrewbuelow.net
 andrewcluh.top
 andrewfraser.xyz
+andrewglow0203.buzz
 andrewgx.site
 andrewhopkins.buzz
 andrewjanus.com
@@ -18703,6 +18704,7 @@ annabisoilweb.com
 annaclingan.com
 annaevans.xyz
 annafathir.cf
+annagabald142.buzz
 annakenworthy.com
 annalusi.cf
 annamike.org
@@ -26147,6 +26149,7 @@ bayareavegfest.org
 bayareazip.com
 baybabes.com
 baybe.ru
+baybumutan.shop
 bayburtbal.com
 bayburtbal.xyz
 bayburtkoyu.xyz
@@ -33907,6 +33910,7 @@ britishpreschool.net
 britishpropolis.xyz
 britishtalent.org
 britneybicz.pl
+brittany1903.buzz
 brittanywilliamsrealtor.com
 britted.com
 brittishkustoms.com
@@ -79991,6 +79995,7 @@ gurubooks.ru
 gurudwarababalakhishahvanjara.com
 guruf.com
 gurulegal.ru
+gurulelola0203.buzz
 gurumail.xyz
 gurumediation.com
 gurungkhabar.com
@@ -96582,6 +96587,7 @@ jodigi.com
 jody.me
 joe2116.com
 joeclipart.com
+joecutler1903.buzz
 joeey.co.com
 joef.de
 joejoe.tk
@@ -129104,6 +129110,7 @@ nostrabirra.com
 nostracom.es
 nostradamus.best
 nostrajewellery.xyz
+nosubcriber.shop
 nosuchdoma.in
 nosuger.coffee
 nosystem.info
@@ -156358,6 +156365,7 @@ saintsollana.website
 saintthomas.com
 saiqeg.top
 sairivadelgarda.com
+saisonhama.shop
 saitama.com
 saitama88.club
 saitrajsu.cf
@@ -171581,6 +171589,7 @@ taksibu.com
 taksicininkeyfi.com
 taksiklin.ru
 takt-hamburg.de
+taktakbaloza.buzz
 taktalk.net
 taktikbet.xyz
 taktikvip.xyz

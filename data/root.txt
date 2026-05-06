@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-06T17:40:47.099Z
+# Aggregated blacklist generated on 2026-05-06T19:45:48.495Z
  
 0-30-24.com
 0-attorney.com
@@ -53075,6 +53075,7 @@ dienceemail.com
 diencmail.com
 diendanhocseo.com
 diendanit.vn
+dienlanhtruongtien.cloud
 dienmayvietvan.com
 diennuocnghiahue.com
 dienthoaiiphonetaodep.xyz
@@ -139028,6 +139029,7 @@ phamansinh.com
 phamay.com
 phamcpa.com
 phamhaiusa.com
+phamlam.online
 phamminhtu.com
 phamtuki.com
 phamtusi.com

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-07T02:51:15.964Z
+# Aggregated blacklist generated on 2026-05-07T06:34:44.075Z
  
 0-30-24.com
 0-attorney.com
@@ -85526,6 +85526,7 @@ hoodaa55.shop
 hoodet.ru
 hoodlehub.com
 hoodsshop.live
+hoodstepha222.buzz
 hooeheee.com
 hooglygoogly.com
 hook-up1.com
@@ -102558,6 +102559,7 @@ kristall2.ru
 kristenandkatie.com
 kristenhoodrealestate.com
 kristenlourie.com
+kristenwhi222.buzz
 kristeven.tk
 kristiannoya.com
 kristianritter.xyz

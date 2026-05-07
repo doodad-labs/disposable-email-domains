@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-07T10:24:00.789Z
+# Aggregated blacklist generated on 2026-05-07T14:08:15.219Z
  
 0-30-24.com
 0-attorney.com
@@ -21291,6 +21291,7 @@ ascqwcxz.com
 asculpture.ru
 ascvzxcwx.com
 ascwcxax.com
+ascxzcw.web.id
 asd-mail.tech
 asd2.com
 asd20.com
@@ -173272,6 +173273,7 @@ telanganajobs.net
 telanganarental.com
 telangiectaticlipoma.ru
 telangrsmail.ru
+telasflix.com.br
 telasmercamoda.com
 telco-support.org
 telcosan.net

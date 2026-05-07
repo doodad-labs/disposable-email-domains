@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-07T06:34:44.075Z
+# Aggregated blacklist generated on 2026-05-07T10:24:00.789Z
  
 0-30-24.com
 0-attorney.com
@@ -29081,6 +29081,7 @@ bhaappy1loadzzz.ru
 bhadoomail.com
 bhag.us
 bhakti-tree.com
+bhaktiswaroopam.com
 bhambriinternational.com
 bhamweekly.com
 bhap.me
@@ -50762,6 +50763,7 @@ deanhai.re
 deannaburnhouse.com
 deanoumik.tk
 deanpike.com
+deapad.com
 deapanendra.art
 deapy.com
 dear-whoever.com
@@ -193477,6 +193479,7 @@ whoyoushouldvotefor.com
 whqywc.com
 whs.in.th
 whsec.tech
+whskrspc.shop
 whstores.com
 wht004.com
 whtsapp.fun
@@ -195497,6 +195500,7 @@ wsh72eonlzb5swa22.gq
 wsh72eonlzb5swa22.ml
 wsh72eonlzb5swa22.tk
 wshay.com
+wshu.net
 wshv.com
 wsiconsultant.com
 wsifenetondr.host

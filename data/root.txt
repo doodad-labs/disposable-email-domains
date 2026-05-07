@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-07T14:08:15.219Z
+# Aggregated blacklist generated on 2026-05-07T17:47:38.566Z
  
 0-30-24.com
 0-attorney.com
@@ -18128,6 +18128,7 @@ anatomiadelalma.com
 anauraterapia.com
 anavasphotography.com
 anawalls.com
+anawebs.com
 anayelizavalacitycouncil.com
 anayikt.cf
 anayikt.ga
@@ -24760,6 +24761,7 @@ badgerbrushes.biz
 badgerbrushes.net
 badgerbrushes.org
 badgerbrushes.us
+badgerhole.com
 badgerland.eu
 badgettingnurdsusa.com
 badgewell.com
@@ -52433,6 +52435,7 @@ devskateboards.com
 devswp.com
 devt.site
 devtestx.software
+devthien.io.vn
 devuan.online
 devushka-fo.com
 devvo.com.br
@@ -70580,6 +70583,7 @@ fpsinformer.xyz
 fpsrealm.xyz
 fpstipscentral.xyz
 fpsuabooster.ru
+fpt-student-support.store
 fptnamdinh.site
 fpuob0sn0awiei3.xyz
 fputra.xyz
@@ -73843,6 +73847,7 @@ gccs.com
 gcdj168.com
 gcdn.hk
 gcei3r.com
+gcervera.com
 gcf84z.us
 gcfleh.com
 gchatz.ga
@@ -104054,6 +104059,7 @@ laluxy.com
 lam0k.com
 lamahometextile.com
 lamaisonducachemire.com
+lamak.my.id
 lamarengineering.com
 lamasbonitadetodasmix.com
 lamasticots.com

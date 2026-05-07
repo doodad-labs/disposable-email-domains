@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-07T21:04:03.796Z
+# Aggregated blacklist generated on 2026-05-07T23:00:14.702Z
  
 0-30-24.com
 0-attorney.com
@@ -161902,6 +161902,7 @@ sidhufineart.com
 sidhutravel.com
 sidkaemail.cf
 sidkey.net
+sidlabs.site
 sidlece.xyz
 sidler.us
 sidless.com

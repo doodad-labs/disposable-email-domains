@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-07T23:00:14.702Z
+# Aggregated blacklist generated on 2026-05-08T02:54:01.972Z
  
 0-30-24.com
 0-attorney.com
@@ -44009,6 +44009,7 @@ codm.site
 codmobilehack.club
 codn.site
 codng.com
+codoteam.com
 codp.site
 codq.site
 cods.space
@@ -60600,6 +60601,7 @@ ella-claire.com
 ellabolukifar.com
 ellahamid.art
 ellamail.com
+ellbit.com
 elle-news.com
 ellebox.com
 ellemeden.com
@@ -89843,6 +89845,7 @@ imaracing.com
 imarkconsulting.com
 imarketingshop.com
 imarketlogic.com
+imashr.com
 imasoft.com
 imasser.info
 imatconvention.com
@@ -204277,6 +204280,7 @@ zsarah.top
 zsazsautari.art
 zsba31.us
 zsbgllzin.shop
+zscapcut.my.id
 zsccyccxea.pl
 zscilx.xyz
 zsdigital.tech

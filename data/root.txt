@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-08T11:15:10.713Z
+# Aggregated blacklist generated on 2026-05-08T13:47:35.545Z
  
 0-30-24.com
 0-attorney.com
@@ -127159,6 +127159,7 @@ nexusmail.cfd
 nexuss88.com
 nexusstream.online
 nexussupplys.com
+nexvio.biz.id
 nexwp.com
 nexxtconnect2020.com
 nexxterp.com

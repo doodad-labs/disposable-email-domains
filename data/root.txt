@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-08T20:59:48.817Z
+# Aggregated blacklist generated on 2026-05-08T22:54:44.582Z
  
 0-30-24.com
 0-attorney.com
@@ -50837,6 +50837,7 @@ debonair-designs.com
 debonmail.com
 debonnehumeur.com
 deboors.com
+deborahat.biz.id
 deborahat.web.id
 deborahosullivan.com
 deborahpodolsky.org
@@ -101419,6 +101420,7 @@ klvnchia.com
 klweddings.com
 klwrea.site
 klyra.solutions
+klyro.web.id
 klyum.com
 klyverra.cfd
 klzlk.com
@@ -165221,6 +165223,7 @@ soodmail.com
 soodomail.com
 soodonims.com
 soogalsudan.com
+sooka.my.id
 soombo.com
 soon.it
 soon2open.com

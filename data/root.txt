@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-08T15:21:37.973Z
+# Aggregated blacklist generated on 2026-05-08T17:17:25.805Z
  
 0-30-24.com
 0-attorney.com
@@ -25699,6 +25699,7 @@ barbabas.space
 barbados-nedv.ru
 barbarabottini.com
 barbaragalise55places.com
+barbaram30593.buzz
 barbarbu.fr
 barbarianfestival.com
 barbarianfestival.org
@@ -39910,6 +39911,7 @@ chamedan.pro
 chamedoon.cfd
 chammakchallo.com
 chammy.info
+champagne62.buzz
 champagneposters.com
 champbennett.com
 champcaps.com
@@ -73568,6 +73570,7 @@ garyoliver.es
 garyschollmeier.com
 garyscowboypoetry.com
 garyshaw.net
+garzadanie161.buzz
 garzisi.com
 gas-avto.com
 gas-spark-plugs.pp.ua
@@ -143412,6 +143415,7 @@ premmiere.biz
 premmiere.info
 premoto.com
 prempro.my.id
+prems.id
 prems4hue.tk
 premsbyls.gq
 premstud.site
@@ -193812,6 +193816,7 @@ willleather.com
 willloc.com
 willm.cd
 willmail.bond
+willmayer62.buzz
 willmoraes.com.br
 willmorrison.com
 willner-ventures.com

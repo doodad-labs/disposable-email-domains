@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-08T19:17:21.529Z
+# Aggregated blacklist generated on 2026-05-08T20:59:48.817Z
  
 0-30-24.com
 0-attorney.com
@@ -38588,6 +38588,7 @@ cav17.net
 cavalheirosbarbearia.com.br
 cavalry.com
 cavatinaopus.com
+cavcut.my.id
 cavebite.com
 cavee.top
 cavemao.com
@@ -108763,6 +108764,7 @@ lojacentrobenessere.shop
 lojadatvbox.com.br
 lojaibizas.info
 lojajled.com
+lojastream.shop
 lojatortuga.com
 lojistiklashing.com
 lojkjcwj.shop

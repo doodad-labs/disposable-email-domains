@@ -1,6 +1,3 @@
-> [!WARNING]
-> This project is in an early stage. Some domains may be incorrectly flagged as disposable. We actively welcome contributors to help improve accuracy, particularly by maintaining the whitelists.
-
 # Real-time Disposable Email Domains
 
 [![All Flagged Domains](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdoodad-labs%2Fdisposable-email-domains%2Frefs%2Fheads%2Fmain%2Fstats%2Fbadge.json\&style=flat-square\&cache=1)](https://github.com/doodad-labs/disposable-email-domains/blob/main/data/domains.txt)

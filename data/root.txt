@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-09T10:57:17.255Z
+# Aggregated blacklist generated on 2026-05-09T13:17:36.746Z
  
 0-30-24.com
 0-attorney.com
@@ -21253,6 +21253,7 @@ asart53.com
 asasaaaf77.site
 asassom.cloud
 asaud.com
+asav.site
 asb-mail.info
 asbakpinuh.club
 asbcglobal.net
@@ -120630,6 +120631,7 @@ moncstonar.tk
 monctl.com
 monctonlife.com
 mondard.com
+monday29.buzz
 mondayarr.host
 mondayfirst.site
 mondaylaura.com

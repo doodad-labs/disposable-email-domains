@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-      - name: Checkout current repository
+      - name: Checkout workflow repository
         uses: actions/checkout@v4
         with:
           ref: workflow

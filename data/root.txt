@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-08T22:54:44.582Z
+# Aggregated blacklist generated on 2026-05-09T02:49:00.892Z
  
 0-30-24.com
 0-attorney.com
@@ -28975,6 +28975,7 @@ bez-kompleksov.site
 bez-odsetek.pl
 bez.myvnc.com
 bezblednik.pl
+bezill.com
 bezini.site
 bezique.info
 bezlimitu.waw.pl
@@ -32483,6 +32484,7 @@ bookat.us
 bookb.site
 bookbouquet.online
 bookc.site
+bookcentral.shop
 bookclick.online
 bookclubfiction.net
 bookd.press
@@ -37371,6 +37373,7 @@ capcart.xyz
 capcitylife.com
 capconsult.net
 capcrut.site
+capct.id
 capctus.icu
 capcud.com
 capcud.my.id
@@ -55194,6 +55197,7 @@ dogit.com
 dogking.info
 doglisteneroftheeast.com
 dogmail.club
+dogmrp.com
 dogn.com
 dognest.shop
 dognewsshow.com
@@ -95280,6 +95284,7 @@ jeffersofmals.com
 jeffersonandassociates.com
 jeffersonbox.com
 jeffersonms.org
+jeffery.my.id
 jefferygroup.com
 jeffexotica.com
 jeffgreysales.com
@@ -192769,6 +192774,7 @@ wenders.online
 wenders.shop
 wenders.world
 wenders.xyz
+wendy143.web.id
 wendyalper.net
 wendyalper.org
 wendygoodhealthblog.com

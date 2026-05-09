@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-09T19:01:10.600Z
+# Aggregated blacklist generated on 2026-05-09T20:42:24.360Z
  
 0-30-24.com
 0-attorney.com
@@ -178506,6 +178506,7 @@ tokolama.my.id
 tokoperfume.com
 tokopremium.co
 tokopulsa.shop
+tokoriad.biz.id
 tokosehati.xyz
 tokot.ru
 tokovard.my.id

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-09T02:49:00.892Z
+# Aggregated blacklist generated on 2026-05-09T06:15:27.761Z
  
 0-30-24.com
 0-attorney.com
@@ -31765,6 +31765,7 @@ bmyw.us
 bn2fitness.net
 bn373.top
 bn55gameapk.info
+bn77fb.click
 bnail.ru
 bnaishop.site
 bnaspropertymarketing.com
@@ -100971,6 +100972,7 @@ kisan.org
 kisbetonpumpa.com
 kiscords.biz
 kiscover.com
+kises.biz.id
 kishahui.shop
 kishen.dev
 kishopbags.club
@@ -117940,6 +117942,7 @@ mia6ben90uriobp.tk
 miadz.com
 miaferrari.com
 miaflorido.com
+miajangler.biz.id
 miakhalifa.mobi
 mial.cf
 mial.tk
@@ -133052,6 +133055,7 @@ only-bag.com
 only-marrakech.online
 only.me
 only2weeks.com
+only4u.biz.id
 onlyapp.net
 onlyapps.info
 onlybarkplaza.com
@@ -134664,6 +134668,7 @@ otpmail.top
 otpmeta.email
 otpquick.com
 otprmail.com
+otpwa.dedyn.io
 otrabajo.com
 otratransportation.com
 otrimail.com
@@ -146600,6 +146605,7 @@ qiq.us
 qiqmail.ml
 qiradio.com
 qirauna.site
+qirivviot.my.id
 qirvo.click
 qirvon.online
 qirzgl53rik0t0hheo.cf
@@ -156357,6 +156363,7 @@ sahrulselow.gq
 sahrulselow.ml
 sahuparhay.tk
 sahurkack.my.id
+sahuryuk.my.id
 sai-tai.net
 saiagaia.online
 saibaagora.website
@@ -166531,6 +166538,7 @@ spothouse.fun
 spotifans.club
 spotifi.me
 spotify.best
+spotify.biz.id
 spotifygenerator.com
 spotifyindo.com
 spotifymusic.com
@@ -172839,6 +172847,7 @@ teaparty-news.com
 teardesign.com
 teardown.site
 tearflakes.com
+tearflakes.eu.org
 tearrecords.com
 teasealoo.buzz
 teasebre.icu

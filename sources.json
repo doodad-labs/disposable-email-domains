@@ -1,0 +1,38 @@
+{
+    "whitelist": {
+        "txt": [
+            "https://raw.githubusercontent.com/doodad-labs/disposable-email-domains/refs/heads/main/domain_whitelist.txt"
+        ]
+    },
+    "whitelist_tld": {
+        "txt": [
+            "https://raw.githubusercontent.com/doodad-labs/disposable-email-domains/refs/heads/main/tld_whitelist.txt"
+        ]
+    },
+    "blacklist": {
+        "txt": [
+            "https://raw.githubusercontent.com/disposable/disposable-email-domains/refs/heads/master/domains.txt",
+            "https://raw.githubusercontent.com/disposable-email-domains/disposable-email-domains/refs/heads/main/disposable_email_blocklist.conf",
+            "https://raw.githubusercontent.com/7c/fakefilter/refs/heads/main/txt/data.txt",
+            "https://raw.githubusercontent.com/wesbos/burner-email-providers/refs/heads/master/emails.txt",
+            "https://www.stopforumspam.com/downloads/toxic_domains_whole.txt",
+            "https://www.stopforumspam.com/downloads/toxic_domains_whole_filtered.txt"
+        ],
+        "json": [
+            {
+                "url": "https://deviceandbrowserinfo.com/api/emails/disposable",
+                "key": "."
+            },
+            {
+                "url": "https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json",
+                "key": "."
+            }
+        ],
+        "csv": [
+            {
+                "url": "https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv",
+                "col": 1
+            }
+        ]
+    }
+}

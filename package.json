@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "@types/dns2": "^2.0.10",
+    "@types/node": "^25.3.0"
+  },
+  "dependencies": {
+    "dns2": "^2.1.0",
+    "p-limit": "^7.3.0",
+    "psl": "^1.15.0"
+  }
+}

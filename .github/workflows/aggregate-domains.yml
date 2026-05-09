@@ -1,0 +1,70 @@
+name: Aggregate Domains
+
+on:
+  schedule:
+    - cron: '0 */2 * * *'
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  aggregate-domains:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout current repository
+        uses: actions/checkout@v4
+        with:
+          ref: workflow
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Generate Blacklist
+        run: npx tsx scripts/aggregate-domains.ts
+
+      - name: Checkout target repository
+        uses: actions/checkout@v4
+        with:
+          repository: doodad-labs/disposable-email-domains
+          ref: main
+          path: target-repo
+          token: ${{ secrets.BOT_PAT }}
+
+      - name: Copy all generated files to target repository
+        run: |
+          # Copy everything from out directory recursively
+          cp -r out/* target-repo/
+          
+          # Remove the out directory itself if it gets copied
+          rm -rf target-repo/out
+
+      - name: Configure Git
+        run: |
+          cd target-repo
+          git config user.name "DoodadLabs [bot]"
+          git config user.email "admin@doodadlabs.org"
+
+      - name: Commit and push all changes
+        run: |
+          cd target-repo
+          
+          # Add all files (new, modified, deleted)
+          git add -A
+          
+          # Check if there are changes to commit
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            # Get list of changed files for commit message
+            CHANGED_FILES=$(git diff --name-only --staged | head -10 | tr '\n' ', ' | sed 's/, $//')
+            COMMIT_MSG="Update domain lists - $(date +'%Y-%m-%d %H:%M:%S')"
+            
+            git commit -m "$COMMIT_MSG"
+            git push
+          fi

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-09T22:42:53.995Z
+# Aggregated blacklist generated on 2026-05-10T02:52:36.439Z
  
 0-30-24.com
 0-attorney.com
@@ -23579,6 +23579,7 @@ awesomewellbeing.com
 awewallet.com
 awex.icu
 awez.icu
+awfucex.net
 awg-global.com
 awg5.com
 awgarstone.com
@@ -73443,6 +73444,7 @@ garagedoorschina.com
 garagedoorselmirage.com
 garagemvitoria.com
 garajemail.com
+garanburn.shop
 garanhunsgears.online
 garansian.com
 garantibuyutucu.xyz
@@ -184058,6 +184060,7 @@ umail4less.men
 umail4less.website
 umailbox.net
 umailz.com
+umairkhan.online
 umakanth.online
 umalmail.com
 umalypuwa.ru

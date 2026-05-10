@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-10T20:46:03.065Z
+# Aggregated blacklist generated on 2026-05-10T22:46:08.208Z
  
 0-30-24.com
 0-attorney.com
@@ -10880,6 +10880,7 @@
 99marks.com
 99mimpi.com
 99ok123.info
+99percentwork.com
 99perkasa.com
 99pg.group
 99potgame.info

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-10T06:32:24.491Z
+# Aggregated blacklist generated on 2026-05-10T09:27:50.134Z
  
 0-30-24.com
 0-attorney.com
@@ -34667,6 +34667,7 @@ budporady.site
 budqen.click
 budrem.com
 budtek.info
+buduh.biz.id
 budweiser.com
 budylz.xyz
 budzdorov-03.site
@@ -37420,6 +37421,7 @@ capcutku.store
 capcutkustore.store
 capcutmeflo.shop
 capcutnihbos.site
+capcutpr0.biz.id
 capcutprem.xyz
 capcutpremapps.web.id
 capcutpro.click
@@ -41449,6 +41451,7 @@ chowderheartland.site
 chowet.site
 choxetoanquoc.com
 chp74.com
+chqtgpt.id
 chqu.school
 chqydmxsfs.ga
 chr-amster.com
@@ -78416,6 +78419,7 @@ gptproz.web.id
 gptsapp.net
 gptte.site
 gptvn.cfd
+gptwanz.web.id
 gptworkone.dev
 gpui.ru
 gpuj.com
@@ -99793,6 +99797,7 @@ kepeznakliyat.com
 kepeztesisat.xyz
 kepezun.xyz
 kepkat.com
+kepkatpro.my.id
 kepnet.com
 kepo.ml
 kepqs.ovh
@@ -134643,6 +134648,7 @@ otkat.info
 otkmail.com
 otkrit-ooo.ru
 otktimqc.shop
+otl.web.id
 otlaecc.com
 otlook.de
 otlook.es
@@ -159580,6 +159586,7 @@ senpai.codes
 senpai810.dns-dynamic.net
 senpaigamer.com
 senpro.store
+senrawan.my.id
 sensadrive.com
 sensavault.com
 sensearticle.com
@@ -167175,6 +167182,7 @@ stafimre.cf
 stafimre.ga
 stafimre.gq
 stafimre.ml
+stafsus.my.id
 stagabta.site
 stagarti.cf
 stagarti.ga
@@ -199566,6 +199574,7 @@ yagatekimi.com
 yagciogluajansmatbaa.xyz
 yagersmail.com
 yagerweb.com
+yagesya.my.id
 yagfiltresi.com
 yagg.com
 yaglariazalt.site

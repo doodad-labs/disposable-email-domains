@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-11T03:28:10.191Z
+# Aggregated blacklist generated on 2026-05-11T07:40:17.570Z
  
 0-30-24.com
 0-attorney.com
@@ -59439,6 +59439,7 @@ edumail.store
 edumail.su
 edumaili.com
 edumaili.edu.pl
+edumaill.edu.pl
 edume.me
 edumomtalk.com
 edun4.us
@@ -87812,6 +87813,7 @@ hypearound.com
 hypebav.com
 hypebonus.casino
 hypecasino-ugx.online
+hypecenter.casino
 hypedcarts.com
 hypefreehealth.com
 hypehound.com
@@ -112168,6 +112170,7 @@ mailed.in
 mailed.ro
 maileder.com
 mailedu.de
+mailedu.edu.pl
 maileere.com
 maileimer.de
 mailelectronic.com

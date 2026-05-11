@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-10T22:46:08.208Z
+# Aggregated blacklist generated on 2026-05-11T03:28:10.191Z
  
 0-30-24.com
 0-attorney.com
@@ -72285,6 +72285,7 @@ furkanozturk.cfd
 furkantanem.shop
 furla.email
 furla.tech
+furlas.me
 furmol.website
 furnato.com
 furnicular.site
@@ -86920,6 +86921,7 @@ htmel.com
 html2images.com
 html5recipes.com
 html5repair.com
+htmmo67.buzz
 htn.it
 htndeglwdlm.pl
 htngroup.com
@@ -184767,6 +184769,7 @@ unlim-casinomirage.world
 unlim-casinoodyssey.homes
 unlim-casinoodyssey.icu
 unlim.website
+unlimbonus.casino
 unlimcasino-jackpotarena.top
 unlimcasino.beauty
 unlimcasino.boats

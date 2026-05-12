@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-11T22:53:36.004Z
+# Aggregated blacklist generated on 2026-05-12T02:53:20.029Z
  
 0-30-24.com
 0-attorney.com
@@ -16068,6 +16068,7 @@ alexakjr.my.id
 alexalex.se
 alexanas.ru
 alexandbetsy.com
+alexander.wtf
 alexander27.store
 alexander4.org
 alexanderfedorov.com
@@ -36487,6 +36488,7 @@ cadliafor.ml
 cadliafor.tk
 cadmiurphj.space
 cado68.com
+cadok.biz.id
 cadolls.com
 cadomoingay.info
 cadoudecraciun.tk
@@ -75324,6 +75326,7 @@ ggvk.ru
 ggvk.store
 ggwest.ru
 ggworxrld.shop
+ggwpray.biz.id
 ggxhunter.com
 ggxx.com
 ggzea.biz.id
@@ -76968,6 +76971,7 @@ gmsol.com
 gmssail.com
 gmtclinic.ru
 gmtv8.com
+gmuils.com
 gmw-itservices.com
 gmwail.com
 gmx-mails.com

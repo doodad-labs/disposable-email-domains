@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-12T06:36:57.468Z
+# Aggregated blacklist generated on 2026-05-12T10:31:21.233Z
  
 0-30-24.com
 0-attorney.com
@@ -75352,6 +75352,7 @@ ghallcontent.com
 ghamil.com
 ghan.com
 ghanalandbank.com
+ghania.site
 ghanun.info
 gharbuilder.com
 ghas.us
@@ -98882,6 +98883,7 @@ kapumamatata.gq
 kapumamatata.ml
 kapumamatata.tk
 kapur.dev
+kaqmail.com
 kara-turk.net
 karabas777.ru
 karabukburada.xyz
@@ -110372,6 +110374,7 @@ lunarhacks.space
 lunarhoax.com
 lunarkrab.com
 lunarmail.info
+lunarmoon.online
 lunary.com.br
 lunas.today
 lunaticfest.store

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-12T02:53:20.029Z
+# Aggregated blacklist generated on 2026-05-12T06:36:57.468Z
  
 0-30-24.com
 0-attorney.com
@@ -74594,6 +74594,7 @@ germinahah.space
 germinare.com.br
 germred.site
 germsurfacegain.website
+germuil.com
 gerncompmas.ga
 gerncompmas.tk
 gero.us
@@ -129961,6 +129962,7 @@ numwert.tk
 nun.ca
 nunagom.shop
 nunez.info
+nunindin.my.id
 nunlami.tech
 nunmail.store
 nunscore.com
@@ -153975,6 +153977,7 @@ roselarose.com
 roselin.ee
 roselism.com
 roselug.org
+rosemarrty.online
 rosendalerapids.com
 rosendalerapids.net
 rosenwatchers.com

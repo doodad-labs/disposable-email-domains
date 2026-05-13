@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-12T23:00:42.344Z
+# Aggregated blacklist generated on 2026-05-13T02:58:05.084Z
  
 0-30-24.com
 0-attorney.com
@@ -37416,6 +37416,7 @@ capcutin.my.id
 capcuting.my.id
 capcutisme.app
 capcutisme.com
+capcutkan.web.id
 capcutku.app
 capcutku.cc
 capcutku.com
@@ -73712,6 +73713,7 @@ gatou.store
 gatrepol.biz.id
 gatshop.ir
 gattormail.com
+gattouz.biz.id
 gaubonghn.com
 gauchageeks.online
 gauche1.online
@@ -74239,6 +74241,7 @@ gemstone-love.com
 gemsz.me
 gemtar.com
 gemuk.buzz
+gen-z.my.id
 gen.cloudns.cc
 gen16.me
 genacampbell.fr
@@ -137504,6 +137507,7 @@ paymail.online
 paymail.store
 paymaya.cf
 paymenex.cd
+payment-rizky.biz.id
 payment.tj
 payment1ab1.com
 paymentfortoday.com
@@ -153198,6 +153202,7 @@ rnghlfwp.shop
 rnh71.space
 rniab.us
 rnicrosoft.com
+rniin2ni39293n2349j32030202.loseyourip.com
 rnjc8wc2uxixjylcfl.cf
 rnjc8wc2uxixjylcfl.ga
 rnjc8wc2uxixjylcfl.gq
@@ -177664,6 +177669,7 @@ titipoker.net
 titipoker.org
 titiriwiki.com
 titkiprokla.tk
+titko.my.id
 title1program.com
 title1reading.com
 title1readingprogram.com

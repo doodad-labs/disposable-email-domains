@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-13T21:26:12.775Z
+# Aggregated blacklist generated on 2026-05-13T23:05:03.810Z
  
 0-30-24.com
 0-attorney.com
@@ -4516,6 +4516,7 @@
 362gmail.com
 362ue.space
 363.net
+3633betlogin.net
 3634445.com
 3637glendonave.com
 363gmail.com
@@ -8820,6 +8821,7 @@
 79ohgaz.shop
 79ok.info
 79q.info
+79xgame.info
 79xlogin.net
 7ag83mwrabz.ga
 7ag83mwrabz.ml
@@ -9771,6 +9773,7 @@
 888-app.ru
 888-casino.ru
 888-redbox636.ru
+888-starz.space
 888.dns-cloud.net
 888.gen.in
 888001.xyz
@@ -9862,6 +9865,7 @@
 88gopartner.com
 88gopartner.net
 88hotmail.com
+88iwin.info
 88jilicasino.net
 88kaskings.com
 88kaskings.net
@@ -10724,6 +10728,7 @@
 98mail.xyz
 98tpbet.com
 98usd.com
+98win10.info
 98yahoo.com
 99-brand.com
 99.com
@@ -13677,6 +13682,7 @@ ae-mail.pl
 ae68790.xyz
 ae69a50.club
 ae888cg.net
+ae888co.info
 ae9d1t.host
 aeacides.info
 aeai.com
@@ -13895,6 +13901,7 @@ af2przusu74mjzlkzuk.gq
 af2przusu74mjzlkzuk.ml
 af2przusu74mjzlkzuk.tk
 af4lqr.com
+af88game.org
 af88win.com
 afabrication.com
 afadob.cf
@@ -32386,6 +32393,7 @@ bongcareer.com
 bongcs.com
 bongda.vin
 bongda7m.org
+bongda88link.com
 bongdafun.info
 bongdalu601.net
 bongdalu818.net
@@ -37437,6 +37445,7 @@ capcutpromax.biz.id
 capcutsda.cyou
 capcutt.my.id
 capcutteam.my.id
+capcutus.biz.id
 capcutz.xyz
 capcvt.es
 capeandislandshearing.com
@@ -38913,6 +38922,7 @@ ccmoe.com
 ccmskillscamp.com
 ccn35.com
 ccnix.click
+ccoedu.us
 ccoi.com
 ccoinxsm.site
 ccol.us
@@ -44264,6 +44274,7 @@ colaname.com
 colar.site
 colba.ch
 colbs.us
+colbus.us
 colcannon.com
 colce.us
 colced.us
@@ -47200,6 +47211,7 @@ crodity.com
 crofootfamily.com
 croftcare.group
 croftonmaurice.xyz
+crok2r.site
 crok3r.site
 cromelet.ga
 cromelet.gq
@@ -65199,6 +65211,7 @@ f0k4vk.us
 f0nbot.us
 f1000-bot.com
 f11.us
+f12bet1.info
 f12betbr.net
 f1685.info
 f1688bet.com
@@ -74615,6 +74628,7 @@ geromedic.com
 geronra.com
 gerovarnlo.com
 gerrymaneomail.ru
+gerrypastaplus.my.id
 gers-phyto.com
 gertenisembul.xyz
 gerties.com.au
@@ -75377,6 +75391,7 @@ ghathigh.us
 ghaths.us
 ghatkedu.us
 ghatkh.us
+ghatkhal.us
 ghatkhali.org
 ghatkhalihs.us
 ghatkhalionline.us
@@ -106072,6 +106087,7 @@ lettelet.ga
 lettelet.gq
 letter.com
 letter101.site
+letter42.com
 letterdrop.cfd
 letterdrop.org
 letterfew.online
@@ -115906,6 +115922,7 @@ mcfidrissi.com
 mcfile.com.br
 mcfire.online
 mcg2.us
+mcgame.info
 mcgillreporting.com
 mcginnissolutions.com
 mcgovernsyellowkittens.com
@@ -144163,6 +144180,7 @@ pro7.icu
 proactivechirowellness.net
 proactiveinnovations.store
 proadech.com
+proalpharoute.com
 proalpilea.store
 proalpinos.website
 proarhiv.info
@@ -174947,6 +174965,7 @@ thclub.com
 thcmsa.site
 thcsmyxa-nd.com
 thdesign.pl
+thdfgth.online
 thdv.ru
 thdxr.com
 the-any-key.com
@@ -176849,6 +176868,7 @@ thubuon.it.com
 thubuon.org
 thucdon365.net
 thucml.com
+thucphambanhat.com.vn
 thud.site
 thuducnhadat.com
 thuehack.com
@@ -177312,6 +177332,7 @@ timothyvanderbliek.nl
 timothywaters.com
 timovink.nl
 timphongsamson.net
+timporery.com
 timrad.ru
 timrodlibrary.org
 timsautorepair-subaguru.com
@@ -199348,6 +199369,7 @@ xymgzp.com
 xyngular-europe.eu
 xyohlcdsbs.ga
 xypo.site
+xyro.site
 xysewaxaot.ga
 xyso.site
 xysthjx.com
@@ -200658,6 +200680,7 @@ yhcaturxc69ol.ml
 yhccetl.com
 yhdichan.com
 yhfadceub.shop
+yhfgfthuyg.site
 yhfryy.com
 yhfs78.com
 yhg.biz

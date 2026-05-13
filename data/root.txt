@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-13T02:58:05.084Z
+# Aggregated blacklist generated on 2026-05-13T06:47:39.698Z
  
 0-30-24.com
 0-attorney.com
@@ -20295,6 +20295,7 @@ archawesomelib.site
 archawesomelibrary.site
 archawesometext.site
 archbotcher.best
+arche.biz.id
 archeage-gold.co.uk
 archeage-gold.de
 archeage-gold.us
@@ -38818,6 +38819,7 @@ cc3770.com
 cc46.name.ng
 cc4av.info
 cc57822.com
+cc6b.biz.id
 cc6ph4.org
 cc6ph6.org
 cc774.ru
@@ -58623,6 +58625,7 @@ eatmea2z.club
 eatmea2z.top
 eatmyshorts.co.uk
 eatneha.com
+eatofc.my.id
 eaton1.com
 eatontowers.cd
 eatpennines.com
@@ -74193,6 +74196,7 @@ geludkita.gq
 geludkita.ml
 geludkita.tk
 gelug.net
+gelugut.biz.id
 gemail.cam
 gemail.co
 gemail.co.com
@@ -95465,6 +95469,7 @@ jeppeson.com
 jepv.com
 jeqmail.com
 jer.app
+jerak.biz.id
 jeralo.de
 jeramywebb.com
 jerapah.web.id
@@ -116814,6 +116819,7 @@ mekuron.com
 mekustanger.com
 melaban.web.id
 melajobs.com
+melakoni.web.id
 melancholifmail.com
 melancholly.info
 melancomail.com
@@ -121044,6 +121050,8 @@ moonfee.com
 moongit.com
 moongleam.com
 mooniac.com
+moonikent.us
+moonikentcompany.us
 moonkased.ga
 moonki.shop
 moonkinga.online
@@ -182116,6 +182124,7 @@ turtles.com
 turtletechnologies.com
 turturizm.ru
 turu.accesscam.org
+turu.camdvr.org
 turu.software
 turual.com
 turudek.site
@@ -198530,6 +198539,7 @@ xomomd.com
 xomqirantel.site
 xon.pl
 xon3.my.id
+xone.web.id
 xongdidte.com
 xongin.online
 xongmunchs.com
@@ -202019,6 +202029,7 @@ yuliar.com
 yuliarachman.art
 yuljeondong.com
 yulk.com
+yullorw.online
 yum-king.com
 yumaus.biz.id
 yumaus.my.id

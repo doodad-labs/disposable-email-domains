@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-13T10:27:48.605Z
+# Aggregated blacklist generated on 2026-05-13T14:32:40.686Z
  
 0-30-24.com
 0-attorney.com
@@ -1375,6 +1375,7 @@
 12clones.com
 12contacts.click
 12freebet.com
+12friday.space
 12fuel.dk
 12funnet.club
 12gmail.com
@@ -12185,6 +12186,7 @@ acasabianca.com
 acatali.com
 acatamatmail.com
 acatofadifferentcolor.com
+acayay.my.id
 acb1918.xyz
 acbhwoewta.ga
 acbiyfbur.store
@@ -71496,6 +71498,7 @@ friarystudentmail.com
 frickeya.com
 frictionla.com
 fridastoreh.xyz
+friday12.store
 fridaylaura.com
 fridaymovo.com
 fridaypzy.com
@@ -78704,6 +78707,7 @@ graphiclean.tokyo
 graphiclens.site
 graphiclever.site
 graphicmen.site
+graphicser.com
 graphictee.store
 graphinasdx.com
 graphite.email
@@ -114882,6 +114886,7 @@ masamasa221.site
 masamass707.site
 masarjadeed.com
 masasih.loan
+masaus.biz.id
 masbepedia.top
 masbros.my.id
 mascarenha.com
@@ -178586,6 +178591,7 @@ tokoperfume.com
 tokopremium.co
 tokopulsa.shop
 tokoriad.biz.id
+tokoriad.my.id
 tokosehati.xyz
 tokot.ru
 tokovard.my.id

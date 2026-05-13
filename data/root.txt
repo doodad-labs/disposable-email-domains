@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-13T06:47:39.698Z
+# Aggregated blacklist generated on 2026-05-13T10:27:48.605Z
  
 0-30-24.com
 0-attorney.com
@@ -54923,6 +54923,7 @@ dobidding.net
 dobimail.com
 dobitocudeponta.com
 dobleh.biz.id
+dobleh.web.id
 dobleveta.com
 doblyat.site
 doboinusunny.com
@@ -75760,6 +75761,7 @@ gilmor1.com
 gilmoreforpresident.com
 gilo.ml
 gilray.net
+gima.my.id
 gimail.cloud
 gimail.com
 gimail.fr
@@ -170699,6 +170701,7 @@ swordssword.com
 swosswou.shop
 swp4bt.com
 swphotography.co.uk
+swq.web.id
 swq213567mm.cf
 swq213567mm.ga
 swq213567mm.gq

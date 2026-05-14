@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-14T06:46:06.148Z
+# Aggregated blacklist generated on 2026-05-14T10:14:16.913Z
  
 0-30-24.com
 0-attorney.com
@@ -173551,6 +173551,7 @@ telfordpasy.info
 telgnik.best
 telgreencloud.com
 telialebanon.com
+teliedge.com
 teliemail.site
 teligemail.site
 teligmail.online

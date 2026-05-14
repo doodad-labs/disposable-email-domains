@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-14T03:23:06.165Z
+# Aggregated blacklist generated on 2026-05-14T06:46:06.148Z
  
 0-30-24.com
 0-attorney.com
@@ -14573,6 +14573,7 @@ ahdxsjy.com
 aheadanalytics.nl
 aheadcarpentry.com
 aheadwe.us
+ahegfexz.my.id
 ahem.email
 ahememdndddd.cloud
 ahexvps.xyz
@@ -37775,6 +37776,7 @@ carehp.com
 carelav.com
 careless-whisper.com
 careline.click
+carena.biz.id
 carenetdesign.com
 carenmiosga.click
 carerunner.com
@@ -52052,6 +52054,7 @@ designwpurpose.com
 designyourbrick.com
 desiheroine.com
 desilver.com
+desimaubmw.my.id
 desimess.xyz
 desinfestacao.com
 desingerexperience.com
@@ -78444,6 +78447,7 @@ gpstrackerandroid.com
 gpstrackingreviews.net
 gptcode.biz.id
 gptcodeshop.com
+gptdeactmulu.my.id
 gptennislyon.com
 gptkoe.nl
 gptlagi.tech
@@ -87861,6 +87865,7 @@ hypeinteractive.us
 hypemail.ru
 hypemails.ru
 hypenated-domain.com
+hypepremium.casino
 hyper-tec.store
 hyperactivist.info
 hyperaebml.ru
@@ -100408,6 +100413,7 @@ khtextile.com
 khtyler.com
 khucongnghecao.com
 khujenao.net
+khuk.my.id
 khuong.store
 khuong899.ml
 khuongdz.club
@@ -124447,6 +124453,7 @@ n0100.site
 n0100.space
 n0100.store
 n0100.tech
+n0kia.web.id
 n0pwdvault.com
 n0qyrwqgmm.cf
 n0qyrwqgmm.ga
@@ -130155,6 +130162,7 @@ nutsmine.com
 nutssocrazy.com
 nutte.com
 nuttyjackstay.ml
+nututhayur.click
 nutzer-sicherung-1231213453-de-nutzer-system-check.ru
 nutzmann.se
 nuukrayne.com
@@ -146706,6 +146714,7 @@ qiq.us
 qiqmail.ml
 qiradio.com
 qirauna.site
+qirin.web.id
 qirivviot.my.id
 qirvo.click
 qirvon.online
@@ -152088,6 +152097,7 @@ rexhuntress.com
 reximus.com
 rexmail.fun
 rexnet.ca
+rexonbackup.my.id
 rexoss.com
 rexp2.com
 rexsr.com
@@ -159606,6 +159616,7 @@ senfmoka.ga
 senfmoka.gq
 senfmoka.ml
 senfmoka.tk
+sengakben.biz.id
 sengakmun.xyz
 sengi.top
 sengkang-grand-residences-sg.com
@@ -161605,6 +161616,7 @@ shopilingo.xyz
 shopingas.site
 shopingwatch.biz
 shopinia.com
+shopinku.my.id
 shopins2.site
 shopins4.site
 shopinwe.site
@@ -166637,6 +166649,7 @@ sporunaf.cf
 sporunaf.ga
 sporunaf.gq
 spot12.icu
+spot1fy.web.id
 spotagory.com
 spotale.com
 spotanz.biz.id
@@ -167469,6 +167482,7 @@ starda-money.boats
 starda-rush.buzz
 starda-strike.buzz
 starda.sbs
+stardacasinoz-fer.top
 stardatagroup.com
 stardefcon.com
 stardiesel.biz
@@ -180147,6 +180161,7 @@ tramsay.com
 tramynguyen.net
 tranbo.site
 tranceversal.com
+tranchel.web.id
 trandigabapoe.shop
 trands-shoes.ru
 trandung.site
@@ -186617,6 +186632,7 @@ valerieallenpowell.com
 valerieboucher.ca
 valeriecere.com
 valersmail.ru
+valesco.web.id
 valetudinmail.com
 valetufmk.com
 valeyventura.com
@@ -193344,6 +193360,7 @@ whatsaas.com
 whatsabyte.com
 whatsaduckdo.com
 whatsappsinstalling.com
+whatsappwa.dedyn.io
 whatshalal.delivery
 whatshouldibuypetetoday.com
 whatsminerelite.cloud
@@ -203826,6 +203843,7 @@ zira.my
 zirafonsoftware.com
 zirafyn.com
 ziragold.com
+zireiy.my.id
 ziri.tk
 ziro3000.site
 ziro88.com

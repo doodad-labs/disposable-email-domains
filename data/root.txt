@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-13T23:05:03.810Z
+# Aggregated blacklist generated on 2026-05-14T03:23:06.165Z
  
 0-30-24.com
 0-attorney.com
@@ -22659,6 +22659,7 @@ auiiqj.best
 auktionsbutler.se
 aula.edu.pl
 aulaline.com
+auld-white.com
 auliperjaka.com
 auloc.com
 aulostnmail.com
@@ -70043,6 +70044,7 @@ forafore.shop
 foragentsonky.com
 foralark.com
 forapps.shop
+forapps.space
 forapps.store
 foraro.com
 forasy.host
@@ -76674,6 +76676,7 @@ gmail-box.com
 gmail-c.cc
 gmail-es.com
 gmail-fiji.gq
+gmail-kuu.my.id
 gmail-temp.com
 gmail.ax
 gmail.bj
@@ -93792,6 +93795,7 @@ itshopwom.site
 itsiconsulting.com
 itsindy.com
 itsjiff.com
+itsluxury.web.id
 itsmail.fun
 itsmail.store
 itsme.edu.pl
@@ -101019,6 +101023,7 @@ kirimpulsa.online
 kirimpulsa.shop
 kirimpulsa.store
 kirisbyforum.fun
+kirisbygood.fun
 kirkbridehomes.com
 kirklandcounselingcenter.com
 kirklandcounselor.com
@@ -118527,6 +118532,7 @@ milcepoun.gq
 milcepoun.ml
 milcepoun.tk
 milcvp.shop
+mild.biz.id
 milde.software
 mildin.org.ua
 mildslot.net
@@ -118549,6 +118555,7 @@ milier.website
 milieukalender.com
 milieuliving.com
 milimailse.com
+milimailse.online
 milimailse.store
 milimetrikproje.xyz
 milionariosdobitcoin.com
@@ -124239,6 +124246,7 @@ mytechsquare.com
 mytemails.com
 mytemp-email.com
 mytemp-mail.com
+mytemp.dev
 mytemp.email
 mytempdomain.tk
 mytempemail.com
@@ -178060,6 +178068,7 @@ tmailfree.com
 tmailgenerator.com
 tmailhost.com
 tmailinator.com
+tmailku.web.id
 tmailnesia.com
 tmailor.com
 tmailor.net
@@ -191844,6 +191853,7 @@ waterpointemortgage.com
 waterproofawning.com
 waterpurifier.club
 waterqualityassociation.net
+waterride.space
 waterschool.us
 waterservice.xyz
 watershedmelted.site

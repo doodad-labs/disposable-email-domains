@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-14T22:56:07.919Z
+# Aggregated blacklist generated on 2026-05-15T03:26:36.526Z
  
 0-30-24.com
 0-attorney.com
@@ -12182,6 +12182,7 @@ acanadianpharmacy.com
 acaneed.ga
 acaneed.gq
 acaneed.ml
+acanok.com
 acapelia.com
 acapitolaffair.com
 acarajeanalytics.store
@@ -15842,6 +15843,7 @@ alazan.biz
 alazard.info
 alazh.us
 alazharhs.org
+alazhi.org
 alazhs.org
 alazs.us
 alaztagtc.com
@@ -20294,6 +20296,7 @@ archaeolfml.ru
 archaeolli.com
 archaeoloruby.ru
 archaicindustries.buzz
+archal.my.id
 archanamane.com
 archanybook.site
 archanybooks.site
@@ -22661,6 +22664,7 @@ auktionsbutler.se
 aula.edu.pl
 aulaline.com
 auld-white.com
+auliot.my.id
 auliperjaka.com
 auloc.com
 aulostnmail.com
@@ -30402,6 +30406,7 @@ bitlucky.com
 bitly.lol
 bitly.space
 bitly.website
+bitmah.com
 bitmail.lol
 bitmail.store
 bitmain-antminer-s17.com
@@ -32487,6 +32492,7 @@ booi-drop.top
 booi-rush.top
 booi.beauty
 booi.website
+booi777glory.top
 boojoe.com
 book-bean.com
 book-buzzes.com
@@ -36361,6 +36367,7 @@ c9ra1v.site
 c9tayacasino.info
 ca-canadagoose-jacets.com
 ca-canadagoose-outlet.com
+ca-tech.com.tr
 ca.pn
 ca.vu
 ca11.cf
@@ -39155,6 +39162,7 @@ ceilysa.cf
 ceilysa.ga
 ceilysa.tk
 ceinasu.ru
+ceipam.us
 ceipanto.cf
 ceipanto.ga
 ceipanto.ml
@@ -39968,6 +39976,7 @@ championslots-jackpot.wiki
 championslots-level.top
 championslots-winpulse.autos
 championslots-winpulse.mom
+championslots-zone.top
 champmails.com
 champqryq.space
 champtheawa.ml
@@ -49832,6 +49841,7 @@ darcoinc.net
 darcypierlot.com
 darcyroyce.com
 darcyzhang.com
+dardr.com
 dare.io
 dareblog.com
 darell.com
@@ -57226,6 +57236,7 @@ dtfnow.fun
 dtfx.buzz
 dtfyes.site
 dtgo.app
+dtgun.com
 dtheatersn.com
 dthetepr.xyz
 dthlxnt5qdshyikvly.cf
@@ -74764,6 +74775,7 @@ getapprovedtx.com
 getapps.biz.id
 getaqu.info
 getaroomdesign.com
+getasail.com
 getasolarpanel.co.uk
 getautoloan.website
 getautomata.org
@@ -75406,6 +75418,7 @@ ghatkhl.us
 ghatkhs.us
 ghatkl.us
 ghatks.us
+ghatksch.us
 ghats.us
 ghatsc.us
 ghatsh.us
@@ -84239,6 +84252,7 @@ hilltop-pizzeria.com
 hilltoptreefarms.com
 hilm.ai
 hilmipremindo.com
+hilostar.com
 hilterhit.store
 hiltonbet38.com
 hiltonbet40.com
@@ -84647,6 +84661,7 @@ hkrpg.xyz
 hkru.site
 hksmnm.fun
 hkstar.com
+hkstore.my.id
 hkstorey.com
 hksuning.store
 hkteami.store
@@ -94758,6 +94773,7 @@ janganjadiabu6.tk
 janganjadiabu7.ml
 janganjadiabu8.ga
 janganjadiabu9.cf
+janganyawit.biz.id
 jangkrikbosku.com
 jango.space
 jango.wiki
@@ -123980,6 +123996,7 @@ myonlinetoday.info
 myoomail.com
 myopang.com
 myopmail.com
+myotp.dedyn.io
 myotpp.xyz
 myoutdoorprunerkit.com
 myoutlook.fr
@@ -148859,6 +148876,7 @@ ramenbet.click
 ramenbet.life
 ramenbet.makeup
 ramenbet.network
+ramenbet888cashout.top
 ramenbetcasino36.site
 ramenbetgames-top.buzz
 ramenbetgames13.top
@@ -150404,6 +150422,7 @@ redstonetechventures.com
 redsuninternational.com
 redtiger.info
 redtigercasino.net
+redtion.com
 redtopgames.com
 redtreebrush.biz
 redtreebrush.org
@@ -177903,6 +177922,7 @@ tko-ply.online
 tko.co.kr
 tko.kr
 tkone.com
+tkonu.com
 tkpard90.com
 tkpgy.live
 tkpmxt.fun
@@ -178645,6 +178665,7 @@ tokoriad.biz.id
 tokoriad.my.id
 tokosehati.xyz
 tokot.ru
+tokoub.com
 tokovard.my.id
 toksss.app
 toksss.com
@@ -179122,6 +179143,7 @@ topjobbuildingservices.com
 topjobsbook.com
 topjuju.com
 topkek.pro
+topkute.com
 toplampy.online
 toplessbucksbabes.us
 toplesslovegirls.com
@@ -185200,6 +185222,7 @@ upimage.net
 upimagine.com
 upimail.com
 upina.biz.id
+upipaid.com
 upived.com
 upived.online
 upizmail.com
@@ -187359,6 +187382,7 @@ vekavu.info
 vekbid.com
 vektik.com
 vektor-shop.ru
+vektoru.com
 vektrus.com
 velabilke.com
 velaino.com
@@ -190130,6 +190154,7 @@ vovan-champion.top
 vovan-questzone.buzz
 vovan-slots-free777.fun
 vovan-spin-official88.top
+vovan777prime.top
 vovancasino-online.wiki
 vovancasino-online.world
 vovangames-lucky.top
@@ -195467,6 +195492,7 @@ wpdeveloperguides.com
 wpdfs.com
 wpdork.com
 wpdough.com
+wpdtemporibusx.my.id
 wpeopwfp099.tk
 wperts.com
 wpflsp.xyz

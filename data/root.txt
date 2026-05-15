@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-15T17:27:02.459Z
+# Aggregated blacklist generated on 2026-05-15T19:28:27.212Z
  
 0-30-24.com
 0-attorney.com
@@ -146391,6 +146391,7 @@ qaum.org
 qav59.xyz
 qavexo.online
 qavexo.site
+qaviroxlenp.io.vn
 qavix.cfd
 qavol.shop
 qavonilermpxza.io.vn
@@ -153851,6 +153852,7 @@ roma-clondalkin.com
 roma-drogheda.com
 roma-fish-chips.com
 roma-takeaway.com
+roma.my.id
 romabeto.xyz
 romabetz.xyz
 romack.ru

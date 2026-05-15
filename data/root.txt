@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-15T03:26:36.526Z
+# Aggregated blacklist generated on 2026-05-15T06:55:32.846Z
  
 0-30-24.com
 0-attorney.com
@@ -100574,6 +100574,7 @@ kieunam.site
 kifayet.net
 kifinds.com
 kiflin.ml
+kigmail.sbs
 kigonet.xyz
 kigwa.com
 kiham.club
@@ -126374,6 +126375,7 @@ netflixmexico.net
 netflixs.redirectme.net
 netflixvip.xyz
 netflixweb.com
+netfluxo.com
 netfox24.com
 netfusionhub.surf
 netfxd.com

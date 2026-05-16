@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-16T20:45:35.195Z
+# Aggregated blacklist generated on 2026-05-16T22:43:46.782Z
  
 0-30-24.com
 0-attorney.com
@@ -12940,6 +12940,7 @@ adamcostumes.com
 adamdenton.net
 adamholtphotography.net
 adamoautomation.com
+adamrisni.site
 adams44.store
 adamsandadamsfinancial.com
 adamsarchitects.com
@@ -125180,6 +125181,7 @@ narublevku.ru
 narushiteli.info
 narutogamesforum.xyz
 narutotupoy.space
+narutouu.me
 narutrk.site
 narvetsfebv.ga
 narvetsfebv.gq

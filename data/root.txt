@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-16T06:21:19.177Z
+# Aggregated blacklist generated on 2026-05-16T09:40:15.747Z
  
 0-30-24.com
 0-attorney.com
@@ -69887,6 +69887,7 @@ followbrand.net
 followerfilter.com
 followermail.com
 follownews.press
+followpage.shop
 followthetshirt.com
 followthewhiterabbit.ru
 folotell.shop
@@ -163919,6 +163920,7 @@ smakit.vn
 smakiwirok.com
 smalkaa.site
 small-world-media.com
+small680.online
 smallalpaca.com
 smallanawanginbeach.com
 smallbee.ml

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-16T14:56:21.144Z
+# Aggregated blacklist generated on 2026-05-16T16:58:10.143Z
  
 0-30-24.com
 0-attorney.com
@@ -164672,6 +164672,7 @@ sobeatsdrdreheadphones1.com
 sobecoupon.com
 sobeessentialenergy.com
 soberpuzzle.com
+sobhluk.web.id
 sobi.pw
 sobill247.com
 sobkowiak.eu

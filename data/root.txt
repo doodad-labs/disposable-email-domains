@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-16T16:58:10.143Z
+# Aggregated blacklist generated on 2026-05-16T19:03:55.893Z
  
 0-30-24.com
 0-attorney.com
@@ -142864,6 +142864,7 @@ powerbike.de
 powercenternj.com
 powercontinuitysystems.com
 powerdast.ru
+powerdea.me
 powerdra.us
 powered.name
 powerempleo.com

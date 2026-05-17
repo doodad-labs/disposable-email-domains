@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-17T20:50:55.234Z
+# Aggregated blacklist generated on 2026-05-17T22:53:49.743Z
  
 0-30-24.com
 0-attorney.com
@@ -37729,6 +37729,7 @@ cardivings.info
 cardjester.store
 cardkurd.com
 cardmails.ru
+cardmarket.click
 cardmellloshop.com
 cardosoadvogadoassociados.com
 cardour.com

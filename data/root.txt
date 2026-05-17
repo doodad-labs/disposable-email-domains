@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-17T11:05:41.461Z
+# Aggregated blacklist generated on 2026-05-17T13:18:59.250Z
  
 0-30-24.com
 0-attorney.com
@@ -93936,6 +93936,7 @@ iulconsultant.com
 iuliabarascu.com
 iumail.com
 iunicus.com
+iuno.fun
 iuporno.info
 iuqh.com
 iura.com
@@ -187443,6 +187444,7 @@ velikovsky.cz
 velismail.com
 velkam.org
 vellia.fun
+velnixaropq.io.vn
 velobotanicals.com
 velobro.space
 velocetterecords.com

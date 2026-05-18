@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-17T22:53:49.743Z
+# Aggregated blacklist generated on 2026-05-18T03:37:12.519Z
  
 0-30-24.com
 0-attorney.com
@@ -6457,6 +6457,7 @@
 5217.website
 5218ag.com
 521gmail.com
+5222gameapk.com
 522gmail.com
 523gbt.com
 523gmail.com
@@ -15848,6 +15849,7 @@ alazharhs.org
 alazhi.org
 alazhs.org
 alazs.us
+alazsh.org
 alaztagtc.com
 alb-gaming.com
 albadefilippis.com
@@ -21121,6 +21123,7 @@ artrit.info
 artrodigital.com
 artropad.net
 arts-3d.net
+arts.edu.rs
 artschool.mov
 artsdigi.store
 artsdigital.store
@@ -42429,6 +42432,7 @@ cl2004.com
 cl34ry.me
 claarcellars.com
 clabel.online
+clabkusik.site
 clackgistics.com
 cladconsulting.com
 claddaghring.com
@@ -63960,6 +63964,7 @@ euromaidanlive.net
 euromail.hu
 euromail.tk
 euromech.com
+euromed-management.net
 euromillionsresults.be
 euromoonn.com
 europ-invest.com
@@ -76189,6 +76194,7 @@ gkd06.space
 gkdcsi.ru
 gkedu.us
 gkha.us
+gkhal.us
 gkhalihs.us
 gkhalis.us
 gkhedu.us
@@ -93375,6 +93381,7 @@ isonews2.com
 isonick.dk
 isonicovegai.ru
 isoomail.ru
+isoperimio.com
 isopermail.com
 isoperolml.ru
 isophadal.xyz
@@ -127209,6 +127216,7 @@ nexaflux.shop
 nexagenusa.com
 nexaluma.store
 nexalyntesto.com
+nexamailbox.com
 nexamint.store
 nexapay.one
 nexario.shop
@@ -131184,6 +131192,8 @@ oddigoslot.com
 oddiyanadharmasanctuary.org
 oddlygood.shop
 oddonemedia.com
+odds96aviator.net
+odds96pwaapp.com
 oddsbucket.com
 oddsends.se
 oddsmma.se
@@ -139706,6 +139716,7 @@ phuongsimonlazy.ga
 phuyenpro.online
 phviplogin.com
 phvirtualtours.com
+phwin51login.org
 phwin777login.com
 phwin88viplogin.com
 phwwcasino.net
@@ -141765,6 +141776,7 @@ poker933.net
 poker99-online-terbesar.com
 poker99-online-terpercaya.com
 pokerasean.com
+pokerbaazilogin.com
 pokerbaaziplay.com
 pokerbandar77.com
 pokerbandar77.org
@@ -154386,6 +154398,7 @@ royalgifts.info
 royalgreencondosg.com
 royalhost.info
 royalhosting.ru
+royaljeet365login.com
 royalka.com
 royallogistic.com
 royallyrummybet.com
@@ -170270,6 +170283,7 @@ surfomania.pl
 surfpaccoax.com
 surfsideroc.com
 surga.ga
+surga19bet.com
 surgeonblog.com
 surgeryfrance.com
 surgerygermany.com
@@ -187269,6 +187283,7 @@ veaie.com
 vealtex.online
 veanlo.com
 veat.ch
+veauly.com
 veb27.com
 veb34.com
 veb37.com
@@ -199976,6 +199991,7 @@ yahoohoo.com
 yahoohot.com
 yahooi.aol
 yahooj.com
+yahookuu.com
 yahookuu.id
 yahool.ca
 yahool.com

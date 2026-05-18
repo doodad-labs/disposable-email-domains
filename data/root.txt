@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-18T19:44:22.657Z
+# Aggregated blacklist generated on 2026-05-18T21:11:58.918Z
  
 0-30-24.com
 0-attorney.com
@@ -22316,6 +22316,7 @@ atlantagahomes.com
 atlantagaragefloor.com
 atlantanewsplus.com
 atlantanightout.com
+atlantapersonalinjurylaw.us.com
 atlantaquote.com
 atlantawatercloset.com
 atlantaweb-design.com
@@ -59445,6 +59446,7 @@ educenter.us
 educharved.site
 educhat.email
 educol.us
+educolb.us
 educolum.us
 educourse.xyz
 educre.us
@@ -85149,6 +85151,7 @@ hokpoker.org
 hokyaa.site
 hol.com.br
 hola.org
+holaa.site
 holabd.com
 holabkpost.com
 holabook.site

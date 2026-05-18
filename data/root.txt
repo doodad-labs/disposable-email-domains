@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-18T03:37:12.519Z
+# Aggregated blacklist generated on 2026-05-18T08:03:18.850Z
  
 0-30-24.com
 0-attorney.com
@@ -25945,6 +25945,7 @@ baseflowpro.com
 basegenai.com
 basehipovk.space
 basekule.icu
+baselogicroute.com
 baselwesam.site
 basemindway.com
 basenetradio.net
@@ -88059,6 +88060,7 @@ hyundaiaritmakusadasi.xyz
 hyv9nc.us
 hyveephoto.com
 hyverecruitment.com
+hyvongtt.site
 hyvuokmhrtkucn5.cf
 hyvuokmhrtkucn5.ga
 hyvuokmhrtkucn5.gq
@@ -99268,6 +99270,7 @@ katomcoupon.com
 katonoma.com
 katra.ovh
 katru.shop
+kats-classes.com
 kats.com
 katsfastpaydayloans.co.uk
 katsui.xyz
@@ -180806,6 +180809,7 @@ trevors.org
 trevorstrong.com
 trevours.site
 trevours.tech
+trevourus.com
 trevr.com
 trevu.click
 trevz.shop
@@ -195550,6 +195554,7 @@ wpdeveloperguides.com
 wpdfs.com
 wpdork.com
 wpdough.com
+wpdptx.my.id
 wpdtemporibusx.my.id
 wpeopwfp099.tk
 wperts.com

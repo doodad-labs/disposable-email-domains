@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-18T13:45:00.802Z
+# Aggregated blacklist generated on 2026-05-18T16:47:36.312Z
  
 0-30-24.com
 0-attorney.com
@@ -127475,6 +127475,7 @@ nghacks.com
 nghiduonghoian.com
 nghiencuuquocte.com
 nghienplus.io.vn
+nghienplus.store
 nghienthai.net
 nghimmo.io.vn
 nghivpn.io.vn
@@ -183975,6 +183976,7 @@ ukhollisteroutlet4u.co.uk
 ukhollisteroutletlondon.co.uk
 ukhoops.com
 ukhost-uk.co.uk
+uki.io.vn
 ukilo3.site
 ukimail.com
 ukinam.pro

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-19T15:19:33.082Z
+# Aggregated blacklist generated on 2026-05-19T18:05:23.661Z
  
 0-30-24.com
 0-attorney.com
@@ -170162,6 +170162,7 @@ supportkreator.pro
 supportlabs.click
 supportlike.online
 supportly.click
+supportorganization.online
 supportpatriotflexgoods.com
 supportshb.click
 supportshq.click

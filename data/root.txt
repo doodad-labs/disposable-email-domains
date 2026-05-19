@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-19T18:05:23.661Z
+# Aggregated blacklist generated on 2026-05-19T21:19:02.139Z
  
 0-30-24.com
 0-attorney.com
@@ -17445,6 +17445,7 @@ amandaselflaw.com
 amandayourtexasrealtor.com
 amandhibuclivid.com
 amanhaeuficorico.com.br
+amanita-love.com
 amanj.krd
 amankro.com
 amano.financial
@@ -38431,6 +38432,7 @@ castlevania.online
 castlock.us
 castlpoir.ga
 castmerkezi.net
+castoram.pl
 castorsunglasses.online
 castplayer.net
 castreys.com
@@ -76210,6 +76212,7 @@ gkhh.us
 gkhhi.us
 gkhi.us
 gkhigh.us
+gkhighs.us
 gkhl.us
 gkhmpj.fun
 gkhs.us
@@ -112354,6 +112357,7 @@ mailfen.com
 mailfer.com
 mailfes34hb4.com
 mailfes4hb4.com
+mailffoneday.com
 mailfile.net
 mailfile.org
 mailfired.website
@@ -133837,6 +133841,7 @@ oppositisemail.com
 oppositivity.xyz
 opposmail.ru
 oppostreamingonline.com
+opppanewmail.com
 oppubg.ru
 opqfnoqwpiepqw.ga
 opqfopqwiprqwe.ga
@@ -142314,6 +142319,7 @@ poppellsimsdsaon.eu
 poppermccormick.com
 poppers.cd
 poppers.life
+poppmailnewr.com
 poppopbattlej.com
 poppunk.pl
 poppuzzle.com

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-19T21:19:02.139Z
+# Aggregated blacklist generated on 2026-05-19T23:01:57.698Z
  
 0-30-24.com
 0-attorney.com
@@ -73355,6 +73355,7 @@ gametalks.ru
 gameterrain.info
 gamethegames.com
 gametheorylabs.com
+gamets.store
 gametv.biz
 gametv.pro
 gameurnews.fr

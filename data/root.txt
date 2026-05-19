@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-19T03:30:28.688Z
+# Aggregated blacklist generated on 2026-05-19T07:44:16.914Z
  
 0-30-24.com
 0-attorney.com
@@ -29971,6 +29971,7 @@ binoma.biz
 binomoqq.com
 binrazin.com
 bintangku688.com
+bintara.my.id
 binumartep.cf
 binus.eu.org
 binwindvil.cf
@@ -52079,6 +52080,7 @@ designwpurpose.com
 designyourbrick.com
 desiheroine.com
 desilver.com
+desimaubmw.biz.id
 desimaubmw.my.id
 desimess.xyz
 desinfestacao.com
@@ -63382,6 +63384,7 @@ eskisehirdizayn.com
 eskisehirhgm.xyz
 eskortbayanizmir.net
 eskortlar.biz
+eskulkulowi.biz.id
 esl.cloud
 eslabonsur.com
 eslattice.site
@@ -79277,6 +79280,7 @@ grokheavy.co
 groklan.com
 grokleft.com
 grokosan.website
+grokpremium.my.id
 grom-muzi.ru
 gromac.com
 grommail.fr
@@ -118090,6 +118094,7 @@ miadz.com
 miaferrari.com
 miaflorido.com
 miajangler.biz.id
+miajangler.web.id
 miakhalifa.mobi
 mial.cf
 mial.tk
@@ -170077,6 +170082,7 @@ supf.site
 supg.site
 suph.site
 supimon.com
+supirembege.biz.id
 supj.site
 supk.site
 suplemento.club

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-20T18:15:57.240Z
+# Aggregated blacklist generated on 2026-05-20T21:53:24.244Z
  
 0-30-24.com
 0-attorney.com
@@ -17588,6 +17588,7 @@ amdlr.xyz
 amdma.com
 amdtv.cc
 amdxgybwyy.pl
+ameady.com
 ameba.us
 amechiwa.biz.id
 amecve.cf
@@ -114581,6 +114582,7 @@ marinepaintbrushes.net
 marinepick.com
 marinerscc.com
 marinese.com
+marineso.com
 marineway.net
 marineworks.net
 marinexintl.com
@@ -132010,6 +132012,7 @@ okcorralcabins.com
 okcostarica.com
 okcovington.com
 okcozumel.com
+okcpress.com
 okculvercity.com
 okdallas.com
 okdayton.com

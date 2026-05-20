@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-20T10:49:53.058Z
+# Aggregated blacklist generated on 2026-05-20T15:18:32.132Z
  
 0-30-24.com
 0-attorney.com
@@ -80537,6 +80537,7 @@ gzc868.com
 gzdkjxlw.shop
 gzdqg.us
 gzdwe6.com
+gzeos.com
 gzesiek84bb.pl
 gzfcmbclyy.ga
 gzhenghua112.com
@@ -129626,6 +129627,7 @@ noxius.games
 noxius.ltd
 noxzypedia.com
 noyabrsk.me
+noyavip.com
 noyon.poker
 noyten.info
 noyycolympics.org
@@ -129707,6 +129709,7 @@ nrhskhmb6nwmpu5hii.ml
 nrhskhmb6nwmpu5hii.tk
 nrihometownservices.com
 nrimall.com
+nriza.com
 nrjx.com
 nrlord.com
 nrmlresearch.ru

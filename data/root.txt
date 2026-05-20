@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-20T15:18:32.132Z
+# Aggregated blacklist generated on 2026-05-20T18:15:57.240Z
  
 0-30-24.com
 0-attorney.com
@@ -113480,6 +113480,7 @@ majuteruslah.com
 makaet.site
 makalzocl.cfd
 makanlima.cfd
+makansapipd.web.id
 makanvwank829.com
 makanvwank8290.com
 makaor.com
@@ -177836,6 +177837,7 @@ titietnana.com
 titipoker.net
 titipoker.org
 titiriwiki.com
+titiwhouses.works
 titkiprokla.tk
 titko.my.id
 title1program.com

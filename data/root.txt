@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-20T03:31:23.827Z
+# Aggregated blacklist generated on 2026-05-20T07:42:30.925Z
  
 0-30-24.com
 0-attorney.com
@@ -71374,6 +71374,7 @@ freetcp.com
 freetds.net
 freeteenbums.com
 freetemporaryemail.com
+freetextpdf.online
 freethecookies.com
 freethemusic.net
 freethought.ml
@@ -90852,6 +90853,7 @@ indocarib.com
 indochinadestination.com
 indochinadream.com
 indochinahighlights.com
+indodax.store
 indofilm.store
 indofood.click
 indoforum.biz
@@ -119417,6 +119419,7 @@ mitolyn.food
 mitom.online
 mitori.org
 mitrabisa.com
+mitracc.site
 mitracore.net
 mitragacor.org
 mitrajagoan.store
@@ -128254,6 +128257,7 @@ nitzan-hr.com
 niubi.li
 niubiba.lol
 niujkasdi.tk
+niukana.sbs
 niumasoitr.gq
 niuyitupob.xyz
 nivalust.com

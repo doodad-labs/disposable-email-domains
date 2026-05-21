@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-21T11:24:09.999Z
+# Aggregated blacklist generated on 2026-05-21T15:24:04.681Z
  
 0-30-24.com
 0-attorney.com
@@ -75313,6 +75313,7 @@ ggbh.com
 ggbondmail.com
 ggbrop.net
 ggbx.ml
+ggcapcut.biz.id
 ggck.com
 ggdr.com
 ggdr0p.ru
@@ -119429,6 +119430,7 @@ mitracc.site
 mitracore.net
 mitragacor.org
 mitrajagoan.store
+mitraprem.site
 mitrasbo.com
 mitraweb.net
 mitretek.info
@@ -161205,6 +161207,7 @@ shejumps.org
 shelby-shop.com
 shelby-styles.com
 shelbymattingly.com
+shelcua.biz.id
 sheldh.xyz
 sheless.xyz
 sheley.net
@@ -200210,6 +200213,7 @@ yaodehotsuka.jp
 yaoemail.store
 yaoghyth.xyz
 yaohoomail.com
+yaoiland.io.vn
 yaojiaz.com
 yaokpm.site
 yaoo.co

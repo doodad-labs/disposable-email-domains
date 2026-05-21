@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-21T03:37:15.802Z
+# Aggregated blacklist generated on 2026-05-21T07:52:04.281Z
  
 0-30-24.com
 0-attorney.com
@@ -14145,6 +14145,7 @@ aftercorporation.com
 aftercurro.com
 aftereight.pl
 afterhourswe.us
+afterjune.site
 aftermedical.xyz
 afternea.sbs
 afternic.com
@@ -127558,6 +127559,7 @@ ngtrw.info
 ngucoclinhan.com
 nguhoc.xyz
 nguhocxyz.xyz
+ngunik.shop
 nguoigocviet.info
 nguoinoitienghanoi.click
 nguonnhanluc.com
@@ -181984,6 +181986,7 @@ tuimoe.com
 tuipa.net
 tuipharmacy.info
 tuipharmacy.net
+tuitdvd.click
 tuizipper.net
 tujiaoshou.com
 tujimastr09lioj.ml
@@ -188198,6 +188201,7 @@ viabol.com
 viacentrum.net
 viachinonk.ml
 viacimex.info
+viaclonevn.com
 viacloudmail.xyz
 viadodinheiro.com
 viados.online

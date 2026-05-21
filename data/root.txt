@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-21T17:57:46.135Z
+# Aggregated blacklist generated on 2026-05-21T20:00:40.230Z
  
 0-30-24.com
 0-attorney.com
@@ -43067,6 +43067,7 @@ cloacking.space
 cloak.id
 cloakbin.com
 cloakcom.com
+cloakly.click
 cloakmail.net
 clobozh.ru
 clock.com
@@ -99644,6 +99645,7 @@ keepyourshitprivate.com
 keesie.com
 keetopizza.com
 keevle.com
+keeyreey.web.id
 kefeligurme.com
 keffin.com.br
 kefyci.info

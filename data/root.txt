@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-22T03:35:50.040Z
+# Aggregated blacklist generated on 2026-05-22T07:44:02.632Z
  
 0-30-24.com
 0-attorney.com
@@ -15542,6 +15542,7 @@ akhmadi.cf
 akhost.trade
 akhpremium.site
 akhprm.my.id
+akhunpro.biz.id
 aki-miz.biz
 akiavenue.com
 akika.pl
@@ -166095,6 +166096,7 @@ spanishprofestore.com
 spankoneout.com
 spanmail.com
 spannchy.com
+spansenie.kiev.ua
 spanship.com
 spantastik.com
 spapa.ooo

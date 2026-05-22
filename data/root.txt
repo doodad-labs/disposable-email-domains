@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-22T07:44:02.632Z
+# Aggregated blacklist generated on 2026-05-22T10:50:40.689Z
  
 0-30-24.com
 0-attorney.com
@@ -103421,6 +103421,7 @@ kuwwin.info
 kuy.bet
 kuy.systems
 kuyags.eu.org
+kuyatoks.win
 kuyberuntung.com
 kuyhaa-android19.bid
 kuymubows.cf
@@ -119443,6 +119444,7 @@ mitracore.net
 mitragacor.org
 mitrajagoan.store
 mitraprem.com
+mitraprem.online
 mitraprem.site
 mitrasbo.com
 mitraweb.net
@@ -180316,6 +180318,7 @@ trango.co
 trangtrang222.site
 trangzim.uk
 tranhelan.ga
+tranhunggg.tokyo
 trankery.net
 trankhanhdu.com
 tranlamanh.ml

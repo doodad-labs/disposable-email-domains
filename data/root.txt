@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-21T23:03:30.077Z
+# Aggregated blacklist generated on 2026-05-22T03:35:50.040Z
  
 0-30-24.com
 0-attorney.com
@@ -18690,6 +18690,7 @@ ankebachmeier.xyz
 ankercoal.com
 ankerkind.com
 anketka.de
+ankiclub.space
 ankitmeena.com
 anklefo.email
 anklereb.xyz
@@ -88384,6 +88385,7 @@ iapneocon2019bengaluru.com
 iaptkapkl53.tk
 iaqx.com
 iareuseless.com
+iark.me
 iartun.com
 iasf.com
 iaso.uno
@@ -93858,6 +93860,7 @@ itsdoton.org
 itsecpackets.com
 itsedit.click
 itserveis.com
+itsfast.tech
 itsfiles.com
 itsget.com
 itsgood2berich.com
@@ -119438,6 +119441,7 @@ mitracc.site
 mitracore.net
 mitragacor.org
 mitrajagoan.store
+mitraprem.com
 mitraprem.site
 mitrasbo.com
 mitraweb.net
@@ -189915,6 +189919,7 @@ vodaphone.de
 vodeotron.ca
 vodes.xyz
 vodhostop.cf
+vodich1.com
 vodka-777-spinwin.boats
 vodka-777-spinwin.buzz
 vodka-battle.buzz

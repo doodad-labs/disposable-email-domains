@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-23T16:58:38.222Z
+# Aggregated blacklist generated on 2026-05-23T19:08:51.535Z
  
 0-30-24.com
 0-attorney.com
@@ -148722,6 +148722,7 @@ rainbowly.ml
 rainbowrecess.com
 rainbowstore.fun
 rainbowstored.ml
+rainbowstores.nl
 rainbowyouthcentre.com
 rainbrother.com
 raincode.ru
@@ -177237,6 +177238,7 @@ tieit.app
 tielu168.com
 tiemail.online
 tiemail.store
+tiemnang.site
 tiemoshop.de
 tiempomail.com
 tienao.org
@@ -178512,6 +178514,7 @@ toanmobileapps.com
 toanmobilemarketing.com
 toanpk.site
 toanthinhphatmedical.com
+toanvippro.io.vn
 toaraichee.cf
 toaraichee.ga
 toaraichee.gq

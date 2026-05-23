@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-22T22:58:16.863Z
+# Aggregated blacklist generated on 2026-05-23T02:53:17.775Z
  
 0-30-24.com
 0-attorney.com
@@ -20849,6 +20849,7 @@ aronek.gq
 aronek.ml
 aronek.tk
 arora001.store
+arorabhai.sbs
 aroracdn.net
 arorle.cf
 arorle.ga
@@ -33758,6 +33759,7 @@ brettsburger.com
 breumd.icu
 brevardgaragedoors.com
 brevear.accesscam.org
+brevicipifkml.com
 brevifomil.ru
 brevionix.cfd
 brevisionarch.xyz
@@ -69594,6 +69596,7 @@ flyinggeek.net
 flyingjersey.info
 flyingmminiamericans.org
 flyingmouse.info
+flyingtoads.com
 flyjet.net
 flymail.store
 flymail.tk
@@ -76084,6 +76087,7 @@ gitumau.ml
 gitumau.tk
 gitusa.online
 gityun.com
+giul.ru
 giuliamultimedia.com
 giulieano.xyz
 giuliobarzaghi.net
@@ -76229,6 +76233,7 @@ gkhl.us
 gkhmpj.fun
 gkhs.us
 gkhsc.us
+gkhsedu.us
 gkjeee.com
 gkjgsxupc.shop
 gkku.com
@@ -76885,6 +76890,7 @@ gmailpro.cf
 gmailpro.gq
 gmailpro.ml
 gmailpro.tk
+gmailqq.com
 gmailr.com
 gmailri.com
 gmails.co.com
@@ -80793,6 +80799,7 @@ habersondakika.tk
 habet.dev
 habibola22.com
 habibulfauzan.my.id
+habimail.web.id
 habiterragt.com
 habitosderico.com
 habitualferocity.com
@@ -82982,6 +82989,7 @@ hediyemial.com
 hedonistmail.ru
 hedotu.com
 hedqkvkqjg.ga
+hedrox.shop
 hedsatemi.tk
 heduian.space
 heduu.com
@@ -90676,6 +90684,7 @@ incubatank.asia
 incubator-hostel.com
 incubatorhostel.com
 incubic.pro
+incumail.com
 incunaml.com
 incup.com
 ind-3dprinters.com
@@ -142343,6 +142352,7 @@ popmal.site
 popme.dk
 popmile45.com
 popmints.app
+popnewmail.com
 popnsweets.com
 popofish.com
 popogent.my.id
@@ -144451,6 +144461,7 @@ proexbol.com
 proexpertonline.ru
 prof-3dprinters.com
 profane.ru
+profarmgroup.com
 profast.top
 profaysal.com
 profcsn.eu
@@ -151598,6 +151609,7 @@ reprehensmalu.ru
 representa.ru
 representatinf.com
 representative.com
+representatmail.com
 representatmyu.ru
 representebml.ru
 representmails.ru
@@ -154658,6 +154670,7 @@ rschia.cyou
 rsco.email
 rscrental.com
 rsdb.com
+rse-eng.com
 rsefinepics.com
 rseryl-sy.com
 rsetmail.online
@@ -160075,6 +160088,7 @@ septicvernon.com
 septiko-unilos.ru
 septozer.com
 septuagiemail.ru
+septuamal.com
 sepulcher667sz.xyz
 sepuranex.me
 seputarbet.live
@@ -186155,6 +186169,7 @@ utemail.ru
 utempmail.com
 uterfl.com
 utermux.dev
+uteroabmail.com
 uterocesalo.ru
 uterogestatomail.com
 uterogrml.com
@@ -187371,6 +187386,7 @@ vecrose.com
 vect.org
 vector-rzn.ru
 vectorbrasil.app
+vectorcarmail.com
 vectorcarml.ru
 vectorgo.site
 vectoris.site
@@ -189864,6 +189880,7 @@ vnkbet.com
 vnkey.shop
 vnklkbqyme.ga
 vnkrgjt10-privmderj.space
+vnlikegiare.io.vn
 vnllevn.com
 vnlmxcasino.com
 vnmon.com
@@ -197553,6 +197570,7 @@ xjyfoa.buzz
 xjyfraxrtu.ga
 xjzodqqhb.pl
 xk39zh.us
+xk4m7q2p9a.io.vn
 xk6.net
 xk81g9.us
 xkbmxs.fun

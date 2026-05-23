@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-23T06:33:30.091Z
+# Aggregated blacklist generated on 2026-05-23T09:52:30.907Z
  
 0-30-24.com
 0-attorney.com
@@ -40993,6 +40993,7 @@ chicagochurch.info
 chicagoconsumerlawblog.com
 chicagocuttingtools.com
 chicagodryerventcleaning.us
+chicagofamilyhealth.org
 chicagogourmet.com
 chicagoguesthouses.com
 chicagohopes.org
@@ -160382,6 +160383,7 @@ servpro10094.com
 servproofnorthjackson.com
 servr.org
 servtekpro.com
+servusbud.kiev.ua
 serwervps232x.com
 serwervps24.pl
 serwis-agd-warszawa.pl
@@ -166181,6 +166183,7 @@ sparts.com
 sparxbox.info
 spasalonsan.ru
 spase.website
+spasenie.kiev.ua
 spaso.it
 spasuren.cf
 spasuren.ga
@@ -198572,6 +198575,7 @@ xn--smrtforum-w2a.se
 xn--sngkheep-qcb2527era.com
 xn--snr894bgn9a.xn--6qq986b3xl
 xn--soclich-hya.com
+xn--son8-01a.com
 xn--sprq0xrsg4w0ad9q.com
 xn--sqrr42azne.xn--6qq986b3xl
 xn--sszx33b.xn--j6w193g

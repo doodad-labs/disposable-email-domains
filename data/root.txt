@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-23T13:23:33.181Z
+# Aggregated blacklist generated on 2026-05-23T15:00:22.529Z
  
 0-30-24.com
 0-attorney.com
@@ -97686,6 +97686,7 @@ jualcloud.net
 jualfb.co
 jualfoodtruck.com
 jualherbal.top
+jualsosmed.com
 juandekruyff.com
 juangonzalezcanarias.es
 juanignaciogilligan.com

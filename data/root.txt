@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-24T03:32:39.200Z
+# Aggregated blacklist generated on 2026-05-24T06:59:05.437Z
  
 0-30-24.com
 0-attorney.com
@@ -59266,6 +59266,7 @@ edgecontrolclub.com
 edgecontrolformen.com
 edgehill.co.uk
 edgehillcenter.org
+edgemedicalcenter.com
 edgenestlab.com
 edgenet.dev
 edgenet.monster
@@ -73413,6 +73414,7 @@ gammageandburnham.com
 gammageburnham.com
 gammicism.site
 gamom.com
+gamontok.site
 gamora274ey.cf
 gamora274ey.ga
 gamora274ey.gq
@@ -130922,6 +130924,7 @@ obateksim.info
 obatku.tech
 obatmata.co
 obatwasir.site
+obbynow.biz.id
 obbynow.web.id
 obchod-podlahy.cz
 obczqk.site
@@ -143460,6 +143463,7 @@ pre-mailer.com
 pre188.website
 pre21marketing.com
 preapprove.help
+prebiomails.ru
 prebuilding.com
 precautionlogistics.com
 preccompdes.cf

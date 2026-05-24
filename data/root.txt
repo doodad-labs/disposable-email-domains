@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-24T06:59:05.437Z
+# Aggregated blacklist generated on 2026-05-24T09:53:30.452Z
  
 0-30-24.com
 0-attorney.com
@@ -68820,6 +68820,7 @@ fivgenetic.com
 fivmsinglebplayer.ml
 fivmsinglebplayer.tk
 fivoca.com
+fivueriti.com
 fivus.pl
 fiwatani.com
 fix-macosx.org
@@ -136363,6 +136364,7 @@ palbibooo.club
 palcam.cat
 palcodovinho.com.br
 paldept.com
+paldo.my.id
 paleauto.com
 palemail.ru
 paleoanthropic.com

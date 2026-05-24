@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-23T22:52:55.074Z
+# Aggregated blacklist generated on 2026-05-24T03:32:39.200Z
  
 0-30-24.com
 0-attorney.com
@@ -3560,6 +3560,7 @@
 29980055.com
 29987.monster
 299gmail.com
+29bet.uk.com
 29betcasino.info
 29betlogin.info
 29email.com
@@ -7778,6 +7779,7 @@
 68s.info
 68weijiaoyi.com
 68wim.info
+68win10.uk.com
 68win23.info
 68yahoo.com
 68ybohp.live
@@ -8823,6 +8825,7 @@
 79ohgaz.shop
 79ok.info
 79q.info
+79winbet.uk.com
 79xgame.info
 79xlogin.net
 7ag83mwrabz.ga
@@ -10740,6 +10743,7 @@
 990879.xyz
 9908nn.com
 990amtheanswer.com
+990k.uk.com
 990ys.com
 991-sh.top
 99102.xyz
@@ -28386,6 +28390,7 @@ bet7kcasino.info
 bet81apostas.com
 bet88.tokyo
 bet888casino.net
+bet88cashback.com
 bet88casino.info
 bet9.biz
 bet9.mobi
@@ -29952,6 +29957,7 @@ bingtangla.web.id
 bingx.gotdns.ch
 bingzone.net
 bingzz.live
+binh88.info
 binhduong.bar
 binhssscoco.icu
 binhtichap.com.vn
@@ -59007,6 +59013,7 @@ eco-industrialsolutions.com
 eco-lightingpembrokeshire.com
 eco-lock.ru
 eco-xmas.com
+eco-zagar-spb.ru
 ecoarabia.space
 ecobingo.store
 ecoblogger.com
@@ -72194,6 +72201,7 @@ funbetapp.net
 funbetcasino.info
 funbeti.com
 funbetiran.com
+funbingoapp.com
 funbingocasino.net
 funblog.club
 funbodem.org
@@ -95528,6 +95536,7 @@ jenachouse.co
 jenclaydonediting.com
 jendralbola.com
 jengvotravels.buzz
+jeniferconely.site
 jenishungry.com
 jeniyascart.shop
 jenjustleft.com
@@ -172653,6 +172662,7 @@ taxtfire.us
 taxtfre.us
 taxvivahormone.com
 taxy.com
+taya01.net
 taya7771.org
 taya789.info
 taya999com.com
@@ -174610,6 +174620,7 @@ test55.com
 test8002.ml
 test8869.ddns.net
 testaceofmk.com
+testaip.ru
 testando.com
 testbeta.com
 testbnk.com
@@ -198816,6 +198827,7 @@ xoso.online
 xoso168.org
 xoso66apps.com
 xoso66com.org
+xoso888.uk.com
 xoso889.net
 xosott.com
 xost.us

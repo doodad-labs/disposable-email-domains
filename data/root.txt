@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-24T19:16:12.397Z
+# Aggregated blacklist generated on 2026-05-24T20:55:22.603Z
  
 0-30-24.com
 0-attorney.com
@@ -4548,6 +4548,7 @@
 365600.xyz
 3657she.com
 365890.com
+365boxmail.com
 365casino.sbs
 365generators.com
 365gold.info
@@ -39154,6 +39155,7 @@ ceds.us
 cedsc.us
 ceduc.us
 ceducol.us
+ceducolb.us
 cedwa.us
 ceeasy.club
 ceed.se
@@ -51114,6 +51116,7 @@ deepcloud.one
 deepconverts.com
 deepcool.biz
 deepdicker.com
+deepdreammail.com
 deeper-sonar.online
 deepexam.com
 deepforesttrust.com
@@ -189923,6 +189926,7 @@ vnsafe.top
 vnshare.info
 vnsje.website
 vnsl.com
+vntechhub.online
 vntivinow.com
 vnuova.icu
 vnvejjlh.shop

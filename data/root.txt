@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-25T19:38:05.736Z
+# Aggregated blacklist generated on 2026-05-25T21:05:49.968Z
  
 0-30-24.com
 0-attorney.com
@@ -4551,6 +4551,7 @@
 365boxmail.com
 365boxmail.fyi
 365boxmail.name
+365boxmail.xyz
 365casino.sbs
 365generators.com
 365gold.info
@@ -23986,6 +23987,7 @@ azhrs.us
 azhs.us
 azhsc.us
 azhsch.org
+azhsek.org
 aziamail.com
 azie.fun
 azim.one
@@ -33222,6 +33224,7 @@ boxmach.com
 boxmail.co
 boxmail.lol
 boxmail.store
+boxmail1.xyz
 boxmailbox.club
 boxmailer.my
 boxmailers.com
@@ -66806,6 +66809,7 @@ fbhive.com
 fbhoki.shop
 fbhoreku.my.id
 fbhotro.com
+fbi.al
 fbi.one
 fbiagent.cyou
 fbinis.biz.id
@@ -94573,6 +94577,7 @@ jadopado.com
 jadotech.com
 jadsys.com
 jadwalbola.link
+jaebd.com
 jaeco.net
 jaehyun.uno
 jaeinkspeaks.com
@@ -101416,6 +101421,7 @@ kkjmdg.fun
 kkjx.com
 kkk385.com
 kkkamzlcpf.cfd
+kkkjili16.ph
 kkkk.fr
 kkkkkk.com
 kkkmail.tk
@@ -102350,6 +102356,7 @@ korgum.pl
 korichi.com.vn
 korika.com
 korin.store
+korinalinda.com
 korinthiakos.net
 korjk.com
 korkorts-foto.se
@@ -105465,6 +105472,7 @@ leasespine.email
 leashoes.com
 leasidetoronto.com
 leasing-samochodowy.info
+leasingrobotics.de
 leaskcoaching.com
 leasnet.net
 leasswsiue.org
@@ -108894,6 +108902,7 @@ loginlapp.com
 loginoff.su
 loginpage-documentneedtoupload.com
 logins.page
+loginslotvip.ph
 logintoemail.online
 loginz.net
 logismi227.ml
@@ -123159,6 +123168,7 @@ mwp4wcqnqh7t.ga
 mwp4wcqnqh7t.gq
 mwp4wcqnqh7t.ml
 mwp4wcqnqh7t.tk
+mwplaylogin.ph
 mwplaysignup.com
 mwqj.xyz
 mwrd.com
@@ -129243,6 +129253,7 @@ norseforce.com
 norsknettmuseum.no
 norstil.com
 nortedecorrientes.com
+nortessmail.com
 nortexlaw.net
 north-atlanta-rv-rentals.com
 north-dominican-realestate.com
@@ -139429,6 +139440,7 @@ phdify.info
 phdlfy.com
 phdream44login.net
 phdream88.net
+phdreamjili.ph
 phdriw.com
 phdsearchandselection.com
 phdzso.info
@@ -139737,7 +139749,9 @@ phparkvip.info
 phpbrasil.org
 phpcode.website
 phpduglist.info
+phph777.ph
 phpieso.com
+phpluscasino.ph
 phpmail.pro
 phpopularcasino.net
 phpozelders.com
@@ -163961,6 +163975,7 @@ slottojam1.com
 slottojam21.com
 slottojam28.com
 slotvipcasino.net
+slotviplink.ph
 slotxothai.biz
 sloum.com
 slovabegomua.ru
@@ -189169,6 +189184,7 @@ vipsalut.com
 vipsbet.com
 vipsentence.ru
 vipservers.ga
+vipslot.ph
 vipslotscasino.info
 vipsmail.us
 vipsohu.net
@@ -204379,6 +204395,7 @@ zolkmana.tk
 zolman.org
 zolmi.click
 zolmiu.cfd
+zolon.store
 zoltio.xyz
 zoltra.space
 zomail.org

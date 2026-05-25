@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-25T16:22:39.926Z
+# Aggregated blacklist generated on 2026-05-25T19:38:05.736Z
  
 0-30-24.com
 0-attorney.com
@@ -4550,6 +4550,7 @@
 365890.com
 365boxmail.com
 365boxmail.fyi
+365boxmail.name
 365casino.sbs
 365generators.com
 365gold.info
@@ -4559,6 +4560,7 @@
 365logz.com
 365luckybet.net
 365mail.world
+365mailvn.com
 365me.info
 365plusmedia.com
 365scotland.com
@@ -111894,6 +111896,7 @@ mail10s.top
 mail11.cf
 mail11.gq
 mail11.ml
+mail11.xyz
 mail114.net
 mail123.club
 mail12h.com

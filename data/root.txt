@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-24T22:57:56.034Z
+# Aggregated blacklist generated on 2026-05-25T03:43:21.257Z
  
 0-30-24.com
 0-attorney.com
@@ -89014,6 +89014,7 @@ idgreat.ru
 idhalfpricedlistings.com
 idhf.org
 idhie.com
+idhmz.io.vn
 idi-k-mechte.ru
 idia.biz
 idid11.com

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-26T03:28:58.986Z
+# Aggregated blacklist generated on 2026-05-26T07:43:49.236Z
  
 0-30-24.com
 0-attorney.com
@@ -62463,6 +62463,7 @@ epayvip88.com
 epb.ro
 epbox.ru
 epbox.store
+epbraxlb.my.id
 epcassessor.xyz
 epce.com
 epcgpn.site
@@ -94866,6 +94867,7 @@ janganjadiabu6.tk
 janganjadiabu7.ml
 janganjadiabu8.ga
 janganjadiabu9.cf
+jangansharing.my.id
 janganyawit.biz.id
 jangkrikbosku.com
 jango.space
@@ -107434,6 +107436,8 @@ linkedinextreams.com
 linkedintuts2016.pw
 linkedmails.com
 linkedupdesign.com
+linkel.id
+linkel.target
 linketdon.com
 linkfield.my.id
 linkfieldhub.com
@@ -113970,6 +113974,8 @@ mandarinhouserathcoole.com
 mandccreations.com
 manderich.com
 mandersdieselrepair.com
+mandher.biz.id
+mandher.my.id
 mandibuliform.best
 mandingastrategy.com
 mandiocamedia.site
@@ -129769,6 +129775,7 @@ nqrdq1.us
 nqvyo4.info
 nqwfw.info
 nr89.xyz
+nrbml.my.id
 nrbml.store
 nrcbs.com
 nrehi.com
@@ -150464,6 +150471,7 @@ redfoxbet77.com
 redfoxbet87.com
 redfrogmail.com
 redfuli999.club
+redgarda.biz.id
 redgil.com
 redgogork.com
 redhatmail.com
@@ -154416,6 +154424,7 @@ rowantreepublishing.com
 rowdent.com
 rowdydow.com
 rowe-solutions.com
+rowel.id
 roweryo.com
 rowingbreak.com
 rowingbreak.org
@@ -174872,6 +174881,7 @@ textcasi.cf
 textcasi.gq
 textcasi.ml
 textcasi.tk
+textel.id
 texters.ru
 textfrees.us
 textildesign24.de
@@ -188061,6 +188071,7 @@ vesmindandwellness.com
 vesnakuhni.ru
 vesnapekoluketic.com
 vesoe.top
+vespaku.web.id
 vespk.com
 vespor.biz
 vespor.info

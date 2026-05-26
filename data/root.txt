@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-25T23:01:30.718Z
+# Aggregated blacklist generated on 2026-05-26T03:28:58.986Z
  
 0-30-24.com
 0-attorney.com
@@ -61202,6 +61202,7 @@ emailias.com
 emailies.com
 emailify.shop
 emailigo.de
+emailinbo.live
 emailinbox.space
 emailinbox.store
 emailinbox.xyz
@@ -142667,6 +142668,7 @@ portlenso.ga
 portlenso.gq
 portlenso.tk
 portmoca.com
+portnoy.biz.id
 portoalegrepixels.site
 portob.info
 portobello-pizza-cafe.com
@@ -151167,6 +151169,7 @@ relayed.org
 relayix.cfd
 relaylink.eu
 relaymailpoint.com
+relayne.top
 relayyork.site
 relazionifacili-confirmed.com
 relazionifacili-meet-backup.com
@@ -176774,6 +176777,7 @@ thinbrush.net
 thinbrush.us
 thinbrushes.us
 thindiancollection.com
+thindle.shop
 thinfile.com
 thinges.site
 thingexpress.com

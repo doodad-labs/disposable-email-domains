@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-27T03:42:44.438Z
+# Aggregated blacklist generated on 2026-05-27T08:03:48.764Z
  
 0-30-24.com
 0-attorney.com
@@ -70928,6 +70928,7 @@ frbazaar.com
 frdeuropebv.net
 frdibill.icu
 frdmconstruction.com
+frdsensor.com
 frdylicaniax.host
 fre.fr
 fre.link

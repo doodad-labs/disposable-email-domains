@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-26T23:09:59.633Z
+# Aggregated blacklist generated on 2026-05-27T03:42:44.438Z
  
 0-30-24.com
 0-attorney.com
@@ -37627,6 +37627,7 @@ captivadesign.com
 captivateandcharm.com
 captivateandcreate.com
 captnsvo23t.website
+captpro.biz.id
 captrend.my.id
 captrix.my.id
 capturedbychelle.com
@@ -137307,6 +137308,7 @@ passdsinterview.com
 passed-them.com
 passedil.com
 passenger.co.uk
+passeone.com
 passfwd.com
 passgrumqui.cf
 passgrumqui.ga

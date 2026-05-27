@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-27T17:18:52.334Z
+# Aggregated blacklist generated on 2026-05-27T20:15:08.408Z
  
 0-30-24.com
 0-attorney.com
@@ -15689,6 +15689,7 @@ akunhd.com
 akunku.shop
 akunku.xyz
 akunlama.com
+akunlemah.biz.id
 akunnerft.engineer
 akunprm.com
 akunpro.web.id
@@ -125886,6 +125887,7 @@ ndmc.in
 ndmlpife.com
 ndn02.space
 ndnaction.net
+ndnphim.io.vn
 ndorsa.com
 ndprndpa.shop
 ndptir.com
@@ -150860,6 +150862,7 @@ reg-builder.xyz
 reg.pw
 reg19.ml
 regacc.shop
+regacc.site
 regadub.ru
 regalforex.com
 regalhomesllc.com
@@ -173840,6 +173843,7 @@ temasekmail.com
 temasparawordpress.es
 temax.ch
 tembak4d.online
+tembusselalu.biz.id
 tembusselalu.my.id
 temecon.cf
 temecon.gq
@@ -177580,6 +177584,7 @@ timoer.info
 timoloogkn.space
 timon-vdr.com
 timoo.site
+timothy.web.id
 timothyjsilverman.com
 timothyvanderbliek.nl
 timothywaters.com
@@ -199464,6 +199469,7 @@ xxtxtime.site
 xxup.site
 xxuz.com
 xxvcongresodeasem.org
+xxvd.net
 xxvk.ru
 xxvk.store
 xxvl.xyz

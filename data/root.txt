@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-27T20:15:08.408Z
+# Aggregated blacklist generated on 2026-05-27T23:16:58.147Z
  
 0-30-24.com
 0-attorney.com
@@ -54691,6 +54691,7 @@ dlinlyga.ga
 dlinlyga.gq
 dlinlyga.ml
 dlinlyga.tk
+dlinmdrivelity.com
 dlinqnt.com
 dlipb2.com
 dlj6pdw4fjvi.cf
@@ -56741,6 +56742,7 @@ driancorp.xyz
 driankorp.com
 dricca.com
 drid1gs.com
+dridicmoroccoitn.com
 driedflowertea.com
 driely.com
 driems.org
@@ -56817,6 +56819,7 @@ drive-v.com
 drivecompanies.com
 drivecruzenow.com
 drivedisputeflood.site
+drivedrivelitn.com
 driveeurope.org
 driveguar.email
 drivegue.id
@@ -74242,6 +74245,7 @@ geforce-drivers.com
 gefpmjsfq.shop
 gefriergerate.info
 gefvert.com
+gefwvvwegflen.com
 gegealabama.com
 gegealaska.com
 gegearizona.com
@@ -76266,6 +76270,7 @@ gkhl.us
 gkhmpj.fun
 gkhs.us
 gkhsc.us
+gkhsch.us
 gkhsedu.us
 gkjeee.com
 gkjgsxupc.shop
@@ -83991,6 +83996,7 @@ hhyrnvpbmbw.atm.pl
 hhyru.us
 hhyu.com
 hhzd.com
+hi-baby.ru
 hi-fella.online
 hi-litedentallab.com
 hi-techengineers.com
@@ -99033,6 +99039,7 @@ kapprof.com
 kapptiger.com
 kapschak.net
 kapten.site
+kaptencpl.com
 kaptina.ru
 kaptsittia.cf
 kaptsittia.gq
@@ -102072,6 +102079,7 @@ kolvok2.xyz
 kolyasski.com
 komalik.club
 koman.team
+komandir057.ru
 komau.online
 komaxann.com
 kombatcopper.com
@@ -143898,6 +143906,7 @@ prettyishlady.net
 prettyknitty.nl
 prettylashes.co
 prettymail.click
+prettymailhost.com
 prettymanprettyman.com
 prettynewsfeed.com
 prettyshan.cfd

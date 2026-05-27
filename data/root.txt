@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-27T08:03:48.764Z
+# Aggregated blacklist generated on 2026-05-27T17:18:52.334Z
  
 0-30-24.com
 0-attorney.com
@@ -33225,6 +33225,7 @@ boxmach.com
 boxmail.co
 boxmail.lol
 boxmail.store
+boxmail1.name
 boxmail1.xyz
 boxmailbox.club
 boxmailer.my
@@ -106391,6 +106392,7 @@ lex-casinowave.fun
 lex-casinowave.monster
 lex-gamesprint.website
 lex365.ru
+lexaastore.my.id
 lexabet.net
 lexabet5.com
 lexaha.info
@@ -115362,6 +115364,7 @@ matamuasu.gq
 matamuasu.ml
 matanmail.com
 matanyashope.com
+mataramshop.web.id
 matari.me
 matbetongirisi.com
 match365.soccer
@@ -121428,6 +121431,7 @@ mornsoft.com
 mornsoft.org
 mornu.click
 moroccomail.com
+morocz.biz.id
 morogamers.com
 moroi.online
 morowcapitals.com
@@ -160647,6 +160651,7 @@ sewardtours.com
 sewce.com
 sewesi.info
 sewingmachinesprice.com
+sewink.my.id
 sewmanyblanks.com
 sewpack.com
 sewtobusiness.com
@@ -173835,6 +173840,7 @@ temasekmail.com
 temasparawordpress.es
 temax.ch
 tembak4d.online
+tembusselalu.my.id
 temecon.cf
 temecon.gq
 temecon.ml
@@ -181182,6 +181188,7 @@ tristeziul.space
 tristore.xyz
 tritega.com
 triteksolution.info
+trithuc.info
 tritium.rs
 tritonqi.com
 tritunggalmail.com

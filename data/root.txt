@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-28T15:55:39.807Z
+# Aggregated blacklist generated on 2026-05-28T18:36:24.323Z
  
 0-30-24.com
 0-attorney.com
@@ -80967,6 +80967,7 @@ hadthetalk.org
 hadvar.com
 hadye.me
 haeac.com
+haechan.web.id
 haechot.com
 haecvx.tokyo
 haemacytmails.ru
@@ -164795,6 +164796,7 @@ snowtesting.com
 snowthrowers-reviews.com
 snoww.tk
 snowwren.com
+snpmail.fun
 snprms.ga
 snpsex.ga
 snq.email
@@ -204888,6 +204890,7 @@ zumbinimex.com
 zumbinis.biz.id
 zumdigital.biz.id
 zumhive.biz.id
+zumnime.me
 zumprms.cf
 zumpul.com
 zumrotin.ml

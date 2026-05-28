@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-28T18:36:24.323Z
+# Aggregated blacklist generated on 2026-05-28T21:55:03.241Z
  
 0-30-24.com
 0-attorney.com
@@ -33228,6 +33228,7 @@ boxmach.com
 boxmail.co
 boxmail.lol
 boxmail.store
+boxmail1.com
 boxmail1.name
 boxmail1.xyz
 boxmailbox.club
@@ -115473,6 +115474,7 @@ matincipal.site
 matinvp.xyz
 matjoa.com
 matkakilpailu.com
+matkind.com
 matlabalpha.com
 matmail.ru
 matmail.shop
@@ -129172,6 +129174,7 @@ noobjs.org
 nooboy.com
 noobse.my.id
 noobsie.my.id
+noobsie290.web.id
 noobswhatelse.com
 noobtoobz.com
 noodle-club-takeaway.com
@@ -150283,6 +150286,7 @@ recklessbox.com
 recklesstech.club
 reclaimbellydancing.com
 reclaimyourtimemasterclass.com
+reclameaqui.services
 recliner.buzz
 recloudmail.xyz
 recockulas.com

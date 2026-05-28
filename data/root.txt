@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-28T21:55:03.241Z
+# Aggregated blacklist generated on 2026-05-28T23:16:04.380Z
  
 0-30-24.com
 0-attorney.com
@@ -11408,6 +11408,7 @@ a795fgnc.buzz
 a798uyoz.buzz
 a7996.com
 a7family.net
+a7gi.ru
 a7lashe.com
 a7qoei.us
 a80jx.space
@@ -40003,6 +40004,7 @@ chambraycoffee.com
 chamconnho.com
 chamedan.pro
 chamedoon.cfd
+chameleongroup.co
 chammakchallo.com
 chammy.info
 champagne62.buzz
@@ -54689,6 +54691,7 @@ dlfree.net
 dlgi.com
 dlhaiteng.com
 dlhisgroups.com
+dlicelandty.com
 dliiv71z1.mil.pl
 dlink.cf
 dlink.gq
@@ -61161,6 +61164,7 @@ emailfalsa.gq
 emailfalsa.ml
 emailfalsa.tk
 emailfast.me
+emailfit.info
 emailforme.pl
 emailfornow.com
 emailforyou.info
@@ -116887,6 +116891,7 @@ megawin55.com
 megaxxi.com
 megburklaw.com
 megdalomail.com
+megemail.info
 meghna-tandoori-takeaway.com
 meglioquesto.info
 megmbh.com
@@ -134999,6 +135004,7 @@ ottertailpower.com
 ottocalling.com
 ottoform.net
 ottomantheband.net
+ottopc.com
 ottopetra.com
 ottotech.net
 ottrme.com
@@ -148258,6 +148264,7 @@ qzick.com
 qzilx1.site
 qzlfalleno.com
 qzmk.ru
+qzoreteam.ru
 qzpdzwzhud.ga
 qztc.edu
 qztri.click
@@ -157258,6 +157265,7 @@ san-marino-nedv.ru
 san56564.shop
 sana-all.com
 sanaatyadi.com
+sanad.top
 sanaewesthkff.xyz
 sanaglobe.de
 sanahalls.com

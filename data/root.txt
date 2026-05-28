@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-28T07:57:25.569Z
+# Aggregated blacklist generated on 2026-05-28T11:42:18.412Z
  
 0-30-24.com
 0-attorney.com
@@ -12097,6 +12097,7 @@ abundantwe.us
 abunprodvors.xyz
 abuobeida.online
 aburame.my.id
+abusayef.pro.bd
 abusea.online
 abusedb.net
 abuseipdb.ru
@@ -159307,6 +159308,7 @@ seductiondictionary.com
 seductivestarletzz.net
 seductiveturtle.org
 sedulouselectricals.com
+sedut.my
 sedv4ph.com
 see.giize.com
 see2d3.com

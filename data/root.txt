@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-28T11:42:18.412Z
+# Aggregated blacklist generated on 2026-05-28T15:55:39.807Z
  
 0-30-24.com
 0-attorney.com
@@ -6032,6 +6032,7 @@
 4newspapers.com
 4nextmail.com
 4nl.info
+4nly.com
 4nlycatchall.co.in
 4nmpjhlrfp3uy06.xyz
 4nmv.ru
@@ -47968,6 +47969,7 @@ cuabs.us
 cuacua.foundation
 cuadongplaza.com
 cuadrosperu.com
+cuahangvppn.shop
 cuaicloud.space
 cuaina.com
 cuan.email
@@ -78101,6 +78103,7 @@ googlosports.com
 googmail.gdn
 googole.com.pl
 googoolshop.xyz
+googxs.com
 goohle.co.ua
 gooks.lat
 goolag.net
@@ -181087,6 +181090,7 @@ triderprez.cf
 triderprez.gq
 triderprez.tk
 triedbook.xyz
+triennguyen.com
 trieublack4g.com
 trifectafunnel.com
 trifistfmals.com

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-27T23:16:58.147Z
+# Aggregated blacklist generated on 2026-05-28T03:32:00.874Z
  
 0-30-24.com
 0-attorney.com
@@ -169063,6 +169063,7 @@ student-web-design.com
 student.io.vn
 student.makeup
 student.nl
+student.ooguy.com
 studentart.fun
 studentart.space
 studentarty.live

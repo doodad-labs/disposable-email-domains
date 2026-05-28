@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-28T03:32:00.874Z
+# Aggregated blacklist generated on 2026-05-28T07:57:25.569Z
  
 0-30-24.com
 0-attorney.com
@@ -37577,6 +37577,7 @@ caponivory.site
 cappacutpro.icu
 cappadociadaytours.com
 cappcot.my.id
+cappcut.web.id
 capphra.biz.id
 cappriccio.ru
 cappuccinipiemonte.it
@@ -42735,6 +42736,7 @@ clearbrookatbanyan.com
 clearbrookbanyan.com
 clearcutcreative.com
 cleardex.io
+clearhabitpath.com
 clearjaxfl.com
 clearlyskinroutine.com
 clearmail.online
@@ -42744,6 +42746,7 @@ clearnmsdfkl64733.tk
 clearnmsdfkl85753.tk
 clearnmsdfkl86115.tk
 clearoptions.net
+clearpathblog.com
 clearpia.us
 clearskinaz.com
 clearstackr.site
@@ -58672,6 +58675,8 @@ easypaperplanes.com
 easypass.rs
 easypaymaker1.com
 easypharm.space
+easyplainlife.com
+easyreadnow.com
 easyrecipesguide.life
 easyrecipetoday.com
 easyrecipezone.com
@@ -77977,6 +77982,7 @@ goodlistfiles.site
 goodlisttext.site
 goodluckforu.cn.com
 goodluckwith.us
+goodmail.my.id
 goodmail.work
 goodmailbox.top
 goodmailer.ru
@@ -123956,6 +123962,7 @@ mylondonaccountants.com
 mylongemail.info
 mylongemail2015.info
 myloo.biz.id
+mylooow.my.id
 mylove55.com
 mylove92.cfd
 mylovelyfeed.info
@@ -125031,6 +125038,7 @@ nakorder.online
 nakrul.se
 nakrutkalaykov.ru
 nakshamakerz.com
+nakya.biz.id
 nakzvpn.xyz
 nalafx.com
 nalds.live
@@ -152548,9 +152556,11 @@ riabervie.ml
 riabervie.tk
 riabuzz.com
 riacomponents.com
+riad-store.biz.id
 riadgptplus.com
 riador.online
 riadstore.my.id
+riadstoregpt.web.id
 riainetwork.com
 riaki.com
 rialh.com

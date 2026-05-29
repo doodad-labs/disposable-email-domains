@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-29T21:51:39.460Z
+# Aggregated blacklist generated on 2026-05-29T23:11:55.803Z
  
 0-30-24.com
 0-attorney.com
@@ -51090,6 +51090,7 @@ decoymail.com
 decoymail.mx
 decoymail.net
 decreas.ru
+decretof.com
 decriminalization90lw.online
 decriminalizes610vv.online
 decrocky.com
@@ -75508,6 +75509,7 @@ ghas.us
 ghastlier.com
 ghastlynursyahid.biz
 ghat.us
+ghated.us
 ghatedu.us
 ghatefar.com
 ghathigh.us
@@ -165049,6 +165051,7 @@ soczewek-b.pl
 soczewki.com
 soda55.com
 sodalithite.best
+sodamail.site
 sodap4.org
 sodapopboy.com
 sodapoppinecoolbro.com

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-29T03:32:19.635Z
+# Aggregated blacklist generated on 2026-05-29T07:55:15.370Z
  
 0-30-24.com
 0-attorney.com
@@ -75066,6 +75066,7 @@ getmailfree.cc
 getmails.eu
 getmails.pw
 getmails.tk
+getmails.top
 getmailsonline.com
 getmanllc.com
 getmaptab.com

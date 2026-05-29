@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-29T18:32:02.087Z
+# Aggregated blacklist generated on 2026-05-29T21:51:39.460Z
  
 0-30-24.com
 0-attorney.com
@@ -16177,6 +16177,7 @@ alextech-sweetbriar.com
 alexwn.us
 alexzsai.store
 aleycoeventdesign.com
+alf5.com
 alfa-ads.ru
 alfa-memes.shop
 alfa-romeo.cf
@@ -97578,6 +97579,7 @@ jrfitnessbds.com
 jrgkew1.host
 jrglobalmarketing.net
 jrgotthehits.com
+jrhmail.com
 jri863g.rel.pl
 jrifztqlkq.ga
 jrinkkang97oye.cf
@@ -160900,6 +160902,7 @@ sfti.co.com
 sftrilogy.com
 sfutilities.com
 sfvoice.org
+sfwconcerts.com
 sfxeur.com
 sfxmailbox.com
 sfy.com

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-29T15:28:38.721Z
+# Aggregated blacklist generated on 2026-05-29T18:32:02.087Z
  
 0-30-24.com
 0-attorney.com
@@ -111624,6 +111624,7 @@ magentiamoday.com
 magento-sa.online
 magento-sa.xyz
 magentomancer.com
+mageti.my.id
 magetrust.com
 maggieclark.org
 maggievirtually.com

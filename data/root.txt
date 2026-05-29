@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-28T23:16:04.380Z
+# Aggregated blacklist generated on 2026-05-29T03:32:19.635Z
  
 0-30-24.com
 0-attorney.com
@@ -1282,6 +1282,7 @@
 123bj.fit
 123bk.ink
 123bl.live
+123blink.info
 123bm.click
 123bn.space
 123bo.ink
@@ -8778,6 +8779,7 @@
 789456123mail.ml
 789922.xyz
 7899w.top
+789ber.info
 789bet08.com
 789club.fun
 789club999.com
@@ -10191,6 +10193,7 @@
 8x8x.site
 8x99.com
 8xbetcasino.info
+8xbetlive.org
 8xcdzvxgnfztticc.cf
 8xcdzvxgnfztticc.ga
 8xcdzvxgnfztticc.gq
@@ -28934,6 +28937,7 @@ betvipapk.net
 betvirtus.com
 betvisacasino.net
 betvn01.info
+betvndlive.com
 betwebluck.com
 betweentury.site
 betwim.info
@@ -39171,6 +39175,7 @@ cedria-eng.com
 ceds.us
 cedsc.us
 ceduc.us
+ceduca.us
 ceducol.us
 ceducolb.us
 cedwa.us
@@ -49439,6 +49444,7 @@ dailytomash.xyz
 dailytrendz.shop
 dailytrendzgrow.shop
 dailyupdate.biz.id
+dailyusepath.com
 dailywebnews.info
 dailyworksx.shop
 daimlerag.cf
@@ -51989,6 +51995,7 @@ derstefo.tk
 derthtsz.shop
 dertul.xyz
 deruelle.name
+derwildewolf.de
 derx.space
 des-law.com
 desah-mail.tech
@@ -55897,6 +55904,7 @@ doramm.com.pl
 doranscale.com
 dorapepe.pro
 dorchesterrmx.co.uk
+doreact.com
 dorede.com
 dorelliphotographie.com
 doremifasoleando.es
@@ -57781,6 +57789,7 @@ dv6w2z28obi.pl
 dv7.com
 dv88bet.info
 dv8student.com
+dva0.site
 dvader.club
 dvag-karriere.de
 dvc-india.com
@@ -60839,6 +60848,7 @@ elreverde.com
 elreykebabbarcelona.com
 elrfwpel.com
 elrincondelbarbudo.ovh
+elriq.biz.id
 els396lgxa6krq1ijkl.cf
 els396lgxa6krq1ijkl.ga
 els396lgxa6krq1ijkl.gq
@@ -75645,6 +75655,7 @@ ghtreihfgh.xyz
 ghuandoz.xyz
 ghuib.com
 ghulamid.me
+ghumel.site
 ghunel.com
 ghv.pics
 ghvv.click
@@ -84622,6 +84633,7 @@ hitthatne.org.ua
 hitthemarketing.com
 hity-ostatniej-dekady.pw
 hitysi.info
+hitzcart.com
 hiu.pics
 hiva.best
 hiva.website
@@ -88935,6 +88947,7 @@ idaccept.net
 idaccept.org
 idaho.tours
 idahohomeinformation.com
+idahoit.net
 idaholands.info
 idahoquote.com
 idahorealtymls.com
@@ -89307,6 +89320,7 @@ ifavorsprt.com
 ifb.in
 ifcelite.com
 ifchuck.com
+ifcoat.com
 ifconfig.win
 ifd8tclgtg.cf
 ifd8tclgtg.ga
@@ -96188,6 +96202,7 @@ jilibet-online.ph
 jilibet020.net
 jilibet777ph.org
 jilibetapplogin.com
+jilibetdonnalyn.com
 jilibetloginregister.com
 jilibetrealmoneyplatform.com
 jilicrown22.org
@@ -122458,6 +122473,7 @@ mtstreet.online
 mttdfen.xyz
 mtthanh.com
 mtu-net.ru
+mtupu.com
 mtvknzrs.xyz
 mtyju.com
 mtzx4.xyz
@@ -134429,6 +134445,7 @@ organiksacekim.net
 organikweb.com
 organisasipoetra.io
 organisatyyl.ru
+organiscs.ru
 organisologue.com
 organiz-projects.com
 organizationid.com
@@ -172762,6 +172779,7 @@ taxtfre.us
 taxvivahormone.com
 taxy.com
 taya01.net
+taya77701.com
 taya7771.org
 taya789.info
 taya999com.com

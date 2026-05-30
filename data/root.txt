@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-30T15:06:05.355Z
+# Aggregated blacklist generated on 2026-05-30T17:03:13.224Z
  
 0-30-24.com
 0-attorney.com
@@ -162084,6 +162084,7 @@ shortpacket.org
 shortsaleadv.com
 shortstaycraze.com
 shorttermloans90.co.uk
+shortweb.live
 shortx.io
 shortybud.com
 shortyliqs.net
@@ -165552,6 +165553,7 @@ sonamyr.shop
 sonarupardam.blog
 sonasoft.net
 sonata-krasotavn.ru
+sonbecker.biz.id
 sondemar.com
 sonderagency.org
 sonderwunsche.com

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-30T06:44:37.376Z
+# Aggregated blacklist generated on 2026-05-30T10:00:29.074Z
  
 0-30-24.com
 0-attorney.com
@@ -38937,6 +38937,7 @@ cccmaroc.com
 cccod.com
 cccold.com
 ccczuk55.site
+ccda.edu.rs
 ccdd.site
 ccdepot.net
 ccdepot.xyz
@@ -48350,6 +48351,7 @@ cushingsdisease.in
 cushions.ru
 cushyjoy.com
 cuspy.ru
+cust.edu.rs
 cust.in
 custenms.com
 custmon.net
@@ -125751,6 +125753,7 @@ nbhealthcare.com
 nbhsssib.fun
 nbhvdsxrf.cloud
 nbi.com
+nbit.edu.rs
 nbjnmj.com
 nble.cloud
 nbmbb.com
@@ -158160,6 +158163,7 @@ sberemec.ml
 sberocenka.ru
 sberonlinedelivery.site
 sberwick.com
+sbeu.edu.rs
 sbfwd.com
 sbg-museum.se
 sbgcd.org
@@ -186521,6 +186525,7 @@ uwa7tq.info
 uwag.org
 uwalumni.co
 uwamail.com
+uwasba.ac.id
 uwated.win
 uwciw.us
 uwdiscount.online
@@ -190785,6 +190790,7 @@ vseadvocaty.ru
 vseadvokati.ru
 vsebrigadi.ru
 vsecc.pw
+vseindi.com
 vsekatal.ru
 vselennaya.su
 vsembiznes.ru

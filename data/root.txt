@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-29T23:11:55.803Z
+# Aggregated blacklist generated on 2026-05-30T02:57:57.578Z
  
 0-30-24.com
 0-attorney.com
@@ -56852,6 +56852,7 @@ drivelegalnowga.com
 drivelinegolf.com
 drivelity-spain0n.com
 drivelity8gd0n.com
+drivelityfdty.com
 drivemail.sbs
 drivemoe.eu.org
 drivenbyjam.site
@@ -69770,6 +69771,7 @@ fmaillerbox.net
 fmailnex.com
 fmailx.tk
 fmailxc.com
+fmaltafdty.com
 fman.site
 fmands.co.uk
 fmds.org
@@ -83947,6 +83949,7 @@ hgudovocroxoi8182.rest
 hguopd.info
 hgvj.com
 hgwdjx.com
+hgwise.org
 hgxin44.com
 hgxw9k.us
 hgxxsycdj.shop
@@ -120945,6 +120948,7 @@ monedix.com
 monedocard.com
 monedonow.com
 moneeu.ru
+monemails.com
 monepy.com
 mones.online
 monetaros.com
@@ -164998,6 +165002,7 @@ socialsecret.ru
 socialsergsasearchengineranker.com
 socialstudy.biz
 socialtalker.com
+socialtextonline.org
 socialtheme.ru
 socialtracking.live
 socialtroopers.com
@@ -172411,6 +172416,7 @@ taovip.org
 taovip.wiki
 taowenda.club
 taoxao.online
+taoxe.com
 taoxyn.online
 taoyuan.chat
 taoyuanguo.chat
@@ -190637,6 +190643,7 @@ vpslists.com
 vpsmetrics.site
 vpsmetrics.space
 vpsmobilecloudkb.com
+vpsnl.ru
 vpsorg.pro
 vpsorg.top
 vpsr.com
@@ -195376,6 +195383,7 @@ work-info.ru
 work-is-play.com
 work.gd
 work24h.eu
+work4me.store
 work4uber.us
 work66.ru
 workaholicfilms.com

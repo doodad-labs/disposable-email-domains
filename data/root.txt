@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-30T02:57:57.578Z
+# Aggregated blacklist generated on 2026-05-30T06:44:37.376Z
  
 0-30-24.com
 0-attorney.com
@@ -65579,6 +65579,7 @@ facilelab.com
 facilesend.com
 facilitation.buzz
 facilities.com
+facilitiesup.cfd
 facilitobet.com
 facilityservices24.de
 fackme.gq
@@ -162880,6 +162881,7 @@ singaporetravel.network
 singaporetriennale.com
 singaporetriennial.com
 singatoto.net
+singebut.web.id
 singermarketing.com
 singhtv.online
 singingintherain.co.uk
@@ -177735,6 +177737,7 @@ tiniliveicloud.pics
 tinimama.club
 tinimama.online
 tinimama.website
+tinkergigi.bond
 tinkeringpans.com
 tinkiremote.site
 tinkmail.net

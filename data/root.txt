@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-31T07:45:36.450Z
+# Aggregated blacklist generated on 2026-05-31T10:15:32.892Z
  
 0-30-24.com
 0-attorney.com
@@ -76237,6 +76237,7 @@ gizbo.quest
 gizbo777gamblin.top
 gizbocasino-360.top
 gizbogamez.buzz
+gizbos4532.top
 gizemnuruyuz.buzz
 gizleyici.tk
 gizlicennetkibris.com
@@ -145071,6 +145072,7 @@ prosatnab.ml
 prosatnab.tk
 proscaronlinesure.com
 proscarprime.com
+proschools.it.com
 prosecutoromail.com
 proseeding.shop
 prosek.xyz
@@ -177520,6 +177522,7 @@ tiktokuk.com
 tiktokvideo.eu.org
 tikusqq.org
 tikvahhertogfellows.org
+tikwel.com
 tikyani.com
 tilamook.name
 tilamook.us

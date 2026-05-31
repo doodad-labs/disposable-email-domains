@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-31T10:15:32.892Z
+# Aggregated blacklist generated on 2026-05-31T13:43:35.492Z
  
 0-30-24.com
 0-attorney.com
@@ -163526,6 +163526,7 @@ skincareit.com
 skincareonlinereviews.net
 skincareproductoffers.com
 skindu.xyz
+skingkong.com
 skinhealings.com
 skinhub.online
 skinid.info
@@ -188816,6 +188817,7 @@ viehelpfolk.gq
 viehelpfolk.ml
 vielove.com
 viels.top
+viemarter.online
 viemery.com
 viencel.com
 vienna.cf

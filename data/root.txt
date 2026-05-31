@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-30T22:57:21.023Z
+# Aggregated blacklist generated on 2026-05-31T03:44:12.540Z
  
 0-30-24.com
 0-attorney.com
@@ -25667,6 +25667,7 @@ banofamerican.best
 banot.net
 banqqood.ru
 banquyen.xyz
+banri.xyz
 banricc.xyz
 bansiclonevia.com
 banskocoliving.com
@@ -33430,6 +33431,7 @@ bradyphasia.best
 bradyvalentin.top
 bradzimmerman.com
 braedstrup.info
+brafall.com
 braffimoveis.com
 brafrannajufre.shop
 bragamand.biz
@@ -167126,6 +167128,7 @@ spywtarpa.ga
 spywtarpa.gq
 spywtarpa.ml
 spywtarpa.tk
+spyyre.com
 sq212ok.com
 sq322.com
 sq711.com

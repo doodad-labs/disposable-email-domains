@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-31T20:59:39.975Z
+# Aggregated blacklist generated on 2026-05-31T22:59:18.623Z
  
 0-30-24.com
 0-attorney.com
@@ -39396,6 +39396,7 @@ censor.sbs
 cent.cd
 cent23.com
 centa93.icu
+centco.us
 centcol.us
 center-kredit.de
 center-mail.de
@@ -125348,6 +125349,7 @@ narodnydoctor.ru
 narodnyjlekar.ru
 narrec10.club
 narrereste.ml
+narrowment.com
 narrowmouthed.ru
 narsaab.site
 narsan.ru
@@ -154065,6 +154067,7 @@ rolipic.site
 rollagodno.ru
 rollaskateclub.com
 rollegal.site
+rollerads.org
 rollerbrush.org
 rollerbrushes.net
 rollercover.org

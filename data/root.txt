@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-01T15:56:42.420Z
+# Aggregated blacklist generated on 2026-06-01T20:19:31.101Z
  
 0-30-24.com
 0-attorney.com
@@ -84423,6 +84423,7 @@ him6.com
 hima.top
 himachal.org
 himacojapan.com
+himacreative.id
 himail.monster
 himail.online
 himaksiunmul.site
@@ -116005,6 +116006,7 @@ mbo128.live
 mbo128.news
 mbo128.vip
 mboarhndhalfd1o.xyz
+mbokwito.online
 mboled.ml
 mbolst.my.id
 mbox.re
@@ -203902,6 +203904,7 @@ zhaosaobi.app
 zhaoyuanedu.cn
 zhaoyuantu.com
 zhaqiaocun.com
+zharhs.org
 zhcne.com
 zhcp123.com
 zhcvqqbvdc.ga

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-01T09:33:12.350Z
+# Aggregated blacklist generated on 2026-06-01T15:56:42.420Z
  
 0-30-24.com
 0-attorney.com
@@ -977,6 +977,7 @@
 10mail.xyz
 10mails.net
 10mi.org
+10min.email
 10minemail.com
 10minemail.net
 10minmail.de
@@ -2470,6 +2471,7 @@
 1utk81n8xa0p5ue.xyz
 1vbuy.com
 1vitsitoufficiale.com
+1vpn.net
 1vs1.app
 1vsitoit.com
 1vt.com
@@ -18834,6 +18836,7 @@ anodizing781jd.xyz
 anogarmoniya.ru
 anogen.eu
 anogenics.info
+anogz.com
 anoiz.site
 anom.xyz
 anomail.club
@@ -87208,6 +87211,7 @@ huamicme.cf
 huamicme.ga
 huamicme.gq
 huamicme.tk
+huamo.lat
 huang-f.top
 huangboyu.com
 huanggg.fun
@@ -112793,6 +112797,8 @@ maillereviews.com
 maillestar.com
 mailleworld.com
 maillgols.space
+maillii.shop
+maillii.store
 mailline.net
 mailling.ru
 maillink.in
@@ -118124,6 +118130,7 @@ mgapoker88.org
 mgastudents.com
 mgazenonli-man.space
 mgb-iris-blue.online
+mgbet.lat
 mgbett.com
 mgdavisevents.com
 mgdchina.com
@@ -169360,6 +169367,7 @@ suaprotecao.com
 suara.me
 suarapelajar.id
 suariquezaonline.com
+suarj.com
 suavesound.com
 suavietly.com
 sub-2020.info
@@ -200973,6 +200981,7 @@ yesmail.store
 yesnauk.com
 yesnews.info
 yeson1608.org
+yesornowheel.fun
 yesorting.com
 yespickup.com
 yespostcardyou.website

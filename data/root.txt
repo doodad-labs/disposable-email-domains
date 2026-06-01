@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-05-31T22:59:18.623Z
+# Aggregated blacklist generated on 2026-06-01T03:59:17.866Z
  
 0-30-24.com
 0-attorney.com
@@ -66439,6 +66439,7 @@ fastchevy.com
 fastchrysler.com
 fastcoder.com.my
 fastcommercialmoney.com
+fastcut.top
 fastdating.lat
 fastddns.net
 fastddns.org
@@ -67835,6 +67836,7 @@ fickremis.gq
 fickremis.ml
 fickremis.tk
 ficloud.com
+ficsic.sbs
 fictional.group
 fictionalize112co.online
 fictionsite.com
@@ -102054,6 +102056,7 @@ kokocookies.com
 kokohawke.com
 kokokok.shop
 kokokoko.com
+kokomail.cc
 kokomail.site
 kokonaom.website
 kokorot.cf

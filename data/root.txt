@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-01T03:59:17.866Z
+# Aggregated blacklist generated on 2026-06-01T09:33:12.350Z
  
 0-30-24.com
 0-attorney.com
@@ -15107,6 +15107,7 @@ airhelp.dev
 airhimalayas.net
 airhorn.org
 airhue.com
+airhulk.org
 airideas.us
 airiws.live
 airiws.site
@@ -58707,6 +58708,7 @@ easyrecipetoday.com
 easyrecipezone.com
 easyrepair-toronto.com
 easyricecooker.com
+easyroadmail.com
 easys.site
 easysetting.org
 easyshortcut.com
@@ -79753,6 +79755,7 @@ gtfholdings.com
 gtgstoreid.com
 gthewissen.com
 gthgvt.site
+gthigh.us
 gthosing.net
 gthpprhtql.pl
 gthw.com
@@ -86892,6 +86895,7 @@ hqmu.net
 hqnlpqal.shop
 hqnmhr.com
 hqnnmq.icu
+hqpdf.com
 hqsecmail.com
 hqstone.xyz
 hqt.one
@@ -100923,6 +100927,7 @@ kindvisions.com
 kinelogy.com
 kinemasterapp.cc
 kinemasterforpcdownload.xyz
+kineshanko.com
 kinesioml.com
 kinesiovegai.ru
 kiness.cloudns.ph
@@ -132398,6 +132403,7 @@ old-street.info
 old-town.us
 oldacg.com
 oldamz.com
+oldao.com
 oldbt.com
 oldcelebrities.net
 oldchinashop.com
@@ -147654,6 +147660,7 @@ quattro.monster
 quattro.network
 quattrocchi.us
 quaykingfun.com
+qubayarin.com
 qubecorp.tk
 qubismdbhm.ga
 qubitoid.com
@@ -154642,6 +154649,7 @@ royalxcasino222.info
 royalxcasino999.info
 royandk.com
 royaumedesjeux.fr
+roybl.com
 roycointl.net
 royfeld.com
 royfield.com
@@ -167214,6 +167222,7 @@ sr0.me
 sr2che.com
 sr5qyp.us
 sraka.xyz
+srame.com
 srancypancy.net
 sraplacement.com
 srariityyy88.xyz
@@ -174758,6 +174767,7 @@ tessauto.info
 tessen.info
 tessingroup.com
 tesstified.com
+test-78929.dedyn.io
 test-acs.com
 test-google-a.com
 test-intl.biz
@@ -196950,6 +196960,7 @@ xboxtest.com
 xbpantibody.com
 xbpybglk.shop
 xbreg.com
+xbrok.com
 xbtc.top
 xbtcpro.com
 xbtpro.tech

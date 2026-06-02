@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-02T19:40:39.688Z
+# Aggregated blacklist generated on 2026-06-02T22:22:46.374Z
  
 0-30-24.com
 0-attorney.com
@@ -6417,6 +6417,7 @@
 5194445.com
 519art.com
 51azinoijefomcf.icu
+51baidu.tech
 51clublottery.info
 51cp66.com
 51de.com
@@ -22408,6 +22409,7 @@ atnextmail.com
 atnight.me
 atolyeepos.com
 atolyezen.com
+atombomb.online
 atomdev.eu
 atomeca.com
 atomic-nutrition.com
@@ -38900,6 +38902,7 @@ cc3770.com
 cc46.name.ng
 cc4av.info
 cc57822.com
+cc6.name.ng
 cc6b.biz.id
 cc6ph4.org
 cc6ph6.org
@@ -70133,6 +70136,7 @@ foothardnfes.ml
 foothillconference.com
 foothills.net
 foothillsurology.com
+foothilltoy.site
 foothilltractor.com
 footiethreads.com
 footmassage.club
@@ -72396,6 +72400,10 @@ funnyfrog.com.pl
 funnyinde.buzz
 funnylala.com
 funnylawyer.com
+funnylolcap.com
+funnylolcap.fr
+funnylolcap.org
+funnylolcap.store
 funnymail.de
 funnynona.com
 funnypetpictures.com
@@ -90834,6 +90842,7 @@ indescrifml.com
 indesolml.ru
 indeterminality.ru
 indevgo.com
+indevs.in
 index-mail.com
 index-raiffein-services-hu.xyz
 index-reputation.ru
@@ -94886,6 +94895,7 @@ jamtogelinfo.com
 jamtogelinfo.net
 jamtogelinfo.org
 jamusic.online
+jamyjmkqdsc.com
 jan-sramek.com
 jan64b.space
 janab.uno
@@ -99414,6 +99424,7 @@ katja-nink.com
 katlas.best
 katomcoupon.com
 katonoma.com
+katputli.world
 katra.ovh
 katru.shop
 kats-classes.com
@@ -109962,6 +109973,7 @@ loverfella.com
 loverlake.site
 loversalvagepains.site
 loversdaily.com
+lovertboy.online
 loves-ltd.com
 lovesea.gq
 loveshi.cloud
@@ -125248,6 +125260,7 @@ nando1.com
 nangnv.club
 nangspa.vn
 naniehurley.com
+naniniva.com
 nanividia.art
 nannegagne.online
 nanniesofengland.net
@@ -129461,6 +129474,7 @@ nosemail.com
 noseycrazysumrfs5.com
 nosh.ml
 noship.shop
+noshiper.pro
 noshrwjg.space
 nosignal.my.id
 nosinga.cf
@@ -137285,6 +137299,7 @@ partfamily.ru
 partfold.us
 partgam.com
 parthbarot.com
+parthekio.live
 parthxxtoasts.site
 partialmajorant.ru
 particitoyen.com
@@ -140116,6 +140131,10 @@ picture-movies.com
 pictureattic.com
 pictureframe.com
 pictureframe1.com
+picturehostel.com
+picturehostel.fr
+picturehostel.org
+picturehostel.store
 picturepuzzles.club
 picturetellers.com
 picvw.com
@@ -152209,6 +152228,7 @@ reunionaei.com
 reusable.email
 reusablejutetotes.com
 reusablenonwoventotes.com
+reusecomputers.site
 reuseme.info
 reusmail.com
 reuso.site
@@ -152485,6 +152505,7 @@ rgarch.info
 rgavk.ru
 rgazyy.xyz
 rgb9000.net
+rgbeastcomputers.site
 rgbtorsher.ru
 rgbwinkel.shop
 rgcc.pl
@@ -157928,6 +157949,7 @@ saturn.monster
 saturnco.shop
 saturniusz.info
 saturnrules.com
+saturrshop.uk
 satusatu.online
 satusena.com
 satutogel3.bar

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-01T23:27:13.695Z
+# Aggregated blacklist generated on 2026-06-02T03:54:49.587Z
  
 0-30-24.com
 0-attorney.com
@@ -49429,6 +49429,7 @@ dailynewmedia.com
 dailynewoffer.xyz
 dailynews247.info
 dailynewses.com
+dailynutria.com
 dailyoffersto.xyz
 dailyofferz.xyz
 dailyorange.shop
@@ -50957,6 +50958,7 @@ debforgione55places.com
 debian.org
 debierkelder.com
 debitummail.com
+debitur.cam
 debizuqiu.com
 deblkam.ca
 deboa.tk

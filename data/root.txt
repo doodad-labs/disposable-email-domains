@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-02T08:29:06.370Z
+# Aggregated blacklist generated on 2026-06-02T14:02:24.994Z
  
 0-30-24.com
 0-attorney.com
@@ -47990,6 +47990,7 @@ cuadrosperu.com
 cuahangvppn.shop
 cuaicloud.space
 cuaina.com
+cuaks.fun
 cuan.email
 cuanbeb.my.id
 cuanbersama.live
@@ -160028,6 +160029,7 @@ sentinel-mail.com
 sentinelst.com
 sentirerbb.com
 sentirviajero.com.ar
+sentra-premium.com
 sentraduta.com
 sentralreitmy.com
 sentrau.com

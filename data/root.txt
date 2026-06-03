@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-03T04:01:51.738Z
+# Aggregated blacklist generated on 2026-06-03T10:57:41.230Z
  
 0-30-24.com
 0-attorney.com
@@ -2439,6 +2439,7 @@
 1sworld.com
 1sydney.net
 1syn.info
+1t-mail.com
 1t-ml.com
 1ta.org
 1tasvegas.club
@@ -127659,6 +127660,7 @@ ngayngo.asia
 ngbhkdylga.ga
 ngc.team
 ngegaler.biz.id
+ngekrit.lat
 ngelead.eu.org
 ngem.net
 ngeme.me

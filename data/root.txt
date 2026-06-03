@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-02T22:22:46.374Z
+# Aggregated blacklist generated on 2026-06-03T04:01:51.738Z
  
 0-30-24.com
 0-attorney.com
@@ -37226,6 +37226,7 @@ canduqq.best
 candy-blog-adult.ru
 candy-captcha.com
 candy-private-blog.ru
+candy96.fun
 candybouquet.com
 candycrushhack.org
 candyjapane.ml
@@ -41134,6 +41135,7 @@ childeatingdisordertreatmentcenters.com
 childforum.com
 childfree.rocks
 childishnurlaeli.io
+childlifeamerica.tech
 childmoon.ru
 children-sandpit.store
 childrendream.info
@@ -59274,6 +59276,7 @@ edbnu.com
 edcar-sacz.pl
 edceco.us
 edcol.us
+edcolumb.us
 edcopublishing.com
 edcs.de
 edcstore.website
@@ -71684,6 +71687,7 @@ friendsofsophiasurf.com
 friendsofstpatricks.org
 friendss.rocks
 friendstotravel.info
+friendtownz.site
 friessen.pics
 frightnight.org
 frik.mx
@@ -111465,6 +111469,7 @@ madagaskar-nedv.ru
 madam37.ru
 madamecroquemonsieur.fr
 madameemploi.cd
+madamskiy.ru
 madangteros.email
 madangteros.live
 madaraskiey.pro
@@ -152416,6 +152421,7 @@ reximus.com
 rexmail.fun
 rexnet.ca
 rexonbackup.my.id
+rexornge.net
 rexoss.com
 rexp2.com
 rexsr.com
@@ -195391,6 +195397,7 @@ woolrichhoutlet.com
 woolrichoutlet-itley.com
 woolticharticparkaoutlet.com
 woolyburger.com
+woomux.edu.pl
 woonq.info
 wooolrichitaly.com
 woop-woop.net
@@ -197564,6 +197571,7 @@ xilor.com
 xilvor.click
 ximail.store
 ximant.pro
+ximbo.lat
 ximenor.site
 ximra.top
 ximtyl.com
@@ -205091,6 +205099,7 @@ zvsn.com
 zvsolar.com
 zvtv.xyz
 zvukovoe-oborudovanie11.ru
+zvukovoe-oborudovanie12.ru
 zvuktver.ru
 zvun.com
 zvvzuv.cfd

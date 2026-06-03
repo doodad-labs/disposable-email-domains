@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-03T16:47:29.353Z
+# Aggregated blacklist generated on 2026-06-03T20:55:08.524Z
  
 0-30-24.com
 0-attorney.com
@@ -25071,6 +25071,7 @@ bahisyap85.com
 bahisyap92.com
 bahisyap95.com
 bahisyap98.com
+bahlill.cfd
 bahook.org
 bahrithe.cf
 bahrithe.ga
@@ -34018,6 +34019,7 @@ brittsbelts.com
 britzandpieces.com
 brivian.link
 brixmail.info
+brixozu.com
 brizart.es
 brizzolari.com
 brjavocats.com

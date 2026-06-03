@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-03T10:57:41.230Z
+# Aggregated blacklist generated on 2026-06-03T16:47:29.353Z
  
 0-30-24.com
 0-attorney.com
@@ -21835,6 +21835,7 @@ aspecqatar.com
 aspenclean.net
 aspenleitersewandvac.com
 aspenshipping.com
+aspensif.com
 aspergeeks.com
 asperiosports.com
 asperorotutmail.com
@@ -31857,6 +31858,7 @@ bnbwarnet.com
 bnbx.email
 bncedeolendkc54042.cf
 bncedeolendkc54042.ga
+bncinema.com
 bnckms.cf
 bnckms.ga
 bnckms.gq
@@ -68918,6 +68920,7 @@ fixmydiesel.com
 fixmysprinklers.net
 fixnums.best
 fixpet.com
+fixscal.com
 fixthiserror.com
 fixthisrecipe.com
 fixturefmail.com
@@ -83655,6 +83658,7 @@ herlesi.tk
 herlitthis.press
 herly.my.id
 hermail.store
+hermanbengkulu.xyz
 hermanjewelers.com
 hermantozara.net
 hermes-uk.info
@@ -83692,6 +83696,7 @@ heroicepics.com
 heroindetoxcenterguide.com
 heroine-cruhser.cf
 heroinrehabcenterprograms.com
+herojp.com
 heroku-app.cf
 heroncreative.studio
 heroplay.online
@@ -99036,6 +99041,7 @@ kangpisang.store
 kangraevents.com
 kangsohang.com
 kangspgun.com
+kangzheng33.xyz
 kanhamods.ml
 kanhaoni.com
 kanhaoni.org
@@ -137211,6 +137217,7 @@ parkbiper.com
 parkbipper.com
 parkcc.me
 parkcityrealestateutah.com
+parkcitystock.com
 parkcrestlakewood.xyz
 parkeer.site
 parkerglobal.com
@@ -200894,6 +200901,7 @@ yellnbmv766.ga
 yellnbmv766.gq
 yellnbmv766.ml
 yellnbmv766.tk
+yellofdf2.click
 yellow.casino
 yellow.org.in
 yellowarc.online

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-04T20:05:29.993Z
+# Aggregated blacklist generated on 2026-06-04T23:08:25.746Z
  
 0-30-24.com
 0-attorney.com
@@ -18803,6 +18803,7 @@ anniversaryly.click
 anniversarysa.online
 annmariewilke.com
 annmccoy4hisd.com
+annnekkk.com
 anno-game.online
 anno90.nl
 annoallestero.info
@@ -23741,6 +23742,7 @@ axhb.com
 axialconsultants.com
 axie.ml
 axiemeta.fun
+axin05.icu
 axiomasmovie.com
 axiomatml.ru
 axiomboatworks.com
@@ -38904,6 +38906,7 @@ cc2ilplyg77e.ga
 cc2ilplyg77e.gq
 cc2ilplyg77e.ml
 cc2ilplyg77e.tk
+cc3.name.ng
 cc33.online
 cc3770.com
 cc46.name.ng
@@ -69824,6 +69827,7 @@ fmproworld.com
 fmptestuje.pl
 fmrecipes.com
 fmrecipes.org
+fmrgfesddty.com
 fmrjibbbnd.ga
 fmsd.com
 fmserv.ru
@@ -76327,6 +76331,7 @@ gkdcsi.ru
 gkedu.us
 gkha.us
 gkhal.us
+gkhalied.us
 gkhalihs.us
 gkhalis.us
 gkhedu.us
@@ -83004,6 +83009,7 @@ heartstargreetings.com
 heartter.tk
 hearttoheart.edu
 heartuae.com
+heartvistanow.com
 heartwi.com
 hearyousay.club
 heat-scape.co.uk
@@ -119523,6 +119529,7 @@ missypowell.net
 missysmedium.com
 mistakens.store
 mistakesey.com
+mistark.com
 mistatera.email
 mistatera.international
 mistaterra.com
@@ -123083,6 +123090,7 @@ musincreek.site
 musiqfile.xyz
 musiqstream.com
 musiquedigital.com
+muskarm.com
 muskelpapst.de
 muskelshirt.de
 muskgrow.com
@@ -152202,6 +152210,7 @@ retragmail.com
 retreatyourselfwell.net
 retretajoo.shop
 retrewqa.online
+retreze.com
 retrmailse.com
 retro8bit.net
 retroactfmail.ru
@@ -164887,6 +164896,7 @@ snobbob.com
 snobeconsent.com
 snocasino.com
 snocespalk.icu
+snocv.com
 snog.co.uk
 snollygoster.space
 snoodi.com
@@ -171022,6 +171032,7 @@ swestudies.se
 swf.de
 swfla.com
 swflrealestateinvestmentfirm.com
+swftbars.com
 swfwbqfqa.pl
 swiat-atrakcji.pl
 swiatdejwa.pl
@@ -178182,6 +178193,7 @@ tix.onl
 tixanovski.com
 tixdiscounter.com
 tixonicindia.icu
+tixpad.com
 tixx7.moe
 tiyanxing.com
 tiyu.asia
@@ -181113,6 +181125,7 @@ treoneng.com
 trepicas.cf
 trepicas.gq
 trepicas.tk
+trepolan.com
 treponemails.ru
 trepsels.live
 trepsels.online
@@ -195540,6 +195553,7 @@ workoutsupplements.com
 workplacei.com
 workplacemoodle.info
 workplacemoodle.org
+workpolo.com
 workright.ru
 workritertifulvi.tk
 worksart.solutions
@@ -197024,6 +197038,7 @@ xbpantibody.com
 xbpybglk.shop
 xbreg.com
 xbrok.com
+xbsees.com
 xbtc.top
 xbtcpro.com
 xbtpro.tech
@@ -197270,6 +197285,7 @@ xemrelim.ga
 xemrelim.gq
 xemrelim.ml
 xemrelim.tk
+xemtop.com
 xenacareholdings.com
 xenakenak.xyz
 xenaml.ru

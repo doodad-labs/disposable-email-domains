@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-03T23:42:58.758Z
+# Aggregated blacklist generated on 2026-06-04T03:56:09.494Z
  
 0-30-24.com
 0-attorney.com
@@ -7054,6 +7054,7 @@
 5muvf9cd4.xyz
 5my.ru
 5n9f1.xyz
+5nek.com
 5nqkxprvoctdc0.cf
 5nqkxprvoctdc0.ga
 5nqkxprvoctdc0.gq
@@ -55963,6 +55964,7 @@ dosabesar.com
 dosait.ru
 dosan12.com
 dosas54.shop
+dosbee.com
 doscobal.com
 dose.email
 dosending.com
@@ -66024,6 +66026,7 @@ fanaticomail.ru
 fanatxclub.com
 fanbasesports.co
 fanbasic.org
+fanchatu.com
 fancinematoday.com
 fanclub.pm
 fanclubgiusepperossiny.com
@@ -96169,6 +96172,7 @@ jianguo432.com
 jianguo543.com
 jianguo678.com
 jiangvps.xyz
+jiangwy.one
 jiankangzaji.com
 jians.me
 jianvan.com
@@ -118145,6 +118149,7 @@ mftr.one
 mfuil.us
 mfunza.com
 mfuuyhvlhs.ga
+mfxis.com
 mfyax.com
 mfzwhd.us
 mg-rover.cf
@@ -156327,6 +156332,7 @@ sablefriday.com
 sablery.com
 sabmbhmbnlnl.de
 sabmbhmbnlnl.one
+sabor.lat
 saboraliagirona.com
 saboresdosertao.store
 saborsabormadrid.com

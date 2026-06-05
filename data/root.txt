@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-05T19:53:52.395Z
+# Aggregated blacklist generated on 2026-06-05T21:25:23.285Z
  
 0-30-24.com
 0-attorney.com
@@ -69290,6 +69290,7 @@ flamingoconsultancy.in
 flamingogo.info
 flammablekarindra.io
 flamonis.tk
+flan.li
 flaqua.site
 flaresand.top
 flarmail.ga
@@ -108007,6 +108008,7 @@ linux.onthewifi.com
 linux0.net
 linuxbbs.com
 linuxguru.network
+linuxloves.ru
 linuxmade.ru
 linuxmail.com
 linuxmail.so
@@ -109101,6 +109103,7 @@ local411jobs.xyz
 local77777.com
 local777casino.com
 localbitcoin.tech
+localbizservices.org
 localblog.com
 localbreweryhouse.info
 localbuilder.xyz
@@ -195978,6 +195981,7 @@ wondowslive.com
 wondrouslamaison.com
 wondroustravel.online
 wondtuce.com
+woneninspanje.es
 wonfa.online
 wongndeso.gq
 wongplay.com

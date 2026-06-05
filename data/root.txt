@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-05T03:40:47.711Z
+# Aggregated blacklist generated on 2026-06-05T08:06:11.557Z
  
 0-30-24.com
 0-attorney.com
@@ -39157,6 +39157,7 @@ ceco3kvloj5s3.gq
 ceco3kvloj5s3.ml
 ceco3kvloj5s3.tk
 cecol.us
+cecolm.us
 cecols.us
 cecolsch.us
 cecolu.us
@@ -59275,6 +59276,7 @@ edalist.ru
 edaned.cf
 edaned.ga
 edaned.tk
+edankeunwe.site
 edanz.eu.org
 edaom.com
 edapovara.ru
@@ -59478,6 +59480,7 @@ edu-mail.edu.pl
 edu-paper.com
 edu-track.net
 edu.auction
+edu.biz.vn
 edu.com
 edu.deal
 edu.gov
@@ -66117,6 +66120,7 @@ fansworldwide.de
 fanta24.com
 fantalk.ru
 fantask.online
+fantasma.cc
 fantasque.best
 fantasticnews.net
 fantasticsupport.net
@@ -88148,6 +88152,7 @@ hypnotiselemons.site
 hypnotizes894yn.online
 hypo-kalkulacka.online
 hypoadvisor.com
+hypoalbuio.com
 hypoalimeemail.ru
 hypocaoli.ru
 hypochmalis.com
@@ -110935,6 +110940,7 @@ lvivkiralikdaire.com
 lvivmail.com
 lvivonline.com
 lvjp.com
+lvl49.net
 lvmao1.xyz
 lvmy.xyz
 lvnm.com
@@ -129922,6 +129928,7 @@ nqwfw.info
 nr89.xyz
 nrbml.my.id
 nrbml.store
+nrbs.me
 nrcbs.com
 nrehi.com
 nresponsea.com
@@ -181697,6 +181704,7 @@ trunma.space
 trunorth.coop
 truonggiangpro.space
 truonglanga.io.vn
+truongthptsaigon.edu.vn
 truongtieuhochoangnam.shop
 trupeer.ai
 trupho.us

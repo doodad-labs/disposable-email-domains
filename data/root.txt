@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-05T16:29:32.428Z
+# Aggregated blacklist generated on 2026-06-05T19:53:52.395Z
  
 0-30-24.com
 0-attorney.com
@@ -55150,6 +55150,7 @@ dns-hosting1.com
 dns-privacy.com
 dns-report.com
 dns-stuff.com
+dns.army
 dns04.com
 dns123.org
 dns398.xyz
@@ -86366,6 +86367,7 @@ hostnow.bid
 hostnow.men
 hostnow.website
 hostovz.com
+hostpapa.dynv6.net
 hostpapa.photo
 hostpapa.pics
 hostpapa.reviews
@@ -187432,7 +187434,9 @@ v5mec.us
 v5nw7os6x.xyz
 v5qnoc.online
 v5r6e.us
+v6.army
 v6.navy
+v6.rocks
 v62qa2.xyz
 v6hosting.com
 v6iexwlhb6n2hf.ga

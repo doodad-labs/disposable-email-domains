@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-04T23:08:25.746Z
+# Aggregated blacklist generated on 2026-06-05T03:40:47.711Z
  
 0-30-24.com
 0-attorney.com
@@ -2243,6 +2243,7 @@
 1mail.site
 1mailcache.com
 1maill.com
+1maillt.store
 1manbet.info
 1mango.me
 1marsbet.com
@@ -9889,6 +9890,7 @@
 88kaskings.net
 88macaupools.com
 88mon.space
+88nnmedia.com
 88online4.info
 88online66.com
 88onlinecasino.info
@@ -32458,6 +32460,7 @@ bongda7m.org
 bongda88link.com
 bongdafun.info
 bongdalu601.net
+bongdalu6789.info
 bongdalu818.net
 bongdanetco.net
 bongdung.com
@@ -49355,6 +49358,7 @@ daicliclong.cf
 daicliclong.ga
 daicliclong.ml
 daicliclong.tk
+daicyz.dev
 daiettodorinku.com
 daifopour.cf
 daifopour.ga
@@ -65465,6 +65469,7 @@ f81tl.site
 f843de1a.xyz
 f888casino.net
 f88bongda.org
+f88game.info
 f88i.click
 f88store.com
 f8bet.zapto.org
@@ -96260,6 +96265,7 @@ jili88ph.org
 jiliaaacom.info
 jiliaaaslot.info
 jiliacefreebonus.com
+jiliacelogin.org
 jilibet-online.ph
 jilibet020.net
 jilibet777ph.org
@@ -112839,6 +112845,7 @@ mailleworld.com
 maillgols.space
 maillii.shop
 maillii.store
+maillii.website
 mailline.net
 mailling.ru
 maillink.in
@@ -132195,6 +132202,7 @@ okbeatsdrdre1.com
 okbet15.net
 okbet888.info
 okbetcasino.net
+okbetcc.com
 okbetphp.org
 okbetpromocode.com
 okbiloxi.com
@@ -139462,6 +139470,7 @@ ph11comapp.com
 ph123casino.info
 ph23casino.info
 ph333slotloginapp.com
+ph33m.org
 ph357login.com
 ph365casino.info
 ph367login.com
@@ -139593,6 +139602,7 @@ phdaily.com
 phdify.info
 phdlfy.com
 phdream44login.net
+phdream8.org
 phdream88.net
 phdreamjili.ph
 phdriw.com
@@ -141614,6 +141624,7 @@ plus-size-promdresses.com
 plus553.com
 plus777download.com
 plus777link.net
+plus777link.org
 plus777register.com
 plus777vip.ph
 plusance.com
@@ -197650,6 +197661,7 @@ xinlicn.com
 xinmail.info
 xinmeng8.xyz
 xinmingmachinery.com
+xinmo.lat
 xinn.edu.pl
 xinnian.sbs
 xinnmail.gay

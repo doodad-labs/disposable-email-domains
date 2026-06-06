@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-06T17:13:35.789Z
+# Aggregated blacklist generated on 2026-06-06T19:21:58.711Z
  
 0-30-24.com
 0-attorney.com
@@ -19,6 +19,7 @@
 00.ie
 00.msk.ru
 00.pe
+000.pe
 00000000000.pro
 000000000000000.theworkpc.com
 000000000000000000.dynv6.net
@@ -26605,6 +26606,7 @@ bbrd.com
 bbreghodogx83cuh.ml
 bbrightclubd.site
 bbrightflowe.site
+bbroot.com
 bbrowsechato.site
 bbruastripe.com
 bbryk.live
@@ -33255,6 +33257,7 @@ bostonquote.com
 bostontshirtclub.com
 bostonwebmedia.com
 bosummer.com
+bot.cd
 bot.nu
 botaksport.biz
 botaksport.net
@@ -44733,6 +44736,7 @@ colloosion.com
 colloware.com
 colmail.store
 colmanrasic.com
+colmbs.us
 colmek.xyz
 colmeks.com
 colms.us
@@ -48391,6 +48395,7 @@ culnetfcyc.ga
 culnetfcyc.ml
 culnetfcyc.tk
 culoareacurcubeului.club
+culomail.com
 culondir.com
 culsanab.cf
 culsanab.ml
@@ -75874,6 +75879,7 @@ ghainod.ru
 ghakh.us
 ghako.us
 ghaks.us
+ghaledu.us
 ghallcontent.com
 ghamil.com
 ghan.com
@@ -91589,6 +91595,7 @@ infinityclippingpath.com
 infinitycoaching.com
 infinityevolved.online
 infinityevolved.xyz
+infinityfreeapp.com
 infinityvapelab.com
 infinitywarfull.org
 infis.net.ru
@@ -98645,6 +98652,7 @@ justicewoodworks.com
 justiciabfml.com
 justiciablehomicide.ru
 justicmalu.ru
+justikl.ru
 justin.reviews
 justinachang.com
 justinandlaura.com
@@ -147438,6 +147446,7 @@ qcuwqyxky.ga
 qcvsziiymzp.edu.pl
 qcxmail.com
 qczjaj.gq
+qd.je
 qd139x.us
 qd9ews.info
 qdbhu.com
@@ -187010,6 +187019,7 @@ usefultipsforme.com
 usefultools.pro
 useglmrlds.site
 useglz.com
+usegpt.click
 usehealth.club
 usehelps.click
 usehike.click

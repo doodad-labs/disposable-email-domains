@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-07T07:54:32.038Z
+# Aggregated blacklist generated on 2026-06-07T10:29:21.289Z
  
 0-30-24.com
 0-attorney.com
@@ -191358,6 +191358,7 @@ votenonov6.com
 votenoonnov6.com
 votesoregon2006.info
 voteulp.net
+vothanhtuan.shop
 vothiquynhyen.info
 votingportland07.info
 votiputox.org

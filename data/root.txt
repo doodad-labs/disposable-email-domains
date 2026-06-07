@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-06T23:03:05.894Z
+# Aggregated blacklist generated on 2026-06-07T03:51:57.668Z
  
 0-30-24.com
 0-attorney.com
@@ -14055,6 +14055,7 @@ afff.com
 affgame.com
 affgrinder.com
 affhat.com
+afficheservice.com
 affilialogy.com
 affiliate-marketing2012.com
 affiliate-nebenjob.info
@@ -53051,6 +53052,7 @@ dgatrucking.com
 dgb-toon4.com
 dgbhhdbocz.pl
 dgbikejxw.shop
+dgbservices.shop
 dgbyg31.com
 dgclublottery.com
 dgcustomerfirst.site
@@ -53728,6 +53730,7 @@ digitalnomad.exchange
 digitalobscure.info
 digitaloceaninfo.com
 digitaloutrage.com
+digitalpackshop.com
 digitalparcels.xyz
 digitalpdfmanuales.xyz
 digitalpeaks.net
@@ -61097,6 +61100,7 @@ elliott55.store
 ellipticalmedia.com
 ellis148.store
 ellisluke.online
+ellisoniic.com
 ellisontraffic.com
 ellistierney.com
 ellmh.us
@@ -101028,6 +101032,7 @@ khong1die.io.vn
 khong2die.io.vn
 khong3die.io.vn
 khong4die.io.vn
+khong5die.io.vn
 khong6die.io.vn
 khong7die.io.vn
 khong9die.io.vn
@@ -143805,6 +143810,7 @@ powerloungecasino.com
 powermass.site
 powerml.racing
 poweronrepair.com
+powerpackercn.com
 powerpages.website
 powerpls.xyz
 powerportalproducts.com
@@ -150522,6 +150528,7 @@ rdahb3lrpjquq.gq
 rdahb3lrpjquq.ml
 rdahb3lrpjquq.tk
 rdahouston.com
+rddservice.com
 rdee.com
 rdf1337.xyz
 rdforwarder.com
@@ -184395,6 +184402,7 @@ ub858.com
 ubabyname.com
 ubalasimo.com
 ubamail.com
+ubarif.biz.id
 ubars.ru
 ubatubaunderwater.store
 ubavxxbd.shop

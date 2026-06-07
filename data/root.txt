@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-07T19:21:44.776Z
+# Aggregated blacklist generated on 2026-06-07T21:11:59.926Z
  
 0-30-24.com
 0-attorney.com
@@ -45643,6 +45643,7 @@ conquergods.net
 conquest.shop
 conquest.store
 conquestchain.icu
+conquistaomail.ru
 conradrecruiting.com
 conradtubbs.com
 conrafo.cf
@@ -123531,6 +123532,7 @@ murakamibooks.com
 muraklimepa.cfd
 muralbythesea.co.uk
 muralgraff.com
+muralin-aja.com
 muran.best
 murapedia.xyz
 muratcaliskan.online
@@ -153125,6 +153127,7 @@ rexmail.fun
 rexnet.ca
 rexonbackup.my.id
 rexornge.net
+rexornge.site
 rexoss.com
 rexp2.com
 rexsr.com
@@ -163113,6 +163116,7 @@ sicherung-9827349-datencenter-check.ru
 sichtdtelar.ga
 sichtdtelar.gq
 sichtdtelar.tk
+sicker.live
 sickguns.us
 sickseo.co.uk
 sicmag.com

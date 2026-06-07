@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-07T17:15:33.516Z
+# Aggregated blacklist generated on 2026-06-07T19:21:44.776Z
  
 0-30-24.com
 0-attorney.com
@@ -73746,6 +73746,7 @@ gameps5.ml
 gameqo.com
 gamequocte.com
 gamer-market.net
+gamer.gd
 gamer.watch
 gameram.servemp3.com
 gamercave.com
@@ -87531,6 +87532,7 @@ htmails.xyz
 htmajv.info
 htmeil.com
 htmel.com
+html-5.me
 html2images.com
 html5recipes.com
 html5repair.com
@@ -91444,6 +91446,7 @@ inducasco.com
 indulgewindow.buzz
 indumail.ru
 indumento.club
+indus.edu.pk
 indus.tech
 indusind.cm
 indusmails.ru
@@ -107496,6 +107499,7 @@ lifewaypregnancy.net
 lifewirekeys.com
 lifewithlynnette.com
 lifewithouttanlines.com
+lifewow.ru
 lifeyogaelements.net
 lifezg.com
 liffebody.host
@@ -148110,6 +148114,7 @@ qqspot.net
 qqsssj.com
 qqturkiye.com
 qqu.be
+qqveo.gratis
 qqveo.info
 qqveo.online
 qqwtrnsqdhb.edu.pl
@@ -199887,6 +199892,7 @@ xnxxv.top
 xnxxz.site
 xnycy.best
 xnzmlyhwgi.pl
+xo.je
 xo.uk
 xo0.buzz
 xo0yvn.com
@@ -205350,6 +205356,7 @@ zmah.store
 zmail.cam
 zmail.co
 zmail.com
+zmail.edu.pl
 zmail.space
 zmail24.com
 zmailforbusiness.com

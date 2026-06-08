@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-08T21:49:32.859Z
+# Aggregated blacklist generated on 2026-06-08T23:11:51.529Z
  
 0-30-24.com
 0-attorney.com
@@ -39391,6 +39391,7 @@ cecolumb.us
 cecolumbus.us
 cecolumbusschool.us
 cecolus.us
+cecoluso.us
 cecos.us
 cecrlem.top
 cecsc.us
@@ -158676,6 +158677,7 @@ satty-zhyldyz-kz.site
 satubandar.club
 satubandar.com
 satubandar.us
+satukataku.site
 satukosong.com
 satum.my.id
 satum.online
@@ -177918,6 +177920,7 @@ thoitrangnucatinh.xyz
 thoitrangquyco.vn
 thoitrangthudong.vn
 thoitrangtructuyen.website
+thokcasino.net
 tholo.energy
 thomas-henon.fr
 thomasasaro.com

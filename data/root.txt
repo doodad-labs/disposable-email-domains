@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-08T03:56:55.905Z
+# Aggregated blacklist generated on 2026-06-08T08:57:21.703Z
  
 0-30-24.com
 0-attorney.com
@@ -42250,6 +42250,7 @@ cigs.com
 cigs4.me
 cihancaglarcankaya.online
 cihancaglarcankaya.xyz
+cihuy.net
 ciimcom.com
 cikamalls.site
 cikantor.fun
@@ -58308,6 +58309,7 @@ dycredit.club
 dyeingmail.online
 dyemail.store
 dyer-wigmore.com
+dyera.studio
 dyerstreetbar.com
 dyerville.com
 dyfealu.cf
@@ -202006,6 +202008,7 @@ yfyf777.com
 yfyf999.com
 yfyljg.com
 yg02sl.us
+ygbelira.me
 ygdyukttmz.ga
 ygfghhs.xyz
 ygfwhcpaqf.pl

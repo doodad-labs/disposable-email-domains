@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-08T08:57:21.703Z
+# Aggregated blacklist generated on 2026-06-08T14:06:20.243Z
  
 0-30-24.com
 0-attorney.com
@@ -69462,6 +69462,7 @@ flatdisruptfind.website
 flatfile.ws
 flatfilecms.com
 flatidfa.org.ua
+flatimostore.biz.id
 flatmail.online
 flatoledtvs.com
 flatothout.cf
@@ -87967,6 +87968,7 @@ hungtaoteile.com
 hungthaiway.com
 hungthamdpro.com
 hungtivi.com
+hungtpt.site
 hungtyma.com
 hungwandublin.com
 hungyuans.com
@@ -193510,6 +193512,7 @@ web-host-info.eu.org
 web-ideal.fr
 web-inc.net
 web-kamere-za-odrasle-online.fun
+web-library.net
 web-mail.de
 web-mail.pp.ua
 web-mail1.com
@@ -195194,6 +195197,7 @@ wilburnbuckingbulls.com
 wilcoacademy.com
 wilcoxcaleb.online
 wild.wiki
+wildan.tech
 wildberryyogurt.net
 wildblue.net
 wildbluepublishing.com

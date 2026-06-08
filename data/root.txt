@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-07T23:04:19.275Z
+# Aggregated blacklist generated on 2026-06-08T03:56:55.905Z
  
 0-30-24.com
 0-attorney.com
@@ -152088,6 +152088,7 @@ relvok.site
 relxdzy.com
 relxv.com
 relyst.store
+remahankerupuk.com
 remai.freeddns.org
 remail.cf
 remail.ga
@@ -185829,6 +185830,7 @@ uni9.com.br
 uniaotrafego.com
 unibahis3.com
 unibetplay.asia
+unibiz.edu.pl
 unibloom.host
 unibooks.site
 unicatis.net

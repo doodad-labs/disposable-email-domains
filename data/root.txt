@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-09T11:14:10.887Z
+# Aggregated blacklist generated on 2026-06-09T14:49:31.681Z
  
 0-30-24.com
 0-attorney.com
@@ -20006,6 +20006,7 @@ appalachiantrailconservancy.org
 apparls.com
 appboolean.com
 appbotbsxddf.com
+appbott.com
 appc.se
 appcloudmurah.email
 appcloudmurah.works
@@ -179325,6 +179326,7 @@ tiemnang.site
 tiemoshop.de
 tiempomail.com
 tienao.org
+tiendadezapasok.com
 tiendamaravilla.com
 tiendamia.africa
 tiendamia.shop

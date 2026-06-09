@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-09T18:04:44.173Z
+# Aggregated blacklist generated on 2026-06-09T21:46:58.608Z
  
 0-30-24.com
 0-attorney.com
@@ -39794,6 +39794,7 @@ ceftvhxs7nln9.ml
 ceftvhxs7nln9.tk
 cegil.site
 cegisau.space
+cegll.site
 cegorach.com
 cehage.ga
 cehage.gq
@@ -49992,6 +49993,7 @@ daftarkoinqq.website
 daftarpokerhokibet88.net
 daftarpokerhokibet88.org
 daftcodes.com
+daftmail.cloud
 dafuq.top
 dag76.site
 dag8gi7ryh893b4.xyz
@@ -53165,6 +53167,7 @@ devilsasians.com
 devilsdivision.de
 devilsgrannies.com
 devilsredheads.com
+devin.lat
 devinaaureel.art
 devinelittleleague.org
 devinfraser.ca
@@ -77581,6 +77584,7 @@ glucconsmi.ga
 glucconsmi.gq
 glucconsmi.ml
 glucconsmi.tk
+gluco.lat
 glucogefml.com
 glucogen.store
 gluconcs.ru
@@ -88637,6 +88641,7 @@ hurify1.com
 hurl.pro
 hurleys.com
 hurom.life
+huron.lat
 hurooutlets.site
 hurr.ru
 hurramm.us
@@ -113226,7 +113231,12 @@ mail11.gq
 mail11.ml
 mail11.xyz
 mail114.net
+mail123.beer
+mail123.click
+mail123.cloud
 mail123.club
+mail123.com.br
+mail123.fr
 mail12h.com
 mail132.com
 mail14.pl
@@ -113239,6 +113249,7 @@ mail1999.ml
 mail1999.tk
 mail1a.de
 mail1h.info
+mail1mail.com
 mail1s.net
 mail1sec.com
 mail1sec.net
@@ -113311,6 +113322,7 @@ mail4.store
 mail4.uk
 mail42.com
 mail42.shop
+mail456.fr
 mail48.top
 mail4biz.pl
 mail4biz.sejny.pl
@@ -113371,6 +113383,7 @@ mail72.com
 mail77.top
 mail777.cf
 mail789.dedyn.io
+mail789.fr
 mail798.site
 mail7d.com
 mail8.co.pl
@@ -113616,6 +113629,7 @@ mailcx.gq
 mailcx.ml
 mailcx.tk
 maild.pl
+maildaft.com
 maildanmark.dk
 maildax.me
 mailde.de
@@ -114544,6 +114558,7 @@ mailtechs.space
 mailtechx.com
 mailtelig.site
 mailtemp.dev
+mailtemp.fr
 mailtemp.info
 mailtemp.io
 mailtemp.my.id
@@ -114572,6 +114587,7 @@ mailthink.net
 mailthunder.ml
 mailtic.com
 mailtime.com
+mailtion.xyz
 mailtlx.online
 mailtmail.site
 mailtmail.website
@@ -118448,6 +118464,7 @@ melroseivy.com
 melroseparkapartments.com
 melssa.com
 melsyrup.com
+meltcoo.com
 meltedbrownies.com
 meltmail.com
 meltp.com
@@ -175129,6 +175146,7 @@ teampromotedge.com
 teamrejo.my.id
 teamrnd.win
 teamrubicon.ong
+teams.lat
 teamsapp.click
 teamshareevents.com
 teamshq.click
@@ -176215,6 +176233,7 @@ temporarify.com
 temporarily.de
 temporarioemail.com.br
 temporarly.com
+temporarmail.edu.pl
 temporary-email-address.com
 temporary-email.com
 temporary-email.world

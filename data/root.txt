@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-09T03:26:24.831Z
+# Aggregated blacklist generated on 2026-06-09T07:48:16.437Z
  
 0-30-24.com
 0-attorney.com
@@ -18832,6 +18832,7 @@ animevostorg.com
 animewiki.cc
 animeworld1.cf
 animex98.com
+animoby.com
 aninameu2endijks.xyz
 anindaskor.mobi
 anindaskor.website

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-09T07:48:16.437Z
+# Aggregated blacklist generated on 2026-06-09T11:14:10.887Z
  
 0-30-24.com
 0-attorney.com
@@ -1443,6 +1443,7 @@
 13195.monster
 131qs.com
 132236.xyz
+13282298.xyz
 1331.ga
 1333337.xyz
 1337.care
@@ -14989,6 +14990,7 @@ aiaudits.net
 aiaustralia.xyz
 aiautoposting.online
 aiba777.com
+aibase.bond
 aibm.email
 aibmedu.net
 aibotflows.com
@@ -15049,6 +15051,7 @@ aifmhymvug7n4.ga
 aifmhymvug7n4.gq
 aifmhymvug7n4.ml
 aifmhymvug7n4.tk
+aifmusic.top
 aifootballpredictions.tips
 aifree.xyz
 aifreetoolz.com
@@ -43314,6 +43317,7 @@ cleanauthz.com
 cleanbeyondco.com
 cleandata-innov.com
 cleaneatingmoms.com
+cleaninbox.dynv6.net
 cleaning-co.ru
 cleaning-top24.store
 cleaningbusinessmentor.com
@@ -65310,6 +65314,7 @@ exaltatio.com
 exaltedgames.com
 exaltic.com
 examanedemanejocr.com
+examcentral.co.uk
 examcheap.com
 examentechnique-site.com
 exammission.website
@@ -72432,6 +72437,7 @@ freudian.com
 freunde.ru
 freundin.ru
 frev.info
+frev.me
 frew.ml
 freyabike.com
 freyaglam.shop
@@ -75702,6 +75708,7 @@ getactiveyogatour.com
 getadeals.biz
 getadsnow.org
 getahairstyle.com
+getai-hub.com
 getairmail.cf
 getairmail.com
 getairmail.ga
@@ -79445,6 +79452,105 @@ gpsprosahop.xyz
 gpssport.com
 gpstrackerandroid.com
 gpstrackingreviews.net
+gpt-mail-free-1200.dynv6.net
+gpt-mail-free-140.dynv6.net
+gpt-mail-free-1427.dynv6.net
+gpt-mail-free-1550.dynv6.net
+gpt-mail-free-161.dynv6.net
+gpt-mail-free-1694.dynv6.net
+gpt-mail-free-1721.dynv6.net
+gpt-mail-free-1980.dynv6.net
+gpt-mail-free-1998.dynv6.net
+gpt-mail-free-2019.dynv6.net
+gpt-mail-free-2049.dynv6.net
+gpt-mail-free-2109.dynv6.net
+gpt-mail-free-2141.dynv6.net
+gpt-mail-free-2307.dynv6.net
+gpt-mail-free-2310.dynv6.net
+gpt-mail-free-2375.dynv6.net
+gpt-mail-free-248.dynv6.net
+gpt-mail-free-2491.dynv6.net
+gpt-mail-free-3.dynv6.net
+gpt-mail-free-3074.dynv6.net
+gpt-mail-free-3093.dynv6.net
+gpt-mail-free-3127.dynv6.net
+gpt-mail-free-3291.dynv6.net
+gpt-mail-free-3330.dynv6.net
+gpt-mail-free-3348.dynv6.net
+gpt-mail-free-3476.dynv6.net
+gpt-mail-free-3527.dynv6.net
+gpt-mail-free-366.dynv6.net
+gpt-mail-free-3792.dynv6.net
+gpt-mail-free-3927.dynv6.net
+gpt-mail-free-4111.dynv6.net
+gpt-mail-free-4547.dynv6.net
+gpt-mail-free-4771.dynv6.net
+gpt-mail-free-4775.dynv6.net
+gpt-mail-free-4788.dynv6.net
+gpt-mail-free-4821.dynv6.net
+gpt-mail-free-4900.dynv6.net
+gpt-mail-free-5018.dynv6.net
+gpt-mail-free-5182.dynv6.net
+gpt-mail-free-5211.dynv6.net
+gpt-mail-free-5226.dynv6.net
+gpt-mail-free-5241.dynv6.net
+gpt-mail-free-5261.dynv6.net
+gpt-mail-free-5386.dynv6.net
+gpt-mail-free-5406.dynv6.net
+gpt-mail-free-551.dynv6.net
+gpt-mail-free-5539.dynv6.net
+gpt-mail-free-561.dynv6.net
+gpt-mail-free-574.dynv6.net
+gpt-mail-free-5902.dynv6.net
+gpt-mail-free-6067.dynv6.net
+gpt-mail-free-610.dynv6.net
+gpt-mail-free-6221.dynv6.net
+gpt-mail-free-6289.dynv6.net
+gpt-mail-free-6320.dynv6.net
+gpt-mail-free-6342.dynv6.net
+gpt-mail-free-6397.dynv6.net
+gpt-mail-free-6419.dynv6.net
+gpt-mail-free-6603.dynv6.net
+gpt-mail-free-6664.dynv6.net
+gpt-mail-free-6779.dynv6.net
+gpt-mail-free-6812.dynv6.net
+gpt-mail-free-6925.dynv6.net
+gpt-mail-free-6962.dynv6.net
+gpt-mail-free-7208.dynv6.net
+gpt-mail-free-7298.dynv6.net
+gpt-mail-free-7493.dynv6.net
+gpt-mail-free-7548.dynv6.net
+gpt-mail-free-7572.dynv6.net
+gpt-mail-free-7582.dynv6.net
+gpt-mail-free-7689.dynv6.net
+gpt-mail-free-7939.dynv6.net
+gpt-mail-free-8015.dynv6.net
+gpt-mail-free-8049.dynv6.net
+gpt-mail-free-8591.dynv6.net
+gpt-mail-free-86.dynv6.net
+gpt-mail-free-861.dynv6.net
+gpt-mail-free-8611.dynv6.net
+gpt-mail-free-8671.dynv6.net
+gpt-mail-free-8773.dynv6.net
+gpt-mail-free-8786.dynv6.net
+gpt-mail-free-8791.dynv6.net
+gpt-mail-free-882.dynv6.net
+gpt-mail-free-8886.dynv6.net
+gpt-mail-free-8933.dynv6.net
+gpt-mail-free-8944.dynv6.net
+gpt-mail-free-902.dynv6.net
+gpt-mail-free-9243.dynv6.net
+gpt-mail-free-9307.dynv6.net
+gpt-mail-free-9446.dynv6.net
+gpt-mail-free-9502.dynv6.net
+gpt-mail-free-9515.dynv6.net
+gpt-mail-free-9584.dynv6.net
+gpt-mail-free-9609.dynv6.net
+gpt-mail-free-9620.dynv6.net
+gpt-mail-free-9695.dynv6.net
+gpt-mail-free-9825.dynv6.net
+gpt-mail-free-9935.dynv6.net
+gpt-mail.myftp.org
 gptcode.biz.id
 gptcodeshop.com
 gptdeactmulu.my.id
@@ -79512,6 +79618,7 @@ gr966r.org
 gra.dk
 gra.es
 graal.codes
+grabafilafoundation.org
 grabalpileanoffer.shop
 grabbershop.ru
 grabbyone.com
@@ -94032,6 +94139,7 @@ irdneh.gq
 irdneh.ml
 irdneh.tk
 ire-tex.com
+irealiy.cyou
 irebah.com
 irecired.shop
 irecruituae.com
@@ -109382,6 +109490,7 @@ lixianlinzhang.cn
 lixin1688.net
 lixir.fr
 lixtoday.it.com
+liyao.edu.kg
 liyaxiu.com
 liybt.live
 lizadjp.news
@@ -110170,6 +110279,7 @@ lokata-w-banku.com.pl
 lokatowekorzysci.eu
 lokcl.us
 lokd.com
+lokenathassociation.co.uk
 loker4d.pro
 lokerpati.site
 lokersolo.net
@@ -135422,6 +135532,7 @@ oppihane.com
 oppobitty-myphen375.com
 oppoesrt.online
 oppomoby.com
+opportunity-africa.com
 opportunityarabic.xyz
 opposir.com
 oppositehq.click
@@ -142032,6 +142143,7 @@ pipiska6879.ga
 pipiska6879.gq
 pipiska6879.ml
 pipiska6879.tk
+pipmmotube.store
 pipocapix.store
 pippalehar.com
 pippalily.com
@@ -166452,6 +166564,7 @@ snehadas.tech
 snellerherstel.nu
 snellingpersonnel.com
 snelschilder.com
+sneydgreen-communityhall.co.uk
 sngcentric.com
 sngcom.ru
 sngob44.shop
@@ -169474,6 +169587,7 @@ star-bet.cash
 star-context.site
 star-court-chinese-shannon.com
 star-diner.de
+star-fish.org.uk
 star-goroscop.org
 star-trek.online
 star0casino.club
@@ -175428,6 +175542,7 @@ tehdini.cf
 tehdini.ga
 tehdini.gq
 tehdini.ml
+tehillahpraise.uk
 tehkotak.my.id
 tehnodans.ru
 tehoopcut.info
@@ -199075,6 +199190,7 @@ xdev.bio
 xdeyegrymfw0w0e.xyz
 xdezoi.xyz
 xdfav.com
+xdfrms.fun
 xdgmail.com
 xdhhc.com
 xdigit.top
@@ -204227,6 +204343,7 @@ yscape.net
 yscv.com
 ysdev.net
 ysfuddr.top
+ysgdjd.fun
 ysgjzhjeos6f.best
 ysgldvux.shop
 yshdnhh.click
@@ -205935,6 +206052,7 @@ zhimails.vip
 zhimails.work
 zhinex.online
 zhitnadovkaifotivse.xyz
+zhizhiwei.fun
 zhkmywb.site
 zhkzux.shop
 zhm.us

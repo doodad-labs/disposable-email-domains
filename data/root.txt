@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-10T12:56:44.153Z
+# Aggregated blacklist generated on 2026-06-10T16:58:02.958Z
  
 0-30-24.com
 0-attorney.com
@@ -69999,6 +69999,7 @@ fleuristeshwmckenna.com
 fleurreines.com
 fleurs-fabrique.space
 flevelsg.com
+flews.app
 flex-c-ment.com
 flex-n-roll.ru
 flexa.town

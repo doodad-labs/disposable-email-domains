@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-09T23:17:04.046Z
+# Aggregated blacklist generated on 2026-06-10T03:38:28.376Z
  
 0-30-24.com
 0-attorney.com
@@ -11983,6 +11983,7 @@ abegegr0hl.tk
 abejn.site
 abeloori.com
 abem.info
+abematv.com
 abenaroyalmedia.com
 abendkleidergunstig.net
 abendschoen.com
@@ -25910,6 +25911,7 @@ bangilan.ga
 bangilan.ml
 bangjo.eu.org
 bangjudi.com
+bangkabelitung.net
 bangke1.my.id
 bangkeju.fun
 bangkok-mega.com
@@ -68351,6 +68353,7 @@ fexbox.ru
 fexp.io
 fexpost.com
 fextemp.com
+feyax.lat
 feyerabend.me
 feyerhermt.ws
 feylstqboi.ga
@@ -96271,6 +96274,7 @@ javsin.best
 javworld.space
 javzog.com
 jawaramantul.info
+jawatengah.net
 jawmail.store
 jawtec.com
 jaxmm.com
@@ -99986,6 +99990,8 @@ kalihouse.com
 kaliltech.com
 kalimacal.cfd
 kalimail.me
+kalimantanselatan.net
+kalimantantengah.net
 kalinagallery.com
 kalindesiraye.com
 kaling.fun
@@ -104054,6 +104060,7 @@ krollresponder.ph
 krollresponders.org
 krolowa-na-wybiegu.pw
 krolowa-parkietu.pw
+kroma.lat
 kromechains.com
 kromeem.com
 kromer-consulting.com
@@ -118321,6 +118328,7 @@ meisterwerk-leben.com
 meitianlu04.xyz
 meitianlu06.xyz
 meitianlu07.xyz
+meitu.lat
 meitu.us
 meituxiezhen.xyz
 meja855.live

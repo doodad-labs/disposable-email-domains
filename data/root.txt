@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-10T08:07:09.162Z
+# Aggregated blacklist generated on 2026-06-10T12:56:44.153Z
  
 0-30-24.com
 0-attorney.com
@@ -79509,6 +79509,7 @@ gpt-mail-free-5406.dynv6.net
 gpt-mail-free-551.dynv6.net
 gpt-mail-free-5539.dynv6.net
 gpt-mail-free-561.dynv6.net
+gpt-mail-free-5659.dynv6.net
 gpt-mail-free-574.dynv6.net
 gpt-mail-free-5902.dynv6.net
 gpt-mail-free-6067.dynv6.net

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-10T20:29:05.298Z
+# Aggregated blacklist generated on 2026-06-10T23:24:54.954Z
  
 0-30-24.com
 0-attorney.com
@@ -9635,6 +9635,7 @@
 84yahoo.com
 8500511.com
 8505.fun
+850bet1.net
 850gmail.com
 852gmail.com
 853.com
@@ -10055,7 +10056,9 @@
 88vinbet1.com
 88vinchat.com
 88vinproios.org
+88vintv.org
 88vinzon.com
+88win01.com
 88xengbet.com
 88xxbet.net
 88yiyi.com

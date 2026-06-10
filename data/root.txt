@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-10T16:58:02.958Z
+# Aggregated blacklist generated on 2026-06-10T20:29:05.298Z
  
 0-30-24.com
 0-attorney.com
@@ -42718,6 +42718,7 @@ cinselseks.com
 cintagaza.web.id
 cintaipoker.net
 cintaqq.net
+cintastore.my.id
 cinturatidesigns.com
 cinvtlhkmw.ga
 ciobanu-art.com
@@ -193969,6 +193970,7 @@ warehouseliquidations.com
 warehouseofthebooks.site
 wareka.com
 warelex.com
+wareng.web.id
 warenmail.com
 warepool.com
 waretchedes.com

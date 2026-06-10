@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-10T03:38:28.376Z
+# Aggregated blacklist generated on 2026-06-10T08:07:09.162Z
  
 0-30-24.com
 0-attorney.com
@@ -75615,6 +75615,7 @@ gers-phyto.com
 gertenisembul.xyz
 gerties.com.au
 gertyni.xyz
+gerv.app
 gervc.com
 ges-online.ru
 gesavoip.com
@@ -170453,6 +170454,7 @@ stopcomgi.ml
 stopcomgi.tk
 stopdrugsfast.com
 stopelevendentalgroup.com
+stopemailingme.net
 stopformspam.xyz
 stopforumforum.com
 stopforumspam.info

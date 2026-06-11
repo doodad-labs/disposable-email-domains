@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-11T20:21:03.180Z
+# Aggregated blacklist generated on 2026-06-11T23:20:56.998Z
  
 0-30-24.com
 0-attorney.com
@@ -11447,6 +11447,7 @@ a2mail.com
 a2mail.website
 a2miravanbrenk.xyz
 a2msolutions.com
+a2properties.ae
 a2qp.com
 a2smartnutrition.hk
 a2thfixer.com
@@ -21117,6 +21118,7 @@ arpizol.com
 arpj.com
 arpoadorapps.online
 arpqgg.us
+arpulibet.com
 arqies.com
 arqos-co-uk.monster
 arqsis.com
@@ -24336,6 +24338,7 @@ azfkbayci.shop
 azflfjukcm.ga
 azfvbwa.pl
 azh1tq.site
+azhcol.org
 azhedu.org
 azhhi.org
 azhi.us
@@ -27059,6 +27062,7 @@ bdsmglossary.com
 bdsmporno.org
 bdsvietnam24h.com
 bdsyakima.com
+bdt2222bd.com
 bdtq777.com
 bdv3.icu
 bdvfb.info.vn
@@ -33424,6 +33428,7 @@ bosqq.mobi
 bosquepatagonico.cl
 bosquesdeprovidencia.com
 boss.cf
+boss45slot.com
 boss77casino.com
 boss77casinosignin.com
 boss88casino.net
@@ -34468,6 +34473,7 @@ brnmedya.xyz
 brnsndrs4.us
 brnsrs4.us
 bro.fund
+bro2bro.site
 bro4xk.us
 broablogs.online
 broadbandninja.com
@@ -38520,6 +38526,7 @@ cartieruk.com
 cartmails.com
 cartone.fun
 cartone.life
+cartonesdebingo.org
 cartonista.com
 cartoonarabia.com
 cartoonnet.shop
@@ -45066,6 +45073,7 @@ colegiosantamaria.org
 colehomeimprovement.com
 colemanyoungconsulting.com
 colesac.info
+colescho.us
 coleure.com
 colevillecapital.com
 colework.cloud
@@ -46802,6 +46810,7 @@ coronavirusguide.online
 coronavirusrecoverycommission.com
 coronaviruss.website
 coronawrongfuldeath.com
+coroobetcasino.com
 corosocial.net
 corouge.best
 corovit.xyz
@@ -76408,6 +76417,7 @@ ghatks.us
 ghatksch.us
 ghats.us
 ghatsc.us
+ghatsedu.us
 ghatsh.us
 ghbceyuunw.ga
 ghcj.com
@@ -90133,6 +90143,7 @@ idewa.xyz
 idf.ovh
 idfd.live
 idfrvg.icu
+idgboslot.com
 idgreat.online
 idgreat.ru
 idhalfpricedlistings.com
@@ -90227,6 +90238,7 @@ idointucson.com
 idolsystems.info
 idomail.com
 idomain24.pl
+idombak123.com
 idone.vn
 idong.my.id
 idont.date
@@ -106312,6 +106324,7 @@ lawyer-uslugi.ru
 lawyeradvocate.ru
 lawyernear-me.com
 lawyers2016.info
+lawyersaruba.com
 lawyersworld.world
 laxex.ru
 laxex.store
@@ -119760,6 +119773,7 @@ micmeore.ml
 micorreotemp.es
 micremails.ru
 micrencemail.com
+microanalyx.com
 microarcmail.ru
 microbacmail.ru
 microbemail.ru
@@ -165097,6 +165111,7 @@ sixoplus.com
 sixpackdifference.com
 sixsharp.com
 sixsigmaconsultants.com
+sixsix7.de
 sixt7.com
 sixteenmeasures.dev
 sixteenmeasures.live
@@ -168511,6 +168526,7 @@ spinanit.ga
 spinanit.gq
 spinanit.tk
 spinapp.bar
+spincasinoopiniones.com
 spindl-e.com
 spindlecommunications.com
 spindye.se
@@ -174710,6 +174726,7 @@ taxi-transfer.ru
 taxi-vovrema.info
 taxi-zero.ru
 taxi2malagaairport.com
+taxi666login.com
 taxiant.link
 taxiaugsburg.de
 taxibavihanoi.com
@@ -177100,6 +177117,7 @@ th3ts2zurnr.ml
 th3ts2zurnr.tk
 th6004.com
 th6008.com
+th789betslot.com
 th9002.com
 th9ekodo77wkv8k.xyz
 tha2itkkiman.xyz
@@ -179166,6 +179184,7 @@ thscontainers.co.uk
 thsehouseof.house
 thsexycasino.com
 thshyo.org
+thsiam212.com
 thsideskisbrown.com
 thsiisxgood2020.site
 thspdi.icu
@@ -192123,6 +192142,8 @@ vnlmxcasinodescargar.com
 vnmegacasinoworld.com
 vnmomocasino.com
 vnmon.com
+vnnohu64.com
+vnnohu94.com
 vnotua.xyz
 vnpayment.org
 vnpnet.com
@@ -195656,6 +195677,7 @@ weyd-webdesign.com
 weydgbsd.shop
 weyfamily.com
 weyuoi.com
+weyword.cfd
 wezb.com
 wezel.info
 wezo.tech
@@ -203837,6 +203859,7 @@ yotogroup.com
 yotomail.com
 yotopping.com
 yotq.site
+yotube.online
 you-qi.com
 you-shopping.info
 you-spam.com

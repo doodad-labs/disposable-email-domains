@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-11T13:58:54.462Z
+# Aggregated blacklist generated on 2026-06-11T17:40:10.046Z
  
 0-30-24.com
 0-attorney.com
@@ -27670,6 +27670,7 @@ belgium.com
 belgrado.shop
 beli4d.com
 belibeli.shop
+belicapcut.app
 belicatering.com
 belicloud.net
 beliefnet.com
@@ -172463,6 +172464,7 @@ survivormail.com
 survivvruscorona.us
 suryabatangan.my.id
 suryaelectricals.com
+suryain.app
 suryapasti.com
 suryayudha.com
 susaho.site

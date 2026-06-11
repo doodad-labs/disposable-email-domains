@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-11T17:40:10.046Z
+# Aggregated blacklist generated on 2026-06-11T20:21:03.180Z
  
 0-30-24.com
 0-attorney.com
@@ -12842,6 +12842,7 @@ acqm38bmz5atkh3.gq
 acqm38bmz5atkh3.ml
 acqm38bmz5atkh3.tk
 acqnl9.download
+acqq.dev
 acquaintance70.tk
 acquires.store
 acquirmail.com
@@ -14340,6 +14341,7 @@ afterabc.biz
 afteraffair.com
 aftercorporation.com
 aftercurro.com
+afterdo.com
 aftereight.pl
 afterhourswe.us
 afterjune.site
@@ -75035,6 +75037,7 @@ geal.com
 gealh.com
 geamil.com
 geanic.icu
+gear3.pro
 gear4acause.com
 geararticles.com
 geardos.net
@@ -79532,6 +79535,7 @@ gpt-mail-free-6397.dynv6.net
 gpt-mail-free-6419.dynv6.net
 gpt-mail-free-6603.dynv6.net
 gpt-mail-free-6664.dynv6.net
+gpt-mail-free-6691.dynv6.net
 gpt-mail-free-6779.dynv6.net
 gpt-mail-free-6812.dynv6.net
 gpt-mail-free-6925.dynv6.net
@@ -104212,6 +104216,7 @@ ksjdhlka.xyz
 ksjewelryboutique.com
 ksjivxt.com
 kskbd.com
+kskblzdjdwkzkbl.top
 kskd.com
 kske.com
 ksksk.com
@@ -175984,6 +175989,7 @@ tempdukviet.click
 tempdukviet.site
 tempe-mail.com
 tempe.web.id
+tempebossok.my.id
 tempekmuta.cf
 tempekmuta.ga
 tempekmuta.gq
@@ -198923,6 +198929,7 @@ x8vplxtmrbegkoyms.tk
 x9094.com
 x90b.club
 x9999game.info
+x9ad1.my
 x9dofwvspm9ll.cf
 x9dofwvspm9ll.ga
 x9dofwvspm9ll.gq

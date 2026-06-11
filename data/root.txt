@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-11T08:46:47.190Z
+# Aggregated blacklist generated on 2026-06-11T13:58:54.462Z
  
 0-30-24.com
 0-attorney.com
@@ -20472,6 +20472,7 @@ arashi.ddnsfree.com
 arashkarimzadeh.com
 arashnrim.me
 arasj.net
+aratrin.com
 araul.in
 araulin.eu
 aravinowine.com
@@ -37946,6 +37947,7 @@ capcutpr0.biz.id
 capcutprem.xyz
 capcutpremapps.web.id
 capcutpro.click
+capcutpro.dev
 capcutpromax.biz.id
 capcutsda.cyou
 capcutt.my.id
@@ -39159,6 +39161,7 @@ cateringegn.com
 caterwatc.xyz
 caterwire.com
 catessa.com
+catfie.app
 catfish101.com
 catfishsupplyco.com
 catfreebooks.site
@@ -68183,6 +68186,7 @@ ferastya.gq
 ferastya.ml
 ferastya.tk
 ferbid.com
+ferd.live
 ferdinandsachs.com
 ferdionsad.me
 ferdojenik30days.xyz
@@ -83409,6 +83413,7 @@ haywin.casino
 haywoodinteriors.com
 hayyakhome.com
 hayycj.icu
+hayys.app
 haz.services
 hazar.website
 hazarat.design
@@ -108064,6 +108069,7 @@ lidll.com
 lido.site
 lidprep.vision
 lidte.com
+lidugw.com
 lidumail.com
 lidwa.net
 lidy.ca
@@ -132863,6 +132869,7 @@ octupolephonon.ru
 ocuffel.top
 oculist.space
 oculus-rift.com
+ocuser.com
 ocvtv.site
 ocwrqnsbv.shop
 ocxlpjmjug.ga
@@ -145499,6 +145506,7 @@ prepared.fun
 preparedwealth.com
 preparee.top
 preparml.ru
+preparmy.com
 prepayee.cd
 preperiteomail.ru
 preponline.net

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-12T16:44:01.781Z
+# Aggregated blacklist generated on 2026-06-12T20:09:45.601Z
  
 0-30-24.com
 0-attorney.com
@@ -46234,6 +46234,7 @@ contactme.cyou
 contactmevia.email
 contactos-casuales.us
 contactout1000.ga
+contactpage.online
 contactpp.click
 contactsapp.click
 contactshub.click
@@ -115318,6 +115319,7 @@ manadotogel.net
 manae.site
 manage-11.com
 manage-page.com
+managedisabled.online
 managedu.ru
 managelaw.ru
 managemail.ru
@@ -171362,6 +171364,7 @@ submergeus.com
 submic.com
 submissive.com
 submitprofit.com
+submitreports.com
 submoti.ga
 submoti.gq
 submoti.tk

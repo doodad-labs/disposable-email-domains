@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-11T23:20:56.998Z
+# Aggregated blacklist generated on 2026-06-12T03:53:49.460Z
  
 0-30-24.com
 0-attorney.com
@@ -124,6 +124,7 @@
 010608.xyz
 01080.ru
 010gmail.com
+010hb.com
 010pc28.com
 01130.hk
 011300.xyz
@@ -6322,6 +6323,7 @@
 4x1y3n98pdus.online
 4x4-team-usm.pl
 4x4foto.com
+4x4lrs.com
 4x4man.com
 4x4n.ru
 4x4post.com
@@ -11811,6 +11813,7 @@ aatgmail.com
 aatransit.org
 aatt.net
 aau.co
+aaunlg.com
 aautostabilbetsnup.xyz
 aavaceroo.site
 aave-rise.com
@@ -26552,6 +26555,7 @@ baumaschine.de
 baumhaus.me
 baumhotels.de
 baumjoy.site
+baupo.pl
 baurubites.site
 bauscn.com
 bautista.club
@@ -31220,6 +31224,7 @@ blackgreenwt.xyz
 blackhat-seo-blog.com
 blackhatmafia.com
 blackhatninjas.com
+blackhatseo.co.in
 blackhawkcurlingclub.com
 blackheadkiller.net
 blackhole.name
@@ -33194,6 +33199,7 @@ boomzik.com
 boonasanti.com
 boond.ca
 booneoutdoors.net
+boonrw.com
 booooble.com
 booostlarge.store
 boopmail.com
@@ -39536,6 +39542,7 @@ ccc526.xyz
 ccc9827.com
 cccadf.xyz
 cccc.com
+cccc123.com
 cccccccccccccccccccc.cc
 ccccmontreal.com
 ccclmail.com
@@ -58701,6 +58708,7 @@ dwukwiat4.pl
 dwukwiat5.pl
 dwukwiat6.pl
 dwul.org
+dwunhv.com
 dwutuemzudvcb.cf
 dwutuemzudvcb.ga
 dwutuemzudvcb.gq
@@ -58793,6 +58801,7 @@ dylanharris.buzz
 dylans.email
 dylansummers.buzz
 dylanwilderquinn.com
+dyleris.com
 dylib.dev
 dymail.io.vn
 dymarent.cfd
@@ -60612,6 +60621,7 @@ efva.com
 efxi.us
 efxs.ca
 efyh.com
+efylgs.com
 efyspygosp.ga
 eg0025.com
 eg0tm3.us
@@ -67676,6 +67686,7 @@ fblay.com
 fblgsl.cam
 fbliang58958.top
 fblike.app
+fblink66.com
 fblo.com
 fbma.tk
 fbmail.fun
@@ -67759,6 +67770,7 @@ fcku.com
 fckxmu.us
 fcl.co.jp
 fcl.me
+fclink6.com
 fclone.net
 fcmail.com
 fcmi.com
@@ -75928,6 +75940,7 @@ getlibstuff.site
 getlibtext.site
 getlink.website
 getlinkbm.com
+getlinks8.com
 getlinkyoutube.net
 getlistbooks.site
 getlisted.directory
@@ -78956,6 +78969,7 @@ goodthanks.media
 goodthingsforu.com
 goodturntable.com
 goodvps.us
+goodwail.com
 goodwin.games
 goodwinazart.com
 goodwincasino.asia
@@ -80554,6 +80568,7 @@ gruene-no-thanks.xyz
 grufefse.cf
 grugrug.ru
 grumlylesite.com
+grumm.pl
 grumpy-phpunit.com
 grumpy-testing.com
 grumpy.biz.id
@@ -87290,6 +87305,7 @@ hotimail.fr
 hotizledim.club
 hotjsdfefff.xyz
 hotkarmenkarma.com
+hotkev.com
 hotkornernewport.com
 hotlail.com
 hotlain.com
@@ -87929,6 +87945,7 @@ hq7979.com
 hqautoinsurance.com
 hqcatbgr356z.ga
 hqhazards.com
+hqjccw.com
 hqjzb9shnuk3k0u48.cf
 hqjzb9shnuk3k0u48.ga
 hqjzb9shnuk3k0u48.gq
@@ -99535,6 +99552,7 @@ jwtukew1xb1q.gq
 jwtukew1xb1q.ml
 jwtukew1xb1q.tk
 jwvestates.com
+jwx163.com
 jwxir.biz.id
 jx2team.online
 jx575.com
@@ -103204,6 +103222,7 @@ koineraset.tk
 koinfor.com
 koinonintegrity.com
 koioslaboratories.com
+koiot.de
 koipoker.club
 koipoker.com
 koiqe.com
@@ -104878,6 +104897,7 @@ kyaffshop.store
 kyal.pl
 kyatrackersadecv.com
 kyberkafe.com
+kycnot.cc
 kyctrust.online
 kycvrvax.xyz
 kydigo.com
@@ -108827,6 +108847,7 @@ linkusupng.com
 linkvaofun88.org
 linkvaow88bong88.com
 linkverse.ru
+linkwail.com
 linkwithstyle.store
 linkyard.net
 linkzimra.cf
@@ -115161,6 +115182,7 @@ mallcom.space
 malldrops.com
 malleacademy.com
 malleamail.com
+mallecom.online
 mallefit.com
 malleguide.com
 malleonline.com
@@ -137833,6 +137855,7 @@ padmail.store
 padonkit.online
 padonko.online
 padspro.xyz
+padue.app
 padvn.com
 padvue.com
 padye.com
@@ -161152,6 +161175,7 @@ securityfirstbook.com
 securityfixed.com
 securityinsight.net
 securityriskexpert.com
+securitysguard.com
 securomail.org
 securox.com
 sed.ca
@@ -163605,6 +163629,7 @@ shoklin.cf
 shoklin.ga
 shoklin.gq
 shoklin.ml
+shokoladagency.ru
 shokoladsamilit.xyz
 shokoshop.ru
 shokri.net
@@ -165600,6 +165625,7 @@ skynt.be
 skyoid.xyz
 skyometric.com
 skypaluten.de
+skypaypay.xyz
 skype.com.se
 skypewebui.eu
 skypwe.shop
@@ -175996,6 +176022,7 @@ tempatmainpoker.online
 tempatmainpoker.xyz
 tempatspa.com
 tempblockchain.com
+tempbox.app
 tempbox.co.uk
 tempbox.fr
 tempboxmail.com
@@ -177021,6 +177048,7 @@ tfgemail.net
 tfgphjqzkc.pl
 tfiadvocate.com
 tfinest.com
+tfjxly.com
 tflzg.com.cn
 tflzj.cn
 tfmcguckin.com
@@ -177322,6 +177350,7 @@ the-popa.ru
 the-protagonist.net
 the-raj-passage-west.com
 the-river-retreat.com
+the-seo-autopilot.com
 the-sheriff.com
 the-skyeverton.com
 the-snapcashb.site
@@ -185546,6 +185575,7 @@ ub5kat.us
 ub858.com
 ubabyname.com
 ubalasimo.com
+ubalbinki.pl
 ubamail.com
 ubarif.biz.id
 ubars.ru
@@ -189960,6 +189990,7 @@ veomideg.ml
 veomideg.tk
 veona.pw
 veoos.com
+veospot.com
 veoultra.online
 veoverse25k.io.vn
 veoye.top
@@ -193666,6 +193697,7 @@ waifumail.ml
 waiil8.fun
 waikikieasthotel.com
 waikinyxt.site
+wailink88.com
 wailo.cloudns.asia
 waimaopaimnig.com
 waimate.info
@@ -193862,6 +193894,7 @@ wanafdoo.fr
 wanafoo.fr
 wanamore.com
 wananadoo.fr
+wananchi.com
 wanandoo.fr
 wanaodoo.fr
 wanari.info
@@ -196824,6 +196857,7 @@ wintersarea.xyz
 wintersbootsonline.info
 wintersgf.store
 wintershop.icu
+wintersmail.site
 wintersnowremovalservices.com
 wintersupplement.com
 winterx.site
@@ -197120,6 +197154,7 @@ wljia.com
 wljkj3.com
 wljycs.online
 wlk.com
+wllink16.com
 wlmycn.com
 wloahs.icu
 wlot.in
@@ -205501,6 +205536,7 @@ zcdo.com
 zchatz.ga
 zchwzskc.shop
 zchx1.com
+zchzc.com
 zcl-group.com
 zcmix.com
 zcolor.live

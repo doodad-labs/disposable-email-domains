@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-12T03:53:49.460Z
+# Aggregated blacklist generated on 2026-06-12T08:25:29.246Z
  
 0-30-24.com
 0-attorney.com
@@ -171265,6 +171265,7 @@ stypedia.com
 styphoto.com
 stysora.com
 stzv.com
+su.cloudns.biz
 su3cl3.com
 su4gc.us
 su7u.com
@@ -173263,6 +173264,7 @@ synoniem.nu
 synonimy.com
 synonyme.email
 synovaris.cfd
+synsky.com
 synt44x.com
 syntaxblitz.com
 syntaxcdn.website
@@ -190375,6 +190377,7 @@ vewku.com
 vewovegady.space
 vex4.top
 vexalor.cfd
+vexaluno.xyz
 vexariploqnzma.io.vn
 vexbug.us
 vexdren.org

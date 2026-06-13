@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-12T23:16:22.799Z
+# Aggregated blacklist generated on 2026-06-13T03:38:27.286Z
  
 0-30-24.com
 0-attorney.com
@@ -38899,6 +38899,7 @@ casinoplay.win
 casinoplorer.com
 casinoplusapk.com
 casinoplusapp.net
+casinoplusapp.ph
 casinoplusapps.net
 casinoplusbonus.com
 casinopluspc.com
@@ -76475,6 +76476,7 @@ ghid-afaceri.com
 ghiencoiphim.online
 ghienphimreview.online
 ghigh.us
+ghighs.us
 ghiglianocinzia.com
 ghijklmnopqrstuv.io.vn
 ghime.co.com
@@ -116762,6 +116764,7 @@ maswae.world
 masweb.com.br
 maszynkiwaw.pl
 maszyny-rolnicze.net.pl
+mat2web.top
 mat4progress.com
 mataa.me
 mataangin.xyz
@@ -133057,6 +133060,7 @@ oechzm.site
 oecs-systems-international.com
 oedmuznsgl.ga
 oedogonmail.com
+oedolity.ru
 oeewc.com
 oegmail.com
 oegmail.store
@@ -172113,6 +172117,7 @@ supergreatmail.com
 supergreen.com
 supergreentonic.com
 supergrok.biz.id
+supergrok.live
 supergsm.com
 superhappyfunnyseal.com
 superhemail.com
@@ -186032,6 +186037,7 @@ uggbootssale-discount.us
 uggbootssale.com
 uggbootssale2011.info
 uggbootssales.com
+uggbuy.com
 uggbuystorejp.com
 uggi-chelyabinsk.ru
 uggi-kurgan.ru
@@ -188390,6 +188396,7 @@ usuus.com
 usvetcon.com
 uswaid.com
 usweek.net
+usxxoo.com
 usyu.xyz
 usywjsm.xyz
 uszrn.us
@@ -197539,6 +197546,7 @@ wopit.xyz
 woppler.ru
 wopzpmecuc.ga
 woqepoo.ru
+woraco.com
 worcesterbaseballclub.com
 worcesterpartnership.com
 word-literature.xyz
@@ -199116,6 +199124,7 @@ xbm7bx391sm5owt6xe.ml
 xbm7bx391sm5owt6xe.tk
 xbmail.web.id
 xbmm.xyz
+xbmotor.com
 xbmyv8qyga0j9.cf
 xbmyv8qyga0j9.ga
 xbmyv8qyga0j9.gq
@@ -199534,6 +199543,7 @@ xgrxsuldeu.ga
 xgrxsuldeu.gq
 xgrxsuldeu.ml
 xgrxsuldeu.tk
+xgshare.com
 xgstabfbu.tk
 xguy.net
 xgyeco.us

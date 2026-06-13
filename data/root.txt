@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-13T13:58:08.248Z
+# Aggregated blacklist generated on 2026-06-13T15:44:20.934Z
  
 0-30-24.com
 0-attorney.com
@@ -139328,6 +139328,7 @@ pawfullyfit.com
 pawgpt.nl
 pawmail.store
 pawns-app.de
+pawobby.cfd
 pawofjustice.org
 pawpawfestival.com
 pawr.be

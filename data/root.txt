@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-13T21:15:22.256Z
+# Aggregated blacklist generated on 2026-06-13T23:03:47.591Z
  
 0-30-24.com
 0-attorney.com
@@ -25864,6 +25864,7 @@ bandarjudiqq.rocks
 bandarq.life
 bandarq1.online
 bandband1.com
+bandbtrading.net
 bandcalledmill.com
 bandeausyi.ru
 banderivec.org.ua
@@ -36316,6 +36317,7 @@ bv2mpm.us
 bv9dec.us
 bvaerosol.com
 bvazoi.com
+bvbamp12.xyz
 bvdt.com
 bvegtewrs.ml
 bvgb.com
@@ -176455,6 +176457,7 @@ tenermail.com
 tenesu.tk
 tenews.biz
 tenexcasino.io
+tenfura.ru
 tengger.live
 tenghen.site
 tengicungduoc.it.com
@@ -194532,6 +194535,7 @@ wc-api-fjc--2.com
 wc-api-fjc--4.com
 wc-api-fjc--5.com
 wc.edu.kg
+wc2026bet.ru
 wc2ttpxd7o0y9np.xyz
 wc7777game.com
 wc777game.info
@@ -206499,6 +206503,7 @@ zireiy.my.id
 ziri.tk
 ziro3000.site
 ziro88.com
+zirostore.app
 zirsc.fun
 zisustand.site
 zita-blog-xxx.ru

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-13T17:21:48.361Z
+# Aggregated blacklist generated on 2026-06-13T19:24:32.262Z
  
 0-30-24.com
 0-attorney.com
@@ -104138,6 +104138,7 @@ kross-torg.ru
 krossberry.ru
 krosstorg.ru
 kroswalt.com
+krouter.net
 krovanaliz.ru
 krovatka.su
 krowdserf.com

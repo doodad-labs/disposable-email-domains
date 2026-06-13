@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-13T10:27:59.591Z
+# Aggregated blacklist generated on 2026-06-13T13:58:08.248Z
  
 0-30-24.com
 0-attorney.com
@@ -33330,6 +33330,7 @@ borisoglebsk.org
 bormasmail.com
 bornai.app
 bornboring.com
+bornhetk.cfd
 bornovaboran.xyz
 bornprettyjewels.xyz
 borntoconvert.com
@@ -99641,6 +99642,7 @@ jzzm.top
 jzzxbcidt.pl
 k-10.com
 k-12stem.org
+k-agencyglobal.com
 k-b.xyz
 k-barker.com
 k-d-m.de
@@ -117639,6 +117641,7 @@ mdhalfpricedlisting.com
 mdhalfpricedlistings.com
 mdhalfpricelistings.com
 mdhc.tk
+mdigi.net
 mdimusic.com
 mdisks.com
 mdissue.com
@@ -152523,6 +152526,7 @@ reelslunorth.ml
 reemzzz.press
 reesevideoproduction.com
 reesman.xyz
+reestore.site
 reestrkontrol.xyz
 reestrtranzaction2020.top
 reestrvesti.xyz

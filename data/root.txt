@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-13T07:46:14.894Z
+# Aggregated blacklist generated on 2026-06-13T10:27:59.591Z
  
 0-30-24.com
 0-attorney.com
@@ -100511,6 +100511,7 @@ kastsono.gq
 kasucako.site
 kat-777.com
 kat-net.com
+kat.skin
 katabijak.id
 katakidz.com
 katalizator-yaroslavl.ru

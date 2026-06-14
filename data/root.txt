@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-13T23:03:47.591Z
+# Aggregated blacklist generated on 2026-06-14T03:59:48.070Z
  
 0-30-24.com
 0-attorney.com
@@ -179106,6 +179106,7 @@ thongfpuwy.com
 thongtinchung.com
 thongtinlienquan.com
 thoppilbuildersinc.com
+thor.my.id
 thoracocsalo.ru
 thoraxjs.org
 thorfun.org

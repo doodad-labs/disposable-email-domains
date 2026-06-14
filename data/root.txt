@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-14T03:59:48.070Z
+# Aggregated blacklist generated on 2026-06-14T08:19:55.276Z
  
 0-30-24.com
 0-attorney.com
@@ -58325,6 +58325,7 @@ dumalu.com
 dumankayamodern.com
 dumantv.com
 dumasnt.org
+dumb1.com
 dumbass.nl
 dumbdroid.info
 dumbledore.cf

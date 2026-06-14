@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-14T21:11:51.919Z
+# Aggregated blacklist generated on 2026-06-14T23:08:59.258Z
  
 0-30-24.com
 0-attorney.com
@@ -45232,6 +45232,7 @@ cols.us
 colsc.us
 colsch.us
 colscho.us
+colschoo.us
 colsedu.us
 coltonattorneys.com
 coltonpower.com
@@ -122970,6 +122971,7 @@ mortjusqui.ml
 mortjusqui.tk
 mortongroup.com
 mortystore.cf
+morulemgirls.org
 moruzza.com
 morvei-solutions.at
 morwyn.online
@@ -153541,6 +153543,7 @@ representatmail.com
 representatmyu.ru
 representebml.ru
 representmails.ru
+represeudp.com
 reprint-rights-marketing.com
 reprisalist.com
 reprobatiml.com
@@ -159483,6 +159486,7 @@ saorhj.com
 saothiem.com
 saotom.info
 saoulere.ml
+saovangtiles.site
 saove.top
 saovta41.com
 saowinbet.com
@@ -168364,6 +168368,7 @@ specsecurity.ru
 spectaculardronevideo.com
 spectacularevents.org
 spectaculargrove.com
+spectehshina86.ru
 spectexremont.ru
 spectorg-opt.ru
 spectrail.world

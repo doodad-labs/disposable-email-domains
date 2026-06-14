@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-14T11:57:28.419Z
+# Aggregated blacklist generated on 2026-06-14T14:12:30.687Z
  
 0-30-24.com
 0-attorney.com
@@ -71042,6 +71042,7 @@ ford-trucks.us
 fordahaus.com
 fordanceusa.com
 forddomsy.info
+fordemy.com
 fordinettelc.monster
 fordonofritid.nu
 fordsanpablo.com

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-15T04:12:32.928Z
+# Aggregated blacklist generated on 2026-06-15T12:11:58.241Z
  
 0-30-24.com
 0-attorney.com
@@ -14519,6 +14519,7 @@ agentannecook.com
 agentblog.com
 agentescp.com
 agentlibr3.com
+agentloop.sbs
 agentogelasia.com
 agentoto4d.org
 agentsa.shop
@@ -37973,6 +37974,7 @@ capcutteam.my.id
 capcutus.biz.id
 capcutz.xyz
 capcvt.es
+capcvt.team
 capeandislandshearing.com
 capeaudiology.com
 capebreton.net
@@ -44027,6 +44029,7 @@ cloudysmart.ga
 cloudystream.biz.id
 cloudyxx.ml
 cloundstore.site
+clousy.site
 clout.wiki
 cloutlet-vips.com
 clovendo.com
@@ -49034,6 +49037,7 @@ cursodeinglesgratis.us
 cursodemicropigmentacao.us
 cursodeoratoriasp.com
 cursor.co.uk
+cursor13402.xyz
 cursormoi.me
 cursormoi.tech
 cursorpro1.xyz
@@ -77052,6 +77056,7 @@ gitdownonit.com
 giter.pl
 gitgud.ch
 githabs.com
+github-com-disposable-email-domains.loseyourip.com
 github.best
 githug.de
 gitlher.me
@@ -77824,6 +77829,7 @@ gmailkita.biz.id
 gmailku.biz.id
 gmailku.com
 gmailku.my.id
+gmaill.click
 gmaill.co
 gmaill.co.com
 gmaill.com
@@ -77916,7 +77922,9 @@ gmailwe.com
 gmailweerr.com
 gmailweerr.net
 gmailx.xyz
+gmailxsn.com
 gmailxsn.site
+gmailxsn.space
 gmaily.tk
 gmailya.com
 gmailzdfsdfds.com
@@ -116373,6 +116381,9 @@ martamccue.biz
 martech-a2z.xyz
 marteenconsulting.xyz
 martelli.shoes
+martenson-mail.mywire.org
+martenson-mail.ooguy.com
+martenson-mail.theworkpc.com
 marter.co.uk
 marthaannevents.com
 marthaloans.co.uk

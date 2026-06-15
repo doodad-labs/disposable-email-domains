@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-15T18:25:14.163Z
+# Aggregated blacklist generated on 2026-06-15T22:18:27.368Z
  
 0-30-24.com
 0-attorney.com
@@ -31769,6 +31769,7 @@ blogpsychics.com
 blogpundit.com
 blogpundits.com
 blogradar.com
+blogranks.top
 blogremote.com
 blogrevenue.com
 blogrewards.com
@@ -53241,6 +53242,7 @@ devlw.site
 devlx.site
 devly.site
 devlz.site
+devmant.com
 devmeyou.tech
 devmmo.com
 devmoe.com
@@ -92484,6 +92486,7 @@ infosubs.ml
 infosubs.tk
 infosuppository.com
 infosya.com
+infosys.ink
 infotech.info
 infotechno.cfd
 infotipsbd.com

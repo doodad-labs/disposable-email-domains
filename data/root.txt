@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-14T23:08:59.258Z
+# Aggregated blacklist generated on 2026-06-15T04:12:32.928Z
  
 0-30-24.com
 0-attorney.com
@@ -77728,6 +77728,9 @@ gmail-es.com
 gmail-fiji.gq
 gmail-kuu.my.id
 gmail-temp.com
+gmail-xsniper.com
+gmail-xsniper.site
+gmail-xsniper.space
 gmail.ax
 gmail.bj
 gmail.co.com
@@ -77913,6 +77916,7 @@ gmailwe.com
 gmailweerr.com
 gmailweerr.net
 gmailx.xyz
+gmailxsn.site
 gmaily.tk
 gmailya.com
 gmailzdfsdfds.com
@@ -77980,6 +77984,7 @@ gmel.my.id
 gmele.com
 gmeli.com
 gmelk.com
+gmells.com
 gmex.fr
 gmflsodlgmail.com
 gmforums.com
@@ -201470,6 +201475,9 @@ xsmfhh.icu
 xsnapbet2020.xyz
 xsnapbett.xyz
 xsnews.cloudns.org
+xsnipersquad.com
+xsnipersquad.site
+xsnipersquad.space
 xsphx.cf
 xspiel.com
 xsqc54.com

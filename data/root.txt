@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-16T11:09:26.008Z
+# Aggregated blacklist generated on 2026-06-16T16:50:34.185Z
  
 0-30-24.com
 0-attorney.com
@@ -39497,6 +39497,8 @@ cc.cd
 cc0d.com
 cc1.name.ng
 cc10.de
+cc17.name.ng
+cc18.name.ng
 cc272.net
 cc2ilplyg77e.cf
 cc2ilplyg77e.ga
@@ -61824,6 +61826,7 @@ email-jetable.fr
 email-lab.com
 email-list.online
 email-me.bid
+email-penguin.com
 email-pm113.com
 email-premium.com
 email-provider.online
@@ -193227,6 +193230,7 @@ vuokuc.ru
 vuongquocgowin.com
 vup.moe
 vupkl.shop
+vupn.me
 vupnews.com
 vupvtb.com
 vupwhich.com

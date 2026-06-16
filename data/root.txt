@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-16T16:50:34.185Z
+# Aggregated blacklist generated on 2026-06-16T20:49:49.182Z
  
 0-30-24.com
 0-attorney.com
@@ -2610,6 +2610,7 @@
 1xslots.express
 1xslots.quest
 1xslots.website
+1xslotsmexico.com
 1xstabka.ru
 1xstats.com
 1xstavka-app.ru
@@ -29044,6 +29045,7 @@ betnis40.com
 betnis86.com
 betnis87.com
 betnis89.com
+betobetapp.info
 betobetcasino.info
 betobetcasino.org
 betodesa.com
@@ -40797,6 +40799,7 @@ chapterfmail.com
 chaptermultimediatumble.website
 chaqk.com
 characterizing205yn.online
+characterpt.ru
 charactesemail.com
 charactmail.com
 charav.com
@@ -48672,6 +48675,7 @@ ctshp.org
 ctspnbna.com
 cttake1fiilie.ru
 cttlju.us
+cttnoot.us
 ctu.edu.gr
 ctvfacebook.site
 ctxh.site
@@ -77232,6 +77236,7 @@ gkhsedu.us
 gkjeee.com
 gkjgsxupc.shop
 gkku.com
+gkli.us
 gklohe.rest
 gkmmcg.fun
 gkmmhq.fun
@@ -85371,6 +85376,7 @@ highspeedt.online
 highspeedt.site
 highspeedt.xyz
 highspiritmail.com
+highstake777.info
 highstar.shop
 highstatusleader.com
 highstudios.net
@@ -88763,6 +88769,7 @@ hustq7tbd6v2xov.gq
 hustq7tbd6v2xov.ml
 hustq7tbd6v2xov.tk
 hutanjati.online
+hutathuww.org
 hutchankhonghcm.com
 hutchings.org
 huth.pm
@@ -102937,6 +102944,7 @@ km7p7.xyz
 km7st.xyz
 km888casino.com
 km888casinologin.com
+km888login.com
 km88abcvip.com
 km88casinologin.com
 km88legit.net
@@ -124811,6 +124819,7 @@ mx326casino.com
 mx37casino.com
 mx40bu.com
 mx444casino.com
+mx58.info
 mx58casino.com
 mx711casino.com
 mx711casino.com.mx
@@ -155517,6 +155526,7 @@ robinsonyablon.com
 robinsrachel.online
 robinwashington.net
 robisonrealm.com
+robit.work
 robiulenterprise.com
 robkanass.ml
 robkanass.tk
@@ -158278,6 +158288,7 @@ sadfsdfdds3er.tk
 sadfsdfds3er.tk
 sadhak.info
 sadim.site
+sadleraccountants.co.uk
 sadmail.store
 sadnap.eu.org
 sadness.website
@@ -169594,6 +169605,7 @@ stake-wittytwist.pics
 stake.boats
 stake.mom
 stake.yachts
+stake777.info
 stake777casino.com
 stakecasino.skin
 stakecasinoapp.net
@@ -190736,6 +190748,7 @@ victorgabrielg.com
 victorgold.xyz
 victoria-alison.com
 victoria-photographer.ru
+victoria777.info
 victoriaalison.com
 victoriacapital.com
 victoriagatecasino.co.uk

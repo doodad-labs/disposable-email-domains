@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-16T20:49:49.182Z
+# Aggregated blacklist generated on 2026-06-16T23:23:45.645Z
  
 0-30-24.com
 0-attorney.com
@@ -140299,6 +140299,7 @@ pentadon.store
 pentagon.info
 pentagonltd.co.uk
 pentagram.online
+pentec.xyz
 pentecomail.ru
 pentest-abc.net
 pentestacademy.online

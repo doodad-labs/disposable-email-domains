@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-16T04:02:06.387Z
+# Aggregated blacklist generated on 2026-06-16T11:09:26.008Z
  
 0-30-24.com
 0-attorney.com
@@ -109996,6 +109996,7 @@ lobotoemail.com
 lobotomize516vk.online
 lobstercop.com
 lobumisan.gq
+loc.cc
 loc123.com
 locabet67.com
 locabet68.com
@@ -162638,6 +162639,7 @@ sex-vox.info
 sex.dns-cloud.net
 sex.net
 sex.si
+sex520.eu.org
 sexactive18.info
 sexakt.org
 sexamail.ru
@@ -182480,6 +182482,7 @@ tradinghours.pro
 tradingmining.com
 tradingpintowels.com
 tradingtourney.com
+tradingview.my.id
 tradingviewgiare.com
 traditionalimpacts.com
 traditionfml.ru
@@ -200145,6 +200148,7 @@ xmgzyw.com
 xmhaoduoxie.com
 xmision.com
 xmjxcy.com
+xmlab.icu
 xmlat.com
 xmlhgyjx.com
 xmljk.us

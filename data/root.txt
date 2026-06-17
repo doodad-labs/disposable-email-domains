@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-17T10:54:32.539Z
+# Aggregated blacklist generated on 2026-06-17T15:28:00.091Z
  
 0-30-24.com
 0-attorney.com
@@ -28058,6 +28058,7 @@ berjuangsumatra.my.id
 berkah-herbal.com
 berkahfb.com
 berkahjaran.xyz
+berkahjayashope.com
 berkahmediajayagroup.online
 berkatrb.com
 berkeley-realtor.info
@@ -36017,6 +36018,7 @@ buyreliablezithromaxonline.com
 buyrenovaonlinemeds.com
 buyreplicastore.com
 buyresourcelink.info
+buyreview.us
 buyrocaltrol.name
 buyrx-pill.info
 buyrxclomid.com
@@ -51470,6 +51472,7 @@ ddmv.com
 ddn.kz
 ddngroups.com
 ddnkinvestglobal.com
+ddns.berlin
 ddns.info
 ddns.me.uk
 ddns.ml
@@ -69852,6 +69855,7 @@ fkljhnlksdjf.ml
 fkljhnlksdjf.tk
 fkmalozmpclf.cfd
 fknblqfoet475.cf
+fknm8.mobi
 fknmwk.fun
 fkoh1p.us
 fkoljpuwhwm97.cf
@@ -85459,6 +85463,7 @@ hiliteplastics.com
 hill63.org
 hillary-email.com
 hillatimels.tk
+hillaxiant.xyz
 hillclimbclinic.com
 hillcountryone.com
 hillcrest.net
@@ -89869,6 +89874,7 @@ ich-will-net.de
 ichairscn.com
 ichatz.ga
 ichbinvollcool.de
+ichecker.tech
 ichecksdqd.com
 ichehol.ru
 ichet.ru
@@ -100720,6 +100726,7 @@ kaymima.ga
 kaymima.gq
 kaymima.ml
 kaynaksoft.com
+kaynlab.com
 kaysartycles.com
 kayserigirls.com
 kayserilimusti.network
@@ -115042,6 +115049,7 @@ makerinist.com
 makerkiller.ml
 makerly.co
 makersxq.com
+makertrial.com
 makesachange.co.uk
 makeshopping.pp.ua
 makesnte.com
@@ -124082,6 +124090,7 @@ muamuawrtcxv7.ga
 muamuawrtcxv7.gq
 muamuawrtcxv7.ml
 muamuawrtcxv7.tk
+muareview.com
 muasamtructuyen.info
 muaspin1s.com
 muastore.co
@@ -141650,6 +141659,7 @@ phunutre.online
 phuongblue1507.xyz
 phuongfb.com
 phuongnamdigital.net
+phuongnhicare.com
 phuongphamfb.site
 phuongphapdautu.com
 phuongpt9.tk
@@ -169757,6 +169767,7 @@ starbittest.xyz
 starblogsthai.com
 starboptyd.space
 starbucks-samples.club
+starcheck.in
 starcira.com
 starcitycards.biz
 starcitycards.net
@@ -172891,6 +172902,7 @@ sweetagsfer.tk
 sweetannies.com
 sweetb.it
 sweetbac.xyz
+sweetberry.online
 sweetbonanza-casino.net
 sweetcakesbymel.com
 sweetcheekstanning.com
@@ -183732,6 +183744,7 @@ trustablehosts.com
 trustatscale.com
 trustattorneyscalifornia.com
 trustbravo.com
+trustcheck.cc
 trustcloud.engineer
 trustcoin.tech
 trustcombat.com
@@ -205249,6 +205262,7 @@ zahoditnaura.space
 zahrobsky.net
 zahsdfes.cloud
 zahuy.site
+zai.asia
 zaikadublin.com
 zaim-fart.ru
 zaim-fin.com

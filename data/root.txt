@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-17T18:15:15.811Z
+# Aggregated blacklist generated on 2026-06-17T22:00:03.268Z
  
 0-30-24.com
 0-attorney.com
@@ -20550,6 +20550,7 @@ arcengineering.com
 arcentra.cfd
 arcese.net
 arch.cd
+arch2o.me
 arch355.com
 archaeolfml.ru
 archaeolli.com
@@ -51479,6 +51480,8 @@ ddns.ml
 ddns.name
 ddns.plus
 ddns04.xyz
+ddnss.ch
+ddnss.eu
 ddoddogiyo.com
 ddorai.net
 ddos.cat
@@ -56709,6 +56712,7 @@ dormokis.tk
 dorne.ml
 dorneycourt.com
 dorodred.com
+dorokdok.id
 dorotheastuart.com
 dorothyfoundation.org
 dorpolnews.com
@@ -63153,6 +63157,7 @@ enticefit.com
 entipat.com
 entirelynl.nl
 entitlemonitor.com
+entityauthority.xyz
 entiven.com
 entlc.com
 entobio.com
@@ -66053,6 +66058,7 @@ ezfill.club
 ezfill.com
 ezfree.online
 ezgaga.com
+ezgateway.net
 ezgeneratorswitch.com
 ezgiant.com
 ezguru.site
@@ -69946,6 +69952,7 @@ flashemail.site
 flashgh.icu
 flashgoto.com
 flashhasabigforehead.xyz
+flashhub.net
 flashinbox.xyz
 flashingboards.net
 flashingxperts.com
@@ -126101,6 +126108,7 @@ mytrommlergroup.com
 mytrommleronline.com
 mytruenature.net
 mytrumail.com
+mytunnel.org
 myturkeydoctor.xyz
 mytuscsanaria.com
 mytuttifruitygsa.xyz
@@ -153273,6 +153281,7 @@ remote.li
 remoteflyer.co.uk
 remotelegalnurse.com
 remotepcrepair.com
+remotewire.net
 remove-newmobile.co.uk
 removeduplicatepictures.org
 remover.ru
@@ -182756,6 +182765,7 @@ trash-mail.gq
 trash-mail.ml
 trash-mail.net
 trash-mail.tk
+trash-mail.webredirect.org
 trash-me.com
 trash2009.com
 trash2010.com
@@ -201643,6 +201653,7 @@ xuandaiz.com
 xuanlich.com
 xuanshanghepro.com
 xubawe.info
+xubi.org
 xubqgqyuq98c.cf
 xubqgqyuq98c.ga
 xubqgqyuq98c.gq
@@ -207615,3 +207626,23 @@ zzzzbetcasino.info
 zzzzcasino.net
 zzzzzz.com
 zzzzzzzzzzzzz.com
+zzzzzzzzzzzzzz-1090.dynv6.net
+zzzzzzzzzzzzzz-2092.dynv6.net
+zzzzzzzzzzzzzz-277.dynv6.net
+zzzzzzzzzzzzzz-3294.dynv6.net
+zzzzzzzzzzzzzz-3330.dynv6.net
+zzzzzzzzzzzzzz-3535.dynv6.net
+zzzzzzzzzzzzzz-3928.dynv6.net
+zzzzzzzzzzzzzz-3940.dynv6.net
+zzzzzzzzzzzzzz-4283.dynv6.net
+zzzzzzzzzzzzzz-5055.dynv6.net
+zzzzzzzzzzzzzz-5246.dynv6.net
+zzzzzzzzzzzzzz-546.dynv6.net
+zzzzzzzzzzzzzz-7619.dynv6.net
+zzzzzzzzzzzzzz-7911.dynv6.net
+zzzzzzzzzzzzzz-8050.dynv6.net
+zzzzzzzzzzzzzz-8079.dynv6.net
+zzzzzzzzzzzzzz-8874.dynv6.net
+zzzzzzzzzzzzzz-969.dynv6.net
+zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz.loseyourip.com
+zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz.ooguy.com

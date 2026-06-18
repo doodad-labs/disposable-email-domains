@@ -18,6 +18,16 @@ This project automatically aggregates disposable email domains using curated pub
 └── tld_whitelist.txt         # Manual TLD whitelist
 ```
 
+## Accessing the data
+
+You can access the data with any CDN provider you want however you can access the data easiest with the provided github pages below:
+
+```
+https://dmails.doodadlabs.org/data/active.txt
+https://dmails.doodadlabs.org/data/root.txt
+https://dmails.doodadlabs.org/data/active.txt
+```
+
 ## Data Update Frequency
 
 The dataset is continuously maintained:

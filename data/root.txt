@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-18T03:54:37.129Z
+# Aggregated blacklist generated on 2026-06-18T08:47:03.866Z
  
 0-30-24.com
 0-attorney.com
@@ -19,6 +19,7 @@
 00.ie
 00.msk.ru
 00.pe
+000-webmail.myhome-server.de
 000.pe
 00000000000.pro
 000000000000000.theworkpc.com
@@ -37,6 +38,13 @@
 0009837.com
 000email.com
 000webmail.ddnss.de
+000webmail.ddnss.org
+000webmail.dyn-ip24.de
+000webmail.dyn.ddnss.de
+000webmail.dyn.home-webserver.de
+000webmail.dyndns.ddnss.de
+000webmail.dyndns1.de
+000webmail.home-webserver.de
 00101001.xyz
 001041.xyz
 001216.xyz
@@ -184482,6 +184490,7 @@ tunnell.org
 tunningmail.gdn
 tunrahn.com
 tunschs.ru
+tunthuta.com
 tunzees.com
 tuodormino.online
 tuoficina.online
@@ -207649,6 +207658,7 @@ zzzzzzzzzzzzzz-3535.dynv6.net
 zzzzzzzzzzzzzz-3928.dynv6.net
 zzzzzzzzzzzzzz-3940.dynv6.net
 zzzzzzzzzzzzzz-4283.dynv6.net
+zzzzzzzzzzzzzz-4904.dynv6.net
 zzzzzzzzzzzzzz-5055.dynv6.net
 zzzzzzzzzzzzzz-5246.dynv6.net
 zzzzzzzzzzzzzz-546.dynv6.net

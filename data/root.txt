@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-17T23:46:29.746Z
+# Aggregated blacklist generated on 2026-06-18T03:54:37.129Z
  
 0-30-24.com
 0-attorney.com
@@ -3175,6 +3175,7 @@
 22ov17gzgebhrl.tk
 22pesok.ru
 22stttn.xyz
+22web.org
 22xx33.xyz
 22zollmonitor.com
 23-february-posdrav.ru
@@ -71943,6 +71944,7 @@ free-tools.club
 free-web-mails.com
 free-webmail.com
 free-webmail1.info
+free.je
 free.nf
 free123mail.com
 free24.space
@@ -72025,6 +72027,7 @@ freecustom.email
 freedamoneway.blue
 freeddns.com
 freedealworld.com
+freedev.app
 freedfromdesirly.website
 freedgiftcards.com
 freedivorcelawyers.net
@@ -72107,6 +72110,7 @@ freehealthadvising.info
 freehealthjobs.com
 freehealthytips.xyz
 freehold-lawyer.com
+freehosting.dev
 freehosting.men
 freehosting2010.com
 freehostme.space
@@ -72254,6 +72258,7 @@ freeoptics-els.site
 freeoptics.site
 freeourstreets.com
 freepadho.com
+freepage.cc
 freepalestine.id
 freeparinsmedec.ga
 freeparur.cf
@@ -87884,6 +87889,7 @@ howtinzr189muat0ad.ml
 howtinzr189muat0ad.tk
 howtj.site
 howtk.site
+howto.rocks
 howtoalgebra.com
 howtoanmobile.com
 howtoattractawoman.com
@@ -90522,6 +90528,7 @@ ifpodef.tk
 iframe.name
 iframe.style
 ifrance.site
+ifree.page
 ifrghee.com
 ifruit.cf
 ifruit.ga
@@ -94431,6 +94438,7 @@ irxxz.live
 irydoidy.pl
 iryue.xyz
 is-a.store
+is-best.net
 is-gs.com
 is-halal.tk
 is-open-source.org
@@ -111298,6 +111306,7 @@ lovertboy.online
 loves-ltd.com
 lovesea.gq
 loveshi.cloud
+loveslife.biz
 lovesoftware.net
 lovestoblog.com
 lovestream.live
@@ -116527,6 +116536,7 @@ masarjadeed.com
 masasih.loan
 masaus.biz.id
 masayacasino.com
+masbahlil.xyz
 masbepedia.top
 masbros.my.id
 mascarenha.com
@@ -129225,6 +129235,7 @@ nftuij.us
 nfudo0.com
 nfxr.ga
 nfxr.tk
+nfy.fyi
 nfzead.us
 nfzqga.com
 ng9rcmxkhbpnvn4jis.cf
@@ -166942,6 +166953,7 @@ social-bookmarking-site.info
 social-inbox.com
 social-mailer.tk
 social-network.live
+social-networking.me
 social-tap.com
 socialayz.xyz
 socialbuylikes.com
@@ -181948,6 +181960,7 @@ totaleffectmxformulaserum.com
 totalelectromecanica.com
 totalelliptic.com
 totalfanhub.com
+totalh.net
 totalhealthy.fun
 totalhentai.net
 totalistasyonlari.com
@@ -194828,6 +194841,7 @@ web-wingmen.com
 web.cloudns.org
 web11r.com
 web12r.com
+web1337.net
 web20.club
 web20.services
 web20r.com

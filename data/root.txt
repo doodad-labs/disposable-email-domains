@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-18T20:25:06.137Z
+# Aggregated blacklist generated on 2026-06-18T23:44:39.759Z
  
 0-30-24.com
 0-attorney.com
@@ -16069,12 +16069,14 @@ alatechsource.net
 alatmedsos.shop
 alawfardent.com
 alawin.online
+alazac.org
 alazan.biz
 alazard.info
 alazh.us
 alazharhs.org
 alazhi.org
 alazhs.org
+alazinst.org
 alazs.us
 alazsh.org
 alaztagtc.com
@@ -26766,6 +26768,7 @@ bbograiz.com
 bbokki12.com
 bbomaaaar.ml
 bbomaaaar.tk
+bbooi.com
 bborddd.live
 bbov9y.us
 bbox.com
@@ -44187,6 +44190,7 @@ clue-1.com
 cluevoid.com
 cluevoid.org
 clultracasino.com
+clumb.us
 clumsystraycat.com
 clunker.org
 clunkymembrane.com
@@ -89151,6 +89155,7 @@ hypearound.com
 hypebav.com
 hypebonus.casino
 hypecasino-ugx.online
+hypecazino.site
 hypecenter.casino
 hypedcarts.com
 hypefreehealth.com
@@ -114330,6 +114335,7 @@ mailno1.net
 mailnode.online
 mailnode360.click
 mailnoop.store
+mailnorms.com
 mailnotworking.com
 mailnow2.com
 mailnowapp.com
@@ -187409,6 +187415,7 @@ unlimitedlinuxresellerhosting.com
 unlimitedps3download.com
 unlimitedreviews.com
 unlimitedwebhostingindia.com
+unlimkasinos.com
 unlimpokecoins.org
 unlimvipclub.casino
 unling.site
@@ -187454,6 +187461,7 @@ unobjectiotomail.com
 unofyfcu.com
 unogoalz.club
 unoinku.com
+unomafu.fr
 unomail.com
 unomail9.com
 unomdos.com
@@ -192480,6 +192488,7 @@ volaj.com
 volamtuan.pro
 voland.site
 volantesorsant.es
+volarhub.com
 volary.site
 volatile.email
 volbalt.com
@@ -205108,6 +205117,7 @@ yzmk.ru
 yzmuht.us
 yznakandex.ru
 yznqa.us
+yzoms.com
 yzovka24.ru
 yzovun.site
 yzpcoygst.gq

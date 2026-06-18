@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-18T12:52:27.047Z
+# Aggregated blacklist generated on 2026-06-18T16:57:22.170Z
  
 0-30-24.com
 0-attorney.com
@@ -137417,6 +137417,8 @@ ownrespects.host
 ownsyou.de
 ownyourapps.com
 ownyourown.today
+owo-mailteam.bond
+owo-mailteam.cyou
 owo.so
 owohbfhobr.ga
 owoso.com
@@ -203973,11 +203975,15 @@ yopmail.com
 yopmail.fr
 yopmail.gq
 yopmail.info
+yopmail.loseyourip.com
 yopmail.ml
 yopmail.net
+yopmail.ooguy.com
 yopmail.org
 yopmail.pp.ua
 yopmail.site
+yopmail.theworkpc.com
+yopmail.webredirect.org
 yopmail2.tk
 yopmali.com
 yopmsil.com

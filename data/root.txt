@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-19T21:09:57.271Z
+# Aggregated blacklist generated on 2026-06-19T22:56:56.369Z
  
 0-30-24.com
 0-attorney.com
@@ -204444,6 +204444,8 @@ youthnetworks.info
 youthquakelive.org
 youthqueue.com
 youtjube.waw.pl
+youtube-com-watch-jtpdc8khnpi.bond
+youtube-com-watch-jtpdc8khnpi.cyou
 youtube-page.com
 youtube2vimeo.info
 youtubeabonesatinal.net

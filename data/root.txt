@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-19T15:13:50.117Z
+# Aggregated blacklist generated on 2026-06-19T17:56:52.129Z
  
 0-30-24.com
 0-attorney.com
@@ -103577,6 +103577,7 @@ kontmomo.ml
 konto-w-banku.net
 kontoko.org
 kontol.city
+kontol.cloud
 kontol.co.uk
 kontol.fun
 kontol.guru
@@ -207427,6 +207428,7 @@ zurtel.gq
 zurtel.ml
 zurtel.tk
 zutamail.com
+zutility.biz.id
 zutomayo.best
 zuuel.com
 zuvio.com

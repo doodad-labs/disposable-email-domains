@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-19T17:56:52.129Z
+# Aggregated blacklist generated on 2026-06-19T19:52:35.478Z
  
 0-30-24.com
 0-attorney.com
@@ -113740,6 +113740,7 @@ mailclubonline.com
 mailclubs.info
 mailcoi.my.id
 mailcok.com
+mailcom.cc
 mailcom.cf
 mailcom.ga
 mailcom.gq

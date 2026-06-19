@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-19T04:14:04.443Z
+# Aggregated blacklist generated on 2026-06-19T10:25:14.032Z
  
 0-30-24.com
 0-attorney.com
@@ -6555,6 +6555,7 @@
 521510.com
 52154.monster
 5217.website
+521883.xyz
 5218ag.com
 521gmail.com
 5222gameapk.com
@@ -7377,6 +7378,7 @@
 62712.xyz
 627ds.com
 627gmail.com
+628868.xyz
 62897a64.club
 628gmail.com
 62baster.shop
@@ -136855,6 +136857,8 @@ oupeo.com
 oupt02.com
 oupt03.com
 oupue.com
+oupul8b1k.bond
+oupul8b1k.cyou
 ouqrp.us
 our-own.net
 ourang29.icu
@@ -164214,6 +164218,7 @@ shwetaungcement.org
 shwg.de
 shwintex.com
 shwnshops.com
+shxwonew.xyz
 shy5mz.us
 shyamguesthouse.icu
 shybay.shop

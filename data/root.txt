@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-19T22:56:56.369Z
+# Aggregated blacklist generated on 2026-06-20T03:35:58.921Z
  
 0-30-24.com
 0-attorney.com
@@ -22962,6 +22962,7 @@ auliperjaka.com
 auloc.com
 aulostnmail.com
 aultmantyner.com
+auluckygreencasino.com
 aumails.ru
 aumails.us
 aumentarpenis.net
@@ -32990,6 +32991,7 @@ booi-rush.top
 booi.beauty
 booi.website
 booi777glory.top
+booiki.site
 boojoe.com
 book-bean.com
 book-buzzes.com
@@ -38754,6 +38756,7 @@ casino-club.com.ar
 casino-days-login.com
 casino-extra.io
 casino-for-real-money.com
+casino-hype.online
 casino-joser.com
 casino-online.rocks
 casino-pinup21.live
@@ -40669,6 +40672,7 @@ champagneposters.com
 champbennett.com
 champcaps.com
 champing.org
+champion-casino.world
 champion-ins.com
 champion-spinwin.skin
 champion-spinwin.website
@@ -48345,6 +48349,7 @@ cryptoboss777vegas.top
 cryptoboss7zerkalo.casino
 cryptoboss888casino8.buzz
 cryptoboss995.top
+cryptobosscasino04.com
 cryptobosswin7.casino
 cryptobrancaemail.com
 cryptocademy.info
@@ -53483,6 +53488,7 @@ dfgfg.com
 dfgggg.org
 dfgh.net
 dfghj.ml
+dfghjertyh.dynv6.net
 dfghsdfgsdfgdsf.fun
 dfgmasgsgasgdg89.cloud
 dfgtbolotropo.com
@@ -128158,6 +128164,7 @@ nestxmail.org
 nesuppe.site
 nesy.pl
 nesy.site
+net-konkatsu.com
 net-led.com.pl
 net-link.biz
 net-list.com
@@ -149771,6 +149778,7 @@ quikmailvip.com
 quikmobi.com
 quilfast.com
 quiline.com
+quillbot123.com
 quillcenter.com
 quillet.eu
 quilleyschool.com
@@ -177098,6 +177106,7 @@ textcasi.tk
 textel.id
 texters.ru
 textfrees.us
+textfreess.us
 textildesign24.de
 textile-23.ru
 textilelife.ru
@@ -204444,8 +204453,17 @@ youthnetworks.info
 youthquakelive.org
 youthqueue.com
 youtjube.waw.pl
+youtube-com-watch-jtpdc8khnpi.accesscam.org
 youtube-com-watch-jtpdc8khnpi.bond
 youtube-com-watch-jtpdc8khnpi.cyou
+youtube-com-watch-jtpdc8khnpi.dedyn.io
+youtube-com-watch-jtpdc8khnpi.freeddns.org
+youtube-com-watch-jtpdc8khnpi.gleeze.com
+youtube-com-watch-jtpdc8khnpi.loseyourip.com
+youtube-com-watch-jtpdc8khnpi.mywire.org
+youtube-com-watch-jtpdc8khnpi.ooguy.com
+youtube-com-watch-jtpdc8khnpi.theworkpc.com
+youtube-com-watch-jtpdc8khnpi.webredirect.org
 youtube-page.com
 youtube2vimeo.info
 youtubeabonesatinal.net

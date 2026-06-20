@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-20T10:32:01.678Z
+# Aggregated blacklist generated on 2026-06-20T14:01:46.762Z
  
 0-30-24.com
 0-attorney.com
@@ -25462,6 +25462,8 @@ baianabrands.store
 baiananet.site
 baiaobots.online
 baiasprie.com
+baicai1145.online
+baicai1145.shop
 baicaicai.com
 baicaill.com
 baichuan-yl.com
@@ -88355,6 +88357,7 @@ huamicme.gq
 huamicme.tk
 huamo.lat
 huang-f.top
+huangao.xyz
 huangboyu.com
 huanggg.fun
 huangjins.com
@@ -114712,6 +114715,7 @@ mailtaubenschlag.de
 mailteampxx.info
 mailtechs.space
 mailtechx.com
+mailtecom.com
 mailtelig.site
 mailtemp.dev
 mailtemp.fr
@@ -131331,6 +131335,7 @@ novamails.my
 novamcleanpsych.com
 novanova.site
 novaopcj.icu
+novaprime.vip
 novartismails.com
 novasagres.com
 novashere.site
@@ -132254,6 +132259,7 @@ nxbrasil.net
 nxbxni.us
 nxcofgmmsu.ga
 nxdata.site
+nxdbxd.top
 nxde.shop
 nxdgrll3wtohaxqncsm.cf
 nxdgrll3wtohaxqncsm.gq
@@ -157693,6 +157699,7 @@ rxejyohocl.ga
 rxg-att.com
 rxhealth.com
 rxiiio.com
+rxinai.com
 rxit.com
 rxking.me
 rxlakbrw.site
@@ -207713,6 +207720,7 @@ zzzzzzzzzzzzzz-4904.dynv6.net
 zzzzzzzzzzzzzz-5055.dynv6.net
 zzzzzzzzzzzzzz-5246.dynv6.net
 zzzzzzzzzzzzzz-546.dynv6.net
+zzzzzzzzzzzzzz-739.dynv6.net
 zzzzzzzzzzzzzz-7619.dynv6.net
 zzzzzzzzzzzzzz-7911.dynv6.net
 zzzzzzzzzzzzzz-8050.dynv6.net

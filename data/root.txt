@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-20T23:08:06.081Z
+# Aggregated blacklist generated on 2026-06-21T04:08:27.634Z
  
 0-30-24.com
 0-attorney.com
@@ -23242,6 +23242,7 @@ autocatfmk.com
 autocatmail.com
 autocereafter.xyz
 autocloud49.xyz
+autoclubcar.com
 autocompany.com.br
 autoconcorp.com
 autocoverage.ru
@@ -35585,6 +35586,8 @@ burner.fund
 burnercoach.com
 burneremailid.com
 burnerinbox.net
+burnermail.bond
+burnermail.cyou
 burnermail.io
 burnfats.net
 burnfatsaratoga.com
@@ -80853,6 +80856,7 @@ gthgvt.site
 gthigh.us
 gthosing.net
 gthpprhtql.pl
+gthsedu.us
 gthw.com
 gthyjuytr.dynv6.net
 gti-ltd.com
@@ -108156,6 +108160,7 @@ liceomajoranarho.it
 licepann.com
 lichten-nedv.ru
 lichthidauworldcup.net
+lichtruyenhinh.net
 lichtstark.media
 licilici.com
 licinusrance.com
@@ -201243,6 +201248,8 @@ xn--zfrx2s8zjyubeziw03f.xn--j6w193g
 xn--zoa.fyi
 xn--ztsu23a.com
 xn-1.com.de
+xn-xp8h.bond
+xn-xp8h.cyou
 xnalbhqnli.ga
 xnb.pw
 xncunlimited.com

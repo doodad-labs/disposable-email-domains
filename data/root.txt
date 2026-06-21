@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-21T04:08:27.634Z
+# Aggregated blacklist generated on 2026-06-21T09:48:46.905Z
  
 0-30-24.com
 0-attorney.com
@@ -9705,6 +9705,7 @@
 8619927.com
 86263d.com
 86263v.com
+862808.xyz
 8636.fun
 8639927.com
 864443.com
@@ -14382,6 +14383,7 @@ aftnfeyuwtzm.ga
 aftnfeyuwtzm.gq
 aftnfeyuwtzm.ml
 aftnfeyuwtzm.tk
+aftr.cloud
 aftttrwwza.com
 afud.com
 afullstackproject.com
@@ -91806,6 +91808,7 @@ inboxhub.net
 inboxhub.se
 inboxify.me
 inboxkitten.com
+inboxku.site
 inboxlabs.io
 inboxlabs.net
 inboxliftsz.com
@@ -96712,6 +96715,7 @@ jeddyworld.online
 jediai.net
 jedojour.com
 jedrnybiust.pl
+jedugpro.web.id
 jeeb.trade
 jeeet9.live
 jeenza.com
@@ -96834,6 +96838,7 @@ jenclaydonediting.com
 jendralbola.com
 jengvotravels.buzz
 jeniferconely.site
+jenile.biz.id
 jenishungry.com
 jeniyascart.shop
 jenjustleft.com
@@ -110820,6 +110825,7 @@ lorientediy.com
 lorimer.co
 lorimorindustries.com
 lorinhouse.co
+lorior.my.id
 lorisgarden.net
 lorislittlelearners.com
 lorkex.com
@@ -113725,6 +113731,7 @@ mailcc.gq
 mailcc.icu
 mailcc.ml
 mailcc.tk
+mailccmaiores.my.id
 mailcdn.ml
 mailch.buzz
 mailch.com
@@ -149316,6 +149323,7 @@ qsolvr.com
 qson.net
 qsr.li
 qssapps.website
+qsuo.uno
 qswggcpgix.ga
 qsxer.com
 qsxheepv.shop
@@ -196107,6 +196115,7 @@ wheretohuntintexas.com
 whereuntil.xyz
 whermt2.com
 whetzone.com
+whf222.top
 whgdfkdfkdx.com
 whgrid.com
 whguyr.site
@@ -206367,6 +206376,7 @@ zhimails.work
 zhinex.online
 zhitnadovkaifotivse.xyz
 zhizhiwei.fun
+zhjjq.tech
 zhkmywb.site
 zhkzux.shop
 zhm.us

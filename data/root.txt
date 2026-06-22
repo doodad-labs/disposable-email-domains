@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-22T04:09:14.379Z
+# Aggregated blacklist generated on 2026-06-22T11:52:27.216Z
  
 0-30-24.com
 0-attorney.com
@@ -67759,6 +67759,7 @@ fbmojo.com
 fbomultinational.com
 fbooktracking.online
 fboss3r.info
+fboxmail.com
 fbpintl.asia
 fbpoint.net
 fbpubi.com
@@ -82645,6 +82646,7 @@ handdecting.cf
 handelarchitectsr.com
 handelo.com.pl
 handgling.website
+handh.com.pl
 handheld-3dscan-fg.com
 handikap35.com
 handimedia.com
@@ -90770,6 +90772,7 @@ ihlopbrfm.shop
 ihm6rq.com
 ihmail.store
 ihmehl.com
+ihmeresearch3828506.dedyn.io
 ihmi-iiml.com
 ihnpo.com
 ihnpo.food
@@ -207132,6 +207135,7 @@ zoommate.my.id
 zoomnation.info
 zoomnavi.net
 zoomnet.my.id
+zoomnetclick.com
 zoomnova.biz.id
 zoomofficechairs.co.uk
 zoompro.fun

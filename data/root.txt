@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-21T23:12:17.404Z
+# Aggregated blacklist generated on 2026-06-22T04:09:14.379Z
  
 0-30-24.com
 0-attorney.com
@@ -153763,6 +153763,7 @@ reseau-pae.com
 reseauparlementairegenre.cd
 resellermurah.me
 resellhotel.site
+resend.app
 resepantigagal.site
 resepbersama.art
 resepbersamakita.art

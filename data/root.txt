@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-22T11:52:27.216Z
+# Aggregated blacklist generated on 2026-06-22T16:54:55.252Z
  
 0-30-24.com
 0-attorney.com
@@ -79763,6 +79763,7 @@ grabnet.xyz
 grabonyourway.com
 grabphcasinologin.com
 grabphcomcasinologin.com
+grabpon.com
 grabworldinfo.com
 graceconsultancy.com
 gracefilledblog.com
@@ -167174,6 +167175,7 @@ soft4load.xyz
 softanswer.ru
 softautotool.com
 softballball.com
+softbank.id
 softbank.jp
 softbank.ne.jp
 softbank.tk

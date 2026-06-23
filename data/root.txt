@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-23T03:29:45.694Z
+# Aggregated blacklist generated on 2026-06-23T07:49:19.417Z
  
 0-30-24.com
 0-attorney.com
@@ -74339,6 +74339,7 @@ gamers-like-us.com
 gamersbrand.com
 gamersdady.com
 gamersland.club
+gamersnest.top
 games-games.online
 games-germany.xyz
 games-hosts.com
@@ -102311,6 +102312,7 @@ kingofplace.site
 kingofpowergreen.net
 kingofprussiavaricoseveins.com
 kingortak.com
+kingortown.site
 kingpayday.com
 kingphisher.info
 kingpin-intelligence.com
@@ -114899,6 +114901,7 @@ mailxtr.eu
 mailxx.cf
 mailxx.gq
 maily.info
+maily.lat
 maily.website
 mailyaha.ru
 mailyan.my.id

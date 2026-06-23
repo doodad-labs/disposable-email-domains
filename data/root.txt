@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-23T17:53:56.427Z
+# Aggregated blacklist generated on 2026-06-23T20:03:31.917Z
  
 0-30-24.com
 0-attorney.com
@@ -37032,6 +37032,7 @@ caddiespray.com
 caddoazga.space
 cade.com
 cade.org.uk
+cadebek.com
 caden.science
 cadenceatlantic.com
 caderno.app
@@ -76636,6 +76637,7 @@ ghuib.com
 ghulamid.me
 ghumel.site
 ghunel.com
+ghuti.com
 ghv.pics
 ghvv.click
 ghxdw.info
@@ -161277,6 +161279,7 @@ securehealthcareit.com
 securehost.com.es
 secureinvox.com
 securemail.cf
+securemail.edu.pl
 securemail.gq
 securemail.solutions
 securemaill.ga

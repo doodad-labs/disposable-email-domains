@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-23T23:08:31.000Z
+# Aggregated blacklist generated on 2026-06-24T03:31:29.026Z
  
 0-30-24.com
 0-attorney.com
@@ -55191,6 +55191,7 @@ div-inc.com
 div3xi.com
 diva.live
 divad.ga
+divahd.com
 divalia.cf
 divamodelslive.com
 divan-matras.info
@@ -69630,6 +69631,7 @@ fishinnpost.com
 fishlozktm.space
 fishmail.top
 fishnets.xyz
+fishnone.com
 fishnspin.com
 fishpomd.com
 fishprawncrab1.online
@@ -96599,6 +96601,7 @@ jcscloudcontrol.com
 jcss.us.com
 jcsub.com
 jcswp.com
+jctoto.com
 jcumminsdesign.com
 jcv2yv.com
 jcxldn.net
@@ -130967,6 +130970,7 @@ nopino.com
 nopiquis.cat
 noplay.org
 nopost.fr
+noproposal.com
 noproxy.zapto.org
 nopujisoth.com
 noquestionsaskedinsurance.com

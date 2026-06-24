@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-24T17:53:53.119Z
+# Aggregated blacklist generated on 2026-06-24T19:44:54.890Z
  
 0-30-24.com
 0-attorney.com
@@ -26173,6 +26173,7 @@ barbabas.space
 barbados-nedv.ru
 barbarabottini.com
 barbaragalise55places.com
+barbaragriz.store
 barbaram30593.buzz
 barbarbu.fr
 barbarianfestival.com
@@ -36519,6 +36520,7 @@ bycy.xyz
 byd686.com
 bydanielgilley.com
 bydenyingh.icu
+bydfi.com
 byebyemail.com
 byedacetin.net
 byeducation.site
@@ -38399,6 +38401,7 @@ carhotempowerbridge.site
 cariadrecords.com
 caribbeancruisessale.com
 caribbeanmedjourney.com
+carient.com
 carinamiranda.org
 caring-relief.ru
 caringculture.site
@@ -97326,6 +97329,7 @@ jgfrpy.us
 jgi21rz.nom.pl
 jgj11277.com
 jgjboeow.com
+jgkcr.com
 jgkh.com
 jglobal.org
 jglopez.net
@@ -167681,6 +167685,7 @@ solinvestments.com
 solinvictusguild.com
 solioutlets.site
 solirallc.com
+soliset.com
 solitaire-sunshine.com
 solitaireminerals.com
 solitermail.com
@@ -168407,6 +168412,7 @@ spaclick.online
 spacted.site
 spade69casino.net
 spaereplease.com
+spaexi.com
 spagyrichemp.com
 spahealth.club
 spahealth.online

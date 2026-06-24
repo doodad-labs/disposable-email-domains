@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-24T07:40:10.247Z
+# Aggregated blacklist generated on 2026-06-24T10:48:59.366Z
  
 0-30-24.com
 0-attorney.com
@@ -13689,6 +13689,7 @@ adsorboil.com
 adsordering.com
 adspecials.us
 adsphere.online
+adsprite.com
 adstabym.cf
 adstabym.ml
 adstabym.tk
@@ -17552,6 +17553,7 @@ alumnimp3.xyz
 alumnioffer.com
 alumnismfk.com
 alumnosmontserrat.es
+alunm.com
 alunord.com
 alunord.pl
 aluppriv.cf
@@ -55238,6 +55240,7 @@ diu.best
 diujungsenja.online
 diureticmyu.ru
 diuretimail.com
+diurstb.com
 diutiurnal.site
 diuwindownloadapk.com
 diuz.com
@@ -112349,6 +112352,7 @@ luxpolar.com
 luxry.ga
 luxsev.com
 luxsvg.net
+luxudata.com
 luxurating.com
 luxurious.com
 luxuriousdiamondsllc.net

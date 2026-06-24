@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-24T10:48:59.366Z
+# Aggregated blacklist generated on 2026-06-24T14:27:36.652Z
  
 0-30-24.com
 0-attorney.com
@@ -18305,6 +18305,7 @@ anaheimnursejobs.com
 anaheimopiaterehab.com
 anaheimquote.com
 anahiem.com
+anajakstore.site
 anakavi.net
 anakayam99.live
 anakcapcut.store
@@ -30989,6 +30990,7 @@ bivehe.xyz
 biversolutions.com
 bivetyphotography.xyz
 bivforbrooklyn.com
+biweia615.icu
 bixbet161.com
 bixmo.click
 bixolabs.com
@@ -48419,6 +48421,7 @@ cryptoconseils.com
 cryptocore.site
 cryptocron.com
 cryptocrowd.mobi
+cryptocustomercare.us
 cryptodinbog.com
 cryptodon.space
 cryptodough.life
@@ -55029,6 +55032,7 @@ disinespace.uk.com
 disingenuouomail.ru
 disingme.ru
 disintmalary.ru
+disiok.com
 disipulo.com
 disisto.com
 diskilandcruiser.ru
@@ -98075,6 +98079,7 @@ jmsbbs.com
 jmsep.com
 jmsmashie.tk
 jmstories.com
+jmt2469.xyz
 jmutang.com
 jmvachondesign.com
 jmvdesignerstudio.com
@@ -131966,6 +131971,7 @@ ntslink.net
 ntspace.shop
 ntt.gotdns.ch
 ntt2704.com
+nttools.io.vn
 ntub.cf
 ntudofutluxmeoa.cf
 ntudofutluxmeoa.ga
@@ -191841,6 +191847,7 @@ vipmail.pl
 vipmail.pw
 vipmail.today
 vipmassagedubai247.com
+vipmba.cc
 vipmgm10.com
 vipmovie.xyz
 vipmp3.site
@@ -192439,6 +192446,7 @@ vl2ivlyuzopeawoepx.tk
 vlad-alekseev.com
 vlad-webdevelopment.ru
 vlad.pm
+vladhub.buzz
 vladimirasade.online
 vladinews.space
 vladislav-voloshenko.com

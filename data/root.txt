@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-25T10:41:03.183Z
+# Aggregated blacklist generated on 2026-06-25T14:31:30.472Z
  
 0-30-24.com
 0-attorney.com
@@ -119538,6 +119538,7 @@ methode-casino.com
 methodfmail.com
 methodginger.com
 methodismail.com
+methodkeep.my.id
 methodologimail.com
 methylamail.com
 metin1.pl

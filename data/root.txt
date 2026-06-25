@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-25T18:09:19.209Z
+# Aggregated blacklist generated on 2026-06-25T21:41:36.671Z
  
 0-30-24.com
 0-attorney.com
@@ -28395,6 +28395,7 @@ bestdownjackets.com
 bestdrones.store
 bestdvdblurayplayer.com
 beste-slots-online.host
+bestecasinonorge24.com
 bestecigshop.com
 bestelectroscooters.com
 bestemail.bid
@@ -38842,6 +38843,7 @@ casinoabc999.com
 casinoadmiral.lt
 casinoaffiliateprograms.com
 casinoalpha.ca
+casinoangebote24.com
 casinoarizona.info
 casinoatlantic.net
 casinoaustralia-best.com
@@ -38905,6 +38907,7 @@ casinofun.com
 casinogamblingchamp.com
 casinoganamax.com
 casinoggbet.net
+casinogidsnl.com
 casinogm.es
 casinogranmadrid.es
 casinogratowin.info
@@ -39049,6 +39052,7 @@ casinovegas69.com
 casinoveneto.com.mx
 casinoveneto.net
 casinovenus.info
+casinovergleichde.com
 casinovice.com
 casinovictoria.com.ar
 casinovip.ru
@@ -53201,6 +53205,7 @@ deutsch-nedv.ru
 deutsch-sprachschule.de
 deutscher-linkkatalog.de
 deutscher-webkatalog.org
+deutschescasinoguide.com
 deutschland-update-sicherheit-241236.top
 deutschlandcasinos.host
 dev-gaming.org
@@ -71878,6 +71883,7 @@ france-legal.com
 france-monclers.com
 france-nedv.ru
 france3-44lafranceliberee.com
+francecasinobonus.com
 francemedecine.online
 francemel.com
 francemonclerpascherdoudoune1.com
@@ -104452,6 +104458,7 @@ kryptex.cf
 kryptex.gq
 kryptexsecuremax.club
 kryptexsecuremax.xyz
+kryptocasinotest.com
 krypton.tk
 kryptone.market
 kryptoninvest.software
@@ -131233,6 +131240,8 @@ norreg.com
 norrstev.com
 norsa.com.br
 norseforce.com
+norskcasinoanmeldelse.com
+norskcasinotest.com
 norsknettmuseum.no
 norstil.com
 nortedecorrientes.com
@@ -162375,6 +162384,7 @@ seomarketleaders.com
 seomastergroup.com
 seomediadesign.online
 seomkt.dad
+seomodul.ru
 seomoz.org
 seondes.com
 seoneo.app
@@ -168947,6 +168957,7 @@ spikeworth.com
 spikeysix.site
 spikio.com
 spillcar.xyz
+spillcasino24.com
 spillfres.xyz
 spillplea.red
 spilt-test.bar
@@ -179140,6 +179151,7 @@ thethreaderista.it.com
 thethyroiddiseasesecret.com
 thetimeplease.com
 thetimothyprojects.com
+thetinyfishing.store
 thetips.dev
 thetivilebonza.com
 thetlilin.gq
@@ -182023,6 +182035,7 @@ toppieter.com
 topplase-es.site
 topplayers.fun
 toppling.com
+toppnorskcasino.com
 toppornlists.com
 toppriceshp-rp.space
 topqualityjewelry.info
@@ -195411,6 +195424,7 @@ webmails.top
 webmails24.com
 webmailshark.com
 webmailt.com
+webmailus.com
 webmailwc.com
 webmailzx.com
 webmani.top
@@ -197452,6 +197466,7 @@ wise-04.com
 wise-06.com
 wise-07.com
 wise-08.com
+wisecasinopicks.com
 wisechoiceinvestors.com
 wiseeyessecurity.com
 wiseflow.se

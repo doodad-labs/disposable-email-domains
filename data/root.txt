@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-25T03:29:26.560Z
+# Aggregated blacklist generated on 2026-06-25T07:41:20.328Z
  
 0-30-24.com
 0-attorney.com
@@ -107919,6 +107919,7 @@ levfatecraft.icu
 levfortis.cyou
 levfy.com
 levi02.me
+leviacerman.store
 leviatereview.com
 levietthanh.info
 levis-jeans.us
@@ -145883,6 +145884,7 @@ prems.id
 prems4hue.tk
 premsbyls.gq
 premstud.site
+premsy.net
 premthings.shop
 prenatalyoga-shanghai.com
 prenball.com
@@ -147699,6 +147701,7 @@ ptmdtuzqutqq.ru
 ptmm.com
 ptncereio.com
 ptnpfvrkvx.ga
+ptnstudio.vn
 ptolbv.info
 ptpigeaz0uorsrygsz.cf
 ptpigeaz0uorsrygsz.ga

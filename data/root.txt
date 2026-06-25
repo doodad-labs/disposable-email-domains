@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-24T23:03:09.418Z
+# Aggregated blacklist generated on 2026-06-25T03:29:26.560Z
  
 0-30-24.com
 0-attorney.com
@@ -17418,6 +17418,7 @@ altadefinizione.download
 altadefinizione01.buzz
 altadviser.com
 altaenergia.net
+altai.ip-ddns.com
 altairwe.us
 altamed.com
 altametrics.net

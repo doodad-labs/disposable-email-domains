@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-25T21:41:36.671Z
+# Aggregated blacklist generated on 2026-06-25T23:17:16.593Z
  
 0-30-24.com
 0-attorney.com
@@ -5619,6 +5619,7 @@
 4636552.com
 463bv.space
 465279.com
+465betcasino.com
 465gmail.com
 466betapp.net
 466gmail.com
@@ -7712,6 +7713,7 @@
 66aabet.info
 66betcasino.info
 66betlogin.info
+66biolinks.net
 66br88.com
 66clubbet.com
 66ddy.com
@@ -7776,6 +7778,7 @@
 676niu.com
 6774445.com
 6777776.xyz
+6777cxgame.com
 677betcasino.info
 677betcasinologin.com
 677lu.com
@@ -8767,6 +8770,7 @@
 777casinonl.info
 777cb.info
 777colorgame.net
+777cs.net
 777csgame.com
 777cx.org.pk
 777dichoso.com
@@ -13106,6 +13110,7 @@ ad2linx.org
 ad2pixel.com
 ad6.net
 ad777gamelogin.com
+ad786.info
 ada-duit.ga
 ada-janda.ga
 ada-remont.ru
@@ -16086,6 +16091,7 @@ alawin.online
 alazac.org
 alazan.biz
 alazard.info
+alazh.org
 alazh.us
 alazharhs.org
 alazhi.org
@@ -20246,6 +20252,7 @@ apptelstabl.monster
 apptestqa.com
 apptied.com
 apptip.net
+apptk88.net
 apptonic.tech
 apptova.com
 apptrackernow.com
@@ -23103,6 +23110,7 @@ aussiematureclub.com
 aussiepersonal.loan
 aussiepersonal.loans
 aussiesmut.com
+austaycasino.net
 austbikemart.com
 austhq.shop
 austimail.com
@@ -28838,6 +28846,7 @@ bet49design.xyz
 bet4shop.com
 bet558casino.info
 bet558casino.net
+bet629gameapk.com
 bet666casino.net
 bet669login.com
 bet69.space
@@ -31142,6 +31151,7 @@ bk19e6.us
 bk2010.club
 bk8casino.info
 bk8casinologin.net
+bk8sglogin.com
 bk8vietnam.net
 bk8xamvn.com
 bk999gameapk.net
@@ -39688,6 +39698,7 @@ ccoedu.us
 ccoi.com
 ccoinxsm.site
 ccol.us
+ccolumb.us
 ccomaz.fun
 ccon4.xyz
 cconscious.com
@@ -39890,6 +39901,7 @@ ceefax.co
 ceelv.com
 ceenaudi.com
 ceer.com
+ceescat.org
 cef.cn
 cefer.xyz
 cefind.net
@@ -42263,6 +42275,7 @@ chowderheartland.site
 chowet.site
 choxetoanquoc.com
 chp74.com
+chpcp.org
 chqtgpt.id
 chqu.school
 chqydmxsfs.ga
@@ -43403,6 +43416,7 @@ clb88club.com
 clbed.us
 clbedu.us
 clbetssoncasino.com
+clbetwarrior.cl
 clbizzocasino.com
 clbsc.us
 clbss.us
@@ -43416,6 +43430,7 @@ clcasinowin.com
 clcasinowinchile.com
 clckgumshoe.us
 clckz.com
+clcolbetcasino.cl
 clcoolbetcasino.com
 clcraftworks.com
 cldqbt.icu
@@ -46738,6 +46753,7 @@ coppertreeanalytics.mobi
 coppicsjqv.space
 copriit.xyz
 coprolite.com
+copronosticos365.co
 copticnn.net
 copventnfulezas.tk
 copy5.com
@@ -65533,6 +65549,7 @@ exathat.tk
 exatpay.gq
 exatpay.ml
 exatpay.tk
+exavzir.site
 exbackonline.com
 exbcgj.rest
 exboag.us
@@ -76602,6 +76619,7 @@ ghatedu.us
 ghatefar.com
 ghathigh.us
 ghaths.us
+ghatk.us
 ghatkedu.us
 ghatkh.us
 ghatkhal.us
@@ -77398,6 +77416,7 @@ gkhmpj.fun
 gkhs.us
 gkhsc.us
 gkhsch.us
+gkhsed.us
 gkhsedu.us
 gkjeee.com
 gkjgsxupc.shop
@@ -105537,6 +105556,7 @@ laclapalace.design
 laclarenmail.ml
 laco.fun
 lacocaklassik.com
+lacompagnieduvoyage.net
 laconciergerie247.com
 laconicoco.net
 laconte.ga
@@ -107020,6 +107040,7 @@ learnislaminbangla.com
 learnmail.online
 learnmaths.net
 learnmyanmar.online
+learnphilanthropy.net
 learnphotoshop.info
 learnqolapp.com
 learnquranandtajweed.com
@@ -110547,6 +110568,7 @@ logistica40.net
 logistics-support.ga
 logisticscorp.us
 logitechg.online
+logitechg28.com
 logiteech.com
 logmail.fr
 logmail.store
@@ -121692,6 +121714,7 @@ mmlaaxhsczxizscj.gq
 mmlaaxhsczxizscj.tk
 mmlaipoowo.xyz
 mmlinks.net
+mmluck888.com
 mmm-coinex.info
 mmm-invest.biz
 mmmail.pl
@@ -129575,6 +129598,7 @@ ngowscf.pl
 ngplayer.com
 ngqfvjtwei.ga
 ngqn.icu
+ngrave.digital
 ngreasr.ru
 ngroove.com
 ngscloud.space
@@ -141889,8 +141913,10 @@ phpbrasil.org
 phpcode.website
 phpduglist.info
 phph777.ph
+phphpfamous.ph
 phpieso.com
 phplaytimecasino.ph
+phplus11ph.com
 phpluscasino.ph
 phpmail.pro
 phponeclubcasino.com
@@ -144367,6 +144393,7 @@ polyphonimfri.com
 polyplacemail.ru
 polyplemail.ru
 polyskinwax.biz
+polysmail.com
 polysolext.cloud
 polysolextcoin.cloud
 polyswarms.com
@@ -153549,6 +153576,7 @@ remight.site
 remilimail.com
 remilitarizes329uj.online
 remilitarmail.com
+reminerakl.ru
 remineralmail.com
 remingtonaustin.com
 remisde.cf
@@ -155128,6 +155156,7 @@ rilohaf.ml
 riltimar.online
 rilvex.site
 rilynett.com
+rilzz.store
 rilzzstore.co.uk
 rim7lth8moct0o8edoe.cf
 rim7lth8moct0o8edoe.ga
@@ -175396,6 +175425,7 @@ tconamear.gq
 tconamear.ml
 tconamear.tk
 tconnectionsinc.com
+tcpsrilanka.org
 tcrpublic.com
 tcscelikyapi.com
 tcsh6f.site
@@ -181552,6 +181582,7 @@ tomeshoes.online
 tomevault.com
 tomevault.net
 tomevault.org
+tomfecht.com
 tomfln.com
 tomi.jp
 tomjoneswatches.net
@@ -207374,6 +207405,7 @@ zonemerah.net
 zonenova.com
 zonenova.org
 zoneplusai.com
+zoneprerierbetrdc.co
 zonepyramid.com
 zonerig.com
 zonesmartai.com

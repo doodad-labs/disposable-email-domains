@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-26T17:47:06.221Z
+# Aggregated blacklist generated on 2026-06-26T19:46:30.182Z
  
 0-30-24.com
 0-attorney.com
@@ -9265,6 +9265,7 @@
 7xsmoke.com
 7xusq8vbim5d47.icu
 7xy.me
+7ybig.lat
 7ymail.com
 7ymdfc.site
 7yt1l6.us
@@ -12015,6 +12016,7 @@ abejn.site
 abeloori.com
 abem.info
 abematv.com
+abematv.org
 abenaroyalmedia.com
 abendkleidergunstig.net
 abendschoen.com
@@ -12612,6 +12614,7 @@ acedatacenter.com
 acedby.com
 acee9.live
 acegsibrio.ga
+aceh.cc
 aceh.coffee
 acehbola.shop
 acehbolaplays.pro
@@ -28882,6 +28885,7 @@ bet99promotions.com
 bet9jacasinologin.com
 bet9jashop.info
 bet9k.net
+bet9s.lat
 beta-access.online
 beta.edu.pl
 betaalverzoek.cyou
@@ -37056,6 +37060,7 @@ cac-ic.com
 caca69.com
 cacanhbaoloc.com
 cacao.organic
+cacau.lat
 cacbmusica.com
 cachacacrafters.store
 cachealaska.net
@@ -39743,6 +39748,7 @@ ccsoh.org
 ccsuncare.com
 cctoolz.com
 cctrl.org
+cctruyen.com
 cctsconsulting.com
 cctvcamerasrus.xyz
 cctyoo.com
@@ -44310,6 +44316,7 @@ clxtch.com
 cly1au.us
 clyde.net
 clymerconsulting.net
+clyne.lat
 clyvantis.cfd
 clzo.com
 clzoptics.com
@@ -47756,6 +47763,7 @@ creality3dturkiye.com
 creality3dturkiye.xyz
 crealyn.biz.id
 cream.in.ua
+cream.lat
 cream.pink
 cream4tattoos.com
 creamail.info
@@ -76225,10 +76233,12 @@ getmymail.online
 getnada.cc
 getnada.cf
 getnada.com
+getnada.email
 getnada.ga
 getnada.gq
 getnada.me
 getnada.ml
+getnada.net
 getnada.tk
 getnearlive.com
 getnede.com
@@ -77633,6 +77643,7 @@ glgi.net
 glhfv.ru
 glibmail.online
 glick.tk
+glide.lat
 glidefea.xyz
 glidefun.xyz
 glidescal.us
@@ -82151,6 +82162,7 @@ habad.win
 habanerogh.com
 habatech.net
 habb.futbol
+habbo.lat
 habboftpcheat.com
 habbuntt.com
 habeascorpus.ru
@@ -83260,6 +83272,7 @@ harmony.watch
 harmonyclassroom.com
 harmonyfiberart.com
 harmonymediation.org
+harmonyossdk.com
 harmonyradio.org
 harmonyst.xyz
 harmonystarkennelfrenchbulldogs.com
@@ -96063,6 +96076,7 @@ jaga.email
 jagadgurubhanpura.info
 jagbreakers.com
 jagdglas.de
+jager.lat
 jaggernaut-email.bid
 jaggernautemail.bid
 jaggernautemail.trade
@@ -100342,8 +100356,11 @@ kalihouse.com
 kaliltech.com
 kalimacal.cfd
 kalimail.me
+kalimantanbarat.net
 kalimantanselatan.net
 kalimantantengah.net
+kalimantantimur.net
+kalimantanutara.net
 kalinagallery.com
 kalindesiraye.com
 kaling.fun
@@ -101536,6 +101553,7 @@ kepnet.com
 kepo.ml
 kepqs.ovh
 kepsofdpve.ga
+kepulauanriau.net
 keqptg.com
 kera.pl
 keralaairport.net
@@ -109112,6 +109130,7 @@ linkfree.site
 linkgoitr.ml
 linkhivezone.com
 linkhound.net
+linki.lat
 linki321.pl
 linki9bet.com
 linkibcbet.club
@@ -112438,6 +112457,7 @@ luxury-design.pl
 luxury-handbagsonsale.info
 luxury-master.xyz
 luxury-travel.xyz
+luxury345.com
 luxuryalcoholrehabprograms.com
 luxuryasiaresorts.com
 luxurybet138.com
@@ -113648,6 +113668,7 @@ mail123.cloud
 mail123.club
 mail123.com.br
 mail123.fr
+mail123box.tech
 mail12h.com
 mail132.com
 mail14.pl
@@ -115581,6 +115602,7 @@ maltepedekimatbaalar.com
 maltepeingilizcekurslari.com
 maltepelisesi.xyz
 maltiy.space
+malukuutara.net
 malurl.com
 malvesia.com
 malvolion.com
@@ -116574,6 +116596,7 @@ markmail.site
 markmel.xyz
 markmkw.cloud
 markmurfin.com
+marko.lat
 markoai.my.id
 markonedesign.info
 markopinball.info
@@ -119055,6 +119078,7 @@ meningoencephli.com
 meningoencmail.com
 meniro.beauty
 menitao.com
+menji.lat
 menjual.xyz
 menkououtlet-france.com
 menmosi.cf
@@ -132319,6 +132343,8 @@ nusahomeinteriors.com
 nusamail.web.id
 nusamart.site
 nusantara-news-indonesia.my.id
+nusatenggarabarat.net
+nusatenggaratimur.net
 nuself.ru
 nusites.info
 nusoe.xyz
@@ -137731,6 +137757,7 @@ own-systems.de
 own-tube.com
 ownchatserver.com
 owncloud.design
+owner.lat
 ownerba.xyz
 ownerbanking.org
 ownerbasi.xyz
@@ -137908,6 +137935,7 @@ oyylmao.xyz
 oz-online.net
 ozabor.xyz
 ozanilan8.xyz
+ozark.lat
 ozark.store
 ozarkconference.org
 ozarksociety.net
@@ -138718,6 +138746,7 @@ pancreaticprofessionals.com
 pancrelcgq.space
 pancremail.com
 pancyz.com
+panda.lat
 panda91928.college
 pandaarkit.com
 pandacn8app.com
@@ -138947,8 +138976,10 @@ pappas-kelley.com
 pappd.com
 papsiko.fun
 papua-nedv.ru
+papuabaratdaya.net
 papuaqq.org
 papuaqq.site
+papuaselatan.net
 papubar.pl
 papulmail.ru
 papulovesf.ru
@@ -140444,6 +140475,7 @@ pegweuwffz.gq
 pegweuwffz.ml
 pegweuwffz.tk
 pegysaconsultores.com
+pehol.com
 pei-ma.com
 peicecasino.com
 peidmont.org
@@ -147802,6 +147834,7 @@ ptpomorze.com.pl
 ptprosetown.com
 ptrike.com
 ptrlwest.com
+ptruyen.com
 pts-connect.com
 ptsc.xyz
 ptsculure.com
@@ -148039,6 +148072,7 @@ pukoni.com
 puks.de
 pularl.site
 pulating.site
+pulaubali.net
 pulautidore.online
 pulawski.biz
 pulcrofilms.com
@@ -149854,6 +149888,7 @@ quattro.best
 quattro.monster
 quattro.network
 quattrocchi.us
+quaxy.lat
 quaykingfun.com
 qubayarin.com
 qubecorp.tk
@@ -151654,6 +151689,7 @@ rasubsto.gq
 rasubsto.ml
 rasubsto.tk
 rat.nl
+ratas.lat
 ratayu.com
 ratcher5648.cf
 ratcher5648.ga
@@ -154899,6 +154935,7 @@ riasporem.cf
 riasporem.gq
 riasporem.ml
 riasroc.com
+riau.net
 riaucyberart.ga
 riauhost.net
 riaujayasentosa.net
@@ -156139,6 +156176,7 @@ rockpooldiningroup.com
 rockport.se
 rockroyalresort.com
 rockrtmail.com
+rocks.lat
 rockshere.me
 rocksmail.cfd
 rocksmartlink.site
@@ -162441,6 +162479,7 @@ seoimpressions.com
 seoindexbuddy.com
 seojuice.info
 seokarachi.com
+seokey.org
 seokings.biz
 seoklan.xyz
 seoklik.eu.org
@@ -165037,6 +165076,7 @@ simaenaga.com
 simail.store
 simails.info
 simamg.com
+siman.lat
 simari.tk
 simas12545.site
 simasdia.cf
@@ -170504,6 +170544,7 @@ stayhome.li
 stayhomes.org
 stayinyang.com
 staylocal.asia
+stayo.lat
 stayout.xyz
 staypei.com
 stayvigel.com
@@ -172200,6 +172241,10 @@ sulari.ga
 sulari.gq
 sulari.ml
 sulari.tk
+sulawesibarat.net
+sulawesiselatan.net
+sulawesitengah.net
+sulawesitenggara.net
 suleymanxsormaz.xyz
 sulfadimmali.ru
 sulfil.com
@@ -172246,7 +172291,10 @@ sumail.web.id
 sumakang.com
 sumakay.com
 sumarymary.xyz
+sumaterabarat.net
 sumaterareliefhub.my.id
+sumateraselatan.net
+sumaterautara.net
 sumatraaidnetwork.my.id
 sumatraalam.biz.id
 sumatrabangunkita.my.id
@@ -191677,6 +191725,7 @@ villascondosamerica.com
 villascondoseurope.com
 villascondosusa.com
 villastream.xyz
+villatogel.com
 villatriestevegas.com
 villaxoa.site
 ville-quetigny.com
@@ -192008,6 +192057,7 @@ vipsvip.online
 viptaksitur.xyz
 vipthanos.online
 viptrading.com
+viptv.lat
 vipuskakcii.xyz
 vipvipcj10.ml
 vipvolvos.info
@@ -194254,6 +194304,7 @@ waggtrunowgifgipu.tk
 waggy.media
 waggy.toys
 waggy.vacations
+wagia.lat
 wagibet.com
 wagmail.store
 wagnerlaw.org
@@ -203669,6 +203720,7 @@ yellnbmv766.ga
 yellnbmv766.gq
 yellnbmv766.ml
 yellnbmv766.tk
+yello.lat
 yellofdf2.click
 yellow.casino
 yellow.org.in

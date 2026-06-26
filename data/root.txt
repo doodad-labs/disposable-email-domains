@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-26T10:50:34.842Z
+# Aggregated blacklist generated on 2026-06-26T14:23:00.507Z
  
 0-30-24.com
 0-attorney.com
@@ -90207,6 +90207,7 @@ icode.best
 icodeltd.com
 icodepromo.com
 icoder.my.id
+icodetensor.com
 icodimension.com
 icolbn.xyz
 icoloud.com
@@ -96177,6 +96178,7 @@ jakjtavvtva8ob2.ga
 jakjtavvtva8ob2.gq
 jakjtavvtva8ob2.ml
 jakjtavvtva8ob2.tk
+jakl.li
 jakobine12.me
 jakobsen.dk
 jakschudnac.org

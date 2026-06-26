@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-26T07:51:48.248Z
+# Aggregated blacklist generated on 2026-06-26T10:50:34.842Z
  
 0-30-24.com
 0-attorney.com
@@ -12495,6 +12495,7 @@ accinw.online
 acciobit.net
 accion.ngo
 accionambiente.org
+accis.net
 acclaimwe.us
 acclimaemail.com
 acclimatize495ok.online
@@ -12773,6 +12774,7 @@ acidlsdshop.com
 acidmail.online
 acidrazor.com
 acidrefluxdiseasecure.com
+acidservices.xyz
 acier.online
 acifop.com
 acikarttirma.net.tr
@@ -12975,6 +12977,7 @@ actionac.com
 actionfigureblog.com
 actionnow.xyz
 actionprize04.icu
+actionvspot.com
 actiplaster.com
 actipotenssolution.online
 actitz.site
@@ -18546,6 +18549,10 @@ andrew.com.jm
 andrew375.eu.org
 andrewbraun.dev
 andrewbuelow.net
+andrewclaude.eu
+andrewclaude.fr
+andrewclaude.org
+andrewclaude.store
 andrewcluh.top
 andrewfraser.xyz
 andrewglow0203.buzz
@@ -21842,6 +21849,7 @@ ashlynhealthandbeauty.com
 ashmaeddfhdfhjfdj100.cloud
 ashmaeddfhgfks101.cloud
 ashmaedggasdfg100.cloud
+ashnkarsh.life
 ashokacademy.com
 ashopping.site
 ashotmail.com
@@ -26291,6 +26299,7 @@ barnett-forest.com
 barnett-sivon.com
 barneu.com
 barneuu.com
+barnrestaurant.pro
 barny.space
 barnyard.com
 barnyarthartakar.com
@@ -28898,6 +28907,7 @@ betaricasino3.com
 betasoftechnologies.net
 betasus125.com
 betasusgiris1.com
+betatensor.com
 betatomail.com
 betauer.com
 betayun.com
@@ -38147,6 +38157,7 @@ capphra.biz.id
 cappriccio.ru
 cappuccinipiemonte.it
 capra-ibex.com
+caprasolver.xyz
 caprealty-grp.com
 capri-crumlin.com
 capricornh.my.id
@@ -49611,6 +49622,7 @@ cyberstreamz.online
 cyberstudio.company
 cyberstudio.digital
 cybertechinfosolution.com
+cybertemp.cfd
 cybertemp.xyz
 cybertipcore.com
 cybertod.my.id
@@ -52043,6 +52055,7 @@ deepmassage.online
 deepmassage.store
 deepmassage.xyz
 deepmaster.fun
+deepneko.xyz
 deeporigin.com
 deeprootsca.com
 deepsdigitals.xyz
@@ -58829,6 +58842,7 @@ dwipalinggantengyanglainlewat.tk
 dwire.com
 dwisstore.site
 dwisudarsono.my.id
+dwiworka.pro
 dwj455.com
 dwj773.com
 dwj774.com
@@ -64645,6 +64659,7 @@ estrelabet.info
 estrelabet2.com
 estrength.pro
 estress.net
+estrowebservices.com
 estuaryhealth.com
 estudent.edu.pl
 estudiarcurso.online
@@ -65405,6 +65420,7 @@ evolvesoft.com
 evolvewithranu.com
 evomarketbb.com
 evomindset.org
+evomiserver.com
 evonb.com
 evonne.space
 evonse.com
@@ -66766,6 +66782,7 @@ faithrelegateframe.site
 faithswayfitness.com
 faithtrue.shop
 faithtrue.store
+faizasoft.com
 faizsizaraba.com
 faizsizev.net
 faj.no
@@ -74758,6 +74775,7 @@ gardgispa.ga
 gardgispa.gq
 gardgispa.tk
 gardgradein.site
+gardianwaves.org
 gardini.org
 gardn.net
 gardner144.store
@@ -87492,6 +87510,8 @@ hotelpam.xyz
 hotelpame.store
 hotelpame.xyz
 hotelperelikpalace.com
+hotelpiesi.pro
+hotelplazer.com
 hotelplazer.fr
 hotelplazer.org
 hotelplazer.store
@@ -106700,6 +106720,7 @@ lazarskipl.com
 lazcano.com.ar
 lazdmzmgke.mil.pl
 lazer.lat
+lazerbade.com
 lazerbade.fr
 lazerbade.org
 lazerbade.store
@@ -109608,6 +109629,7 @@ littlerockhypnosis.com
 littlerocknewsdaily.com
 littlescouts.com
 littlestpeopletoysfans.com
+littsocial.com
 liturgmail.ru
 litv.site
 litva-nedv.ru
@@ -120046,6 +120068,10 @@ miccomputers.com
 micdrop.fun
 micetigri.com
 michael-sheen.co.uk
+michaeladmin.eu
+michaeladmin.fr
+michaeladmin.org
+michaeladmin.store
 michaelalamillo.com
 michaelangelohomeloansinc.com
 michaelarkadie.com
@@ -121652,6 +121678,7 @@ mlyrtzaoff.com
 mm.my
 mm0805.xyz
 mm18269.com
+mm2flip.pw
 mm378.com
 mm5.se
 mm696.net
@@ -129412,6 +129439,7 @@ nexttop.co
 nexttrend.site
 nextzea.com
 nexumadapta.es
+nexus-streams.online
 nexus188.org
 nexus388.org
 nexusbridge.co
@@ -129968,6 +129996,7 @@ nicos-kebabs-takeaway.com
 nics-mail.space
 nics2-mail.space
 nicton.ru
+nicusaurelus.online
 nicvare.com
 nidalwsedd.tech
 nidama.cf
@@ -133777,6 +133806,7 @@ ogmwk.us
 ognicki.pro
 ogo.in.ua
 ogonkliniker.se
+ogoplace.pro
 ogormanandco.com
 ogplugs.com
 ograjdenoform.xyz
@@ -142765,6 +142795,7 @@ piusmbleee49hs.tk
 pivo-bar.ru
 pivotfurthersally.site
 pivotmylife.com
+pivotylabs.pro
 pivrtks.com
 pivrw.us
 pivun.org
@@ -143205,6 +143236,7 @@ plantsinc.biz
 plantssparkjoyclub.com
 plantsvszombies.ru
 planttoys.com
+planworker.pro
 planyourwed.com
 plaqcomp.com
 plashmoistenscrew.site
@@ -158965,6 +158997,7 @@ sagame357.asia
 sagame358.com
 sagame7000.com
 sagame96.asia
+sagametour.com
 sagamingbets.com
 sagantares.com.br
 sagardaks.co
@@ -162004,6 +162037,7 @@ sellscopeprospecting.com
 sellscopeprospects.com
 sellscoperesearch.com
 sellstorevero.com
+selltub.com
 selltub.me
 selluh.com
 sellusyourhouse.net
@@ -163026,6 +163060,7 @@ sevketbehcet.tk
 sevketveyargalari.ml
 sevkiakdemir.xyz
 sevminurcayman.tk
+sevopay.com
 sevra.lol
 sevsotreasure.com
 sevun.online
@@ -165335,6 +165370,7 @@ siostocet.ml
 siostocet.tk
 sipaling.gay
 sipbone.com
+siperer.online
 siphonobranli.com
 siphonobremail.ru
 siphonobrinf.com
@@ -166456,6 +166492,10 @@ slowmotn.online
 slowmotn.site
 slowmotn.xyz
 slowpoke.com
+slowpokerfrance.eu
+slowpokerfrance.fr
+slowpokerfrance.org
+slowpokerfrance.store
 slowslow.de
 slrsoft.ca
 sls-printers-sh.com
@@ -170503,6 +170543,7 @@ stealthypost.org
 stealway.com
 steam-area.ru
 steam-brush.net
+steam-coin.com
 steam-inventory-helper.com
 steam.servemp3.com
 steambooty.com
@@ -194904,6 +194945,7 @@ waterloorealestateagents.com
 watermarkmoso.com
 watermelon.email
 waternine.com
+waterpalace.pro
 waterparkphuket.fun
 waterpointemortgage.com
 waterproofawning.com
@@ -196578,6 +196620,7 @@ whitelabelcasinos.com
 whitelabelextracts.org
 whitelinehat.com
 whitemail.ga
+whitemistral.pro
 whitemoosecafe-d7.com
 whitenorthcard.com
 whiteoakcreek.org
@@ -205311,6 +205354,10 @@ yummiesdrip.com
 yummihaven.com
 yummy-fast.fr
 yummyako.ml
+yummymeow.eu
+yummymeow.fr
+yummymeow.org
+yummymeow.store
 yummyrecipeswithchicken.com
 yummyyunanto.io
 yumobiz.com

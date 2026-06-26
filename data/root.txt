@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-25T23:17:16.593Z
+# Aggregated blacklist generated on 2026-06-26T03:36:45.566Z
  
 0-30-24.com
 0-attorney.com
@@ -142615,6 +142615,7 @@ pipiska6879.ga
 pipiska6879.gq
 pipiska6879.ml
 pipiska6879.tk
+pipkos.com
 pipmmotube.store
 pipocapix.store
 pippalehar.com
@@ -158620,6 +158621,7 @@ sacsmagasinsfrance.com
 sactownsoftball.com
 sacvalleypet.com
 sad.us
+sad23321adja.cn
 sad495.ru
 sada-sd.cc
 sadaas.com
@@ -176531,6 +176533,7 @@ tempemail.ninja
 tempemail.org
 tempemail.pro
 tempemail.ru
+tempemail.store
 tempemailaddress.com
 tempemailbox.com
 tempemailco.com
@@ -191513,6 +191516,7 @@ vifes.se
 viflix.site
 vifocals.com
 vigabigo.online
+vigayu.com
 vigee.com
 vigentenjmail.ru
 vigeocon.com
@@ -206306,6 +206310,7 @@ zemkalabel.com
 zemliaki.com
 zempir.site
 zemtibne.icu
+zemyai.com
 zemzar.net
 zen43.com.pl
 zen4dad.com
@@ -206873,6 +206878,7 @@ zingiberomail.com
 zingibzfrr.space
 zingmail.shop
 zingsingingfitness.com
+ziniche.com
 zinmail.cf
 zinmail.ga
 zinmail.gq

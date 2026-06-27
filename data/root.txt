@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-27T19:19:33.771Z
+# Aggregated blacklist generated on 2026-06-27T21:02:31.417Z
  
 0-30-24.com
 0-attorney.com
@@ -180023,6 +180023,7 @@ tidewick.org
 tidissajiiu.com
 tidningensvegot.se
 tidycasa.com
+tidylifehub.com
 tidyupjunkremoval.com
 tieah.com
 tieal.com

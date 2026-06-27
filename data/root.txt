@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-26T23:05:16.230Z
+# Aggregated blacklist generated on 2026-06-27T03:22:05.109Z
  
 0-30-24.com
 0-attorney.com
@@ -24254,6 +24254,7 @@ aybukeaycaturna.shop
 aycereview.com
 aycestudios.com
 aycnep.com
+aydas.lat
 aydinhafriyat.xyz
 aydinlila.com
 aydinliq.xyz
@@ -26382,6 +26383,7 @@ basak.cf
 basak.ml
 basakerrr.digital
 basakerrrrdigital.online
+basakertxt.my.id
 basakgidapetrol.com
 basakhaber.org
 basalts.best
@@ -181040,6 +181042,7 @@ tmailku.web.id
 tmailnesia.com
 tmailor.com
 tmailor.net
+tmailor.site
 tmailpro.net
 tmails.net
 tmails.top

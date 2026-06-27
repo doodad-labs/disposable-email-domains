@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-27T06:51:45.005Z
+# Aggregated blacklist generated on 2026-06-27T10:07:37.210Z
  
 0-30-24.com
 0-attorney.com
@@ -30125,6 +30125,7 @@ biglol.club
 biglotssurvey.cc
 bigmail.club
 bigmail.info
+bigmail.lol
 bigmail.org
 bigmail.store
 bigmailbox.top
@@ -35561,6 +35562,7 @@ bunkbedsforsale.info
 bunkmemorialcave.website
 bunkstoremad.info
 bunlets.com
+bunmail.one
 bunmoc.website
 bunny88vip.com
 bunnyboo.it
@@ -39542,6 +39544,7 @@ cbdofthemonth.com
 cbdoilnx.com
 cbdoilqp.com
 cbdoilwow.com
+cbdol.mx
 cbdomus.com
 cbdpackage.net
 cbdpicks.com
@@ -55719,6 +55722,7 @@ dma2x7s5w96nw5soo.ml
 dma2x7s5w96nw5soo.tk
 dmackag.com
 dmail.mx
+dmail.one
 dmail1.net
 dmaildd.com
 dmailer.online
@@ -67506,6 +67510,7 @@ fastidiousjo.ru
 fastighetsmaklarenerja.com
 fastight.com
 fastinbox.es
+fastinbox.one
 fastinfra.net
 fastingapps.com
 fastip.eu.org
@@ -78229,6 +78234,7 @@ gmeil.com
 gmeil.me
 gmeile.com
 gmeill.site
+gmel.biz.id
 gmel.my.id
 gmele.com
 gmeli.com
@@ -79894,6 +79900,7 @@ gpvip8.com
 gpvx.com
 gpwdrbqak.pl
 gpwgw.info
+gpxmail.win
 gpxohp.club
 gpy4f.us
 gpy6f.us
@@ -106814,6 +106821,7 @@ lbpmg9.ru
 lbpoa.com
 lbpoa.net
 lbpsb.com
+lbrmail666.site
 lbse.net
 lbthomu.com
 lbtransit.com
@@ -114773,6 +114781,7 @@ mailroyal.dk
 mailroyal.net
 mailrrpost.com
 mailru.site
+mailrun.one
 mailrunner.net
 mailrxcorp.com
 mails-24.net
@@ -132194,6 +132203,7 @@ nuliferecords.com
 nuligepe.site
 null.cd
 null.net
+nullbox.asia
 nullbox.info
 nulledsec.club
 nulledsoftware.com
@@ -136565,6 +136575,7 @@ orgiiusisk.gr
 orgine.my.id
 orgiosdos.gr
 orglamixbox.com
+orgmail.pro
 orgmbx.cc
 orgogiogiris.gr
 orgoneandlove.com
@@ -146629,6 +146640,7 @@ prizmabet54.com
 prizova.net
 prizyp.com
 prjcddgtyw.ga
+prkmail.xyz
 prkupbrvhy.ga
 prlinkjuicer.info
 prmail.top
@@ -152392,6 +152404,7 @@ reallymymail.com
 reallyneatgames.com
 reallyprecise.com
 reallyshittycoffee.com
+realmail.co
 realmailllc.com
 realmailstudio.com
 realman.mywire.org
@@ -167148,6 +167161,7 @@ snapmail.cc
 snapmail.online
 snapmail.ru
 snapmail.site
+snapmail.xyz
 snapmailbox.xyz
 snapmailnow.site
 snapmaps360.com
@@ -192942,6 +192956,8 @@ voidbitten.com
 voidbx.com
 voided.host
 voidforce.io
+voidmail.one
+voidpop.win
 voidshift.net
 voikaserd.ga
 voikskrant.online
@@ -194536,6 +194552,7 @@ wanadow.fr
 wanadpp.fr
 wanafdoo.fr
 wanafoo.fr
+wanai.biz.id
 wanamore.com
 wananadoo.fr
 wananchi.com
@@ -206022,6 +206039,7 @@ zapchati-a.ru
 zaphost.de
 zapilou.net
 zapl.ink
+zapmail.one
 zapqq.com
 zaproty.com
 zapstibliri.xyz
@@ -207078,6 +207096,7 @@ ziplinegear.biz
 ziplinehuntermountain.com
 zipload.pp.ua
 zipm.site
+zipmail.one
 zipmail.online
 zipmail.store
 zipmail.xyz

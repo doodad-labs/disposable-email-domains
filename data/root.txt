@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-28T07:50:49.525Z
+# Aggregated blacklist generated on 2026-06-28T10:27:26.315Z
  
 0-30-24.com
 0-attorney.com
@@ -18059,6 +18059,7 @@ amistaff.com
 amistake.click
 amitraj.net
 amitywe.us
+amiyiy.xyz
 amjerm.email
 amk.co.uk
 aml5egjiu8af.xyz
@@ -26876,6 +26877,7 @@ bburberryoutletufficialeit.com
 bbuzzwares.site
 bbvapr.com
 bbw.monster
+bbwg.one
 bbwin188.com
 bbwin188.net
 bbwin99.com
@@ -85324,6 +85326,7 @@ hh8061.com
 hh8690.com
 hh88casino.net
 hh88casinologin.com
+hhan.top
 hhasdgyyyiii.xyz
 hhax.com
 hhbj.host

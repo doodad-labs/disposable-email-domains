@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-27T23:01:35.188Z
+# Aggregated blacklist generated on 2026-06-28T03:42:41.439Z
  
 0-30-24.com
 0-attorney.com
@@ -2782,6 +2782,7 @@
 20223339.com
 2022darkmarkets.com
 2022ye.store
+2023foodshow.com
 20250331.top
 20258037.com
 2025upload-1.shop
@@ -20321,6 +20322,7 @@ apsis-audit.com
 apsisrealtygroup.com
 apsit.ch
 apsnetworks.com
+apsocials.org
 apsora.com
 apssdc.ml
 apster.com
@@ -20992,6 +20994,7 @@ arkada-wittyrumble.quest
 arkada-wittyrumble.website
 arkadacasinopay.ru
 arkadacasinowin.ru
+arkadaslots-deposit.top
 arkafort.app
 arkafort.org
 arkafortdatacenter.com
@@ -34502,6 +34505,7 @@ brinkstor.xyz
 brinkvagu.buzz
 brinkvideo.win
 brinz.top
+brisa.lat
 brisbanegastro.com
 brisbanelivemusic.com
 brisbanelogistics.com
@@ -58698,6 +58702,7 @@ dustinpitcher.com
 dustinplains.buzz
 dustinry.com
 dustinsda.my.id
+dustmail.net
 dustofguest.com
 dustreaming.host
 dustreaming.info
@@ -60236,6 +60241,7 @@ edbnu.com
 edcar-sacz.pl
 edceco.us
 edcol.us
+edcols.us
 edcolumb.us
 edcopublishing.com
 edcs.de
@@ -157743,6 +157749,7 @@ rukiaops.me
 rula.com
 rule34xxx.info
 rulersonline.com
+rules.lat
 ruletadecasino.net
 ruletka-online.ru
 ruletkacsgo.com
@@ -159950,6 +159957,7 @@ santarosatours.com
 santasbooksforkids.com
 santasornament.com
 santateresacostarica.com
+sante.lat
 santechwan.site
 santecno.com
 santhia.cf
@@ -162735,6 +162743,7 @@ serkaoblur.xyz
 serkaofauna.xyz
 serkaohype.xyz
 serl.world
+sermailtos.com
 sermailtos.online
 sermailtos.store
 sermonizer853ip.online
@@ -178469,6 +178478,7 @@ thegioitiepthi.website
 thegioixinhdep.info
 thegirlandthehedgehog.com
 thegirlhot.com
+thegirlintulle.com
 theglanders.net
 theglisteringgroup.com
 theglobalsdgawards.com

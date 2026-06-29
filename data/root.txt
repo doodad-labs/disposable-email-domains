@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-28T23:01:24.136Z
+# Aggregated blacklist generated on 2026-06-29T03:51:02.432Z
  
 0-30-24.com
 0-attorney.com
@@ -6169,6 +6169,7 @@
 4pkr15vtrpwha.tk
 4plano.com
 4plants.com
+4play.lat
 4poetry.com
 4poster.com
 4president.com
@@ -121386,6 +121387,7 @@ mitnian.xyz
 mitobet.com
 mitolyn.food
 mitom.online
+miton.lat
 mitori.org
 mitrabisa.com
 mitracc.site
@@ -165874,6 +165876,7 @@ skatell.us
 skater.zone
 skateru.com
 skatingequipment.org
+skatingion.com
 skatzy.com
 skavo.xyz
 skbhcnai.shop
@@ -188388,6 +188391,7 @@ uptours.ir
 uptownartsgranburytx.com
 uptownrp.id
 uptoyouagency.com
+uptra.lat
 uptrendwindsor.com
 uptuber.info
 upuec.com
@@ -203363,6 +203367,7 @@ yang-j.top
 yangarts.xyz
 yangdaye-ds.cc
 yangoogl.cc
+yangzhai.xyz
 yangzhong-sfd.cc
 yangzhong-sfd.shop
 yanibu.com

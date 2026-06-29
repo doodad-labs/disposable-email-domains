@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-29T21:26:08.410Z
+# Aggregated blacklist generated on 2026-06-29T22:56:17.751Z
  
 0-30-24.com
 0-attorney.com
@@ -42220,6 +42220,7 @@ cholecystolimail.com
 cholecystolithiumail.com
 choledochoduomail.com
 choledocholimail.com
+cholegast.com
 cholemail.com
 choleropruby.ru
 cholestermail.com
@@ -42835,6 +42836,7 @@ cinderblast.top
 cinderear.com
 cinderlab.com
 cindisalist.com
+cindohub.online
 cindy64.com
 cindyallenva.com
 cindybarrett.com
@@ -45229,6 +45231,7 @@ colebrager.com
 coled.us
 coledawson.com
 coledu.us
+coledus.us
 colefamilydentistcom.com
 colegioaltair.net
 colegiolosrosales.net
@@ -114478,6 +114481,7 @@ mailkolnet.com
 mailkom.site
 mailkon.com
 mailkor.xyz
+mailkp.info
 mailkp.pro
 mailkryza.online
 mailksders.com
@@ -167552,6 +167556,7 @@ socksbest.com
 sockshare.watch
 soclesa.es
 socmail.net
+socmint.me
 soco7.com
 socofoam.com
 socoolglasses.com

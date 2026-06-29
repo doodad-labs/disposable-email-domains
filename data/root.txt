@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-29T03:51:02.432Z
+# Aggregated blacklist generated on 2026-06-29T08:58:14.777Z
  
 0-30-24.com
 0-attorney.com
@@ -33514,6 +33514,7 @@ bosceme.xyz
 bosch-ghg.online
 bosch-gpl.online
 bosch-pkp.online
+boscharena.dev
 boscheasyvac.online
 boscialiquor.com
 bosdal.com
@@ -76222,6 +76223,7 @@ getmail.club
 getmail.fun
 getmail.io.vn
 getmail.lt
+getmail.my.id
 getmail.pics
 getmail.site
 getmail.solutions
@@ -154764,6 +154766,7 @@ rfirstmail.online
 rfjrx1.info
 rfkstm.icu
 rfm-analysis.com
+rfods.tech
 rfokmail.com
 rfreconditioned.com
 rfreedomj.com

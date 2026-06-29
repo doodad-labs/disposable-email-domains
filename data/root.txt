@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-29T14:03:03.792Z
+# Aggregated blacklist generated on 2026-06-29T18:08:47.402Z
  
 0-30-24.com
 0-attorney.com
@@ -97829,6 +97829,7 @@ jio1.com
 jioelms.com
 jiojiogrejoigre.info
 jiolotteryappdownload.com
+jiongguo.top
 jiooq.com
 jioq.com
 jioso.com
@@ -162303,6 +162304,7 @@ sendnow.win
 sendo.dedyn.io
 sendo.giize.com
 sendok.web.id
+sendokai.click
 sendpoint.co.in
 sendrule.com
 sendsmtp.com
@@ -176553,6 +176555,7 @@ temecon.ml
 temecon.tk
 temeculahomecenter.com
 temeculavalleycec.com
+temeilo.com
 temel.net
 tememail.online
 tememail.org

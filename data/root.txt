@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-29T18:08:47.402Z
+# Aggregated blacklist generated on 2026-06-29T21:26:08.410Z
  
 0-30-24.com
 0-attorney.com
@@ -39779,6 +39779,7 @@ ccuttonics.com
 ccvisal.xyz
 ccwld.com
 ccwu.cc
+ccxddd.com
 ccxdvo.icu
 ccxpnthu2.pw
 cczzcasino.net
@@ -116600,6 +116601,7 @@ marketlady.com
 marketlance.com
 marketlink.info
 marketmail.info
+marketmail.xyz
 marketmans.ir
 marketnetseve.com
 marketnicheauthority.com
@@ -171642,6 +171644,7 @@ stroygroup.org
 stroyka-34.ru
 stroymetals.ru
 stroypolicy.com
+stroysfera.com
 stroytehn.com
 strrd.com
 strshcola34.ru

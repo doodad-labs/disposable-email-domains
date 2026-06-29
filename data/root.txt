@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-29T08:58:14.777Z
+# Aggregated blacklist generated on 2026-06-29T14:03:03.792Z
  
 0-30-24.com
 0-attorney.com
@@ -115413,6 +115413,7 @@ makepleasure.club
 makeplugin.com
 makeracistsafraidagain.com
 makerains.tk
+makeraura.online
 makerinist.com
 makerkiller.ml
 makerly.co

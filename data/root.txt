@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-30T10:56:17.757Z
+# Aggregated blacklist generated on 2026-06-30T14:16:39.174Z
  
 0-30-24.com
 0-attorney.com
@@ -75366,6 +75366,7 @@ gecarcinmail.ru
 gecchatavvara.art
 gecici.email
 gecici.ml
+gecici.xyz
 gecicimail.co
 gecicimail.com.tr
 gecicimail.net

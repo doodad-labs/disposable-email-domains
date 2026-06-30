@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-29T22:56:17.751Z
+# Aggregated blacklist generated on 2026-06-30T03:34:48.775Z
  
 0-30-24.com
 0-attorney.com
@@ -69777,6 +69777,7 @@ firsttradelimited.info
 firstwavemail.com
 firt.site
 firuzhasansu.cfd
+firwurd.com
 fischerhendrik.de
 fischfresser.de
 fischkun.de
@@ -96664,6 +96665,7 @@ javworld.space
 javzog.com
 jawaramantul.info
 jawatengah.net
+jawatimur.net
 jawmail.store
 jawtec.com
 jaxmm.com
@@ -116833,6 +116835,7 @@ marutv8.fun
 marutv9.fun
 marvelcomicssupers.online
 marvelfight.cc
+marvelo.xyz
 marvelpress.com
 marver-coats.xyz
 marvetos.com
@@ -149696,6 +149699,7 @@ qrrdja.info
 qrrnc.com
 qrryxk.site
 qrs3un.us
+qrstuvwxyzabcdef.io.vn
 qrtise.com
 qrtjbzogb.gq
 qrucav.com

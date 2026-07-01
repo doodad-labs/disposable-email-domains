@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-06-30T23:11:44.194Z
+# Aggregated blacklist generated on 2026-07-01T03:44:57.056Z
  
 0-30-24.com
 0-attorney.com
@@ -20908,6 +20908,7 @@ arielcares.com
 arielsochi.ru
 arielvalls.com
 ariemail.my.id
+ariepulsa.biz.id
 ariescc.site
 ariesqq.com
 arietesale.site
@@ -49054,6 +49055,7 @@ cumonteentits.com
 cumshotspalace.com
 cumucore.org
 cumzle.com
+cunairt.com
 cundamonet.my.id
 cungcapproxy.pro
 cungcapproxyv6.net
@@ -88617,6 +88619,7 @@ huas.edu.vn
 huatah.top
 huationgjk888.info
 huaweimali.cn
+huaweisdk.com
 huawsyi.ml
 huawsyi.tk
 huaxiayun.top

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-01T12:33:00.000Z
+# Aggregated blacklist generated on 2026-07-01T16:26:34.531Z
  
 0-30-24.com
 0-attorney.com
@@ -50338,6 +50338,7 @@ dailynewmedia.com
 dailynewoffer.xyz
 dailynews247.info
 dailynewses.com
+dailynove.com
 dailynutria.com
 dailyoffersto.xyz
 dailyofferz.xyz
@@ -69947,6 +69948,7 @@ fivedollardomains.com
 fivefineshine.org
 fivefriendsmail.com
 fivegoodfriends.com.au
+fivejm.com
 fivemail.de
 fivemail.fun
 fivemail.online
@@ -84401,6 +84403,7 @@ heavenprem4.my.id
 heavenprem8.my.id
 heavents.fun
 heavingheavyset.com
+heavty.com
 heavy.network
 heavycloth.com
 heavydutymetalcutting.ru
@@ -113327,6 +113330,7 @@ mafiaa.gq
 mafiaa.ml
 mafiacapsaidn.com
 mafiacapsaku.com
+mafiadomain.biz.id
 mafiastreettuning.com
 mafiken.cf
 mafiken.ga

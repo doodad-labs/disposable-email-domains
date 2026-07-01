@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-01T19:53:54.422Z
+# Aggregated blacklist generated on 2026-07-01T21:27:33.814Z
  
 0-30-24.com
 0-attorney.com
@@ -21992,6 +21992,7 @@ asiseve.com
 asistx.info
 asistx.net
 asistx.org
+asitrai.com
 asiu.edu.kg
 asixluxe.net
 asjfjhtr.cf
@@ -56242,6 +56243,7 @@ dodoronos.buzz
 dodsi.com
 dodugix.online
 dodungjapan.com
+doefy.com
 doemel.dev
 doemx.com
 doerma.com
@@ -86932,6 +86934,7 @@ homeopcost.com
 homep-age.com
 homepagecanaux.cf
 homepels.ru
+homephit.com
 homeprofessional.org
 homeprotectionagent.com
 homepwner.com
@@ -90335,6 +90338,7 @@ icotir.ml
 icotir.tk
 icotoken.bid
 icotype.info
+icotz.com
 icou.com
 icoud.com
 icould.co
@@ -102761,6 +102765,7 @@ kintimes.cd
 kintravel.com
 kintul.buzz
 kintyre.net
+kinws.com
 kinx.cf
 kinx.gq
 kinx.ml
@@ -103220,6 +103225,7 @@ klichapdi.gq
 klichapdi.ml
 klichapdi.tk
 klick-tipp.us
+kliedu.us
 kligoda.com
 klik-survey.com
 klik.host
@@ -111541,6 +111547,7 @@ louxor.shop
 lova-madeinglass.com
 lova.cam
 lovabloazf.ru
+lovadio.com
 lovane.info
 lovarni.com
 love-amigurumi.website
@@ -121475,6 +121482,7 @@ mitsuevolution.shop
 mittidikhushboo.com
 mittrykte.se
 mituvn.com
+mitvec.com
 miucce.com
 miucce.online
 miucline.com
@@ -140508,6 +140516,7 @@ pedmas.com
 pednet.ru
 pedpulm.com
 pedro-miguel.com
+pedroan.com
 pedrohg.com.br
 pedropereiramd.com
 pedrosolis.net
@@ -155760,6 +155769,7 @@ rjostre.com
 rjpmich.com
 rjpqnu.site
 rjsdatagroup.com
+rjsou.com
 rjtjfunny.com
 rjtrainingsolutions.com
 rjvelements.com
@@ -168465,6 +168475,7 @@ sourijboopn.email
 sourishb.com
 sourismail.com
 sourtrush.site
+sousah.com
 soushuba.xyz
 sousor.com
 sousousousou.com
@@ -180372,6 +180383,7 @@ timetraveller.click
 timevo.ru
 timevod.com
 timewasterarcade.com
+timewebx.com
 timewillshow.com
 timeylives.com
 timfesenko.com
@@ -197027,6 +197039,7 @@ wideline-studio.com
 widelo.ru
 widencatc.buzz
 widencycl.xyz
+widenely.com
 widenequ.email
 widenmeta.site
 widenvide.xyz
@@ -198812,6 +198825,7 @@ wpower.info
 wppagesloadingslow.ga
 wppremiumclub.com
 wpredis.com
+wproll.com
 wpsaeportal.com
 wpsavy.com
 wpservices.expert

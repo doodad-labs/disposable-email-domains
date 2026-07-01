@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-01T03:44:57.056Z
+# Aggregated blacklist generated on 2026-07-01T08:12:36.738Z
  
 0-30-24.com
 0-attorney.com
@@ -13377,6 +13377,7 @@ aderispharm.com
 adesaoapp.online
 adesktop.com
 adesopenbiecock.gq
+adestore.biz.id
 adewa.top
 adewa.xyz
 adeyemo.xyz
@@ -13575,6 +13576,7 @@ admt0121.com
 admt01211.com
 admt01212.com
 admt01213.com
+adn.biz.id
 adn3t.com
 adnc7mcvmqj0qrb.cf
 adnc7mcvmqj0qrb.ga
@@ -21293,6 +21295,7 @@ artbykiomi.com
 artcasino.io
 artching.com
 artcreate.ai
+artdigimail.com
 artdreams.us
 artdrip.com
 artedecancun.com
@@ -23292,6 +23295,7 @@ autobroker.tv
 autobuzz.asia
 autocaddraftingindia.com
 autocadsymbols.com
+autocapcut.email
 autocar.cd
 autocardesign.site
 autocarinjury.com
@@ -25785,6 +25789,7 @@ balneologmail.com
 balofaqepo.host
 balon.dev
 balon99.co
+balonai.de
 balonmaster.com
 balonred.com
 balons.live
@@ -41199,6 +41204,7 @@ chavhanga.com
 chaweihsu.com
 chaxiraxi.ch
 chay-market.com
+chaydi.io.vn
 chaz.live
 chazakbracelets.com
 chazeuqsxt.ga
@@ -49749,6 +49755,7 @@ cyperlands.com
 cypher.onl
 cyphername.net
 cyphershop.net
+cyphrune.com
 cypi.fr
 cypp.com
 cypressbayou.casino
@@ -54403,6 +54410,7 @@ digitalsole.info
 digitalsolutionsdaraz.com
 digitalsteam.net
 digitalstoragepro.com
+digitalstudios.shop
 digitalstudiov.pics
 digitalsun.com
 digitaltechsf.com
@@ -54780,6 +54788,7 @@ dircuti.tk
 dirding.com
 direcaster.buzz
 direcionamento.com
+direct-gmail.com
 direct-mail.info
 direct-mail.top
 direct2thehome.com
@@ -66740,6 +66749,7 @@ fahr-zur-hoelle.org
 fahrapp.net
 fahrgo.com
 fahrizal.club
+fahrultampan.my.id
 fahutanpraise.website
 faicarde.cf
 faicarde.ga
@@ -76795,6 +76805,7 @@ gholbimand.info
 ghomonnirtel.site
 ghor.us
 ghost-flare.com
+ghost-mail.cc
 ghost-mailer.com
 ghost-squad.eu
 ghost4snapchat.com
@@ -76811,6 +76822,7 @@ ghostinbox.pro
 ghostkitchenafrica.com
 ghostlymail.com
 ghostlymailonline.online
+ghostmail.live
 ghostmail.net
 ghostmailz.xyz
 ghostncrypt.biz
@@ -84371,6 +84383,7 @@ heattonepowernitric.com
 heatyoursole.com
 heaup.com
 heaven.dk
+heavenapps.biz.id
 heavenarticles.com
 heavencentevents.com
 heavenleacakes.com
@@ -84379,6 +84392,11 @@ heavenlyyunida.biz
 heavenmods.me
 heavenofgaming.com
 heavenpizzatakeaway.com
+heavenprem1.my.id
+heavenprem2.my.id
+heavenprem3.my.id
+heavenprem4.my.id
+heavenprem8.my.id
 heavents.fun
 heavingheavyset.com
 heavy.network
@@ -92267,6 +92285,7 @@ indiagatenutgrove.com
 indiagatetakeaway.com
 indiamary.com
 indiamoney.club
+indiamulberryvera.biz.id
 indian-moon-takeaway.com
 indianaadoption.org
 indianafootgolf.com
@@ -92400,6 +92419,7 @@ indogillpros.shop
 indogillrare.shop
 indogillrush.shop
 indogillsmash.shop
+indogmail.com
 indohe.com
 indoheart.store
 indokitchen-rush.com
@@ -99864,6 +99884,7 @@ jvtb.com
 jvtk.com
 jvucei.buzz
 jvunsigned.com
+jvvmvv.com
 jvvr.email
 jvx21.com
 jvyomi.icu
@@ -108705,6 +108726,7 @@ ligagame.net
 ligagnb.pl
 ligahoki168.com
 ligai.ru
+ligai.space
 ligaindo.com
 ligaku.com
 ligaolmecaoficial.net
@@ -108922,6 +108944,8 @@ lilyjeter.com
 lilylee.com
 lilyverywell.com
 lilywear.shop
+lilzyy.com
+lilzyy.site
 lima-city.cf
 lima-city.ga
 lima-city.gq
@@ -113494,6 +113518,7 @@ maguttha.cf
 mah.eu
 maha.in
 mahabhart.tk
+mahabrata.my.id
 mahadewapoker.site
 mahailadesigns.com
 mahakam.uk
@@ -118790,6 +118815,7 @@ meieark.online
 meieark.xyz
 meiguosaver.com
 meihuajun76.com
+meihukeji.com
 meikaa.store
 meil.co.pl
 meil4me.pl
@@ -118865,6 +118891,7 @@ mekeye.buzz
 mekhmon.com
 mekie.xyz
 mekikcek.network
+mekimex.com
 mekongchurchtown.com
 mekongheritage.net
 mekongmmo.news
@@ -118983,6 +119010,7 @@ meltmail.com
 meltp.com
 meltwaterdrive.cd
 melverly.com
+melvinscharity.org
 melwood.ru
 melyshop.es
 melzmail.co.uk
@@ -121517,6 +121545,7 @@ mixzu.net
 miyagi.org
 miyaku.media
 miym.com
+miyong.me
 miytc.com
 mizapol.net
 mizgold.net
@@ -125589,6 +125618,7 @@ myclare.com
 mycleaninbox.net
 myclicknflipplan.com
 myclo.pro
+mycloud-gmail.com
 mycloudmail.tech
 myclubbook.com
 myclubtabby.com
@@ -129422,6 +129452,7 @@ nexamailbox.com
 nexamint.store
 nexapay.one
 nexario.shop
+nexarshop.store
 nexavirolpq.io.vn
 nexazora.shop
 nexbet40.online
@@ -138980,6 +139011,7 @@ papasha.net
 papavasileioubrothers.com
 papaxj.info
 papay.uno
+papayaghana.biz.id
 papayamailbox.com
 papayani.com
 papayes.space
@@ -151040,6 +151072,7 @@ raest.one
 raetp9.com
 raewt.com
 raf-store.com
+raf-zan.my.id
 rafaelamelolab.com
 rafaelarchitects.com
 rafaelhess.com
@@ -152588,6 +152621,7 @@ rebertboxing.ru
 rebhornyocool.com
 rebnayriahni.online
 rebnt55-otymry.site
+reboardmail.com
 reboneperani.host
 reboot-sec.net
 reboot-secure.com
@@ -173732,6 +173766,7 @@ syaacantik.me
 syadouchebag.com
 syahmiqjoss.host
 syakilanabil.my.id
+syamstore.biz.id
 syandard.com
 syapdak.biz.id
 syapgak.biz.id
@@ -190784,6 +190819,7 @@ verify-portal.site
 verifycenter.net
 verifyerror.online
 verifyfb.xyz
+verifygmail.com
 verifykero.com
 verifymail.cf
 verifymail.ga
@@ -193386,6 +193422,7 @@ vpax-nonprod.com
 vpay.work
 vpbetcasino.net
 vpc608a0.pl
+vpcstore.my.id
 vpdinc.com
 vpds.net
 vperdolil.com
@@ -197767,6 +197804,7 @@ wity.site
 wityjs.com
 wiues.com
 wivstore.com
+wixagency.online
 wixcmm.com
 wixgdu.info
 wixipro.ovh
@@ -201898,6 +201936,7 @@ xogcx.com
 xogolden.com
 xography.site
 xogre.com
+xogsverified.my.id
 xogu.com
 xohi.site
 xoifyjcyj.shop

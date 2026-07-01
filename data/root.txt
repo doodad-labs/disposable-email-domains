@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-01T08:12:36.738Z
+# Aggregated blacklist generated on 2026-07-01T12:33:00.000Z
  
 0-30-24.com
 0-attorney.com
@@ -19934,6 +19934,7 @@ apidle.gq
 apidle.tk
 apidu.xyz
 apiempat.xyz
+apifabric.click
 apifan.com
 apih2h.com
 apiland.pl
@@ -61972,6 +61973,7 @@ elycevictoria.com
 elygifts.com
 elykarina.com
 elypto.store
+elyquin.org
 elyse.com
 elyse.top
 elysium.ml

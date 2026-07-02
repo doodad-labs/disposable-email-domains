@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-02T03:30:40.965Z
+# Aggregated blacklist generated on 2026-07-02T07:31:18.893Z
  
 0-30-24.com
 0-attorney.com
@@ -101050,6 +101050,7 @@ kawaiistyle.me
 kawaipokemalaga.com
 kawamoto.id
 kawasakihavaliyedekparca.com
+kawneha.site
 kaws4u.com
 kawu.site
 kawv.com
@@ -199891,6 +199892,7 @@ xaxugen.org
 xaxx.ml
 xaynetsss.ddns.net
 xazo.xyz
+xazyxe.com
 xb-eco.info
 xb07.xyz
 xb2jfk5o.club

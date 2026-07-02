@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-02T21:05:19.843Z
+# Aggregated blacklist generated on 2026-07-02T23:05:46.892Z
  
 0-30-24.com
 0-attorney.com
@@ -83429,6 +83429,7 @@ hartyfarm.com
 harukana.press
 haruko.fun
 harum.site
+harumhic.biz.id
 harusrembo.com
 haruto.fun
 harvard-ac-uk.tk

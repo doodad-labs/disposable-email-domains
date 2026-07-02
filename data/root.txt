@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-02T16:08:09.305Z
+# Aggregated blacklist generated on 2026-07-02T19:23:07.885Z
  
 0-30-24.com
 0-attorney.com
@@ -157853,6 +157853,7 @@ rulu.com
 rulvon.site
 rum-expert.com
 rumahcloudindonesia.online
+rumahpremium.com
 rumahweb.site
 rumbler.com
 rumbu.com

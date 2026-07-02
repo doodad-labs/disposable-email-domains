@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-02T19:23:07.885Z
+# Aggregated blacklist generated on 2026-07-02T21:05:19.843Z
  
 0-30-24.com
 0-attorney.com
@@ -3165,6 +3165,7 @@
 22bet.co.rw
 22capy.site
 22casino.com
+22cc1.info
 22ccf.com
 22digital.ltd
 22eb.club
@@ -6797,6 +6798,7 @@
 5566738.com
 5566758.com
 556688211.com
+5567plataforma.net
 556gmail.com
 557652.com
 5577betcom.info
@@ -8826,6 +8828,7 @@
 777tez.info
 777tezgame.info
 777tiger6.net
+777uaelottery.com
 777vin77k.com
 777vinapk.com
 777vip8.net
@@ -19056,6 +19059,7 @@ annettegevatter.de
 annettegraphicdesign.com
 annetteturow.com
 annexeni.xyz
+annexfoundation.org
 annhandelman.com
 annidh.site
 annidis.com
@@ -115811,6 +115815,7 @@ managerialstaff.ru
 managethepip.com
 managgg12.com
 managmaius.shop
+manalobet.info
 manalobetcasino.com
 manam.ru
 mananal.com
@@ -134377,6 +134382,7 @@ oklahomacityquote.com
 oklahomaroofingclaims.com
 oklakeland.com
 oklaredo.com
+oklarologin.com
 oklavastore.com
 okledslights.com
 oklho.com
@@ -141643,6 +141649,7 @@ ph444onlinecasino.com
 ph44casino.com
 ph44login.com
 ph567casino.net
+ph62slot.com
 ph678casino.net
 ph6xhw.us
 ph777casinoapp.com
@@ -142100,6 +142107,7 @@ phparkvip.info
 phpbrasil.org
 phpcode.website
 phpduglist.info
+phpgameslogin.net
 phph777.ph
 phphpfamous.ph
 phpieso.com
@@ -161058,6 +161066,7 @@ scoldremovedsplit.site
 scollay.com
 scolore.com
 scols.us
+scolumb.us
 sconacyclehonda.com
 scones.me
 sconk.dk

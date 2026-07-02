@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-01T23:14:32.326Z
+# Aggregated blacklist generated on 2026-07-02T03:30:40.965Z
  
 0-30-24.com
 0-attorney.com
@@ -22957,6 +22957,7 @@ audioperucorp.com
 audiophileusa.net
 audios3d.club
 audiosfera.net
+audioskazka.org
 audioslim.com
 audiossl.stream
 audioswitch.info
@@ -128139,6 +128140,7 @@ necklacesbracelets.com
 necknugs.com
 necktai.com
 neclipspui.com
+necolab-kyoto.com
 necommunity.net
 necroticcaries.ru
 necsilan.cf
@@ -169862,6 +169864,7 @@ sroff.com
 srouchastie.xyz
 srpcorp.co
 srphl.tk
+srpos.lat
 srproductiononline.com
 srqstudies.com
 srquiz.com

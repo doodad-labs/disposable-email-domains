@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-03T14:01:45.464Z
+# Aggregated blacklist generated on 2026-07-03T17:24:50.601Z
  
 0-30-24.com
 0-attorney.com
@@ -62288,6 +62288,7 @@ emailist.tk
 emailisvalid.com
 emailjetable.icu
 emailjonny.net
+emailjps.com
 emailke.live
 emailket.online
 emailkg.com
@@ -62462,6 +62463,7 @@ emailtoshare.com
 emailtown.club
 emailtrade.website
 emailtrain.ga
+emailuae.com
 emailuck.com
 emailure.net
 emailus.click
@@ -146096,6 +146098,7 @@ premiumku.app
 premiumku.com
 premiumku.tech
 premiumlabels.de
+premiumlist.net
 premiummin.store
 premiumnator.com
 premiumnezhealthcare.shop
@@ -162220,6 +162223,7 @@ sellyourstocks2019.com
 sellyx.com
 selmaforeclosures.com
 seloci.online
+selonya.com
 selowcoffee.cf
 selowcoffee.ga
 selowcoffee.gq
@@ -176925,6 +176929,7 @@ tempmail44.com
 tempmail44.shop
 tempmail44.xyz
 tempmail5.com
+tempmaila.com
 tempmaila.org
 tempmaila.pro
 tempmailaddress.com

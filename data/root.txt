@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-03T19:20:41.436Z
+# Aggregated blacklist generated on 2026-07-03T21:05:00.756Z
  
 0-30-24.com
 0-attorney.com
@@ -54689,6 +54689,7 @@ dinteria.pl
 dintughreb.fun
 dinubaforeclosures.com
 dinuspbw.fun
+dinwold.net
 diofeci.cf
 diofeci.ml
 diofeci.tk
@@ -62145,6 +62146,7 @@ emailaoaa.pro
 emailappp.com
 emailapps.in
 emailapps.info
+emailasia1.com
 emailat.website
 emailate.com
 emailawb.pro

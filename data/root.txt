@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-03T02:52:56.678Z
+# Aggregated blacklist generated on 2026-07-03T07:19:31.313Z
  
 0-30-24.com
 0-attorney.com
@@ -157901,6 +157901,7 @@ runbhumi.club
 runbhumi.live
 runchet.com
 runchip.es
+runcubesapps.id
 rundablage.com
 rundayz.online
 rundle-one.com
@@ -180018,6 +180019,7 @@ thuocclub.fun
 thuocvip.fun
 thuom.com
 thuonghieutenmien.com
+thuongxg.com
 thurleighchurchestate.church
 thurst2sixes.com
 thurstoncounty.biz

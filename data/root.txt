@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-03T07:19:31.313Z
+# Aggregated blacklist generated on 2026-07-03T10:34:31.577Z
  
 0-30-24.com
 0-attorney.com
@@ -127142,6 +127142,7 @@ nakedteenass.com
 nakedtruth.biz
 nakedwomensex.com
 nakee.com
+nakeit.com
 nakinga.com
 nakitgeriodeme.com
 nakiuha.com
@@ -199906,6 +199907,7 @@ xaxugen.org
 xaxx.ml
 xaynetsss.ddns.net
 xazo.xyz
+xazymarcie.space
 xazyxe.com
 xb-eco.info
 xb07.xyz

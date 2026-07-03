@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-02T23:05:46.892Z
+# Aggregated blacklist generated on 2026-07-03T02:52:56.678Z
  
 0-30-24.com
 0-attorney.com
@@ -113513,6 +113513,7 @@ magnetsandbox.com
 magnificentvideo.ru
 magnifyaid.com
 magniglobal.org
+magno.lat
 magnoliacheck.xyz
 magnoliaentertainment.com
 magnoliapost.com

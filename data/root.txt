@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-04T06:46:12.648Z
+# Aggregated blacklist generated on 2026-07-04T10:09:00.197Z
  
 0-30-24.com
 0-attorney.com
@@ -32923,6 +32923,7 @@ bombence.com
 bomber81.com
 bombermanba.com
 bombgovernorbrow.website
+bombibi.com
 bombingfish.online
 bomboclutch.online
 bombohu.com
@@ -169724,6 +169725,7 @@ spwmrk.net
 spwmrk.xyz
 spy700.com
 spybox.de
+spyboys.com
 spycamp.ml
 spycellphonesoftware.info
 spychelin.cf

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-03T23:02:41.566Z
+# Aggregated blacklist generated on 2026-07-04T02:49:12.793Z
  
 0-30-24.com
 0-attorney.com
@@ -32844,6 +32844,7 @@ bolaparis.org
 bolaqq11.com
 bolaqq11.net
 bolaqq11.xyz
+bolas.lat
 bolasedot.com
 bolatiga.com
 bolatmakine.xyz
@@ -75277,6 +75278,7 @@ gde-kupit-cveti.ru
 gde-zaim.online
 gdemoy.site
 gdf.it
+gdfgergrer.online
 gdfgergrer.shop
 gdfgsd.cloud
 gdfr.com
@@ -150345,6 +150347,7 @@ quivilo.ga
 quivilo.gq
 quivilo.ml
 quivilo.tk
+quiwi.lat
 quixentra.cfd
 quixoticals.com
 quiz-craic.com
@@ -174637,6 +174640,7 @@ taipand4d.xyz
 taipokerking.com
 taiqicc.com
 taireize.xyz
+taischaves.com
 taisomai.com
 taison-mail.club
 taisonmail.us

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-04T20:56:43.750Z
+# Aggregated blacklist generated on 2026-07-04T22:57:10.194Z
  
 0-30-24.com
 0-attorney.com
@@ -170379,6 +170379,7 @@ stantonwhite.com
 stanungrab.cf
 stanungrab.gq
 stanungrab.ml
+stapedifmail.ru
 staphy.cloud
 staphyloemail.ru
 staphylomalu.ru
@@ -188026,6 +188027,7 @@ unjhabazaareshop.com
 unjhaeshop.com
 unjouruncercueil.com
 unjunkmail.com
+unjustimyu.ru
 unkempocys.space
 unkn0wn.ws
 unknmail.com

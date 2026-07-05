@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-05T03:19:02.747Z
+# Aggregated blacklist generated on 2026-07-05T07:24:56.965Z
  
 0-30-24.com
 0-attorney.com
@@ -21039,6 +21039,7 @@ arkhearts.space
 arklfchxs.shop
 arknet.tech
 arkonnide.cf
+arkoo.site
 arkotronic.pl
 arkresponse.email
 arkresponse.net

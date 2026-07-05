@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-05T20:58:50.806Z
+# Aggregated blacklist generated on 2026-07-05T23:00:11.652Z
  
 0-30-24.com
 0-attorney.com
@@ -118606,6 +118606,7 @@ meetandf.com
 meetandseed.com
 meetaprilstory.com
 meetaura.lat
+meetbillieholiday.click
 meetcard.store
 meetchain.biz.id
 meetcore.my.id
@@ -183597,6 +183598,7 @@ travellerlabs.click
 travellerly.click
 travellerrpg.click
 travellersrest.click
+travellersresthub.click
 travellerstourmedan.com
 travelly.click
 travelmadeease.com

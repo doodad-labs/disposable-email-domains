@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-05T15:12:08.305Z
+# Aggregated blacklist generated on 2026-07-05T17:09:23.571Z
  
 0-30-24.com
 0-attorney.com
@@ -80207,6 +80207,7 @@ graostudio.com
 grape-com.com
 grapebase.com
 grapefznws.space
+grapekorea.biz.id
 grapengrainco.com
 grapesv.tech
 grapevinegroup.com
@@ -158368,6 +158369,7 @@ ryukyuxxrf.space
 ryukyuzxis.space
 ryumail.net
 ryumail.ooo
+ryuu.codes
 ryuuir.my.id
 ryuuir.web.id
 ryuzak.site

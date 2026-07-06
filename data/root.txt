@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-05T23:00:11.652Z
+# Aggregated blacklist generated on 2026-07-06T03:26:46.264Z
  
 0-30-24.com
 0-attorney.com
@@ -11855,6 +11855,7 @@ aax.cloudns.asia
 aayulifesciences.com
 aayush.com
 aazdey.us
+aazhs.com
 aazhs.org
 aazita.xyz
 aazixwrzca.com
@@ -76729,6 +76730,7 @@ ghatefar.com
 ghath.us
 ghathigh.us
 ghaths.us
+ghathsus.us
 ghatk.us
 ghatkedu.us
 ghatkh.us
@@ -79953,6 +79955,7 @@ gptpluz.shop
 gptpluz2.shop
 gptpremapp.me
 gptpremlog.tech
+gptpro.biz.id
 gptproz.web.id
 gptsapp.net
 gptte.site
@@ -82405,6 +82408,7 @@ hagglebeddle.com
 hagglestore.com
 haggreroren.gq
 hagha.com
+hagianghill.com
 hagiasophiagroup.com
 hagiasophiaonline.com
 hagimails.ru
@@ -103244,6 +103248,7 @@ klezbyk.com
 klglawnyc.com
 klgn8f.info
 klhaeeseee.pl
+klhigh.us
 klichapdi.cf
 klichapdi.gq
 klichapdi.ml

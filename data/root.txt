@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-06T08:19:34.558Z
+# Aggregated blacklist generated on 2026-07-06T13:43:35.987Z
  
 0-30-24.com
 0-attorney.com
@@ -212,6 +212,7 @@
 02.pl
 020-82278622.com
 0202gmail.com
+020307.xyz
 0204445.com
 020gmail.com
 020yiren.com
@@ -29675,6 +29676,7 @@ bhakti-tree.com
 bhaktiswaroopam.com
 bhambriinternational.com
 bhamweekly.com
+bhana.xyz
 bhap.me
 bhappy0sagruz.ru
 bhappy1fajli.ru
@@ -30351,6 +30353,7 @@ billiament.info
 billieb.shop
 billieholidayhubs.click
 billieholidaylabs.click
+billieholidayly.click
 billies-bags.com
 billig-vvs.se
 billigerliefern.com

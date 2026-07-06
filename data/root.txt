@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-06T03:26:46.264Z
+# Aggregated blacklist generated on 2026-07-06T08:19:34.558Z
  
 0-30-24.com
 0-attorney.com
@@ -7116,6 +7116,7 @@
 5i8gvs.us
 5ikos.us
 5ixa0b.us
+5ixmonth.xyz
 5iznnnr6sabq0b6.cf
 5iznnnr6sabq0b6.ga
 5iznnnr6sabq0b6.gq

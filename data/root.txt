@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-07T20:06:26.617Z
+# Aggregated blacklist generated on 2026-07-07T23:00:52.364Z
  
 0-30-24.com
 0-attorney.com
@@ -1014,6 +1014,7 @@
 10minute-email.com
 10minute-mail.com
 10minute.cf
+10minute.email
 10minuteemails.com
 10minuteinbox.com
 10minutemail.be
@@ -56054,6 +56055,7 @@ doc5.xyz
 doc6.xyz
 doc8.xyz
 doca.press
+docash.app
 docasnyemail.cz
 docasnymail.cz
 docb.site
@@ -166875,6 +166877,7 @@ smart-mail.top
 smart-mask.online
 smart-medic.ru
 smart-movie.biz
+smart-slip.ru
 smart-thailand.com
 smart-tomorrow.com
 smart.com

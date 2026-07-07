@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-07T10:54:19.999Z
+# Aggregated blacklist generated on 2026-07-07T14:31:41.728Z
  
 0-30-24.com
 0-attorney.com
@@ -12871,6 +12871,7 @@ acousticcafenh.com
 acousticlive.net
 acoustoeml.ru
 acovi.click
+acoxs.com
 acpa-bvs.com
 acpeak.com
 acplm.com
@@ -28420,6 +28421,7 @@ bestcraftsshop.com
 bestcreditcart-v.com
 bestcryptonews.one
 bestcustomlogo.com
+bestd.lat
 bestdamndadever.com
 bestdarkspotcorrector.org
 bestdates.xyz
@@ -58790,6 +58792,7 @@ duupdzpzdj.ga
 duvafuliko.com
 duvaoutlet.site
 duvazu.com
+duvips.com
 duvmont.com
 duwy.site
 duxarea.com
@@ -69822,6 +69825,7 @@ fischerhendrik.de
 fischfresser.de
 fischkun.de
 fisdom.vip
+fisedo.com
 fisglpbal.com
 fish-market.club
 fish.co
@@ -110147,6 +110151,7 @@ ll47.net
 ll4cki.us
 ll6l4le.xyz
 llaen.net
+llama.lat
 llamame.online
 llanca.biz
 llaposte.net
@@ -117818,6 +117823,7 @@ mbamail.ml
 mbamail.tk
 mban.ml
 mbangilan.ga
+mbank.lat
 mbap.ml
 mbarchan.com
 mbarker.net
@@ -127747,6 +127753,7 @@ navelseed.ru
 navendazanist.net
 naver-mail.com
 naver-mail.kr
+naver.lat
 naveragroup.org
 naveraplus.com
 naverapp.com

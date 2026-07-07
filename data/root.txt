@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-06T23:06:21.953Z
+# Aggregated blacklist generated on 2026-07-07T03:17:27.265Z
  
 0-30-24.com
 0-attorney.com
@@ -119678,6 +119678,7 @@ metahd.ru
 metahero.net
 metaintern.net
 metairienewsdaily.com
+metajaya.biz.id
 metajeans.com
 metal-med.pl
 metalbet.ru

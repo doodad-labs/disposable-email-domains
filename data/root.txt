@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-07T23:00:52.364Z
+# Aggregated blacklist generated on 2026-07-08T02:35:25.231Z
  
 0-30-24.com
 0-attorney.com
@@ -10614,6 +10614,7 @@
 933933.xyz
 93398bb.com
 933j.com
+933oiggam.aig
 9354445.com
 935gmail.com
 936393.xyz
@@ -24451,6 +24452,7 @@ azhs.us
 azhsc.us
 azhsch.org
 azhsek.org
+azhsk.org
 aziamail.com
 azie.fun
 azim.one
@@ -29508,6 +29510,7 @@ beverlyharing55places.com
 beverlyhillstelecom.com
 beverlytx.com
 bevhattaway.com
+bevriz.com
 bevsemail.com
 bewakingscamera.shop
 beway.ga
@@ -35524,6 +35527,7 @@ bulmisen.ml
 bulmp3.com
 bulmp3.net
 bulnoriya.xyz
+buloan.com
 buloo.com
 bulpilean.store
 bulrushpress.com
@@ -39909,6 +39913,7 @@ cech-liptov.eu
 cecilihouse.co
 ceclb.us
 ceclmb.us
+ceclmbs.us
 cecls.us
 ceclus.us
 ceco3kvloj5s3.cf
@@ -59113,6 +59118,7 @@ dysjzp09.com
 dyskretna-pomoc.pl
 dyskretny.com
 dyslogistmail.com
+dysonc.com
 dyspdh.xyz
 dyspharnprep.ga
 dyspharnprep.gq
@@ -63565,6 +63571,7 @@ eparts1.com
 eparty.online
 epaygold.pro
 epayloan.pro
+epaynine.com
 epayvip88.com
 epb.ro
 epbox.ru
@@ -66326,6 +66333,7 @@ ezigna.com
 ezigolife.com
 eziimanager.com
 ezimail.com
+ezimb.com
 ezinmj.us
 ezinner.com
 ezip.site
@@ -74266,6 +74274,7 @@ gagahsoft.software
 gagainter.com
 gagal.com
 gagalive.shop
+gagbar.com
 gagcalculator.me
 gage.ga
 gageart.com
@@ -78869,6 +78878,7 @@ gokmen.kim
 gokturkist.com
 gokturkokullariobs.online
 gokturkokullariobs.xyz
+gokublue.me
 gokul.xyz
 gol.com
 gol60f.site
@@ -79703,6 +79713,7 @@ gouwu116.com
 gouwu98.com
 gouxing.top
 gouy.com
+gouziben.com
 gov-mail.com
 gov-ny.site
 gov-suppgrnt.com
@@ -85589,6 +85600,7 @@ hideme.be
 hidemyass.com
 hidemyass.fun
 hidenglah.site
+hidepost.net
 hidesmail.com
 hidesmail.net
 hideupgo.com
@@ -99067,6 +99079,7 @@ jpggh76ygh0v5don1f.ml
 jpggh76ygh0v5don1f.tk
 jpgi.com
 jpgtopng.me
+jphonet.com
 jphousecleaningsvcs.com
 jpinvest.ml
 jpjgroupplc.com
@@ -112380,6 +112393,7 @@ luminu.com
 luminus-ai.com
 lumismedia.net
 lumity.life
+lumix.lat
 lumm25k.io.vn
 lump.pa
 lumpenpmail.com
@@ -147249,6 +147263,7 @@ promarketingandmanagement.com
 promaskgroup.com
 promate.biz.id
 promb2b.ru
+promcool.com
 promdresses-short.com
 prome.gg
 promedcostarica.net
@@ -159216,6 +159231,7 @@ sagametour.com
 sagamingbets.com
 sagantares.com.br
 sagardaks.co
+sagarlic.com
 sagd33.co.uk
 sageandembers.com
 sagebrushtech.com
@@ -161555,6 +161571,7 @@ seaku.dev
 seakuu.dev
 seal-concepts.com
 sealized.info
+sealjump.com
 sealkitchen.com
 seallyfool.site
 sealmail.me

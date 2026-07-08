@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-08T10:16:49.022Z
+# Aggregated blacklist generated on 2026-07-08T14:03:01.107Z
  
 0-30-24.com
 0-attorney.com
@@ -15036,6 +15036,7 @@ ai-pct.com
 ai-report.ru
 ai-story-generator.net
 ai-trader.io
+ai100999.com
 ai108.online
 ai2111.com
 ai4000.com
@@ -91319,6 +91320,7 @@ ilcapriccio-erding.de
 ilcloud.com
 ilcommunication.com
 ilcoud.com
+ilcs.ac.ma
 ild.in
 ilderthers.ml
 ilderthers.tk

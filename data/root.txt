@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-08T02:35:25.231Z
+# Aggregated blacklist generated on 2026-07-08T06:27:21.308Z
  
 0-30-24.com
 0-attorney.com
@@ -87583,6 +87583,7 @@ hotbabekarmen.com
 hotbedbenefit.com
 hotbet.website
 hotbet.world
+hotbhabhi.in
 hotbio.asia
 hotbird.giize.com
 hotbitt.io
@@ -98656,6 +98657,7 @@ jojoemail.fun
 jojojojoojojo.shop
 jojojokeked.com
 jojolouisvuittonshops.com
+jojomedia.store
 jojoo.online
 joka-casino.co
 jokacasino.io
@@ -121956,6 +121958,7 @@ mmo01.com
 mmo05.com
 mmo2000.asia
 mmo365.co.uk
+mmo365.store
 mmo55.com
 mmoaia.com
 mmobackyard.com

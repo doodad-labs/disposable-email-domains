@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-08T06:27:21.308Z
+# Aggregated blacklist generated on 2026-07-08T10:16:49.022Z
  
 0-30-24.com
 0-attorney.com
@@ -68785,6 +68785,7 @@ fgjezxa.cloud
 fgjnxcps.site
 fglf.site
 fglf.xyz
+fgmail.cyou
 fgmu.com
 fgmx.de
 fgn.co
@@ -78259,6 +78260,7 @@ gmailx.xyz
 gmailxsn.com
 gmailxsn.site
 gmailxsn.space
+gmailxyz.bond
 gmaily.tk
 gmailya.com
 gmailzdfsdfds.com
@@ -92510,6 +92512,7 @@ indototo.space
 indotrader.net
 indowps.com
 indoxex.com
+indoxs.bond
 indoxx1.live
 indoxxitv.org
 indozoom.me
@@ -115308,6 +115311,7 @@ mailxtop.xyz
 mailxtr.eu
 mailxx.cf
 mailxx.gq
+mailxyz.cyou
 maily.info
 maily.lat
 maily.website
@@ -125073,6 +125077,7 @@ musicdrom.com
 musicety.com
 musicfictionpoint.site
 musicfilesarea.com
+musicflow.buzz
 musicforallpro.info
 musicfun.shop
 musicha93.com
@@ -137611,6 +137616,7 @@ outlookonr.online
 outlookonr.xyz
 outlookpro.net
 outlookqk.site
+outlooks.bond
 outlooks.media
 outlooku.id
 outlookua.online
@@ -157562,6 +157568,7 @@ ru.coffee
 ru.ru
 ru1.site
 ru4kav.site
+rua.pp.ua
 ruachaviationgroup.com
 ruafdulw9otmsknf.cf
 ruafdulw9otmsknf.ga
@@ -162479,6 +162486,7 @@ sengakmun.xyz
 sengi.top
 sengkang-grand-residences-sg.com
 sengketa.my.id
+sengkuni.dedyn.io
 sengokunaimo.life
 senguanteng.com
 sengyindang.com
@@ -189315,6 +189323,7 @@ utipal.com
 utirsmail.ru
 utjk.com
 utjuji.site
+utkarsh.tech
 utliz.com
 utmail.com
 utoken.fund
@@ -200417,6 +200426,7 @@ xglan.com
 xglmedia.com
 xglorymu.online
 xglrcflghzt.pl
+xgmail.bond
 xgmail.com
 xgmail.my.id
 xgmailoo.com
@@ -200466,6 +200476,7 @@ xhmdh99.xyz
 xho8i.info
 xhomasx.com
 xhos.dev
+xhotmail.cyou
 xhouse.xyz
 xhphtfvoit.ga
 xhr10.com
@@ -201238,6 +201249,7 @@ xn--58-6kcay4a7ay.xn--p1ai
 xn--5bus4b0yhw29d.online
 xn--5dbki3af.xn--9dbq2a
 xn--5dd.com
+xn--5nx.cc
 xn--5oqw2bv3rjq6a.xn--j6w193g
 xn--5tzu35b.hk
 xn--61-6kch9agsibavln.xn--p1ai
@@ -203428,6 +203440,7 @@ yahoots.com
 yahoov.com
 yahooweb.co
 yahoox.com
+yahoox.cyou
 yahoox.de
 yahooz.com
 yahop.co.uk

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-08T19:23:54.700Z
+# Aggregated blacklist generated on 2026-07-08T21:06:53.262Z
  
 0-30-24.com
 0-attorney.com
@@ -35532,6 +35532,7 @@ buloan.com
 buloo.com
 bulpilean.store
 bulrushpress.com
+bulske.site
 bulso-law.com
 bultacoparts.com
 bultoc.com
@@ -68778,6 +68779,7 @@ fggjghkgjkgkgkghk.ml
 fggxpoosfv.ga
 fgh8.com
 fghco.com
+fghe.store
 fghfg.com
 fghfgh.com
 fghi.com
@@ -122103,6 +122105,7 @@ mnhalfpricedlistings.com
 mnhomeonthelake.com
 mnhomesonthelake.com
 mnhxted.ga
+mniks.site
 mniloasderf.tk
 mnisjk.com
 mnjvma.org

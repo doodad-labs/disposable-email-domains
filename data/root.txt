@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-08T23:06:26.626Z
+# Aggregated blacklist generated on 2026-07-09T02:54:07.144Z
  
 0-30-24.com
 0-attorney.com
@@ -12030,6 +12030,7 @@ abejn.site
 abeloori.com
 abem.info
 abematv.com
+abematv.net
 abematv.org
 abenaroyalmedia.com
 abendkleidergunstig.net
@@ -20607,6 +20608,7 @@ arcadespecialist.com
 arcadiadesigns.site
 arcadiaego.com
 arcadiafairytales.com
+arcadium.lat
 arcamoldovei.md
 arcanemachine.com
 arcanite.com
@@ -155619,6 +155621,7 @@ riqsiv.site
 ririe.club
 ririsbeautystore.com
 rirre.com
+risan.lat
 risanmedia.id
 risantekno.com
 risasa.com.br
@@ -204007,6 +204010,7 @@ yelvin.info
 yemail.co.uk
 yemailme.com
 yemanjayoga.site
+yemao.lat
 yemek46.com
 yemekizmit.xyz
 yemektariflerisayfam.com

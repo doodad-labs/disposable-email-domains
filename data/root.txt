@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-09T10:53:23.188Z
+# Aggregated blacklist generated on 2026-07-09T14:56:30.354Z
  
 0-30-24.com
 0-attorney.com
@@ -20203,6 +20203,7 @@ applianceserviceshouston.com
 appliancesshop.futbol
 application-pro.fr
 applied-cax.com
+appliedcryotechnology.com
 appliedinclusion.com
 appliedphytogenetics.com
 appliziner.com
@@ -134388,6 +134389,7 @@ okcovington.com
 okcozumel.com
 okcpress.com
 okculvercity.com
+okcx.edu.rs
 okcxhssgk.top
 okdallas.com
 okdayton.com
@@ -146758,6 +146760,7 @@ privmag.com
 privmail.cf
 privmail.edu.pl
 privmail.ml
+privo.edu.pl
 privseco.com
 privtalk.my.id
 privy-mail.com
@@ -170538,6 +170541,7 @@ starlegboa.gq
 starlegboa.tk
 starlex.team
 starlight-breaker.net
+starlight.store
 starlightcanna.com
 starlimo.cf
 starlimo.ga
@@ -178350,6 +178354,7 @@ theboselaw.com
 theboss.casino
 theboty.com
 theboyers.org
+theboys.cyou
 theboysofriverside.com
 thebraidgoddess.com
 thebrainychic.org

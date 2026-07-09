@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-09T07:36:10.924Z
+# Aggregated blacklist generated on 2026-07-09T10:53:23.188Z
  
 0-30-24.com
 0-attorney.com
@@ -137253,6 +137253,7 @@ otorhinolarymail.com
 otostiker.com
 ototarz.com
 otozuz.com
+otp-chullmail.live
 otp1second.com
 otp1second.net
 otp1second.online

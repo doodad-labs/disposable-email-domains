@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-10T07:34:07.478Z
+# Aggregated blacklist generated on 2026-07-10T10:52:15.681Z
  
 0-30-24.com
 0-attorney.com
@@ -166362,6 +166362,7 @@ skygmail.ml
 skyhard.online
 skyhighbud.com
 skyhighdreem.com
+skyhope666.icu
 skyjetnet.com
 skylablearning.com
 skylai.cfd
@@ -185867,6 +185868,7 @@ twseel.com
 twsexy66.info
 twsh.us
 twskv.eu.org
+twskyhope.top
 twsurgeon.com
 twt33.xyz
 twtscript.com

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-09T23:10:29.607Z
+# Aggregated blacklist generated on 2026-07-10T02:56:27.965Z
  
 0-30-24.com
 0-attorney.com
@@ -32267,6 +32267,7 @@ bluskaimarketing.com
 blutig.me
 blutmapound.tk
 bluvisio.de
+bluvisio.net
 bluwinks.com
 bluwurmind234.cf
 bluwurmind234.ga
@@ -56269,6 +56270,7 @@ dodnitues.gr
 dodoberat.com
 dodoco.me
 dodode.com
+dodododo.site
 dodogame88.info
 dodogame88.org
 dodongdaibai.info
@@ -102199,6 +102201,7 @@ khjadv.site
 khjanfdxd.cloud
 khlawoffices.com
 khlbws.online
+khlsch.us
 khmail.web.id
 khmarketinguk.com
 khmer.loan
@@ -123686,6 +123689,7 @@ motobias.com
 motoecho.pro
 motom.cfd
 motomarkets.site
+motopriceone.com
 motorcasino-club.top
 motorcasino-games.top
 motorcasino-room.top
@@ -128366,6 +128370,7 @@ neitzelremodel.com
 neixos.com
 nejamaiscesser.com
 nejatngo.info
+nekaj.lat
 nekie.fun
 nekiga.cf
 nekiga.ga
@@ -165914,6 +165919,7 @@ sixtptsw6f.ga
 sixtptsw6f.gq
 sixtptsw6f.ml
 sixtptsw6f.tk
+sixty.wtf
 sixtyk.com
 sixtymina.com
 sixtysixx-winter-sale.ru

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-10T10:52:15.681Z
+# Aggregated blacklist generated on 2026-07-10T14:24:21.408Z
  
 0-30-24.com
 0-attorney.com
@@ -58837,6 +58837,7 @@ dv8student.com
 dva0.site
 dvader.club
 dvag-karriere.de
+dvaren.online
 dvc-india.com
 dvcc.com
 dvcu.com

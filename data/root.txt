@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-11T02:33:11.120Z
+# Aggregated blacklist generated on 2026-07-11T06:12:01.169Z
  
 0-30-24.com
 0-attorney.com
@@ -124578,6 +124578,7 @@ mtmcustomwoodworks.com
 mtmdev.com
 mtmdji.com
 mtmgeismar.com
+mtnewtoy.us
 mtnlf.com
 mto2.ru
 mtotobakimdetailing.com

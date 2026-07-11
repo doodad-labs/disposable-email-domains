@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-11T06:12:01.169Z
+# Aggregated blacklist generated on 2026-07-11T09:28:23.558Z
  
 0-30-24.com
 0-attorney.com
@@ -200973,6 +200973,7 @@ xlby.com
 xlchapi.com
 xlcom.biz
 xlcool.com
+xlcsh.icu
 xldigitalagency.com
 xlef.com
 xlekskpwcvl.pl

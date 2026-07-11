@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-10T22:58:34.185Z
+# Aggregated blacklist generated on 2026-07-11T02:33:11.120Z
  
 0-30-24.com
 0-attorney.com
@@ -14976,6 +14976,7 @@ ahmm.co.uk
 ahmnnedtfs.fun
 ahmosalahgood.fun
 ahmwd55.shop
+ahnairostudio.my.id
 ahndhasde.cloud
 ahnmednrh.shop
 ahnnmedmehd.cloud
@@ -39977,6 +39978,7 @@ ceduc.us
 ceduca.us
 ceducol.us
 ceducolb.us
+cedusc.us
 cedwa.us
 ceeasy.club
 ceed.se
@@ -63614,6 +63616,7 @@ ephemeral.black
 ephemeral.email
 ephemere.app
 ephemerofml.com
+ephemmail.com
 ephese-conseils.com
 ephrine.com
 ephysiotherapist.com
@@ -64701,6 +64704,7 @@ establismail.com
 estalya.us
 estate-invest.fr
 estateally.com
+estateapp.ng
 estateboss.com
 estatenearby.com
 estatenews.net
@@ -66966,6 +66970,7 @@ fakher.dev
 fakima.com
 fakiralio.ga
 fakiralio.ml
+fakrea.online
 faktionlabs.com
 faktoper.ru
 fakyah.ga
@@ -70946,6 +70951,7 @@ fmailxc.com
 fmaltafdty.com
 fman.site
 fmands.co.uk
+fmcroatiadty.com
 fmds.org
 fme8.com
 fmfigozxti.ga
@@ -70956,6 +70962,7 @@ fmial.com
 fmiv2r.com
 fmkino.online
 fmmxnskw.site
+fmnestkoily.com
 fmonaghan.shop
 fmovies-se.best
 fmovies-to.best
@@ -70978,6 +70985,7 @@ fmv13ahtmbvklgvhsc.ml
 fmv13ahtmbvklgvhsc.tk
 fmv69.com
 fmvaporizers.com
+fmwffv4y.com
 fmx.at
 fmyheo.xyz
 fmzhwa.info
@@ -75781,6 +75789,7 @@ gentingcasinos.co.uk
 gentingdompet.com
 gentle.web.id
 gentlecat.shop
+gentleinfopath.com
 gentlemancasino.com
 gentlemansclub.de
 gentlemen.ml
@@ -82294,6 +82303,7 @@ habibola22.com
 habibulfauzan.my.id
 habimail.web.id
 habiterragt.com
+habitnestguide.com
 habitosderico.com
 habitualferocity.com
 habituate.ru
@@ -87061,6 +87071,7 @@ homevault.cc
 homevia3.club
 homevia4.club
 homewatchdog.com
+homewiseleaf.com
 homewoodareachamber.com
 homeworkcourseworkhelps.com
 homeworkserver.com
@@ -98666,6 +98677,7 @@ jointtime.xyz
 joinville.tk
 jojamail.com
 joji.site
+jojiwffv4y.com
 jojo.cd
 jojo20314.site
 jojoemail.fun
@@ -110846,6 +110858,7 @@ lojacentrobenessere.shop
 lojadatvbox.com.br
 lojaibizas.info
 lojajled.com
+lojas.lat
 lojastream.shop
 lojatortuga.com
 lojistiklashing.com
@@ -129556,6 +129569,7 @@ nexamailbox.com
 nexamint.store
 nexapay.one
 nexario.shop
+nexarsh.store
 nexarshop.store
 nexavirolpq.io.vn
 nexazora.shop
@@ -134673,6 +134687,7 @@ olefoot.com
 olegfemale.org
 olegfineev.site
 olegmike.org
+olegrova-tatianas.site
 olekpesmailtnew.org
 olekyl.icu
 oleng.my.id
@@ -163404,6 +163419,7 @@ sexpone.com
 sexpronvideo.com
 sexsaker.com
 sexsation.ru
+sexshop-en-cordoba.com
 sexshop.com
 sexsmi.org
 sextapesfree.top
@@ -165548,6 +165564,7 @@ singlegourmetdating.com
 singlenomore.com
 singles-day.global
 singlesadventurepromotions.com
+singlescharts.com
 singlesearch12.info
 singlespride.com
 singlesx.site
@@ -181188,6 +181205,7 @@ tlienodclgoqlclt.com
 tlifestore.website
 tlimixs.xyz
 tlimixz.xyz
+tlook.online
 tlpn.org
 tlr-international.com
 tlraob.tokyo
@@ -183851,6 +183869,7 @@ trellotalk.com
 trelm.click
 trels.site
 tremecil.online
+tremo.lat
 tremontoworks.info
 tremosd.xyz
 tremubtib.cf
@@ -187309,6 +187328,7 @@ ullyyd.icu
 ulm-dsl.de
 ulmail.web.id
 ulmich.edu
+ulo.biz.id
 ulo.com.br
 ulocalmail.com
 ulolan.host
@@ -187669,6 +187689,7 @@ unchartedsw.com
 unchuy.xyz
 uncivilimail.ru
 uncle-aug.org
+uncle-jordan.pro
 unclebobscoupons.com
 unclebuckspumpkinpatch.com
 unclecode.stream

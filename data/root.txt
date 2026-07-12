@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-12T14:55:19.067Z
+# Aggregated blacklist generated on 2026-07-12T16:57:31.154Z
  
 0-30-24.com
 0-attorney.com
@@ -154908,6 +154908,7 @@ reybenz.com
 reyco.fun
 reydonerkebabmalaga.com
 reyluckycasino.info
+reymaticx.com
 reymisterio.com
 reynastock.eu.org
 reynathecapitalism.eu.org

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-12T06:31:57.118Z
+# Aggregated blacklist generated on 2026-07-12T09:50:00.602Z
  
 0-30-24.com
 0-attorney.com
@@ -15879,6 +15879,7 @@ aksarayotoekspertiz.com
 aksearches.com
 akselparis.com
 akserviceonline.com
+aksesincabanggpt.my.id
 aksesorisa.com
 akshayd.com
 akshith.io
@@ -16271,6 +16272,7 @@ alebutar-butar369.cf
 alec.co.pl
 alecarmbruster.com
 alecbechdel.com
+alecok.biz.id
 alecoutinho.com
 alectromail.xyz
 alectronik.com
@@ -62004,6 +62006,7 @@ elvemail.com
 elvendon.net
 elversoft.space
 elverturkiye.com
+elvion.biz.id
 elvirabeauty.com
 elvire.space
 elvis-pizza.com
@@ -75577,6 +75580,7 @@ geludkita.ml
 geludkita.tk
 gelug.net
 gelugut.biz.id
+gemail.biz.id
 gemail.cam
 gemail.co
 gemail.co.com
@@ -90273,6 +90277,7 @@ ichet.ru
 ichibata.online
 ichichich.faith
 ichics.com
+ichier.biz.id
 ichigo.me
 ichimail.com
 ichkoch.com
@@ -114173,6 +114178,7 @@ mailcc.gq
 mailcc.icu
 mailcc.ml
 mailcc.tk
+mailccconsequatur.my.id
 mailccmaiores.my.id
 mailcdn.ml
 mailch.buzz
@@ -129813,6 +129819,7 @@ ngekrit.lat
 ngelead.eu.org
 ngem.net
 ngeme.me
+ngemprutt.my.id
 ngemusic.academy
 ngentodgan-awewe.club
 ngentot.info

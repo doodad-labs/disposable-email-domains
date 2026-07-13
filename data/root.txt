@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-13T20:56:06.684Z
+# Aggregated blacklist generated on 2026-07-13T22:55:38.764Z
  
 0-30-24.com
 0-attorney.com
@@ -83737,6 +83737,7 @@ havdhave.shop
 haveacreditcardmall.com
 haveafinetime.ru
 haveanotion.com
+havefundarling.xyz
 havehavd.shop
 havelock4.pl
 havelock5.pl

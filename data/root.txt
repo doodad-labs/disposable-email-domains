@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-12T22:46:33.152Z
+# Aggregated blacklist generated on 2026-07-13T02:41:06.956Z
  
 0-30-24.com
 0-attorney.com
@@ -28904,6 +28904,7 @@ bet4444casino.com
 bet466.net
 bet49day.xyz
 bet49design.xyz
+bet4cassino.info
 bet4shop.com
 bet558casino.info
 bet558casino.net
@@ -29087,6 +29088,7 @@ betinebet105.com
 betinebet106.com
 betinebet107.com
 betinmexico.com
+betipix365.net
 betipster.app
 betiran35.bet
 betiran38.bet
@@ -38424,6 +38426,7 @@ cardtested.com
 cardthis.com
 cardtime.info
 cardtimecasino.ph
+cardtimegames.com
 cardtribute.com
 care-breath.com
 care-me.shop
@@ -40092,6 +40095,7 @@ celestiad.tech
 celestialcascadecoyote.site
 celestialcascadecoyote.space
 celestialcascadecoyote.store
+celestifyltd.com
 celestinaelviraphotography.com
 celestineliving.com
 celfe.fun
@@ -42259,6 +42263,7 @@ cholaban.cf
 cholaban.gq
 cholaban.ml
 choladhisdoctor.com
+cholecalce.com
 cholecystogasinf.com
 cholecystojemail.com
 cholecystoli.ru
@@ -66544,6 +66549,7 @@ f68vip.net
 f68win.com
 f691.club
 f6g2w9.accountant
+f6game.info
 f6kbl.cloud
 f6vexe.us
 f6w0tu0skwdz.cf
@@ -74241,6 +74247,7 @@ gacifa.info
 gacoky.info
 gacor-jackpot.com
 gacor108play.info
+gacor108play.net
 gacorasia.com
 gacorin.click
 gacormania.pro
@@ -78636,6 +78643,7 @@ goainc.net
 goal-ed.com
 goal11casino.net
 goal11casinologin.info
+goal11casinologin.org
 goal2.com
 goalhere.cd
 goalki.com
@@ -78924,6 +78932,7 @@ gold-profits.info
 gold.edu.pl
 gold365login.info
 gold99casino.info
+gold99slot.info
 goldbarcube.com
 goldbergs.org
 goldbet888casino.com
@@ -93599,6 +93608,7 @@ insuiter.com
 insulium.com
 insulize.xyz
 insumixturkiye.xyz
+insupportkl.ru
 insurance-co-op.com
 insurance-company-service.com
 insurance-network.us
@@ -97826,6 +97836,7 @@ jilibet777ph.org
 jilibetapplogin.com
 jilibetcasino.com.ph
 jilibetdonnalyn.com
+jilibetlogin.info
 jilibetloginregister.com
 jilibetrealmoneyplatform.com
 jilibosscasino.com
@@ -102162,6 +102173,7 @@ khalinin.tk
 khalis.us
 khalisady.store
 khalisch.us
+khalisus.us
 khalpacor.cf
 khalpacor.ga
 khalpacor.gq
@@ -139200,6 +139212,7 @@ pappas-kelley.com
 pappd.com
 papsiko.fun
 papua-nedv.ru
+papuabarat.net
 papuabaratdaya.net
 papuaqq.org
 papuaqq.site
@@ -184104,6 +184117,7 @@ triderprez.tk
 triedbook.xyz
 triennguyen.com
 trieublack4g.com
+trieuhao.site
 trifectafunnel.com
 trifistfmals.com
 triforge.online

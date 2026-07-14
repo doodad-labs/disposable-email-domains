@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-14T20:59:15.993Z
+# Aggregated blacklist generated on 2026-07-14T22:56:20.879Z
  
 0-30-24.com
 0-attorney.com
@@ -23064,6 +23064,7 @@ aupiurao.xyz
 aupowerinside.com
 aupr.com
 aupvs.com
+aur.biz.id
 aur0vk.us
 aura-mebel.ru
 auraence.com
@@ -86456,6 +86457,7 @@ hmpw.com
 hmsale.org
 hmscossack.org
 hmtf.com
+hmttank.com
 hmupon.shop
 hmuss.com
 hmwgeyyqsr.ga
@@ -93526,6 +93528,7 @@ instantbummer.com
 instantcalculus.com
 instantcasinos.casino
 instantcriminalrecordsearch.com
+instantdashboard.site
 instantdirectionsfinder.com
 instantdispatch.life
 instantemailaddress.com

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-14T06:10:04.921Z
+# Aggregated blacklist generated on 2026-07-14T09:57:25.013Z
  
 0-30-24.com
 0-attorney.com
@@ -76163,6 +76163,7 @@ getblogs.xyz
 getbloomdata.com
 getbloomingbond.com
 getbonce.com
+getbox89.xyz
 getbreathegreencharcoal.com
 getbreathtaking.com
 getbriefr.com
@@ -90108,6 +90109,8 @@ iblogger.top
 iblplay.info
 iblplay.org
 ibmail.com
+ibmdoors.com
+ibmdoors.com.cn
 ibmmails.com
 ibmpc.cf
 ibmpc.ga
@@ -155228,6 +155231,7 @@ ribo.com
 riboflavin.com
 ribreacic.it.com
 ribreacice.it.com
+ricardo0911.xyz
 ricardojarma.com
 ricarice.shop
 riccardobrinkman.online
@@ -196425,6 +196429,7 @@ wensjuweel.site
 wentcity.com
 wentlfoklsevl.ru
 wentzvilleeyecenter.info
+wenyuanshe.com
 weobd.com
 weoieng.space
 weone.one

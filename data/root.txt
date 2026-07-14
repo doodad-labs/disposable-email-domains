@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-13T22:55:38.764Z
+# Aggregated blacklist generated on 2026-07-14T02:24:53.993Z
  
 0-30-24.com
 0-attorney.com
@@ -2561,6 +2561,7 @@
 1win-nodepositspin.buzz
 1win.beauty
 1win.hair
+1win.life
 1win.page
 1winapk.info
 1winbonuscasino.net
@@ -23474,6 +23475,7 @@ autotradebid.com
 autotropic.site
 autotuning.agency
 autotwollow.com
+autouchetbuh.ru
 autoums.info
 autouplinkusa-mn.com
 autour-des-auteurs.info
@@ -24234,6 +24236,7 @@ axomcinema.com
 axon.vn
 axon7zte.com
 axonbxifqx.ga
+axone.lat
 axpmydyeab.ga
 axsol.com
 axsonis.com
@@ -79171,6 +79174,7 @@ gomei.com
 gomelkosmos.site
 gomen-da.com
 gomerchant.app
+gomes.lat
 gomessage.ml
 gometrodesign.com
 gomez-rosado.com
@@ -189287,6 +189291,7 @@ ussje.com
 ussolarpump.com
 ussostunt.com
 usspacecom.com
+ussteel.xyz
 ussv.club
 ustabbettsnupp2020.xyz
 ustabetsnup.xyz
@@ -193741,6 +193746,7 @@ vpslists.com
 vpsmetrics.site
 vpsmetrics.space
 vpsmobilecloudkb.com
+vpsnl.online
 vpsnl.ru
 vpsorg.pro
 vpsorg.top

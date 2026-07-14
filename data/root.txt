@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-14T13:40:48.342Z
+# Aggregated blacklist generated on 2026-07-14T15:23:05.659Z
  
 0-30-24.com
 0-attorney.com
@@ -27522,6 +27522,7 @@ bedestin11.top
 bedfadsfaidsok.live
 bedfordguildhouse.org
 bedieusociu.tech
+bedigital.my.id
 bedirhan.de
 bedisplaysa.com
 bedk.com
@@ -78100,6 +78101,7 @@ gmail-at.com
 gmail-b.lol
 gmail-box.com
 gmail-c.cc
+gmail-codex.web.id
 gmail-es.com
 gmail-fiji.gq
 gmail-kuu.my.id
@@ -136496,6 +136498,7 @@ opulent-fx.com
 opulup.biz
 opus-cs.com
 opus.my.id
+opus.web.id
 opusbanes.gq
 opusdei.biz.id
 opusdei.web.id

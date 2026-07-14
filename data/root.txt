@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-14T11:26:57.305Z
+# Aggregated blacklist generated on 2026-07-14T13:40:48.342Z
  
 0-30-24.com
 0-attorney.com
@@ -80001,6 +80001,7 @@ gpt-mail-free-9695.dynv6.net
 gpt-mail-free-9825.dynv6.net
 gpt-mail-free-9935.dynv6.net
 gpt-mail.myftp.org
+gpt20260701.top
 gptcode.biz.id
 gptcodeshop.com
 gptdeactmulu.my.id
@@ -172450,6 +172451,7 @@ sugoi-ii.biz
 sugrad.ru
 suhagamecasino.com
 suhangko.com
+suhasmedam.com
 suhavi.com
 suhov-media.ru
 suhuempek.cf

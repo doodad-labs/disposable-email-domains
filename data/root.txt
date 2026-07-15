@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-15T10:01:25.932Z
+# Aggregated blacklist generated on 2026-07-15T13:41:12.007Z
  
 0-30-24.com
 0-attorney.com
@@ -54071,6 +54071,7 @@ diariomineria.com
 diarioretail.com
 diariototal.com
 diarioturismo.com
+diarshop.com
 diaryinza.com
 diaryofahairtransplant.com
 diaryofsthewholesales.info
@@ -99726,6 +99727,7 @@ junioretp.com
 junioriot.net
 juniorlinken.com
 juniorr.us
+junk-king.pro
 junk-lugger.com
 junk-mail.us
 junk.to
@@ -106656,6 +106658,7 @@ lastresortdefensivehandguns.com
 lastructuralengineering.com
 lastskiveline.website
 laststand.xyz
+lasttea.com
 lastxxx.com
 lasupsi.ga
 lasupsi.gq
@@ -128706,6 +128709,7 @@ nestle-usa.gq
 nestle-usa.ml
 nestle-usa.tk
 nestlima.com
+nestlynotes.com
 nestmailbox.com
 nestmoon.com
 nestor.to
@@ -150105,6 +150109,7 @@ quantmailx.com
 quantnetwork.city
 quantnodes.com
 quantobasta.ru
+quantorynexus.space
 quantro.click
 quantrr.pro
 quants.school
@@ -172148,6 +172153,7 @@ su4gc.us
 su7u.com
 suadoll.shop
 suagiagoc.com
+suahi.com
 suakmnn.com
 suamgtpk.shop
 suamiistribahagia.com
@@ -190783,6 +190789,7 @@ velocilight.com
 velocitara.uk
 velociticommunications.com
 velocities.space
+velocitronix.online
 velocity-digital.com
 velocity-digital.org
 velocitydigital.net

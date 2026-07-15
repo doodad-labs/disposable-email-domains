@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-14T22:56:20.879Z
+# Aggregated blacklist generated on 2026-07-15T02:27:08.739Z
  
 0-30-24.com
 0-attorney.com
@@ -26535,6 +26535,7 @@ basnnmt.tk
 basnspyioo.ga
 basogi.xyz
 basogu.xyz
+basonut.com
 basresscam.cf
 basresscam.ga
 basresscam.gq
@@ -45446,6 +45447,7 @@ colsc.us
 colsch.us
 colscho.us
 colschoo.us
+colschs.us
 colsedu.us
 coltonattorneys.com
 coltonpower.com
@@ -78073,6 +78075,7 @@ gmahil.com
 gmai.co
 gmai.com
 gmai.fr
+gmai1.co.kr
 gmai1.ga
 gmai1.homes
 gmai1.kr
@@ -141045,6 +141048,7 @@ pepperlink.net
 pepperload.com
 peppertreelane.net
 pepsisanc.com
+pepsmart.net
 pepsprod.com
 peptide-conference.com
 peptideinformation.com
@@ -185651,6 +185655,7 @@ tvbank.website
 tvbong.fun
 tvbong8.fun
 tvbong9.fun
+tvbox.lat
 tvboxpro.net
 tvbr.site
 tvbrcjnj.shop
@@ -187179,6 +187184,7 @@ ujxspots.com
 uk-beauty.co.uk
 uk-draw.com
 uk-nedv.ru
+uk-peptides.org
 uk-residency.org
 uk-tv24news.site
 uk-tvshow.com

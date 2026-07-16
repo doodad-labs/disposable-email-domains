@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-16T06:16:43.037Z
+# Aggregated blacklist generated on 2026-07-16T10:07:44.598Z
  
 0-30-24.com
 0-attorney.com
@@ -56007,6 +56007,7 @@ dnsdujeskd.com
 dnses.ro
 dnset.com
 dnsguard.net
+dnslog.tech
 dnsmail.me
 dnsowl.com
 dnspublick.com
@@ -101524,6 +101525,7 @@ keivosnen.online
 keixshi.site
 keizercentral.com
 kejenx.com
+kejinxi.xyz
 kejl.com
 kejunihasan.me
 kejw1t.us

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-16T19:08:21.578Z
+# Aggregated blacklist generated on 2026-07-16T20:55:59.963Z
  
 0-30-24.com
 0-attorney.com
@@ -16121,6 +16121,7 @@ alatmedsos.shop
 alawfardent.com
 alawin.online
 alazac.org
+alazacad.org
 alazan.biz
 alazard.info
 alazh.org
@@ -24457,6 +24458,7 @@ azhhi.org
 azhi.us
 azhigh.org
 azhirock.com
+azhlyc.org
 azhour.fr
 azhq.com
 azhrs.us
@@ -28526,6 +28528,7 @@ bestgames4fun.com
 bestgamingmonitorden.com
 bestgear.com
 bestgenericviagra.website
+bestgiftdaily.com
 bestglassbeads.com
 bestglockner.com
 bestglutenfreerecipes.org
@@ -39946,6 +39949,7 @@ cecol.us
 cecolm.us
 cecols.us
 cecolsch.us
+cecolsus.us
 cecolu.us
 cecolum.us
 cecolumb.us
@@ -118974,6 +118978,7 @@ meiguosaver.com
 meihuajun76.com
 meihukeji.com
 meikaa.store
+meikeya.com
 meil.co.pl
 meil4me.pl
 meiler.co.pl
@@ -124535,6 +124540,7 @@ msqproperty.com
 msqtbill247.com
 msquarebudapest.com
 msquarehotelbudapest.com
+msr.pro.bd
 msrc.ml
 msrisg.site
 msromaballinagh.com
@@ -160635,6 +160641,7 @@ savannahgyd.com
 savannahnewsdaily.com
 savaryseachest.com
 savastan0.top
+savatv.com
 savaxia.com
 savbus.info
 savdz.com
@@ -172379,6 +172386,7 @@ sucuqeu.space
 sucvat.dog
 sud.in
 suda2.pw
+sudaley.com
 sudaltro.com
 sudan-nedv.ru
 sudaneseoverline.com
@@ -182119,6 +182127,7 @@ tongkosong.com
 tongobet.com
 tongon.online
 tongos.site
+tongtode.com
 tongtolangnangka.ga
 tongtolangnangka1.ml
 toni.io.vn
@@ -191635,6 +191644,7 @@ vicious.email
 vicious.life
 viciouskhalfia.io
 vicissitmail.com
+vicitro.com
 vickaentb.cf
 vickaentb.ga
 vickaentb.gq
@@ -199358,6 +199368,7 @@ wuaze.com
 wucaitang.com
 wudet.men
 wudiai.shop
+wudiart.com
 wudmis.com
 wudprint.online
 wudsec.com
@@ -200609,6 +200620,7 @@ xhr10.com
 xhrmtujovv.ga
 xhs-tools.com
 xhs.bet
+xhseeds.com
 xht00.com
 xht77.com
 xhusjsx.xyz
@@ -205941,6 +205953,7 @@ yvzcmk.us
 yw4kz.info
 ywamarts.org
 ywamdayton.com
+ywbin.com
 ywds.net
 ywgsr.icu
 ywhmsx.xyz

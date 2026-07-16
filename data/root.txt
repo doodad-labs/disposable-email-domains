@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-16T17:14:17.482Z
+# Aggregated blacklist generated on 2026-07-16T19:08:21.578Z
  
 0-30-24.com
 0-attorney.com
@@ -129623,6 +129623,7 @@ nexamailbox.com
 nexamint.store
 nexapay.one
 nexario.shop
+nexarisystems.online
 nexarsh.store
 nexarshop.store
 nexavirolpq.io.vn
@@ -206363,6 +206364,7 @@ zantrixveltorqan.website
 zantsuppno.ga
 zantsuppno.gq
 zantsuppno.tk
+zanvilorexp.io.vn
 zanycabs.com
 zanymail.online
 zanyspizza.com

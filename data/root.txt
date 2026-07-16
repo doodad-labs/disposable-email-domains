@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-15T22:57:31.510Z
+# Aggregated blacklist generated on 2026-07-16T02:30:35.021Z
  
 0-30-24.com
 0-attorney.com
@@ -28489,6 +28489,7 @@ besteverseocompany.com
 bestevetynight.ru
 bestevidencebasedpractice.com
 bestexerciseequipmentguide.com
+besteya.com
 bestfaithfilms.com
 bestfakenews.xyz
 bestfemalepornstars.com
@@ -54602,6 +54603,7 @@ dimail.xyz
 dimalary.ru
 dimalk.com
 dimana.live
+dimar.lat
 dimarcoaviation.com
 dimas44.shop
 dimasdomeni.press
@@ -58921,6 +58923,7 @@ dwango.ga
 dwango.gq
 dwango.ml
 dwango.tk
+dwarfmining.com
 dwarfpools.online
 dwboya.org
 dwc-contracting.com
@@ -77032,6 +77035,7 @@ gicarep.gq
 gicarep.tk
 giccasv1.tk
 gicik.net
+gicont.com
 gicua.com
 gidabankaciligizirvesi.com
 gidabankaciligizirvesi.info
@@ -106119,6 +106123,7 @@ lam0k.com
 lamahometextile.com
 lamaisonducachemire.com
 lamak.my.id
+lamar.lat
 lamarengineering.com
 lamasbonitadetodasmix.com
 lamasticots.com
@@ -112220,6 +112225,7 @@ luckbetcasino.net
 luckboy.pw
 luckence.com
 luckeyinvest.com
+luckfeed.com
 luckgift.ru
 luckindustry.ru
 luckjob.pw
@@ -144154,6 +144160,7 @@ pneumoencepmail.ru
 pneumoiosismail.com
 pneumoperimy.com
 pnew-purse.com
+pngk.uk
 pngnsprvds.com
 pngrise.com
 pngykhgrhz.ga
@@ -151896,6 +151903,7 @@ rapmail.store
 raposoyasociados.com
 rappere.com
 rappidislandway.com
+rapplo.com
 rapquangtri.com
 rapt.be
 rapture.bio

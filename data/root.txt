@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-17T20:54:06.201Z
+# Aggregated blacklist generated on 2026-07-17T22:49:47.831Z
  
 0-30-24.com
 0-attorney.com
@@ -23070,6 +23070,7 @@ aupvs.com
 aur.biz.id
 aur0vk.us
 aura-mebel.ru
+aurace96.net
 auraence.com
 auraity.com
 auralace.shop

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-17T02:32:44.918Z
+# Aggregated blacklist generated on 2026-07-17T06:14:10.689Z
  
 0-30-24.com
 0-attorney.com
@@ -63106,6 +63106,7 @@ endozogkqq.site
 endpoint-hosting.online
 endritravels.com
 endrix.org
+endtest-mail.io
 enduranceblue-original.website
 enduringheritage.net
 endvad.tk
@@ -136893,6 +136894,7 @@ orijinalfaynexfarma.online
 orijinalkafur.fun
 orikamset.de
 orimail.com
+orimassage.com
 orinexa.com
 oringame.com
 orinmail.com

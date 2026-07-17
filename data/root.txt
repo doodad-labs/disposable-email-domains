@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-17T06:14:10.689Z
+# Aggregated blacklist generated on 2026-07-17T09:56:17.667Z
  
 0-30-24.com
 0-attorney.com
@@ -10183,6 +10183,7 @@
 8cl3.icu
 8clv5u.com
 8cqznp.us
+8d7kh.com
 8dayssoda.com
 8dayvina.com
 8dayvip.info
@@ -11689,6 +11690,7 @@ aaabet1.info
 aaaeee.com
 aaaf.ru
 aaafleamarketsupply.com
+aaago.cyou
 aaagr.xyz
 aaaip.org
 aaajilicasino.info
@@ -23492,6 +23494,7 @@ autozine.net
 autozoomer.ru
 autrementstore.com
 auttt.xyz
+autu11n.lol
 autumnfalls.site
 autumnlab.fun
 autumnnetworks.com
@@ -35480,6 +35483,7 @@ bulaindianandorientalcuisine.com
 bulantogel.org
 bulantoto.com
 bulantoto.net
+bulapolo.site
 bulatgarmaeff.ru
 bulatox.com
 bulbasures.com
@@ -101385,6 +101389,7 @@ kdweed.com
 kdwz.cloudns.ph
 kdxcvft.xyz
 kdzrgroup.com
+ke1le.cyou
 ke3981.com
 ke3996.com
 ke3998.com
@@ -112471,6 +112476,7 @@ luminaireinstitute.com
 luminaireinstitute.org
 lumineon.net
 luminexis.cfd
+luminix1.shop
 luminmil.ru
 luminnabeauty.com
 luminous-cabal.site
@@ -148326,6 +148332,7 @@ pufcava.gq
 pufcava.ml
 puffandscruff.com
 puffbarvapestore.com
+puffiqo.store
 puffmail.shop
 puffmail.site
 puffsreworksheet.site

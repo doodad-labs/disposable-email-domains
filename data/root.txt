@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-17T22:49:47.831Z
+# Aggregated blacklist generated on 2026-07-18T02:24:08.924Z
  
 0-30-24.com
 0-attorney.com
@@ -64451,6 +64451,7 @@ escape.org
 escape2cruise.com
 escapecomponents.store
 escapehatchapp.com
+escapeion.com
 escapeling.com
 escapesdeals.com
 escapeteams.ru
@@ -65507,6 +65508,7 @@ evlenmiyorum.com
 evliyaogluotel.com
 evlo.net
 evlon1.us
+evlox.biz
 evluence.com
 evmail.com
 evnft.com
@@ -68212,6 +68214,7 @@ fdsgfdgfdgd.online
 fdsgsd.org
 fdshasdfh45.cloud
 fdshjsjhhssa.cloud
+fdsregre.shop
 fdsss.pro
 fdstlm.us
 fdsweb.com
@@ -69620,6 +69623,7 @@ finikeakdeniz.xyz
 finioios.gr
 finishfmail.com
 finishingtouchfurniturerepair.com
+finishit.space
 finishlinetn.com
 finishtimingtrailers.com
 finiteagency.com

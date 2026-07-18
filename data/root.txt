@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-18T16:57:23.018Z
+# Aggregated blacklist generated on 2026-07-18T19:02:38.325Z
  
 0-30-24.com
 0-attorney.com
@@ -49699,6 +49699,7 @@ cyberhub.me
 cyberian.net
 cyberic.xyz
 cyberintel.onl
+cyberionexus.shop
 cyberiso.com
 cyberjunkie.dk
 cyberknx.com
@@ -181962,6 +181963,7 @@ tokiyaki.com
 tokkabanshop.com
 tokki3124.com
 tokkimwaps.cfd
+tokmail.fun
 tokmail.net
 toko3d.com
 tokoajaib.com

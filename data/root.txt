@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-18T06:04:22.702Z
+# Aggregated blacklist generated on 2026-07-18T09:24:04.261Z
  
 0-30-24.com
 0-attorney.com
@@ -1122,6 +1122,7 @@
 111222.pl
 11141z.com
 11163.com
+11166666.xyz
 1118dfgg2.com
 1118jkcfg4.exposed
 1119837.com
@@ -1652,6 +1653,7 @@
 163gx.site
 163qq.cloud
 16401.monster
+164109038.xyz
 16443.monster
 164gmail.com
 164qq.com
@@ -5769,6 +5771,7 @@
 4984445.com
 498546511.xyz
 499494a.com
+499713376.xyz
 499gmail.com
 49com.com
 49dayblog.xyz
@@ -23088,6 +23091,7 @@ aurawire.com
 aurcasino.com
 aureatape.com
 aureliajobs.com
+aureliandata.space
 aureliaprime.net
 aureliasaxophonequartet.com
 aureliawilliam.biz.id
@@ -26978,6 +26982,7 @@ bcisites.com
 bcjm4.icu
 bcle.de
 bcm.edu.pl
+bcmail.pro
 bcmmail.com
 bcng.email
 bcnsc.online
@@ -35641,6 +35646,7 @@ bunnyboo.it
 bunnycloud.de
 bunnydolls.fun
 bunnyhasofficiallypissedoffgreengay.tk
+bunnyhub.space
 bunnyphcasino.com
 bunnysitesqa.com
 bunnyze.info
@@ -59907,6 +59913,7 @@ ebamen.gq
 ebamen.tk
 ebanasuka.biz
 ebanglanewspaper.com
+ebar.site
 ebarg.net
 ebay-sale-shop.ru
 ebaymail.com
@@ -61546,6 +61553,7 @@ electroch.ru
 electrochemail.ru
 electrochemale.com
 electrocheruby.ru
+electrochillplanet.com
 electrocmails.ru
 electrocmalu.ru
 electrocml.ru
@@ -75648,6 +75656,7 @@ gemini365.com
 gemini3pro.icu
 geminicg.com
 geminly.com
+gemipro1.store
 gemlandscaping.co.uk
 gemmail.store
 gemmarosefoundation.co.uk
@@ -173052,6 +173061,7 @@ supergreen.com
 supergreentonic.com
 supergrok.biz.id
 supergrok.live
+supergrok.site
 supergsm.com
 superhappyfunnyseal.com
 superhemail.com
@@ -202366,6 +202376,7 @@ xposeu.com
 xposible.info
 xpouch.com
 xprem.my.id
+xpremium.pro
 xpresiku.com
 xpressbattery.com
 xpresshalling.com

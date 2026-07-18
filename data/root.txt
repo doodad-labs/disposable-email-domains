@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-18T02:24:08.924Z
+# Aggregated blacklist generated on 2026-07-18T06:04:22.702Z
  
 0-30-24.com
 0-attorney.com
@@ -51449,6 +51449,7 @@ dazate.gq
 dazate.tk
 dazbet2.com
 dazere.info
+dazi77.cc
 dazplay.com
 dazzlemysmile.biz
 dazzlingcountertops.com
@@ -142007,6 +142008,7 @@ phentermine-mortgages-texas-holdem.biz
 phentermine.pw
 phenylket.ru
 pheo.com
+pheochrcs.ru
 pheolutdi.cf
 pheolutdi.ga
 pheolutdi.ml
@@ -143443,6 +143445,7 @@ plagiarismcheck.online
 plagiarizers320ze.online
 plague.chat
 plaindesire.com
+plainhomehub.com
 plainst.site
 plainville.org
 plaipal3.xyz

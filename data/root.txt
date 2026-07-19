@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-18T22:48:56.334Z
+# Aggregated blacklist generated on 2026-07-19T02:36:20.838Z
  
 0-30-24.com
 0-attorney.com
@@ -74527,6 +74527,7 @@ gamacloud.org
 gamadaiz.shop
 gamadaiz.website
 gamael.com
+gamah.lat
 gamail.co.com
 gamail.com
 gamail.net
@@ -139637,6 +139638,7 @@ parrotingtheright.com
 parrrsssiigggraaammm.club
 parrrsssiigraaammm.club
 parrsmail.ru
+parrtne.com
 pars.tk
 parsecfrontiers.net
 parsellfuneralhomes.com

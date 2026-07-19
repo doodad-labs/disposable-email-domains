@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-19T20:45:43.508Z
+# Aggregated blacklist generated on 2026-07-19T22:51:00.801Z
  
 0-30-24.com
 0-attorney.com
@@ -6576,6 +6576,7 @@
 5218ag.com
 521gmail.com
 5222gameapk.com
+522885.xyz
 522gmail.com
 523gbt.com
 523gmail.com
@@ -7581,6 +7582,7 @@
 6618ca.com
 66227d.com
 6624445.com
+662602718.xyz
 663388211.com
 663gmail.com
 663niu.com
@@ -22713,6 +22715,7 @@ atlantisbahis7.com
 atlantisbahis9.com
 atlantisbeds.com
 atlas.cz
+atlas4381.me
 atlasbet400.com
 atlasbets.com
 atlasimple.com
@@ -31083,6 +31086,7 @@ bityemedia.com
 bitymails.us
 bitzandpiecez.com
 bitzonasy.info
+biubiuwholeworld.cn
 biumemail.com
 biuranet.pl
 biuro-naprawcze.pl
@@ -44430,6 +44434,7 @@ cma4x3.com
 cmael.com
 cmag88.site
 cmail.asia
+cmail.blog
 cmail.club
 cmail.com
 cmail.host
@@ -84065,6 +84070,7 @@ hcvoid.us
 hcwyj.cn
 hcxnw.info
 hcyb.email
+hcypku.cloud
 hcysw.info
 hcyughc.ml
 hcyxrnhrl.shop

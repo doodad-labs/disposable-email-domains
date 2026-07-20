@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-19T22:51:00.801Z
+# Aggregated blacklist generated on 2026-07-20T02:52:29.404Z
  
 0-30-24.com
 0-attorney.com
@@ -71404,6 +71404,7 @@ forbescollege.org
 forbesnewstoday.com
 forbeswoman.ru
 forbet321.xyz
+forbmmend.com
 forcabet56.com
 forcauction.com
 force-autoparts.world
@@ -108694,6 +108695,7 @@ lidepre.ga
 lidepre.gq
 lidepre.ml
 lidepre.tk
+lider.lat
 liderbahis124.com
 liderbahis131.com
 liderbahis139.com
@@ -114754,6 +114756,7 @@ maillereviews.com
 maillestar.com
 mailleworld.com
 maillgols.space
+maillii.click
 maillii.shop
 maillii.store
 maillii.website
@@ -169411,6 +169414,7 @@ sphk.com.hk
 sphosp.com
 sphrio.com
 sphygemetmail.com
+spiab.biz
 spicate.xyz
 spiceblogger.com
 spiceedit.com

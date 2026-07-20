@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-20T02:52:29.404Z
+# Aggregated blacklist generated on 2026-07-20T06:44:22.043Z
  
 0-30-24.com
 0-attorney.com
@@ -79832,6 +79832,8 @@ govnomail.xyz
 govoxy.com
 govt.hu
 govtop.site
+govtopshop.online
+govtoptds.online
 govxff-ny.site
 gowactivator.com
 gowebolution.com
@@ -100853,6 +100855,7 @@ karamanrehber.xyz
 karamansoneremlak.com
 karamanvitrin.xyz
 karamelbilisim.com
+karamelka-mail.online
 karamelka-mail.ru
 karamudini.com
 karamumba.network
@@ -117928,6 +117931,7 @@ mazadaa.com
 mazaevka.ru
 mazda-6.club
 mazdasa.site
+mazdatweaks.com
 mazedojo.com
 mazgo.online
 mazgoo.tech
@@ -150185,6 +150189,7 @@ quantum-kz.pro
 quantum-waves.com
 quantum-wow.pro
 quantum4u.pro
+quantumeridian.site
 quantumgmb.com
 quantumlaunch.com
 quantumloops.online

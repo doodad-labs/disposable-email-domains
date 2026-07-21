@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-21T19:20:19.366Z
+# Aggregated blacklist generated on 2026-07-21T21:07:59.585Z
  
 0-30-24.com
 0-attorney.com
@@ -45176,6 +45176,7 @@ coin-mail.com
 coin-one.com
 coin.wf
 coin888.host
+coina.biz
 coinalgotrader.com
 coinbearer.com
 coinbearer.net
@@ -58971,6 +58972,7 @@ dwgtcm.com
 dwightcanada.org
 dwikuyz.com
 dwild.org
+dwinalrwage.fun
 dwinova.app
 dwinv.app
 dwinv.link
@@ -61636,6 +61638,7 @@ elefonica.com
 eleganaff.com
 eleganceindesign.us
 elegantarthub.com
+elegantclockwork.com
 elegantcopywriting.net
 elegantdir.com
 elegantdwellings.com
@@ -127939,6 +127942,7 @@ navivere.net
 navlys.xyz
 navmail.net
 navmanwirelessoem.com
+navode.su
 navoff.com
 navrozecapital.com
 navya.fun
@@ -136907,6 +136911,7 @@ orgzxncin.shop
 orhalfpricedlisting.com
 orhalfpricelisting.com
 ori-ka.online
+oricoupon.fun
 oricoupon.space
 oricp.com
 oridis.ru
@@ -207111,6 +207116,7 @@ zettix.io.vn
 zettix.net
 zettixx.io.vn
 zettransport.pl
+zetva.org
 zeupiter.com
 zeura.link
 zeus0303430.xyz

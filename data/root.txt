@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-21T02:34:15.221Z
+# Aggregated blacklist generated on 2026-07-21T06:27:23.639Z
  
 0-30-24.com
 0-attorney.com
@@ -38152,6 +38152,7 @@ capcutku.io
 capcutku.store
 capcutkustore.store
 capcutmeflo.shop
+capcutmm.shop
 capcutnihbos.site
 capcutpr0.biz.id
 capcutprem.xyz
@@ -69384,6 +69385,7 @@ films-online-kino.ru
 filmscool.xyz
 filmsemi.mobi
 filmsfrombeyond.info
+filmskachatnatelefon.com
 filmsson.com
 filmstreaming-vf.club
 filmstreaming.cash
@@ -108879,6 +108881,7 @@ lifeundersail.com
 lifevantageqc.com
 lifewaypregnancy.net
 lifewirekeys.com
+lifewiseleaf.com
 lifewithlynnette.com
 lifewithouttanlines.com
 lifewow.ru
@@ -154256,6 +154259,7 @@ rentpober.ml
 rentproxy.xyz
 rentshot.pl
 rentspot.cz
+renty.lat
 rentz.club
 rentz.fun
 rentz.website
@@ -170961,6 +170965,7 @@ std.doctor
 stdhugh.com
 stdmail.de
 steadydiets.com
+steadyhabithub.com
 steadying.com
 steakanimation.com
 steakbeef.site
@@ -195441,6 +195446,7 @@ watermarkmoso.com
 watermelon.email
 waternine.com
 waterpalace.pro
+waterpalm.online
 waterparkphuket.fun
 waterpointemortgage.com
 waterproofawning.com
@@ -207686,6 +207692,7 @@ zizuka.info
 zizvy.com
 zj-trade.com
 zjdkoq.best
+zjeb.us
 zjeondqvva.ga
 zjexmail.com
 zjffmj.com

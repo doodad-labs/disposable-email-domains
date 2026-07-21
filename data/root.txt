@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-20T22:59:45.718Z
+# Aggregated blacklist generated on 2026-07-21T02:34:15.221Z
  
 0-30-24.com
 0-attorney.com
@@ -24212,6 +24212,7 @@ axiomatml.ru
 axiomboatworks.com
 axionexonit.com
 axiongard.net
+axionintellex.shop
 axis-com.com
 axisbank.co
 axischurchbend.com
@@ -108789,6 +108790,7 @@ life22.icu
 lifeafterlabels.org
 lifeairhitradio.com
 lifebeyondservice.com
+lifebitsnotes.com
 lifebyfood.com
 lifebythegrapes.com
 lifecitypro.online
@@ -151132,6 +151134,7 @@ rabuberkah.cf
 rabuh5.us
 racaho.com
 racarie.com
+racavor.com
 raccit-tech.com
 raccoons.top
 race-karts.com
@@ -156628,6 +156631,7 @@ rofacme.tk
 rofl.email
 roflmfao.de
 rofusmail.com
+rog77.biz
 rogach.biz
 rogacomp.cf
 rogacomp.ga
@@ -167964,6 +167968,7 @@ softbess.site
 softbess.website
 softbox.site
 softbrasil.com.br
+softdailyguide.com
 softdesk.net
 softdisc.site
 softfaber.org
@@ -169835,6 +169840,7 @@ spotistic.com
 spotitidku.me
 spotlessmamma.online
 spotlfy-security.com
+spotlightdiary.com
 spotlightgossip.com
 spotlittle.com
 spotmodapk.pro

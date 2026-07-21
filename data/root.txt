@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-21T06:27:23.639Z
+# Aggregated blacklist generated on 2026-07-21T10:24:43.308Z
  
 0-30-24.com
 0-attorney.com
@@ -47476,6 +47476,7 @@ covidnews24.xyz
 coviemee.com
 covingtonentertainmentgroup.com
 coviron.org
+covisuki.icu
 covom.cfd
 covorin.com
 covteh37.ru
@@ -129033,6 +129034,7 @@ networksfs.com
 networksmail.gdn
 networksmart.site
 networksmatrix.com
+networksolutionshk.asia
 networkspower.com
 networktv.online
 networkv.tech

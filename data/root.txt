@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-22T02:33:13.950Z
+# Aggregated blacklist generated on 2026-07-22T06:26:58.510Z
  
 0-30-24.com
 0-attorney.com
@@ -15723,6 +15723,7 @@ ak-ex.ru
 ak.gy
 ak13.net
 ak46.biz
+ak6lay.shop
 ak751.site
 aka2.pl
 akaagencypro.shop
@@ -21437,6 +21438,7 @@ artistsfortrauma.com
 artistsignal.com
 artiviodesign.com
 artix.ga
+artleoncommunications.com
 artlesacc.pm
 artlessons.video
 artlocate.com
@@ -40329,6 +40331,7 @@ centralwisconsinfasteners.com
 centrapartners.com
 centrapoint.com
 centre-social-hauteville.com
+centredecoaching.com
 centrefinanse.pl
 centrefordesign.com
 centrenola.com
@@ -155930,6 +155933,7 @@ rivona.homes
 rivvy.store
 riw1twkw.pl
 riwayeh.com
+riwutz-gmail.com
 rixcloud00010.xyz
 rixcloud00040.xyz
 rixcloud00050.xyz
@@ -188118,6 +188122,7 @@ uniliver.com
 uniliws.com
 unilmail.com
 unimail.com
+unimain.tech
 unimaml.ru
 unimark.org
 unimarsa.com

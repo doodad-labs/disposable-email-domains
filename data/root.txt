@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-23T19:14:53.168Z
+# Aggregated blacklist generated on 2026-07-23T21:03:04.060Z
  
 0-30-24.com
 0-attorney.com
@@ -40811,6 +40811,7 @@ chain6kz.pro
 chain7kz.pro
 chain8kz.pro
 chain9kz.pro
+chainbrief.org
 chainc.com
 chaincreator.tech
 chaincreator.university
@@ -109111,6 +109112,7 @@ likemovie.net
 likenews24.ru
 likeonline.xyz
 likeorunlike.info
+likepion.com
 likepoe.space
 likeproekt.ru
 likere.ga

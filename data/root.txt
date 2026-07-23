@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-23T02:38:00.336Z
+# Aggregated blacklist generated on 2026-07-23T06:29:47.641Z
  
 0-30-24.com
 0-attorney.com
@@ -109131,6 +109131,7 @@ likharita.shop
 likvidooo.xyz
 lilactrustnoble.site
 lilalivorno.org
+lilbahlil.me
 lili.com.br
 lilianmagdalen.com
 lilidirectory.com
@@ -200823,6 +200824,7 @@ xiaobi196.com
 xiaobi200.com
 xiaoche.ggff.net
 xiaofan.cloudns.org
+xiaoguaishou.icu
 xiaojifang.com
 xiaolvmao.xyz
 xiaomi.onthewifi.com

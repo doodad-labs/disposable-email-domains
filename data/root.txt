@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-23T17:22:44.624Z
+# Aggregated blacklist generated on 2026-07-23T19:14:53.168Z
  
 0-30-24.com
 0-attorney.com
@@ -175579,6 +175579,7 @@ tarjaconsult.com
 tarjetamx.com
 tarjetasdecredito.company
 tarjoman.shop
+tarkashastra.com
 tarlancapital.com
 tarma.cf
 tarma.ga
@@ -192039,6 +192040,7 @@ vidvila.icu
 vidviral.life
 vidwobox.com
 vidworkz.com
+vidxlr.me
 vidxnxx.site
 vidxxx.fun
 vidyo.site

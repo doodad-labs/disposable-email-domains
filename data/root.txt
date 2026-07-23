@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-23T21:03:04.060Z
+# Aggregated blacklist generated on 2026-07-23T22:55:26.013Z
  
 0-30-24.com
 0-attorney.com
@@ -14488,6 +14488,7 @@ agamogeninf.com
 agamoney.icu
 agamya.tk
 aganardineroporinternet.com
+aganseo.com
 agapenutrition.net
 agapesunlight.com
 agapetus.info
@@ -19892,6 +19893,7 @@ apcm29te8vgxwrcqq.tk
 apcode.com
 apcvpc.com
 apdiv.com
+apdtax.com
 apebkxcqxbtk.cf
 apebkxcqxbtk.ga
 apebkxcqxbtk.gq
@@ -26439,6 +26441,7 @@ bartowcountyga.com
 bartsch.cd
 barubek-consalt.ru
 baruchcc.edu
+barumart.com
 barus.top
 baruscoltd.com
 barwna-sukienka.pw
@@ -37854,6 +37857,7 @@ cancunpackages.space
 cancunresortspackages.online
 cancunweddingpackages.us
 cancut.biz.id
+candaba.com
 candahouse.co
 candapizza.net
 candassociates.com
@@ -81983,6 +81987,7 @@ gws3.com.br
 gwsa-guelph.ca
 gwsberlin.de
 gwsdev4.info
+gwshare.com
 gwsmail.com
 gwsolutions.ca
 gwspt71.com
@@ -98558,6 +98563,7 @@ joboak.com
 jobplusuk.com
 jobposts.net
 jobras.com
+jobraux.com
 jobreadyedge.com
 jobrpq.us
 jobs-lavka.ru
@@ -102535,6 +102541,7 @@ kieranasaro.com
 kieranharte.dev
 kierastyle.shop
 kieravogue.shop
+kierko.com
 kiesag.xyz
 kietnguyenisocial.com
 kieuainhivippro.com
@@ -102772,6 +102779,7 @@ kingblocks.com
 kingchance.org
 kingchances.info
 kingcontroller.cf
+kingcq.com
 kingdentalhuntsville.com
 kingding.net
 kingdom-mag.com
@@ -126068,6 +126076,7 @@ myfitness24.de
 myfixafone.com
 myflat.com
 myfloridadancecompany.com
+myfmcast.com
 myfmmmso.shop
 myfoldingshoppingcart.com
 myfortune.com
@@ -165872,6 +165881,7 @@ sipial.com
 sipinitial.top
 sipintar.com
 sipkamedia.com
+siponly.com
 sippingonhistory.org
 sippusud.com
 sipstrore.com
@@ -172141,6 +172151,7 @@ studienwahl.de
 studierins.com
 studio-essen.com
 studio-intensive.com
+studio-latino.com
 studio-mojito.ru
 studio-three.org
 studio213llc.com
@@ -173777,6 +173788,7 @@ svlp.net
 svlpackersandmovers.com
 svmail.xyz
 svmpc.com
+svndemo.com
 svnhaus.my
 svobodnayapressa.ru
 svoedingen.club
@@ -174952,6 +174964,7 @@ taimladpho.gq
 taimladpho.ml
 taimladpho.tk
 taimurfun.fun
+tainela.com
 tainerfitness.com
 tainguyenfbchat.com
 tainguyenstore.info
@@ -188172,6 +188185,7 @@ unihash.net
 unijnedotacje.info.pl
 unikafester.se
 unikle.com
+uniklink-freiburg.de
 unilend.info
 unilifmail.ru
 uniliver.com
@@ -196065,6 +196079,7 @@ webkizlar.net
 webknock.net
 webkoleso.info
 webkrasotka.com
+webkugel.com
 weblab34.ru
 webleverancier.com
 weblima.info
@@ -199235,6 +199250,7 @@ wqcefp.online
 wqcu.com
 wqczu9.com
 wqdsvbws.com
+wqeather.com
 wqh0o.us
 wqio.com
 wqnbilqgz.pl

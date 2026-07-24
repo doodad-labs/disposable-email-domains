@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-23T22:55:26.013Z
+# Aggregated blacklist generated on 2026-07-24T02:34:56.148Z
  
 0-30-24.com
 0-attorney.com
@@ -137401,6 +137401,7 @@ othmanesghir.com
 othoomoo.cf
 othoomoo.gq
 othoomoo.tk
+othpine.com
 othrgiving.com
 otidez.com
 otiss.cf
@@ -165525,6 +165526,7 @@ silvy.email
 silxioskj.com
 silybor.com
 sim-simka.ru
+sim-sppg.com
 sim.at
 sim25.com
 sim2sky.com

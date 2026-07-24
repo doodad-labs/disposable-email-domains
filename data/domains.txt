@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-24T06:24:56.973Z
+# Aggregated blacklist generated on 2026-07-24T10:15:11.337Z
  
 0-00.usa.cc
 0-30-24.com
@@ -137270,6 +137270,7 @@ lapkholanh.com
 lapki.dev
 laplandminerals.com
 laplusgrandemutuelle.info
+lapluz.xyz
 lapmail.store
 lapolola.com
 laporinaja.com
@@ -167302,6 +167303,7 @@ nigq6a141k.mailbo.store
 nigr4n3i2mnmn923920.dynv6.net
 nihbkaydok.mailbo.store
 nihennaisi188.cc
+nihikari.ink
 nihniyvhbi.mailbo.store
 nihondirect.net
 nihongames.pl

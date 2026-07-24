@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-24T02:34:56.148Z
+# Aggregated blacklist generated on 2026-07-24T06:24:56.973Z
  
 0-30-24.com
 0-attorney.com
@@ -39266,6 +39266,7 @@ cassius.website
 casstream.online
 castanheiraleilao.com
 castellochinese.com
+casterview.xyz
 castillodepavones.com
 castilloforcongress2020.com
 castillolarry.online
@@ -173276,6 +173277,7 @@ supertemporarymails.tk
 superterrmails.ru
 superterrml.ru
 superth.in
+superti4r.dev
 supertopup.my.id
 supertotobet.tv
 supertotobet0417.com

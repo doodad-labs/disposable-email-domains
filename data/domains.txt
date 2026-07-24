@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-24T10:15:11.337Z
+# Aggregated blacklist generated on 2026-07-24T13:42:36.336Z
  
 0-00.usa.cc
 0-30-24.com
@@ -23369,6 +23369,7 @@ agent747ph.com
 agentannecook.com
 agentblog.com
 agentescp.com
+agentlab.my.id
 agentlibr3.com
 agentloop.sbs
 agentogelasia.com
@@ -97551,6 +97552,7 @@ gemtar.com
 gemuk.buzz
 gen-z.my.id
 gen.cloudns.cc
+gen.getotp.live
 gen.noxblocks.tk
 gen.uu.gl
 gen16.me
@@ -232708,6 +232710,7 @@ trans2019.website
 transactionscenter1.com
 transactionshub2.com
 transactionuds.ru
+transaksikita.tech
 transatusa.com
 transbuya.com
 transcendeml.ru

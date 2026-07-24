@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-24T15:25:02.070Z
+# Aggregated blacklist generated on 2026-07-24T17:36:52.161Z
  
 0-30-24.com
 0-attorney.com
@@ -16610,6 +16610,7 @@ alifestyle.ru
 aligamel.com
 alight.mobi
 alightmotion.cloud
+alightmotion.icu
 alightmotion.id
 alightmotion.top
 aligmli.site

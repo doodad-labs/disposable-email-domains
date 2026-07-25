@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-24T23:00:25.657Z
+# Aggregated blacklist generated on 2026-07-25T02:32:54.587Z
  
 0-00.usa.cc
 0-30-24.com
@@ -33229,6 +33229,7 @@ aurile.xyz
 aurill.xyz
 aurinfer.com
 auripen.com
+auris.lat
 auro1.saucent.online
 auromeera.org
 auroombet.fun
@@ -44665,6 +44666,7 @@ bniwpwkke.site
 bnj52.anonbox.net
 bnjtkkfsdnb.host
 bnk0bzm.crankymonkey.info
+bnkhc.anonbox.net
 bnkmd.anonbox.net
 bnks.com
 bnle.luk2.com
@@ -103124,6 +103126,7 @@ graninul.ml
 graninul.tk
 granitebaydesign.net
 granitegravestone.xyz
+graniteloom.com
 granitememorial.xyz
 granitestate.net
 granitklg.ru
@@ -155800,6 +155803,7 @@ miraclepc.ru
 miracufmk.com
 miradorveleia.xyz
 miragliabeautyagency.com
+mirai.lat
 mirai.re
 miraigames.net
 miraintelligence.com
@@ -205804,6 +205808,7 @@ savip1688.com
 savitar.network
 savitargroup.com
 savmail.online
+savmask.com
 savondemarseille.info
 savondemarseilles.com
 savored973cf.online

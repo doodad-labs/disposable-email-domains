@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-26T19:08:28.169Z
+# Aggregated blacklist generated on 2026-07-26T20:56:44.850Z
  
 0-00.usa.cc
 0-30-24.com
@@ -188743,6 +188743,7 @@ proyectoser.org
 proyectosoft.com
 proyectotierra.com.mx
 prozdeal.com
+prp-ppdt.app
 prpa.org
 prphonezip.com
 prplunder.com

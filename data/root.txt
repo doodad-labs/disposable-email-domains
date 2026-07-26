@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-26T20:56:44.850Z
+# Aggregated blacklist generated on 2026-07-26T22:58:12.867Z
  
 0-30-24.com
 0-attorney.com
@@ -43610,6 +43610,7 @@ cleanauthz.com
 cleanbeyondco.com
 cleandata-innov.com
 cleaneatingmoms.com
+cleanhomeguard.com
 cleaninbox.dynv6.net
 cleaning-co.ru
 cleaning-top24.store
@@ -104572,6 +104573,7 @@ kqxskt.net
 kr-slava.ru
 kr207.site
 kr80.com
+kra41.im
 krabbe.solutions
 kradrider.com
 kradrider.info
@@ -152310,6 +152312,7 @@ rawscorer.com
 rawscores.net
 rawscoring.com
 rax.la
+raxio.app
 raxtest.com
 ray-auto-service.com
 raya.gq
@@ -186867,6 +186870,7 @@ ucfz1d.us
 ucgbc.org
 uchasim.shop
 uchastiesro.xyz
+uchi-pdd-bystro.ru
 uchiyazik.ru
 uchj.com
 ucho.top

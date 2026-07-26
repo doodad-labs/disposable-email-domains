@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-26T06:35:43.310Z
+# Aggregated blacklist generated on 2026-07-26T09:58:17.050Z
  
 0-30-24.com
 0-attorney.com
@@ -129,6 +129,7 @@
 010060.xyz
 0101m.com
 01022.hk
+010530.xyz
 010608.xyz
 01080.ru
 010gmail.com
@@ -10852,6 +10853,7 @@
 980316.xyz
 980417.xyz
 980gmail.com
+981027.xyz
 98104.cn
 9827aa.com
 9827ag.com
@@ -15586,6 +15588,7 @@ aituvip.com
 aity.icu
 aiua-journalofislamiceducation.net
 aiuepd.com
+aiuu.tech
 aiuwee.com
 aiv.pl
 aivtxkvmzl29cm4gr.cf
@@ -24295,6 +24298,7 @@ aya01b.com
 ayabozz.com
 ayabt.com
 ayacu.com
+ayag.cloud
 ayag.com
 ayah.com
 ayahseviana.io
@@ -34703,6 +34707,7 @@ brockwell.net.nz
 brocvintage.com
 brodcom.com
 brodilla.email
+brodipek.xyz
 brodwaybuzz.com
 brodzikowsosnowiec.pl
 brog.io
@@ -67465,6 +67470,7 @@ farn0n.us
 faroestefintech.online
 farofageek.site
 farolillos.online
+farouter.tech
 faroutmusicinc.com
 farrahouse.co
 farrse.co.uk
@@ -155068,6 +155074,7 @@ rewas-app-lex.com
 rewas54.xyz
 rewec.com
 reweo.site
+rewermail.com
 rewerty.fun
 rewet43.store
 rewgr.shop

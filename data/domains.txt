@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-26T06:35:43.310Z
+# Aggregated blacklist generated on 2026-07-26T09:58:17.050Z
  
 0-00.usa.cc
 0-30-24.com
@@ -164,6 +164,7 @@
 010060.xyz
 0101m.com
 01022.hk
+010530.xyz
 010608.xyz
 01080.ru
 010gmail.com
@@ -18092,6 +18093,7 @@
 980316.xyz
 980417.xyz
 980gmail.com
+981027.xyz
 98104.cn
 98118ochman.emlhub.com
 981fdapj.luksarcenter.ru
@@ -24546,6 +24548,7 @@ aiua-journalofislamiceducation.net
 aiua7ea1wf.mailbo.store
 aiuepd.com
 aiuq.dropmail.me
+aiuu.tech
 aiv.10mail.org
 aiv.pl
 aivideozbl6.33mail.com
@@ -34628,6 +34631,7 @@ aya01b.com
 ayabozz.com
 ayabt.com
 ayacu.com
+ayag.cloud
 ayag.com
 ayah.com
 ayah.ll47.net
@@ -47269,6 +47273,7 @@ brocvintage.com
 brodalun2922.a.lofteone.ru
 brodcom.com
 brodilla.email
+brodipek.xyz
 brodwaybuzz.com
 brodzikowsosnowiec.pl
 brogrammers.com
@@ -87253,6 +87258,7 @@ faroestefintech.online
 farofageek.site
 farolillos.online
 faroq-ajmal.8shield.net
+farouter.tech
 faroutmusicinc.com
 farr.dropmail.me
 farrahouse.co
@@ -198506,6 +198512,7 @@ rewas-app-lex.com
 rewas54.xyz
 rewec.com
 reweo.site
+rewermail.com
 rewerty.fun
 rewet43.store
 rewgr.shop

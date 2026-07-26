@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-26T02:41:01.896Z
+# Aggregated blacklist generated on 2026-07-26T06:35:43.310Z
  
 0-30-24.com
 0-attorney.com
@@ -145704,6 +145704,7 @@ power-shopping.info
 power5mastermind.com
 poweradxas.online
 powerballtobog.com
+powerbanki.top
 powerbike.de
 powercenternj.com
 powercontinuitysystems.com
@@ -182844,6 +182845,7 @@ topzpost.com
 toqire.info
 toqpoj.com
 toqza5.com
+tor.email
 tor13.site
 tora1.info
 toracw.com

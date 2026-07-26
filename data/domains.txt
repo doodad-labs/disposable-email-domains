@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-25T22:54:56.024Z
+# Aggregated blacklist generated on 2026-07-26T02:41:01.896Z
  
 0-00.usa.cc
 0-30-24.com
@@ -34900,6 +34900,7 @@ azgju6zutx.mailbo.store
 azgnbkl1a6.mailbo.store
 azgoptc4ez.mailbo.store
 azh1tq.site
+azhacad.org
 azhcol.org
 azhedu.org
 azhhi.org
@@ -35768,6 +35769,7 @@ b6ha7.anonbox.net
 b6jkz7a5if.mailbo.store
 b6kgo.anonbox.net
 b6lgf.anonbox.net
+b6mtg.anonbox.net
 b6muz.anonbox.net
 b6ncd8rbot.mailbo.store
 b6nt.dung2tb.io.vn
@@ -60207,6 +60209,7 @@ columbcasino.ru
 columbce.us
 columbianagency.com
 columbiapopalock.com
+columbs.us
 columbus-edu.us
 columbuscasino.design
 columbuscentro.us
@@ -67642,6 +67645,7 @@ dcawstwrsv.cloud
 dcbarr.com
 dcbin.com
 dcconinc.com
+dccr.ca
 dccsvbtvs32vqytbpun.ga
 dccsvbtvs32vqytbpun.ml
 dccsvbtvs32vqytbpun.tk
@@ -82163,6 +82167,7 @@ enotj.com
 enotjs1rxj.mailbo.store
 enough.mailbo.store
 enoutetengi.shop
+enowgntg.site
 enpa.rf.gd
 enpaypal.com
 enpeare.ga
@@ -116010,6 +116015,7 @@ icloudbusiness.net
 icloudemail.kr
 icloudg.com
 icloudh.com
+icloudmail.co.kr
 icloudmail.kr
 icloudrelay.addy.io
 icloudrelay.simplelogin.com
@@ -126104,6 +126110,7 @@ jlauryn.com
 jlbetcasino.info
 jlbetcasino.ph
 jlbossvipcasino.com
+jlcandh.com
 jlcccasino.com
 jlctkjfvon.mailbo.store
 jlctvmlxq.shop
@@ -186632,6 +186639,7 @@ practitionerhosting.com
 practivity.net
 practiyyl.ru
 practizkts.ru
+practoso.com
 pracylca.cf
 pracylca.ga
 pracylca.gq
@@ -211410,6 +211418,7 @@ sinalke.ml
 sinalke.tk
 sinaloa180.com
 sinangokergoz.com
+sinaranisamandiri.com
 sinase.es
 sinasina.com
 sinasinaqq123.info

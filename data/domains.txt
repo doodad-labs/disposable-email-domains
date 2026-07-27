@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-27T02:49:10.672Z
+# Aggregated blacklist generated on 2026-07-27T07:29:31.166Z
  
 0-00.usa.cc
 0-30-24.com
@@ -118418,6 +118418,7 @@ inboxes.app
 inboxes.com
 inboxes.online
 inboxexpress.cfd
+inboxfast.space
 inboxgate.rest
 inboxhatch.com
 inboxhub.net
@@ -234542,6 +234543,7 @@ tube-over-hd.ru
 tube-rita.ru
 tubeadulte.biz
 tubebob.ru
+tubebox.us
 tubebrushes.biz
 tubecandy.site
 tubeemail.com

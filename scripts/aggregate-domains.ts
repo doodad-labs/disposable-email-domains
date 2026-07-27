@@ -9,7 +9,9 @@ const CURRENT_DOMAINS_BLACKLIST = "https://raw.githubusercontent.com/doodad-labs
 
 const OUTPUT_DIR = path.join(__dirname, '..', 'out')
 const OUTPUT_DOMAIN_FILE = path.join(OUTPUT_DIR, 'data', 'domains.txt')
+const OUTPUT_DOMAIN_RAW_FILE = path.join(OUTPUT_DIR, 'data', 'domains.raw.txt')
 const OUTPUT_ROOT_FILE = path.join(OUTPUT_DIR, 'data', 'root.txt')
+const OUTPUT_ROOT_RAW_FILE = path.join(OUTPUT_DIR, 'data', 'root.raw.txt')
 const STATS_FILE = path.join(OUTPUT_DIR, 'stats', 'badge.json')
 const STATS_ROOT_FILE = path.join(OUTPUT_DIR, 'stats', 'badge-root.json')
 
@@ -183,7 +185,8 @@ async function main() {
     const sorted_blacklist: string[] = blacklist_after_whitelist.sort()
 
     await fs.mkdir(path.dirname(OUTPUT_DOMAIN_FILE), { recursive: true })
-    await fs.writeFile(OUTPUT_DOMAIN_FILE, [header, ...sorted_blacklist].join('\n'), 'utf-8')    
+    await fs.writeFile(OUTPUT_DOMAIN_FILE, [header, ...sorted_blacklist].join('\n'), 'utf-8')
+    await fs.writeFile(OUTPUT_DOMAIN_RAW_FILE, sorted_blacklist.join('\n'), 'utf-8')
     
     for (const domain of sorted_blacklist) {
         const parsed = psl.get(domain);
@@ -196,6 +199,7 @@ async function main() {
 
     await fs.mkdir(path.dirname(OUTPUT_ROOT_FILE), { recursive: true })
     await fs.writeFile(OUTPUT_ROOT_FILE, [header, ...sorted_root_blacklist].join('\n'), 'utf-8')
+    await fs.writeFile(OUTPUT_ROOT_RAW_FILE, sorted_root_blacklist.join('\n'), 'utf-8')
     await fs.mkdir(path.dirname(STATS_FILE), { recursive: true })
 
     await fs.writeFile(STATS_FILE, JSON.stringify({

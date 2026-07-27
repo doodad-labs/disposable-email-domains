@@ -7,6 +7,7 @@ const CURRENT_BLACKLIST = "https://raw.githubusercontent.com/doodad-labs/disposa
 
 const OUTPUT_DIR = path.join(__dirname, '..', 'out')
 const OUTPUT_FILE = path.join(OUTPUT_DIR, 'data', 'active.txt')
+const OUTPUT_RAW_FILE = path.join(OUTPUT_DIR, 'data', 'active.raw.txt')
 const STATS_FILE = path.join(OUTPUT_DIR, 'stats', 'badge-active.json')
 
 const blacklist = new Set()
@@ -36,7 +37,8 @@ async function main() {
     ].join('\n')
 
     await fs.mkdir(path.dirname(OUTPUT_FILE), { recursive: true })
-    await fs.writeFile(OUTPUT_FILE, [header, ...active_blacklist].join('\n'), 'utf-8')    
+    await fs.writeFile(OUTPUT_FILE, [header, ...active_blacklist].join('\n'), 'utf-8')
+    await fs.writeFile(OUTPUT_RAW_FILE, active_blacklist.join('\n'), 'utf-8')
 
     const stats = {
         "schemaVersion":1,

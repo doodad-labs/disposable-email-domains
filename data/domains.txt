@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-27T14:31:15.746Z
+# Aggregated blacklist generated on 2026-07-27T17:41:28.135Z
  
 0-00.usa.cc
 0-30-24.com
@@ -23776,6 +23776,7 @@ ahmadidik.cf
 ahmadidik.ga
 ahmadidik.gq
 ahmadidik.ml
+ahmadizhar.net
 ahmadmod.cloud
 ahmadmohsen.shop
 ahmadmohsen2.shop
@@ -154329,6 +154330,7 @@ meytbi9iwv.mailbo.store
 meyvaagacim.com
 meyveli.site
 meyveyetistirme.com
+mezaist.com
 mezartemizligi.xyz
 mezattesbih2.com
 mezcalmalacara.com

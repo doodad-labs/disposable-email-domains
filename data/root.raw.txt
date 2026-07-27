@@ -1,16 +1,3 @@
-# AUTO-GENERATED FILE - DO NOT EDIT DIRECTLY
-# Data sourced from various disposable email domain lists
-# - https://raw.githubusercontent.com/disposable/disposable-email-domains/refs/heads/master/domains.txt
-# - https://raw.githubusercontent.com/disposable-email-domains/disposable-email-domains/refs/heads/main/disposable_email_blocklist.conf
-# - https://raw.githubusercontent.com/7c/fakefilter/refs/heads/main/txt/data.txt
-# - https://raw.githubusercontent.com/wesbos/burner-email-providers/refs/heads/master/emails.txt
-# - https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
-# - https://www.stopforumspam.com/downloads/toxic_domains_whole_filtered.txt
-# - https://deviceandbrowserinfo.com/api/emails/disposable
-# - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
-# - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-27T17:41:28.135Z
- 
 0-30-24.com
 0-attorney.com
 0-mail.com

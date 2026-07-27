@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-27T07:29:31.166Z
+# Aggregated blacklist generated on 2026-07-27T11:19:24.072Z
  
 0-00.usa.cc
 0-30-24.com
@@ -84550,6 +84550,7 @@ evaelfie.mobi
 evafan.com
 evaforum.info
 evaherbals.info
+evairo.fun
 evakarin.net
 evakuator-dobriy.ru
 evakuator23rus.ru
@@ -96684,6 +96685,7 @@ garnitur-we-wzory.pw
 garnitury-na-czasie.pw
 garnoisan.xyz
 garnous.com
+garod1.xyz
 garoofinginc.com
 garoth.com
 garpeorid5705.a.lofteone.ru
@@ -98238,6 +98240,7 @@ getedoewsolutions.com
 geteile.com
 geteit.com
 getek.tech
+getemail.space
 getemail.tech
 getemails.net
 getemails.online
@@ -118419,6 +118422,7 @@ inboxes.com
 inboxes.online
 inboxexpress.cfd
 inboxfast.space
+inboxfly.space
 inboxgate.rest
 inboxhatch.com
 inboxhub.net
@@ -118428,6 +118432,7 @@ inboxkitten.com
 inboxlabs.io
 inboxlabs.net
 inboxliftsz.com
+inboxly.website
 inboxmail.biz
 inboxmail.life
 inboxmail.mywire.org
@@ -118441,6 +118446,7 @@ inboxmatt.com
 inboxmaxmax.top
 inboxnow.ru
 inboxnow.store
+inboxopen.space
 inboxorigin.com
 inboxpro.top
 inboxpro247.click
@@ -153557,6 +153563,8 @@ menece.com
 menene.com
 meneses.xyz
 menflo.com
+meng2026.bond
+meng2026.cyou
 mengan.ga
 mengarden.com
 mengarytravels.xyz
@@ -157296,6 +157304,7 @@ mochnad.cf
 mochonai.com
 mochris.com
 mocix.shop
+mockata.net
 mockbee-energy.com
 mockhub.xyz
 mockingbirdphotonh.com
@@ -199218,6 +199227,7 @@ rifkian.tk
 rifkinfox.com
 rifo.ru
 rifone.online
+rifqysaputra.dev
 rifsons.com
 rigation.site
 rigdong.online
@@ -242875,6 +242885,7 @@ verdoto.ml
 verdoto.tk
 verdugolife.com
 vereeu.ru
+verel.online
 verel.st
 verelpublicidad.com
 verenoxnetwork.online

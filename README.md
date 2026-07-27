@@ -10,9 +10,12 @@ This project automatically aggregates disposable email domains using curated pub
 
 ```
 ├── data/
-│   ├── domains.txt  # All flagged disposable domains (includes subdomains)
-│   ├── root.txt     # Flagged disposable root domains
-│   └── active.txt   # Flagged root domains with active MX records
+│   ├── domains.txt      # All flagged disposable domains (includes subdomains)
+│   ├── root.txt         # Flagged disposable root domains
+│   ├── active.txt       # Flagged root domains with active MX records
+│   ├── domains.raw.txt  # domains.txt without comments
+│   ├── root.raw.txt     # root.txt without comments
+│   └── active.raw.txt   # active.txt without comments
 │
 ├── domain_whitelist.txt      # Manual domain whitelist
 └── tld_whitelist.txt         # Manual TLD whitelist
@@ -22,10 +25,15 @@ This project automatically aggregates disposable email domains using curated pub
 
 You can access the data with any CDN provider you want however you can access the data easiest with the provided github pages below:
 
-```
-https://dmails.doodadlabs.org/data/active.txt
+```bash
+https://dmails.doodadlabs.org/data/domains.txt
 https://dmails.doodadlabs.org/data/root.txt
 https://dmails.doodadlabs.org/data/active.txt
+
+# comment free lists
+https://dmails.doodadlabs.org/data/domains.raw.txt
+https://dmails.doodadlabs.org/data/root.raw.txt
+https://dmails.doodadlabs.org/data/activ.rawe.txt
 ```
 
 ## Data Update Frequency

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-26T22:58:12.867Z
+# Aggregated blacklist generated on 2026-07-27T02:49:10.672Z
  
 0-30-24.com
 0-attorney.com
@@ -12301,6 +12301,7 @@ absorblovebed.com
 absorbs.store
 absorbuj.pl
 absorptiml.ru
+absroma.it
 abstolbik.site
 abstract.cafe
 abstracter.site
@@ -50819,6 +50820,7 @@ daniryphotography.xyz
 danish4kids.com
 daniya-nedv.ru
 danjohnson.biz
+danka.web.id
 dankkush.net
 danklitmemes.com
 dankmedical.com
@@ -119133,6 +119135,7 @@ meine-fotos.info
 meine-urlaubsfotos.de
 meineinkaufsladen.de
 meineseite.com
+meingan.com
 meingmx.net
 meingrosserkredit.club
 meinspamschutz.de

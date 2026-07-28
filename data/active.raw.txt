@@ -1,6 +1,3 @@
-# AUTO-GENERATED FILE - DO NOT EDIT DIRECTLY
-# Root domains with active MX records from the full list of known disposable email root domains. Updated every day.
- 
 001218.xyz
 000561.xyz
 000728.xyz

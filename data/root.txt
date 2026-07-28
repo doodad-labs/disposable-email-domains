@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-28T21:06:04.702Z
+# Aggregated blacklist generated on 2026-07-28T22:57:07.810Z
  
 0-30-24.com
 0-attorney.com
@@ -7694,6 +7694,7 @@
 6688257.com
 6688260.com
 668888211.com
+668duitlogin.my
 668fmail.com
 668gmail.com
 668mail.com
@@ -8400,6 +8401,7 @@
 718gmail.com
 718qbet.net
 719182.accesscam.org
+719betcom.net
 719gmail.com
 719x.com
 71cnb.space
@@ -8793,6 +8795,7 @@
 777casinogames.info
 777casinonl.info
 777cb.info
+777cbgamedownload.com
 777colorgame.net
 777cs.net
 777csgame.com
@@ -9806,6 +9809,7 @@
 876gmail.com
 87708b.com
 8772.fun
+8777betapploginapk.com
 8777sxgame.com
 8787733.com
 8789837.com
@@ -10643,6 +10647,7 @@
 9394445.com
 9399837.com
 939betdownload.net
+939gamelogin.info
 939gmail.com
 93cdfc.site
 93eeok.com
@@ -19786,6 +19791,7 @@ aonbola.biz
 aonbola.club
 aonbola.org
 aonbola.store
+aoneh5.my
 aoneie.site
 aonezippers.com
 aonhom.org
@@ -23069,6 +23075,7 @@ augustsuningsih.io
 auhckufvg.website
 auhit.com
 auiiqj.best
+aujokaroomcasino.com
 auktionsbutler.se
 aula.edu.pl
 aulaline.com
@@ -23161,8 +23168,10 @@ auroraquote.com
 auroraslots.click
 auroraslots.website
 aurosmm.com
+auroyalreels.net
 aurresources.com
 auryacollection.com
+ausbetau.com
 ausclan.com
 auscloudbackup.com.au
 ausdance.org
@@ -23193,6 +23202,7 @@ aussiecar.loans
 aussiecaravan.loan
 aussieequipment.loans
 aussiegroups.com
+aussiehq.net.au
 aussieknives.club
 aussielesiure.loans
 aussiematureclub.com
@@ -24502,6 +24512,7 @@ azhq.com
 azhrs.us
 azhs.us
 azhsc.us
+azhsch.com
 azhsch.org
 azhsek.org
 azhsk.org
@@ -25014,6 +25025,7 @@ ba-s-tet.ru
 ba572.site
 ba616o8hwee96yl.site
 ba62.net
+ba666casino.com
 ba971a8.club
 baacloud7.com
 baalg.com
@@ -27188,6 +27200,7 @@ bdbdqxxkib.xyz
 bdbdqxxkkb.xyz
 bdbdqxxknb.xyz
 bdbdqxxksb.xyz
+bdccd44.com
 bdci.website
 bdcl73.us
 bdcw.us
@@ -28949,6 +28962,7 @@ bet32casino.net
 bet333casino.net
 bet364casino.com
 bet365agent.com
+bet365mobile.org
 bet385casino.com
 bet43design.xyz
 bet4444casino.com
@@ -29409,6 +29423,7 @@ betrekabet46.com
 betriebsdirektor.de
 betroll.com
 betrupeesapk.org
+betrupeeslogin.org
 bets-spor.com
 bets-ten.com
 bets10uyeol.co
@@ -31217,6 +31232,7 @@ bj38live.info
 bj888login.com
 bj88casino.net
 bjaum.us
+bjbajilogin.info
 bjbekhmej.pl
 bjdhrtri09mxn.ml
 bjgpond.com
@@ -54403,6 +54419,7 @@ digi-value.fr
 digi-women.com
 digi1s.com
 digiactiveai.com
+digiaservice.net
 digibeast.my
 digibeast.store
 digibeat.pl
@@ -54920,6 +54937,7 @@ dircuti.gq
 dircuti.ml
 dircuti.tk
 dirding.com
+direaly.com
 direcaster.buzz
 direcionamento.com
 direct-gmail.com
@@ -57705,6 +57723,7 @@ drdreyy.com
 drdurante.com
 dread.lol
 dream-fruit-quarter.info
+dream-palawan.com
 dream-tech.pl
 dream417.xyz
 dreamact.com
@@ -62684,6 +62703,7 @@ embergonebro.gq
 embergonebro.ml
 embergonebro.tk
 emberhookah.com
+embg.app
 emblemail.com
 emblemgmconsultserv.com
 embolmyu.ru
@@ -67617,6 +67637,7 @@ fashionwatches2012.info
 fashionwomenaccessories.com
 fashionzone69.com
 fashlend.com
+fashond.com
 fasigula.name
 faskoss.website
 fasl4kas3.site
@@ -76710,6 +76731,7 @@ gfmail.tk
 gfmbh.xyz
 gfmewrsf.com
 gfounder.org
+gfp.bzh
 gfpiz1.site
 gfpqlk.info
 gfqmpn.tokyo
@@ -76974,6 +76996,7 @@ ghjtv.site
 ghk55.us
 ghkal.us
 ghkali.us
+ghked.us
 ghkedu.us
 ghkh.us
 ghkhal.us
@@ -77225,6 +77248,7 @@ giftyoulove.com
 gifuniverse.com
 gifwork.com
 gigabetcasino.info
+gigabetonline.com
 gigabets.info
 gigabitstreaming.com
 gigabitz.xyz
@@ -79598,6 +79622,7 @@ gooxd.com
 gopacers.net
 gopdfmanuales.xyz
 gopeemail.com
+goperya.info
 gopheritsupport.com
 gophermail.info
 gopherzaly.life
@@ -81908,6 +81933,7 @@ guzzthickfull.ga
 guzzthickfull.ml
 guzzthickfull.tk
 gv777.info
+gv777vipgame.info
 gv966r.org
 gvannitiney.com
 gvano.com
@@ -91705,6 +91731,7 @@ imageevolutions.com
 imagegaga.com
 imagehostfile.eu
 imagehouse.online
+imagelabsaibig.com
 imageninnova.com
 imagens.cf
 imagepoet.net
@@ -99589,6 +99616,7 @@ jualfb.co
 jualfoodtruck.com
 jualherbal.top
 jualsosmed.com
+juan356register.net
 juan365casino.net
 juandekruyff.com
 juangonzalezcanarias.es
@@ -100401,6 +100429,7 @@ k8bnfweqq.xyz
 k8ccbet.net
 k8dwsb.us
 k8r0ml.us
+k8vinalink.net
 k8w329-mail.xyz
 k8xp.com
 k95iqh.com
@@ -100639,6 +100668,7 @@ kakslsie.store
 kaksmail.com
 kaktgpodvc.ru
 kaktus1.site
+kaktus4.site
 kaktusmail.de
 kaku92.com
 kaku97.com
@@ -103210,6 +103240,7 @@ kittyallure.net
 kittyamaral.com
 kittycatfurballs.com
 kittydress.online
+kittyify.lol
 kittymirror.site
 kittymoney.info
 kittymoney.net
@@ -107832,6 +107863,7 @@ lemano.se
 lemantcom.ga
 lemantcom.gq
 lemantcom.ml
+lemanwo.com
 lemaschere.net
 lemasmuz.com
 lematinal.info
@@ -119196,6 +119228,7 @@ mejlpro.pl
 mejorcasinoenlinea.net
 mejores.best
 mejoresabogadosenvalencia.com
+mejorescasinoschile.net
 mejoresgestorias.com
 mejorestenis.com
 mekacsmemy.sk
@@ -120905,6 +120938,7 @@ mikkelsen.dk
 mikoeji.pro
 mikolastro.ml
 mikonian.ca
+mikontol.online
 mikos1.site
 mikovo.zapto.org
 mikromail.site
@@ -122152,6 +122186,7 @@ mmciinc.com
 mmclobau.top
 mmcomunicacoes.com
 mmcounceling.com
+mmcrazy6666.com
 mmds.shop
 mmdsharifi.com
 mmdshe.com
@@ -122519,6 +122554,7 @@ mobilitee.com.br
 mobility.camp
 mobility.energy
 mobility.fitness
+mobilityireland.co.uk
 mobilj.site
 mobilk.site
 mobilm.site
@@ -125285,6 +125321,7 @@ museboost.com
 museodelalibertad.info
 museojmail.ru
 museumblog.com
+museumness.com
 museumoflife.xyz
 museumpi.com
 museumplanet.com
@@ -132253,6 +132290,7 @@ npnks.live
 npo2.com
 npofgo90ro.com
 npoopmeee.site
+nppaddypower.com
 npraty.la
 nproxi.com
 npsis.net
@@ -132504,6 +132542,7 @@ ntlshopus.com
 ntlword.com
 ntlworkd.com
 ntlworld.com
+ntlworld.ie
 ntnrw.info
 ntntnt.my.id
 ntp.homes
@@ -132789,6 +132828,7 @@ nusportsacademy.com
 nussc.com
 nust.org
 nustarcasinoapk.club
+nustarcasinoapk.com
 nustarcasinoopen.cfd
 nustargames.net
 nustaronlinecasino.net
@@ -137985,6 +138025,7 @@ ouynwj.com
 ouzadverse.com
 ov3u841.com
 ovaafu.fun
+ovabetlogin.net
 ovaclockas24.net
 ovaf8g.site
 ovag.biz
@@ -142091,6 +142132,7 @@ phatrukhabaenglish.education
 phattangent.com
 phattich.com
 phazed.au
+phbahiscasino.ph
 phbestcasino.net
 phbet777.info
 phbikemart.com
@@ -142268,6 +142310,7 @@ phlebomail.com
 phlebosmail.com
 phlhomesolutions1.com
 phlovecasino.info
+phluck789.ph
 phmail.site
 phmail.store
 phmail.us
@@ -150001,6 +150044,7 @@ qq188bet.net
 qq222game.info
 qq234.com
 qq2889.team
+qq2gameapk.com
 qq323.com
 qq3889.group
 qq3889.team
@@ -152101,6 +152145,7 @@ rappidislandway.com
 rapplo.com
 rapquangtri.com
 rapt.be
+rapteil.com
 rapture.bio
 rapturetiger.com
 rapyhu.info
@@ -193422,6 +193467,7 @@ vnlmxcasinodescargar.com
 vnmegacasinoworld.com
 vnmomocasino.com
 vnmon.com
+vnmtc66.com
 vnnohu64.com
 vnnohu94.com
 vnotua.xyz
@@ -193436,6 +193482,7 @@ vns2640.com
 vns72h.com
 vnsafe.top
 vnshare.info
+vnshbett.com
 vnsje.website
 vnsl.com
 vnsodocasino66.com
@@ -193445,6 +193492,7 @@ vnuova.icu
 vnvejjlh.shop
 vnvmail.com
 vnwcs9.us
+vnwin678.net
 vnwin99.com
 vnxteam.xyz
 vnyyycasino.com
@@ -198155,6 +198203,7 @@ winviag.com
 winvn14.info
 winwin-77.net
 winwin.realestate
+winwinbetapk.net
 winwincasinozambia.com
 winwincool.site
 winwincool.website

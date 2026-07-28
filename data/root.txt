@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-27T23:00:42.180Z
+# Aggregated blacklist generated on 2026-07-28T02:27:22.662Z
  
 0-30-24.com
 0-attorney.com
@@ -92448,6 +92448,7 @@ increaseed.top
 increasefollower.com
 increaselk.ru
 increasetraffic.shop
+increasu.com
 increater.ru
 incredibility.info
 incredibleguys.com
@@ -185643,6 +185644,7 @@ turhelp.ru
 turihom.host
 turihom.space
 turinaslaw.com
+turis.lat
 turismoemcanelars.com
 turismohuaraz.com
 turismovdel.com

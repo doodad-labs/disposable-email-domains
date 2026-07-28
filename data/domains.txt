@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-28T02:27:22.662Z
+# Aggregated blacklist generated on 2026-07-28T06:26:24.674Z
  
 0-00.usa.cc
 0-30-24.com
@@ -30447,6 +30447,7 @@ arcengineering.com
 arcentra.cfd
 arcese.net
 arcfhl3nvo.mailbo.store
+arcglen.com
 arch.cd
 arch2o.me
 arch355.com
@@ -65584,6 +65585,7 @@ d-p-a-n.com
 d-prov.se
 d-race5.com
 d-skin.com
+d-store.web.id
 d-tradicionmobiliario.es
 d-v-w.de
 d.asiamail.website
@@ -124194,6 +124196,7 @@ jazya.site
 jazzbo.site
 jazzclubjury.com
 jazzcommons.com
+jazzemany.com
 jazzie.site
 jazzmel.net
 jazzvip.site
@@ -208418,6 +208421,7 @@ septuagiemail.ru
 septuamal.com
 sepuhdidi.instanthq.com
 sepulcher667sz.xyz
+sepultura.info
 sepuluh10.igg.biz
 sepuranex.me
 seputarbet.live

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-28T06:26:24.674Z
+# Aggregated blacklist generated on 2026-07-28T10:33:54.402Z
  
 0-30-24.com
 0-attorney.com
@@ -189440,6 +189440,7 @@ usehlps.site
 useholiday.click
 useithtra.site
 useless-byajbilou.com
+uselessje.dev
 uselesss.org
 uselesswebsites.net
 usellwebuyfast.com

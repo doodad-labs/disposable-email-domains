@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-29T20:54:26.204Z
+# Aggregated blacklist generated on 2026-07-29T22:58:51.200Z
  
 0-30-24.com
 0-attorney.com
@@ -101665,6 +101665,7 @@ keinmail.com
 keinpardon.de
 keintech.com
 keinth.xyz
+keinto.asia
 keio-mebios.com
 keipino.de
 keiqpm.site
@@ -105922,6 +105923,7 @@ laboralistascoruna.com
 laboraryer.com
 laboratortehnicadentara.ro
 laboratoryreport.win
+laborderie.com
 laborderie.ovh
 labored673vl.online
 laboremail.ru

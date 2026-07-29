@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-28T22:57:07.810Z
+# Aggregated blacklist generated on 2026-07-29T02:31:34.397Z
  
 0-30-24.com
 0-attorney.com
@@ -164457,6 +164457,7 @@ shicentantvogue.com
 shichuan.website
 shicoast.com
 shid.de
+shide.lat
 shield.lat
 shieldaviation.com
 shieldedmail.com
@@ -195200,6 +195201,7 @@ wanafdoo.fr
 wanafoo.fr
 wanai.biz.id
 wanamore.com
+wanan.lat
 wananadoo.fr
 wananchi.com
 wanandoo.fr

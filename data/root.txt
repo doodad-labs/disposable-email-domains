@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-30T19:24:30.672Z
+# Aggregated blacklist generated on 2026-07-30T21:08:37.837Z
  
 0-30-24.com
 0-attorney.com
@@ -791,6 +791,7 @@
 1-million-rubley.xyz
 1-mintue-mail.ddnsgeek.com
 1-obivka-mebeli-vminske.ru
+1-red.uk
 1-sec-mail.site
 1-second-mail.site
 1-tm.com
@@ -6739,6 +6740,7 @@
 54tiljt6dz9tcdryc2g.tk
 54yahoo.com
 54zxl.info
+55-bet.co.nl
 55002123.com
 550088211.com
 5500bet7.info
@@ -6840,6 +6842,7 @@
 55bbbet.info
 55betcasino.info
 55betcasinoapp.com
+55bets.de
 55c1bda2.xyz
 55dy.info
 55gcasino.net
@@ -29150,6 +29153,7 @@ bethubcasino.com
 betico47.com
 betidn.org
 betiforex.com
+betifys.org
 betindo88.com
 betinebet105.com
 betinebet106.com
@@ -35524,6 +35528,7 @@ bukansarjana.com
 bukatoto.net
 bukatv8.com
 bukhariansiddur.com
+bukitsakura.site
 bukkin.com
 bukleti-vizitki.ru
 bukmekerskajakontora.ru
@@ -39064,6 +39069,7 @@ casinocrypto.io
 casinocuan.club
 casinocyprus1.ru
 casinodavos.ch
+casinodays.net.nz
 casinodechileonline.com
 casinodemons.com
 casinodeparis.fr
@@ -45528,6 +45534,7 @@ colournamer.com
 colpaniconsultoria.com
 cols.us
 colsc.us
+colsced.us
 colsch.us
 colscho.us
 colschoo.us
@@ -77719,6 +77726,7 @@ gkhal.us
 gkhalied.us
 gkhalihs.us
 gkhalis.us
+gkhalsc.us
 gkhedu.us
 gkhghyv.cn
 gkhh.us
@@ -106273,6 +106281,7 @@ lalala.fun
 lalala.nl
 lalala.site
 lalalaanna.com
+lalalalala.site
 lalalamail.net
 lalalapayday.net
 lalamailbox.com
@@ -134415,6 +134424,7 @@ ohmyaffiliates.com
 ohmyfly.com
 ohmygolly.net
 ohmyholyeco.xyz
+ohmyspins.com.de
 ohmytalents.co
 ohmytechnologies.com
 ohneworte.love
@@ -140484,6 +140494,7 @@ pb2019zone.com
 pb3rr.us
 pb5g.com
 pb641.site
+pb77.net
 pbaq.com
 pbastaff.org
 pbbilling.com
@@ -144710,6 +144721,7 @@ pokerdomonline.online
 pokerdomz.online
 pokerdong88.com
 pokerduo.com
+pokerenchiles.cl
 pokerevening.biz
 pokerewallets.com
 pokerface.dk
@@ -145536,6 +145548,7 @@ posisiku.pw
 positionrivverthree.com
 positive.bet
 positivevoiceteesvalley.co.uk
+positivez0ne.com
 positivili.com
 positivity.news
 posliquidators.com
@@ -160721,6 +160734,7 @@ saskia.com
 saskpetqkq.ga
 sasmanbetx.com
 sasmil.org
+sasonse.com
 sasori.uno
 sasout.com
 sassenach.com
@@ -169718,6 +169732,7 @@ spinanit.ga
 spinanit.gq
 spinanit.tk
 spinapp.bar
+spinbetters.org
 spincasinoopiniones.com
 spindl-e.com
 spindlecommunications.com
@@ -178018,6 +178033,7 @@ testinger.ru
 testingit.com
 testingprog.com
 testingtest.com
+testitesti.top
 testlatcei.cf
 testlatcei.ml
 testlatcei.tk
@@ -193145,6 +193161,7 @@ vivid-app.de
 vivid-designs.store
 vividbase.xyz
 vividgreennetwork.com
+vividtipzone.com
 vivie.club
 viviemail.com
 vivigle.org

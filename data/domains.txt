@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-30T19:24:30.672Z
+# Aggregated blacklist generated on 2026-07-30T21:08:37.837Z
  
 0-00.usa.cc
 0-30-24.com
@@ -1537,6 +1537,7 @@
 1-million-rubley.xyz
 1-mintue-mail.ddnsgeek.com
 1-obivka-mebeli-vminske.ru
+1-red.uk
 1-sec-mail.site
 1-second-mail.site
 1-tm.com
@@ -10859,6 +10860,7 @@
 54zdsjeonc.mailbo.store
 54zknubohc.mailbo.store
 54zxl.info
+55-bet.co.nl
 55.sunjata.kipubkkk.xyz
 55002123.com
 550088211.com
@@ -10970,6 +10972,7 @@
 55bbbet.info
 55betcasino.info
 55betcasinoapp.com
+55bets.de
 55c1bda2.xyz
 55diw1fzyn.mailbo.store
 55dy.info
@@ -40656,6 +40659,7 @@ bethubcasino.com
 betico47.com
 betidn.org
 betiforex.com
+betifys.org
 betindo88.com
 betinebet105.com
 betinebet106.com
@@ -48304,6 +48308,7 @@ bukatv8.com
 buke.ll47.net
 bukfq.anonbox.net
 bukhariansiddur.com
+bukitsakura.site
 bukkin.com
 bukleti-vizitki.ru
 bukmekerskajakontora.ru
@@ -52667,6 +52672,7 @@ casinocrypto.io
 casinocuan.club
 casinocyprus1.ru
 casinodavos.ch
+casinodays.net.nz
 casinodechileonline.com
 casinodemons.com
 casinodeparis.fr
@@ -60234,6 +60240,7 @@ colournamer.com
 colpaniconsultoria.com
 cols.us
 colsc.us
+colsced.us
 colsch.us
 colscho.us
 colschoo.us
@@ -99973,6 +99980,7 @@ gkhal.us
 gkhalied.us
 gkhalihs.us
 gkhalis.us
+gkhalsc.us
 gkhedu.us
 gkhghyv.cn
 gkhh.us
@@ -137003,6 +137011,7 @@ lalala.nl
 lalala.site
 lalala001.orge.pl
 lalalaanna.com
+lalalalala.site
 lalalalywqw.igg.biz
 lalalamail.net
 lalalapayday.net
@@ -172802,6 +172811,7 @@ ohmyaffiliates.com
 ohmyfly.com
 ohmygolly.net
 ohmyholyeco.xyz
+ohmyspins.com.de
 ohmytalents.co
 ohmytechnologies.com
 ohneworte.love
@@ -180134,6 +180144,7 @@ pb5g.com
 pb5kr4l49x.mailbo.store
 pb641.site
 pb6xa6ibu0.mailbo.store
+pb77.net
 pb83eehpwv.mailbo.store
 pbaq.com
 pbastaff.org
@@ -185091,6 +185102,7 @@ pokerdomonline.online
 pokerdomz.online
 pokerdong88.com
 pokerduo.com
+pokerenchiles.cl
 pokerevening.biz
 pokerewallets.com
 pokerface.dk
@@ -185992,6 +186004,7 @@ positionrivverthree.com
 positive.bet
 positive.mailbo.store
 positivevoiceteesvalley.co.uk
+positivez0ne.com
 positivili.com
 positivity.news
 poslimaz2391.a.lofteone.ru
@@ -205681,6 +205694,7 @@ saskia.com
 saskpetqkq.ga
 sasmanbetx.com
 sasmil.org
+sasonse.com
 sasori.uno
 sasout.com
 sasportas50.tastyarabicacoffee.com
@@ -216330,6 +216344,7 @@ spinanit.ga
 spinanit.gq
 spinanit.tk
 spinapp.bar
+spinbetters.org
 spincasinoopiniones.com
 spindl-e.com
 spindlecommunications.com
@@ -226169,6 +226184,7 @@ testinger.ru
 testingit.com
 testingprog.com
 testingtest.com
+testitesti.top
 testkkk.zik.dj
 testlatcei.cf
 testlatcei.ml
@@ -245103,6 +245119,7 @@ vivid-app.de
 vivid-designs.store
 vividbase.xyz
 vividgreennetwork.com
+vividtipzone.com
 vivie.club
 viviemail.com
 vivigle.org

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-30T10:23:52.142Z
+# Aggregated blacklist generated on 2026-07-30T13:57:40.885Z
  
 0-30-24.com
 0-attorney.com
@@ -3392,6 +3392,7 @@
 24volcano.net
 24vul-canm.com
 24vul-slot.net
+24x7.lc
 24x7daily.com
 24xj.us
 24youla.ru
@@ -96820,6 +96821,7 @@ jarsku.pro
 jarsora.com
 jarspremium.com
 jarspremium.online
+jarswa.com
 jarsx.com
 jarszone.com
 jarszone.online
@@ -118510,6 +118512,7 @@ me1l.com
 me22anysnkeij.xyz
 me2ikakkrn.xyz
 me2view.com
+me3ga.co
 me6af4il.com
 me777casinolegit.com
 me88app.org
@@ -158527,6 +158530,7 @@ ruthmarini.art
 ruthschristokyo.com
 ruthservicios.net
 rutop.net
+rutor12.help
 rutory.com
 rutracker.moscow
 rutubevideo.ru

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-30T15:53:38.745Z
+# Aggregated blacklist generated on 2026-07-30T17:25:50.755Z
  
 0-00.usa.cc
 0-30-24.com
@@ -51735,6 +51735,7 @@ capcut.aftr.cloud
 capcut.asia
 capcut.buzz
 capcut.digital
+capcut.gurita.my.id
 capcut.mom
 capcut.my.id
 capcut.pp.ua

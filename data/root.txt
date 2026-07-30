@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-30T15:53:38.745Z
+# Aggregated blacklist generated on 2026-07-30T17:25:50.755Z
  
 0-30-24.com
 0-attorney.com
@@ -81798,6 +81798,7 @@ gurgtapar.ga
 gurgtapar.gq
 gurgtapar.ml
 gurgtapar.tk
+gurita.my.id
 gurke.com
 gurman1.space
 gurmeneczadepo1.club

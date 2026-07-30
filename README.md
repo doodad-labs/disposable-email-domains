@@ -33,7 +33,7 @@ https://dmails.doodadlabs.org/data/active.txt
 # comment free lists
 https://dmails.doodadlabs.org/data/domains.raw.txt
 https://dmails.doodadlabs.org/data/root.raw.txt
-https://dmails.doodadlabs.org/data/active.rawe.txt
+https://dmails.doodadlabs.org/data/active.raw.txt
 ```
 
 ## Data Update Frequency

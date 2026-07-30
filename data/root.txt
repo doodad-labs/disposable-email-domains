@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-30T13:57:40.885Z
+# Aggregated blacklist generated on 2026-07-30T15:53:38.745Z
  
 0-30-24.com
 0-attorney.com
@@ -99259,6 +99259,7 @@ joyledhe.gq
 joyledhe.ml
 joyledhe.tk
 joylesshefiriansyah.io
+joymail.cyou
 joymail.online
 joymail.site
 joymail.store
@@ -189630,6 +189631,7 @@ uspmail.com
 uspolodocs.com
 uspp.biz
 usps5.com
+usps8.com
 usps9.com
 uspyparky.com
 usrad.com

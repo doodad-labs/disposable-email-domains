@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-30T23:05:52.916Z
+# Aggregated blacklist generated on 2026-07-31T02:42:44.698Z
  
 0-00.usa.cc
 0-30-24.com
@@ -10408,6 +10408,7 @@
 4ztsnofkra.mailbo.store
 4zuddc1rp5.mailbo.store
 4zuulcxk4c.mailbo.store
+4zw5l.anonbox.net
 4zxgkdia1q.mailbo.store
 4zze43vhuy.mailbo.store
 4zzo.dung2tb.io.vn
@@ -51744,6 +51745,7 @@ capcut.gurita.my.id
 capcut.mom
 capcut.my.id
 capcut.pp.ua
+capcut.pw
 capcut.sbs
 capcut.site
 capcut.space
@@ -87847,6 +87849,7 @@ fazipic.site
 faziti.info
 fazka.ovh
 fazmail.net
+fazty.biz
 fb.10mail.org
 fb.a01b.ml
 fb.hex2.ml
@@ -130423,6 +130426,7 @@ kavbet70.com
 kavbet71.com
 kavbet72.com
 kavio.my.id
+kavio.org
 kavkazmaz.ru
 kavlingpro.my.id
 kavory.site
@@ -145245,6 +145249,7 @@ ly67rqdarc.mailbo.store
 ly7mt3772c.mailbo.store
 ly7s7ujdfu.mailbo.store
 ly9rr43okp.mailbo.store
+lyabobpr.com
 lyah.tieumuoishop.io.vn
 lyahatbercse.site
 lyahoo.it

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-30T23:05:52.916Z
+# Aggregated blacklist generated on 2026-07-31T02:42:44.698Z
  
 0-30-24.com
 0-attorney.com
@@ -38179,6 +38179,7 @@ capcut.digital
 capcut.mom
 capcut.my.id
 capcut.pp.ua
+capcut.pw
 capcut.sbs
 capcut.site
 capcut.space
@@ -68018,6 +68019,7 @@ fazipic.site
 faziti.info
 fazka.ovh
 fazmail.net
+fazty.biz
 fb2a.site
 fb2aa.site
 fb2ab.site
@@ -101327,6 +101329,7 @@ kavbet70.com
 kavbet71.com
 kavbet72.com
 kavio.my.id
+kavio.org
 kavkazmaz.ru
 kavlingpro.my.id
 kavory.site
@@ -113056,6 +113059,7 @@ lxxtdev.com
 lxydawang.top
 lxysoy.xyz
 ly631c.com
+lyabobpr.com
 lyahatbercse.site
 lyahoo.it
 lyaliume.site

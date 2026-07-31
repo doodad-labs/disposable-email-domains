@@ -38166,6 +38166,7 @@ capcut.digital
 capcut.mom
 capcut.my.id
 capcut.pp.ua
+capcut.pw
 capcut.sbs
 capcut.site
 capcut.space
@@ -68005,6 +68006,7 @@ fazipic.site
 faziti.info
 fazka.ovh
 fazmail.net
+fazty.biz
 fb2a.site
 fb2aa.site
 fb2ab.site
@@ -101314,6 +101316,7 @@ kavbet70.com
 kavbet71.com
 kavbet72.com
 kavio.my.id
+kavio.org
 kavkazmaz.ru
 kavlingpro.my.id
 kavory.site
@@ -113043,6 +113046,7 @@ lxxtdev.com
 lxydawang.top
 lxysoy.xyz
 ly631c.com
+lyabobpr.com
 lyahatbercse.site
 lyahoo.it
 lyaliume.site

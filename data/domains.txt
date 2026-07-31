@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-07-31T02:42:44.698Z
+# Aggregated blacklist generated on 2026-07-31T06:42:44.875Z
  
 0-00.usa.cc
 0-30-24.com
@@ -24105,6 +24105,7 @@ aihnoa.com
 aihongkong.xyz
 aihtnb.com
 aihualiu.com
+aihubtools.space
 aiidriver.icu
 aiigs.live
 aiij8.space
@@ -62790,6 +62791,7 @@ cqutssntx9356oug.tk
 cqv.luk2.com
 cqv0dmmidx.mailbo.store
 cqvsuy6i0y.mailbo.store
+cqwbn.com
 cqweqe-naonc.icu
 cqwmokhnv6.xyz
 cqwp.luk2.com
@@ -93975,6 +93977,7 @@ fritolay.net
 fritzbee.com
 fritzkunze.net
 friulilanotte.net
+frive.site
 frivgames.info
 frivv.net
 friyot9fri.mailbo.store
@@ -114768,6 +114771,7 @@ hygge.camp
 hyggerus.ru
 hygienicbrush.us
 hygienistback.site
+hygle.net
 hygpoxm.saucent.online
 hygrogenevallee.org
 hygvxr.us
@@ -199608,6 +199612,7 @@ ripohand.cf
 ripohand.gq
 ripohand.ml
 ripohand.tk
+riposh.shop
 ripozoi9.online
 rippadakidmusic.com
 ripparewards.net
@@ -204165,6 +204170,7 @@ sadd.us
 saddafi.icu
 saddamcom.com
 saddharmnigh6801.lofteone.ru
+saddope.lol
 saddpanleeu2438.lofteone.ru
 saddspyper.cf
 saddspyper.ga
@@ -246554,6 +246560,7 @@ vrior.club
 vripnc.us
 vrisaix.anonaddy.com
 vrjw.com
+vrjxk.com
 vrldmail.com
 vrlfinancialnews.com
 vrliaswjxo.mailbo.store
@@ -249833,6 +249840,7 @@ weekquestion.biz
 weekstudent.us
 weekwater.us
 weekzs.icu
+weeline.fun
 weelspros.com
 weemanlivetv.live
 weemmo.com
@@ -253511,6 +253519,7 @@ wrestlingfanz.com
 wretchedes.com
 wrf7vx.info
 wrfw.luk2.com
+wrgee.com
 wrgerrk5yr.mailbo.store
 wrgs.icu
 wrgtci.icu
@@ -258547,6 +258556,7 @@ xsvdqj13pg.mailbo.store
 xsvgn.capcut10.name.ng
 xsvx.75.winwinus.xyz
 xswift.shop
+xswl.xyz
 xswtrl.com
 xsxn.com
 xsxs.10mail.org

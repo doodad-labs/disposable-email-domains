@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-01T22:54:31.234Z
+# Aggregated blacklist generated on 2026-08-02T02:40:06.414Z
  
 0-00.usa.cc
 0-30-24.com
@@ -23441,6 +23441,7 @@ agh-rip.com
 agh7dmorux.mailbo.store
 agha.co.pl
 aghayeseo.com
+aghism.com
 aghoriti.website
 aghrskqoem.mailbo.store
 agi7w61zxw.mailbo.store
@@ -27705,6 +27706,7 @@ amunra4.com
 amunra5.com
 amunra6.com
 amunra7.com
+amupx.com
 amusedr.icu
 amusedsa.shop
 amuseid.icu
@@ -29873,6 +29875,7 @@ appl3.ga
 appl3.gq
 appl3.ml
 appl3.tk
+applamos.com
 applaudthecause.com
 applaudthecause.org
 apple-account.app
@@ -34660,6 +34663,7 @@ ay1sgwq.kondomeus.site
 ay33rs.flu.cc
 ay7fwp9bil.mailbo.store
 aya01b.com
+ayable.com
 ayabozz.com
 ayabt.com
 ayacu.com
@@ -41430,6 +41434,7 @@ bh3f.com
 bh3zw.anonbox.net
 bh4lh.org
 bh4orhkuey.mailbo.store
+bh4qt.anonbox.net
 bh4smz0vps.mailbo.store
 bh57d.anonbox.net
 bh5mhra2ln.mailbo.store
@@ -45845,6 +45850,7 @@ boquetening.net
 boqy579rwl.mailbo.store
 bor.10mail.org
 bora366.com
+bora4d.com
 bora75.softhandscream.com
 boraa.xyz
 borabora.cd
@@ -67394,6 +67400,7 @@ davistechnologiesllc.com
 davnub.ml
 davomo.com
 davoodbookstore.store
+davopa.com
 davrhigxdh.mailbo.store
 davrsnion.com
 davru.top
@@ -173652,6 +173659,7 @@ olinhyde.com
 olio.co.com
 olio.com
 oliosales.info
+olipii.com
 oliq.me
 olisadebe.org
 olisup.cyou
@@ -265897,6 +265905,7 @@ ziebhagil.ga
 ziebhagil.ml
 ziebhagil.tk
 zielecki.net
+ziellpremium.store
 zielonadioda.com
 zielonyjeczmiennaodchudzanie.xyz
 zientogel.com

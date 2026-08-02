@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-02T13:18:02.634Z
+# Aggregated blacklist generated on 2026-08-02T15:00:46.613Z
  
 0-00.usa.cc
 0-30-24.com
@@ -176683,6 +176683,7 @@ ottopetra.com
 ottotech.net
 ottp6cyivr.mailbo.store
 ottrme.com
+ottsathi.store
 ottscoop.com
 ottu4yhsd9.mailbo.store
 ottupdate.com

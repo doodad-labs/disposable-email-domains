@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-02T20:54:24.399Z
+# Aggregated blacklist generated on 2026-08-02T22:56:01.787Z
  
 0-00.usa.cc
 0-30-24.com
@@ -95225,6 +95225,7 @@ fwcfb.saucent.online
 fwcs.com
 fwct8vijad.mailbo.store
 fwd.dev
+fwd.regery.net
 fwd.riothero.com
 fwd.servius.io
 fwd2m.eszett.es
@@ -101540,6 +101541,7 @@ goci.email
 gociaret.online
 gociboutique.site
 goclippers.net
+gocoiny.com
 gocrash.net
 gocrein.com
 gocyb.org
@@ -130874,6 +130876,7 @@ kecgii.tokyo
 ked6f9.us
 keda.luk2.com
 kedaipulsa.online
+kedaiqq.com
 kedd.igg.biz
 kedeni.shop
 kedikumu.net
@@ -140060,6 +140063,7 @@ licensestore.ru
 licensingsalestool.com
 liceomajoranarho.it
 licepann.com
+lichnyj-kabinet.ru
 lichten-nedv.ru
 lichthidauworldcup.net
 lichtruyenhinh.net
@@ -154485,6 +154489,7 @@ mfe.co23sme4v6n0i.com
 mfe0mdbyvj.mailbo.store
 mfecsxgzlp.mailbo.store
 mfeuu.anonbox.net
+mfeva.com
 mffsuhduhs.ga
 mffy.luk2.com
 mfgfx.com
@@ -154509,6 +154514,7 @@ mfmwavq2yq.mailbo.store
 mfn-supplements.com
 mfneyn9i8b.mailbo.store
 mfnzuugchb.mailbo.store
+mfoos.com
 mfp.luk2.com
 mfpehwnzm6.mailbo.store
 mfpf.dung2tb.io.vn
@@ -156113,6 +156119,7 @@ missalkaram.com
 missbea.fun
 missfacts.com
 missfitenergy.com
+missfuli.com
 missglobaleurasia.com
 missgreyhound.com
 misshausa.com
@@ -181472,6 +181479,7 @@ persbericht.org
 persebaya1981.cf
 persebaya1999.cf
 persenta.se
+perseusmail.xyz
 pershart.com
 persian360.xyz
 persianbet.site
@@ -202897,6 +202905,7 @@ ruthschristokyo.com
 ruthservicios.net
 ruthsussder8522.lofteone.ru
 rutop.net
+rutor12.click
 rutor12.help
 rutory.com
 rutracker.moscow
@@ -203278,6 +203287,7 @@ ryj15.tk
 ryj15.xyz
 ryjc.com
 ryjewo.com.pl
+rykermi.com
 rykeurumtm.mailbo.store
 rykone.com
 rykov.net
@@ -208334,6 +208344,7 @@ seo-local.site
 seo-mailer.com
 seo-neo.net
 seo-pandy.store
+seo-prodvizhenie-v-top.ru
 seo-red.ru
 seo-search.site
 seo-specialists.lv

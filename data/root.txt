@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-02T20:54:24.399Z
+# Aggregated blacklist generated on 2026-08-02T22:56:01.787Z
  
 0-30-24.com
 0-attorney.com
@@ -78903,6 +78903,7 @@ goci.email
 gociaret.online
 gociboutique.site
 goclippers.net
+gocoiny.com
 gocrash.net
 gocrein.com
 gocyb.org
@@ -101641,6 +101642,7 @@ kecasinos.com
 kecgii.tokyo
 ked6f9.us
 kedaipulsa.online
+kedaiqq.com
 kedeni.shop
 kedikumu.net
 kedipansiyonu.net
@@ -108853,6 +108855,7 @@ licensezone.top
 licensingsalestool.com
 liceomajoranarho.it
 licepann.com
+lichnyj-kabinet.ru
 lichten-nedv.ru
 lichthidauworldcup.net
 lichtruyenhinh.net
@@ -120302,6 +120305,7 @@ mfctve.shop
 mfctvebrasil.ml
 mfdn.ru
 mfdsef346n0i.com
+mfeva.com
 mffsuhduhs.ga
 mfgfx.com
 mfghrtdf5bgfhj7hh.tk
@@ -120318,6 +120322,7 @@ mflfdgsa.shop
 mflinks.com
 mfmail.store
 mfn-supplements.com
+mfoos.com
 mfriends.com
 mfsa.info
 mfsa.ru
@@ -121714,6 +121719,7 @@ missalkaram.com
 missbea.fun
 missfacts.com
 missfitenergy.com
+missfuli.com
 missglobaleurasia.com
 missgreyhound.com
 misshausa.com
@@ -141644,6 +141650,7 @@ persebaya1981.cf
 persebaya1999.cf
 perseimail.com
 persenta.se
+perseusmail.xyz
 pershart.com
 persian360.xyz
 persianbet.site
@@ -153825,6 +153832,7 @@ regenerativeremedies.net
 regentparkhall.com
 regentstudents.biz
 regerina.com
+regery.net
 reggaecarrentals.com
 reggaestarz.com
 reggioemiliadaycare.com
@@ -158585,6 +158593,7 @@ ruthmarini.art
 ruthschristokyo.com
 ruthservicios.net
 rutop.net
+rutor12.click
 rutor12.help
 rutory.com
 rutracker.moscow
@@ -158791,6 +158800,7 @@ ryj15.tk
 ryj15.xyz
 ryjc.com
 ryjewo.com.pl
+rykermi.com
 rykone.com
 rykov.net
 ryldnwp4rgrcqzt.cf
@@ -163041,6 +163051,7 @@ seo-local.site
 seo-mailer.com
 seo-neo.net
 seo-pandy.store
+seo-prodvizhenie-v-top.ru
 seo-red.ru
 seo-search.site
 seo-specialists.lv

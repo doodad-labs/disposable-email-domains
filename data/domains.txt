@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-02T02:40:06.414Z
+# Aggregated blacklist generated on 2026-08-02T06:31:28.952Z
  
 0-00.usa.cc
 0-30-24.com
@@ -13128,6 +13128,7 @@
 69casino.info
 69e10d94.xyz
 69eal74cdz.mailbo.store
+69flix.site
 69gjailrel.mailbo.store
 69gmail.com
 69h1.dung2tb.io.vn
@@ -34956,6 +34957,7 @@ azhs.us
 azhsc.us
 azhsch.com
 azhsch.org
+azhsec.org
 azhsek.org
 azhsk.org
 aziamail.com
@@ -39814,6 +39816,7 @@ berse.biz
 bersemi.web.id
 bershandsi4644.a.lofteone.ru
 bershka-terim.space
+bershujr.shop
 bersibersi.com
 bertackbi.ga
 bertackbi.gq

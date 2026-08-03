@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-03T07:01:53.942Z
+# Aggregated blacklist generated on 2026-08-03T11:21:32.483Z
  
 0-00.usa.cc
 0-30-24.com
@@ -96387,6 +96387,7 @@ gamemail.space
 gamemanoidstore.com
 gameme.men
 gamemoney.app
+gamen.me
 gamening.com
 gameonline.life
 gameonsports.live
@@ -125018,6 +125019,7 @@ jesswein-electronicss.shop
 jessyaries.co.uk
 jessyaries.com
 jessyaries.uk
+jessyx.bond
 jestbet65.com
 jestemkoniem.com.pl
 jester.8amail.top
@@ -149673,6 +149675,7 @@ maklaca.cfd
 maklacpolza.cfd
 makmadness.info
 makmotors.com
+makmursrondol.store
 makn.mypop3.net
 mako4.shop
 makoccino.com
@@ -166735,6 +166738,7 @@ nfd.freeml.net
 nfdhelp.com
 nfdi.yomail.info
 nfeconsulta.net
+nfengwu.bond
 nfezc.com
 nffq.emlhub.com
 nffwrc.com
@@ -212703,6 +212707,7 @@ skyrboozt.com
 skyrt.de
 skyrtiador.ga
 skyrtiador.tk
+skyserver.cyou
 skysip.com
 skysmail.gdn
 skysmail.me
@@ -265552,6 +265557,7 @@ zexeet9i5l49ocke.gq
 zexeet9i5l49ocke.ml
 zexeet9i5l49ocke.tk
 zexem.fun
+zexic.cyou
 zexmail.com
 zey.emlhub.com
 zeyadooo.cloud

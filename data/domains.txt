@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-03T02:41:28.706Z
+# Aggregated blacklist generated on 2026-08-03T07:01:53.942Z
  
 0-00.usa.cc
 0-30-24.com
@@ -63457,6 +63457,7 @@ crodity.com
 crofootfamily.com
 croftcare.group
 croftonmaurice.xyz
+crogra.org
 crok2r.site
 crok3r.site
 cromelet.ga
@@ -260557,6 +260558,7 @@ yasserf4.shop
 yassuoo.click
 yastle.com
 yasul.shop
+yasuo.sbs
 yasuragi.me
 yasutech.com
 yasuxqkuzh.mailbo.store

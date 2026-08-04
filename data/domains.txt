@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-04T14:08:38.197Z
+# Aggregated blacklist generated on 2026-08-04T17:47:36.801Z
  
 0-00.usa.cc
 0-30-24.com
@@ -70747,6 +70747,7 @@ diaraizi.ga
 diaraizi.ml
 diaraizi.tk
 diariocolatino.net
+diariodeuberlandia.com.br
 diariodigital.info
 diariomineria.com
 diarioretail.com
@@ -149296,6 +149297,7 @@ mailus.fliplabs.click
 mailus.ga
 mailus.gambolhq.click
 mailus.getsome.click
+mailus.meetwisetransfer.click
 mailus.ninjatransfers.click
 mailus.quickreply.click
 mailus.thebillieholiday.click

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-04T14:08:38.197Z
+# Aggregated blacklist generated on 2026-08-04T17:47:36.801Z
  
 0-30-24.com
 0-attorney.com
@@ -54193,6 +54193,7 @@ diaraizi.ga
 diaraizi.ml
 diaraizi.tk
 diariocolatino.net
+diariodeuberlandia.com.br
 diariodigital.info
 diariomineria.com
 diarioretail.com
@@ -119021,6 +119022,7 @@ meetupmonkey.com
 meetvideoflowspace.biz.id
 meetwave.lat
 meetwave.my.id
+meetwisetransfer.click
 meetyourlove.com
 meetyourva.co
 meevpo.id

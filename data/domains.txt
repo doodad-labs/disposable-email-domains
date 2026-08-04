@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-03T22:59:08.899Z
+# Aggregated blacklist generated on 2026-08-04T02:25:24.626Z
  
 0-00.usa.cc
 0-30-24.com
@@ -11451,6 +11451,7 @@
 5fifty5.net
 5fingershoesoutlet.com
 5firemen.com
+5fn5e.anonbox.net
 5foods.asia
 5forzqav0r.mailbo.store
 5fp31.site

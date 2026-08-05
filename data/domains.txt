@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-05T17:28:36.393Z
+# Aggregated blacklist generated on 2026-08-05T19:27:47.100Z
  
 0-00.usa.cc
 0-30-24.com
@@ -51778,6 +51778,7 @@ capcut72.site
 capcuteam.biz.id
 capcuter.com
 capcuter.my.id
+capcutgatma.biz.id
 capcutgg.biz.id
 capcutgw.cfd
 capcutin.my.id
@@ -255561,6 +255562,7 @@ xbusinesnews.com
 xbveonn5fl.mailbo.store
 xbvrfy45g.ga
 xbwgfx.com
+xbxc.victoran.web.id
 xbxjvl.online
 xby.10mail.org
 xby14lzqir.mailbo.store
@@ -266931,6 +266933,7 @@ zonoh1opgm.mailbo.store
 zonsurvey.xyz
 zontero.top
 zontero.win
+zonu.lauraun.web.id
 zoo-chat.ru
 zoo-game.ru
 zoo.wtf

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-04T23:02:25.417Z
+# Aggregated blacklist generated on 2026-08-05T02:25:30.567Z
  
 0-00.usa.cc
 0-30-24.com
@@ -35789,6 +35789,7 @@ b618ieul.buzz
 b619sbls.buzz
 b61sszj9yx.mailbo.store
 b631qesp.buzz
+b647i.anonbox.net
 b64pc.anonbox.net
 b666j.anonbox.net
 b66dg.anonbox.net
@@ -39251,6 +39252,7 @@ bekirqua.ml
 bekirr.com
 bekler.icu
 bekommenmail.com
+bekri.site
 bekrs.anonbox.net
 bekymaeyis.mailbo.store
 bel-air-media.com
@@ -67797,6 +67799,7 @@ dcrf.capcud.shop
 dcrnkqdn.space
 dcru.email
 dcs-bb.aleeas.com
+dcs21sd.com
 dcscgroup.com
 dcshop.biz
 dcshop.ma
@@ -67934,6 +67937,7 @@ ddmp3.com
 ddmv.com
 ddn.kz
 ddn.moakt.ws
+ddna7.shop
 ddnaugydno.mailbo.store
 ddngroups.com
 ddnkinvestglobal.com
@@ -70835,6 +70839,7 @@ dickwangdong.net
 dickwangdong.org
 dickydick.xyz
 dickyvps.com
+dicomcorp.com
 dicopto.com
 dicountsoccerjerseys.com
 dicpaner7116.a.lofteone.ru
@@ -99243,6 +99248,7 @@ ghte4tt.shop
 ghtfyryryryr1254.igg.biz
 ghths.us
 ghtk.us
+ghtkhali.us
 ghtr1q.us
 ghtreihfgh.xyz
 ghtryu575.usa.cc
@@ -177048,6 +177054,7 @@ outlok.fr
 outlok.it
 outlok.net
 outlokk.com
+outlokom.kesug.com
 outlolk.com
 outloo.be
 outloo.com
@@ -181655,6 +181662,7 @@ pest-removal-toronto.ca
 pestabet.com
 pestalokl.ru
 pestalozmail.com
+pestshielders.com
 pet-care.com
 pet.cam.ac.uk
 pet.emlhub.com
@@ -182612,6 +182620,7 @@ phsskkten9.mailbo.store
 phsugarcasino.net
 phswertecasino.info
 pht4iqoxfx.mailbo.store
+phtayaonlinecasino.com
 phteverse.com
 phtn4b0qrb.mailbo.store
 phtunneler.cf
@@ -185758,6 +185767,7 @@ popsok.ga
 popsok.gq
 popsok.ml
 popsok.tk
+popspiceworld.com
 popteen4u.com
 popular.mailbo.store
 popularabutiker.se
@@ -202926,8 +202936,10 @@ ruthsussder8522.lofteone.ru
 rutop.net
 rutor12.click
 rutor12.help
+rutor12.one
 rutor12.sbs
 rutor12.top
+rutor8.forum
 rutory.com
 rutracker.moscow
 rutubevideo.ru
@@ -208175,6 +208187,7 @@ send22u.info
 send360.de
 send4.uk
 send624.com
+sendang.space
 sendanywhere.xyz
 sendapp.uk
 sendbananas.website
@@ -208518,6 +208531,7 @@ seosnob.com
 seostatic.pl
 seostudio.co
 seostudiotools.in
+seot6.com
 seoteen.com
 seotexasfirm.com
 seotextgen.top
@@ -223982,6 +223996,7 @@ tbkiehqgqp.mailbo.store
 tbko.com
 tbkybhfyod.mailbo.store
 tbli.com
+tblog.unaux.com
 tbm.dropmail.me
 tbm85woyag.mailbo.store
 tbmail.store

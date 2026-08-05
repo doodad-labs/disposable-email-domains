@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-05T06:27:09.646Z
+# Aggregated blacklist generated on 2026-08-05T10:33:13.772Z
  
 0-00.usa.cc
 0-30-24.com
@@ -78866,6 +78866,7 @@ eduf0.us
 edufi.us
 edufirst.sbs
 edufree.pw
+edugmail.bond
 edugmail.online
 edugmail.site
 edugo.us
@@ -78901,6 +78902,7 @@ edumail.su
 edumaili.com
 edumaili.edu.pl
 edumaill.edu.pl
+edumal.cyou
 edume.me
 edumomtalk.com
 edun4.us

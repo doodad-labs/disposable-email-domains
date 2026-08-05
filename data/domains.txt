@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-05T02:25:30.567Z
+# Aggregated blacklist generated on 2026-08-05T06:27:09.646Z
  
 0-00.usa.cc
 0-30-24.com
@@ -178719,6 +178719,7 @@ paldept.com
 paldo.my.id
 paldobetcasino.com
 paldocasino.net
+paldonanamansilolo.online
 paleauto.com
 paleb1ue.mailer.me
 palemail.ru
@@ -234842,6 +234843,7 @@ tuesdaymagazine.org
 tuesdaymariska.com
 tuesdaymovo.com
 tuesdaypleasure.site
+tuethong.shop
 tueyafgtb1.mailbo.store
 tuf.spymail.one
 tufbcdgr18-privcnvfjtu.press

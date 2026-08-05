@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-05T02:25:30.567Z
+# Aggregated blacklist generated on 2026-08-05T06:27:09.646Z
  
 0-30-24.com
 0-attorney.com
@@ -139139,6 +139139,7 @@ paldept.com
 paldo.my.id
 paldobetcasino.com
 paldocasino.net
+paldonanamansilolo.online
 paleauto.com
 palemail.ru
 paleoanthropic.com
@@ -185593,6 +185594,7 @@ tuesdaymagazine.org
 tuesdaymariska.com
 tuesdaymovo.com
 tuesdaypleasure.site
+tuethong.shop
 tufbcdgr18-privcnvfjtu.press
 tuffautos.info
 tuffingen.com

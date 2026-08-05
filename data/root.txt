@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-05T14:06:04.402Z
+# Aggregated blacklist generated on 2026-08-05T17:28:36.393Z
  
 0-30-24.com
 0-attorney.com
@@ -84392,6 +84392,7 @@ he903.com
 heaa.info
 heacters.com
 headachetreatment.net
+headcapcut.web.id
 headcc.io.vn
 headincloud.com
 headlineglobally.xyz
@@ -113641,6 +113642,7 @@ madeirascampogrande.com
 madeiratravelnews.com
 madeireiratauari.com
 madejstudio.com
+madeksa.online
 madelainetarasenko.com
 madelhocin.xyz
 madelyneverett.top

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-06T14:05:36.023Z
+# Aggregated blacklist generated on 2026-08-06T23:57:37.434Z
  
 0-30-24.com
 0-attorney.com
@@ -14240,6 +14240,7 @@ afemail.com
 afemailonline.com
 afenmail.com
 aferin.site
+aff-help.online
 aff-marketing-company.info
 aff1688.online
 affairmail.com
@@ -53617,6 +53618,7 @@ devlw.site
 devlx.site
 devly.site
 devlz.site
+devmail.work
 devmant.com
 devmeyou.tech
 devmmo.com
@@ -101977,6 +101979,7 @@ kenzototo.site
 keo88bet.net
 keobet88.org
 keobzmvii.pl
+keoiex.sbs
 keokeg.com
 keonhacai55bet.com
 keonhacaifb88.com
@@ -120412,6 +120415,7 @@ mg-rover.ga
 mg-rover.gq
 mg-rover.ml
 mg-rover.tk
+mg21.st
 mg2222.com
 mg520520.com
 mgaba.com
@@ -182855,6 +182859,7 @@ topitrend.com
 topjobbuildingservices.com
 topjobsbook.com
 topjuju.com
+topkcorp.com
 topkek.pro
 topkute.com
 toplampy.online

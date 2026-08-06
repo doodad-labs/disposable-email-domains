@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-05T22:57:28.039Z
+# Aggregated blacklist generated on 2026-08-06T02:27:59.796Z
  
 0-00.usa.cc
 0-30-24.com
@@ -35880,6 +35880,7 @@ b7agx.anonbox.net
 b7aqs.anonbox.net
 b7ba4ef3a8f6.ga
 b7bim1hey4.mailbo.store
+b7bpa.anonbox.net
 b7deeur8wp.mailbo.store
 b7f0xc.gpa.lu
 b7fk3.anonbox.net
@@ -202608,6 +202609,7 @@ rudimentapp.com
 rudiplomust.com
 rudistettner.com
 ruditnugnab.xyz
+rudox.org
 rudrapatna.com
 rudy-merouchi.fr
 rudybet76.com

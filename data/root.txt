@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-05T22:57:28.039Z
+# Aggregated blacklist generated on 2026-08-06T02:27:59.796Z
  
 0-30-24.com
 0-attorney.com
@@ -158329,6 +158329,7 @@ rudimentapp.com
 rudiplomust.com
 rudistettner.com
 ruditnugnab.xyz
+rudox.org
 rudrapatna.com
 rudy-merouchi.fr
 rudybet76.com

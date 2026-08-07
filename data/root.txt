@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-07T18:54:31.698Z
+# Aggregated blacklist generated on 2026-08-07T20:39:13.910Z
  
 0-30-24.com
 0-attorney.com
@@ -38588,6 +38588,7 @@ careless-whisper.com
 careline.click
 carena.biz.id
 carenetdesign.com
+careney.com
 carenmiosga.click
 carerunner.com
 caresforfish.com
@@ -43022,6 +43023,7 @@ cindysun.com
 cineangiocamail.com
 cineastamovel.com
 cineblog01.pub
+cinedrives.com
 cinefull.site
 cinema-online.net
 cinemacollection.ru
@@ -157669,6 +157671,7 @@ rozwe.online
 rozwojosobisty.site
 rozxs.com
 rozztin.com
+rpaintel.com
 rpaowpro3l5ha.tk
 rpaw.com
 rpaymentov.com
@@ -179458,6 +179461,7 @@ thelostway.blog
 thelotbook.com
 thelotstore.cc
 thelotstore.net
+thelotterylab.com
 thelouisvillelady.com
 theloveapp.lat
 thelovedays.com

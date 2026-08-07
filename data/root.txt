@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-07T02:50:11.518Z
+# Aggregated blacklist generated on 2026-08-07T05:39:35.478Z
  
 0-30-24.com
 0-attorney.com
@@ -16176,6 +16176,7 @@ alazhs.org
 alazinst.org
 alazs.us
 alazsh.org
+alazsk.com
 alaztagtc.com
 alb-gaming.com
 albadefilippis.com
@@ -20143,6 +20144,7 @@ app-expert.com
 app-inc-vol.ml
 app-lex-acc.com
 app-mailer.com
+app.tc
 app0vedi.club
 app2020feb.site
 app826.mobi
@@ -22821,6 +22823,7 @@ atomread.com
 atomworks.net
 atopticus.biz
 atoptomail.com
+ator.email
 atorymail.com
 atourfinest.com
 atout-sciences.com
@@ -60745,6 +60748,7 @@ educharved.site
 educhat.email
 educol.us
 educolb.us
+educolbs.us
 educolum.us
 educourse.xyz
 educre.us
@@ -127350,6 +127354,7 @@ naah.ru
 naah.store
 naallimitedcasinos.nl
 naandroid.club
+naativaemail.com
 naaughty.club
 nab4.com
 nabajin.com
@@ -147788,6 +147793,7 @@ promosfer.com
 promositew.ru
 promosolutionsusa.com
 promospainservices.com
+promostyleel.id
 promot.site
 promotamails.ru
 promotedby.me
@@ -149439,6 +149445,7 @@ qacmemphis.com
 qacmjeq.com
 qacquirep.com
 qacyvy.info
+qadex.us
 qadru.shop
 qaeh.com
 qaer.com

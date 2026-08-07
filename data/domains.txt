@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-07T02:50:11.518Z
+# Aggregated blacklist generated on 2026-08-07T05:39:35.478Z
  
 0-00.usa.cc
 0-30-24.com
@@ -25375,6 +25375,7 @@ alazhs.org
 alazinst.org
 alazs.us
 alazsh.org
+alazsk.com
 alaztagtc.com
 alb-gaming.com
 alba.ll47.net
@@ -32884,6 +32885,7 @@ atomread.com
 atomworks.net
 atopticus.biz
 atoptomail.com
+ator.email
 atorymail.com
 atourfinest.com
 atout-sciences.com
@@ -78864,6 +78866,7 @@ educharved.site
 educhat.email
 educol.us
 educolb.us
+educolbs.us
 educolum.us
 educourse.xyz
 educre.us
@@ -123694,6 +123697,7 @@ jahgsthvgas99860.ga
 jahgsthvgas99860.ml
 jahgsthvgas99860.tk
 jahho.de
+jahid.app.tc
 jahkuhijaf.com
 jahlc0vkl8.mailbo.store
 jahn2154.igg.biz
@@ -157206,6 +157210,7 @@ mnvjkbv0f1.mailbo.store
 mnvl.com
 mnvqvysrrq.mailbo.store
 mnvr.site
+mnvr.site.
 mnw3hpp5im.mailbo.store
 mnwpl.96.makemnhungnong.xyz
 mnx-family.com
@@ -163640,6 +163645,7 @@ naah.store
 naallimitedcasinos.nl
 naandroid.club
 naaoojroty.mailbo.store
+naativaemail.com
 naaughty.club
 nab.orema.my.id
 nab4.com
@@ -188583,6 +188589,7 @@ promosfer.com
 promositew.ru
 promosolutionsusa.com
 promospainservices.com
+promostyleel.id
 promot.site
 promotamails.ru
 promotedby.me
@@ -190914,6 +190921,7 @@ qacs6z7.saucent.online
 qacyvy.info
 qad4s8.saucent.online
 qadd32.iluvmath.io.vn
+qadex.us
 qadjh2pdjd.mailbo.store
 qadq.10mail.xyz
 qadru.shop

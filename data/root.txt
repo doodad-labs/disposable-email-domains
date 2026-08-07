@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-07T16:53:19.798Z
+# Aggregated blacklist generated on 2026-08-07T18:54:31.698Z
  
 0-30-24.com
 0-attorney.com
@@ -196968,6 +196968,7 @@ werdiwerp.gq
 werdiwerp.ml
 werdiwerp.tk
 were-having-a-party.life
+were-w.top
 wereviewbiz.com
 wereviewelectronics.com
 werfat.xyz

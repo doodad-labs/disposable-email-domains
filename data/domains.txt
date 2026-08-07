@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-06T23:57:37.434Z
+# Aggregated blacklist generated on 2026-08-07T02:50:11.518Z
  
 0-00.usa.cc
 0-30-24.com
@@ -30266,6 +30266,7 @@ aquarians.co.uk
 aquariomania.com
 aquarius74.org
 aquarix.tk
+aquas.live
 aquashieldroofingcorporate.com
 aquaspa34.com
 aquastonecoasters.com
@@ -30738,6 +30739,7 @@ argomax.site
 argonmail.de
 argorouting4.com
 argos.ci
+argosmail.xyz
 argot.io
 argotel.ru
 argowiloso.online
@@ -86619,6 +86621,7 @@ facedropship.com
 faceepicentre.com
 faceimagebook.com
 faceless.usa.cc
+facelessvideos.app
 facemac.website
 facemail.store
 facemaskbox.com
@@ -163496,6 +163499,7 @@ n66d.com
 n67n16ox.luksarcenter.ru
 n6bucraxuh.mailbo.store
 n6dohjunsd.mailbo.store
+n6fqu.anonbox.net
 n6hmnex0wz.mailbo.store
 n6i0oyt8ym.mailbo.store
 n6ibbvmzjs.mailbo.store
@@ -208040,6 +208044,7 @@ sellmymichiganproperty.com
 sellnedal.tech
 sellodeconfianza.online
 sellourhomecash.com
+sellpia247.com
 sellrent.club
 sellrent.online
 sellrent.xyz
@@ -235172,6 +235177,7 @@ turkbet97.com
 turkce-yama.net
 turkdizifilm.xyz
 turkey-nedv.ru
+turkey-tour-moscow.ru
 turkeyalan.net
 turkeyalerts.com
 turkeyalerts.org

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-06T23:57:37.434Z
+# Aggregated blacklist generated on 2026-08-07T02:50:11.518Z
  
 0-30-24.com
 0-attorney.com
@@ -20502,6 +20502,7 @@ aquarians.co.uk
 aquariomania.com
 aquarius74.org
 aquarix.tk
+aquas.live
 aquashieldroofingcorporate.com
 aquaspa34.com
 aquastonecoasters.com
@@ -20935,6 +20936,7 @@ argomax.site
 argonmail.de
 argorouting4.com
 argos.ci
+argosmail.xyz
 argot.io
 argotel.ru
 argovia.au
@@ -66857,6 +66859,7 @@ facedook-com.gq
 facedropship.com
 faceepicentre.com
 faceimagebook.com
+facelessvideos.app
 facemac.website
 facemail.store
 facemaskbox.com
@@ -162754,6 +162757,7 @@ sellmymichiganproperty.com
 sellnedal.tech
 sellodeconfianza.online
 sellourhomecash.com
+sellpia247.com
 sellrent.club
 sellrent.online
 sellrent.xyz
@@ -185886,6 +185890,7 @@ turkbet97.com
 turkce-yama.net
 turkdizifilm.xyz
 turkey-nedv.ru
+turkey-tour-moscow.ru
 turkeyalan.net
 turkeyalerts.com
 turkeyalerts.org

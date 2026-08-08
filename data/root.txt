@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-08T06:50:43.110Z
+# Aggregated blacklist generated on 2026-08-08T08:39:25.078Z
  
 0-30-24.com
 0-attorney.com
@@ -145545,6 +145545,7 @@ portaldoagora.xyz
 portaldosbrasileiros.site
 portalduniajudi.com
 portaleanimali.com
+portalespro.online
 portalgateway.org
 portaliconews.com
 portalix.network

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-08T08:39:25.078Z
+# Aggregated blacklist generated on 2026-08-08T10:31:26.204Z
  
 0-00.usa.cc
 0-30-24.com
@@ -109264,6 +109264,7 @@ herh2-privntur.site
 herh2-privntur.xyz
 herien.design
 herilev.top
+herilev.top.
 herils.com
 herinoascic.it.com
 heritage-huntsville.com

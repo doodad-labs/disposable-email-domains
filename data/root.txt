@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-07T22:33:37.585Z
+# Aggregated blacklist generated on 2026-08-08T01:26:23.527Z
  
 0-30-24.com
 0-attorney.com
@@ -39745,6 +39745,7 @@ cbmg.email
 cbmpca.com
 cbms.online
 cbnd.online
+cboiu.lat
 cboshuizen.com
 cbot1fajli.ru
 cbou.fr
@@ -40072,6 +40073,7 @@ cecsch.us
 cecshn.us
 cecsportal.us
 cecsusa.us
+cecunat.com
 cecvivaldo.com
 ced.nu
 cedarcitybusinessbrokers.com
@@ -62717,6 +62719,7 @@ emaleront.com
 emali.top
 emalioman.pl
 emall.ml
+emalupe.com
 emanbuzz.online
 emang.com
 emanual.site
@@ -106638,6 +106641,7 @@ lantoga.net
 lantv.ru
 lanuiopl.bond
 lanuze.xyz
+lanvos.com
 lanxi8.com
 lanyard.plus
 lanydar.site
@@ -124599,6 +124603,7 @@ mrvgs.no
 mrvinh.com
 mrvpm.net
 mrvpt.com
+mrworlds.com
 mrxhb.cloudns.be
 mryh.com
 mryup.com
@@ -129158,6 +129163,7 @@ netipun.ga
 netipun.gq
 netipun.ml
 netipun.tk
+netiren.com
 netiva.biz
 netizer.my.id
 netjex.xyz
@@ -146973,6 +146979,7 @@ primerisegrid.com
 primerocomputers.com
 primetbx.com
 primetek.cloud
+primetor.com
 primetrendsz.com
 primeturbinessms.com
 primeunboxing.com

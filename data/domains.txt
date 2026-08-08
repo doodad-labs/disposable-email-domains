@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-08T16:31:50.517Z
+# Aggregated blacklist generated on 2026-08-08T18:35:22.171Z
  
 0-00.usa.cc
 0-30-24.com
@@ -160530,6 +160530,7 @@ muraklimepa.cfd
 muralbythesea.co.uk
 muralgraff.com
 muralin-aja.com
+muralin-aja.com.
 muran.best
 murapedia.xyz
 muratcaliskan.online

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-08T12:44:19.889Z
+# Aggregated blacklist generated on 2026-08-08T14:30:45.923Z
  
 0-30-24.com
 0-attorney.com
@@ -56157,6 +56157,7 @@ dnsdujeskd.com
 dnses.ro
 dnset.com
 dnsguard.net
+dnsink.com
 dnslog.tech
 dnsmail.me
 dnsowl.com
@@ -125385,6 +125386,7 @@ murdererwellbeing.com
 murghantakeaway.com
 muriakudus.tech
 muriloalmeida.eu
+murkstar.com
 murkywater.us
 murletat.xyz
 murlioter.cf

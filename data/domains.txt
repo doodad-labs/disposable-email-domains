@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-09T20:30:56.159Z
+# Aggregated blacklist generated on 2026-08-09T22:29:36.891Z
  
 0-00.usa.cc
 0-30-24.com
@@ -26396,6 +26396,7 @@ allsnap.app
 allsoftreviews.com
 allsoftwareservices.com
 allsolenoids.com
+allsparkrising.com
 allspecialtysales.com
 allsportsinc.net
 allsquaregolf.com
@@ -187670,6 +187671,7 @@ primecialisonline.com
 primecoin.ru
 primecostsolution.com
 primedenverrealty.com
+primeedgefencing.com
 primefinancialservices.org
 primefinds.social
 primefitnessclarksville.com
@@ -234125,6 +234127,7 @@ truefitt.net
 truefocusmassage.com
 truegoldcenter.com
 truegravitydistribution.com
+trueguardfencing.com
 truehealthdentistry.com
 truehelpbox.site
 truehotdealz.com

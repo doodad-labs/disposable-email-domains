@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-09T18:38:09.687Z
+# Aggregated blacklist generated on 2026-08-09T20:30:56.159Z
  
 0-00.usa.cc
 0-30-24.com
@@ -37360,6 +37360,7 @@ baoloc.city
 baomat.ml
 baomoi.site
 baomuaban.org
+baonam.space
 baonguyenshop.com
 baordroommedia.com
 baotaochi.com
@@ -67474,6 +67475,7 @@ daxen.lat
 daxfi1.info
 daxiake.com
 daxrlervip.shop
+daxsenmediagroup.com
 daxur.co
 daxur.me
 daxur.mx

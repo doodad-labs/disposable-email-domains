@@ -283,3 +283,5 @@ yandex.uz
 # ======== Misc ========
 # air.com is a reclaimed domain that is nolonger used for disposable email, but may still be blocked by some services due to historical abuse (now owned by brannans.com)
 air.com
+# falsely marked
+bitqate.com

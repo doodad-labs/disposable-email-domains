@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-10T14:56:58.430Z
+# Aggregated blacklist generated on 2026-08-10T16:53:06.894Z
  
 0-30-24.com
 0-attorney.com
@@ -31126,7 +31126,6 @@ bitoshoppy.site
 bitovik-rostov.ru
 bitplayerpress.org
 bitpost.site
-bitqate.com
 bitrage.app
 bitrix-market.ru
 bitrixmail.xyz

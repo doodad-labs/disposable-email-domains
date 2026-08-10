@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-09T22:29:36.891Z
+# Aggregated blacklist generated on 2026-08-10T01:42:08.431Z
  
 0-00.usa.cc
 0-30-24.com
@@ -5146,6 +5146,7 @@
 246hltwog9utrzsfmj.tk
 24779rip1.mimimail.me
 247blog.com
+247chats.com
 247demo.online
 247emaildata.com
 247globals.com
@@ -41414,6 +41415,7 @@ bgqvq.anonbox.net
 bgr.laste.ml
 bgra.10mail.xyz
 bgrenovations.net
+bgrks.anonbox.net
 bgrkxi0td2.mailbo.store
 bgrny.com
 bgroq.anonbox.net
@@ -211386,6 +211388,7 @@ silecqmxm7.mailbo.store
 silence.8amail.top
 silence.tw
 silencei.org.ua
+silenceion.com
 silencejunb.email
 silenceofthespam.com
 silencethegame.com

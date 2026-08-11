@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-10T22:36:06.913Z
+# Aggregated blacklist generated on 2026-08-11T01:38:59.869Z
  
 0-00.usa.cc
 0-30-24.com
@@ -35917,6 +35917,7 @@ b7sn3xrm.my.id
 b7t98zhdrtsckm.ga
 b7t98zhdrtsckm.ml
 b7t98zhdrtsckm.tk
+b7td7.anonbox.net
 b7tpg.anonbox.net
 b7uuwxyfjz.mailbo.store
 b7wlp.anonbox.net
@@ -213351,6 +213352,7 @@ smail.tk
 smailpost.info
 smailpostin.net
 smailpro.com
+smailwork.com
 smaitrjcilegon.com
 smajok.ru
 smakipomorza.pl
@@ -215371,6 +215373,7 @@ sonshi.pl
 sonsuzhizmetci.xyz
 sontearssat.website
 sontol.pw
+sontunca.com
 sonu.com
 sonx.dung2tb.io.vn
 sony.redirectme.net

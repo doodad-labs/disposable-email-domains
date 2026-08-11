@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-11T20:41:05.664Z
+# Aggregated blacklist generated on 2026-08-11T22:39:55.089Z
  
 0-30-24.com
 0-attorney.com
@@ -32268,6 +32268,7 @@ bluelakelandscaping.com
 bluelawllp.com
 blueleafhosting.com
 bluelinebuy.com
+bluelineplumbers.com
 bluelobsterbusiness.com
 bluemail.my
 bluemanakincorp.com
@@ -43737,6 +43738,7 @@ clearbri.xyz
 clearbrookatbanyan.com
 clearbrookbanyan.com
 clearcutcreative.com
+cleardarkpath.com
 cleardex.io
 clearhabitpath.com
 clearjaxfl.com

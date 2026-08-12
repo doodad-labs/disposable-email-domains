@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-12T13:05:45.529Z
+# Aggregated blacklist generated on 2026-08-12T14:55:43.946Z
  
 0-30-24.com
 0-attorney.com
@@ -6557,6 +6557,7 @@
 51tiemo.com
 51ttkx.com
 51vic.com
+51www.us
 51xh.fun
 51xiuqi.com
 51xoyo.com
@@ -18070,6 +18071,7 @@ amgazine.website
 amgens.com
 amgprivatelounge.org
 amgprivateloungeromania.org
+amgui.de
 amguki.cf
 amguki.ga
 amguki.gq
@@ -23096,6 +23098,7 @@ augresyachtclubinc.com
 augstusproductions.com
 auguridibuonapasqua.info
 auguryans.ru
+augusta.edu.pl
 augustarichmondcountynewsdaily.com
 augustmovo.com
 augustone.ru
@@ -50445,6 +50448,7 @@ dahlenerend.de
 dahongying.net
 dahypy.info
 dai-one.online
+daibb.us
 daibond.info
 daicliclong.cf
 daicliclong.ga
@@ -79695,7 +79699,9 @@ goomail.blog
 goomail.club
 goomail.shop
 goonby.com
+goonc.de
 gooncloud.click
+gooncraft.de
 gooner.cat
 goons.us
 goood-mail.com
@@ -80030,6 +80036,7 @@ govtopshop.online
 govtoptds.online
 govxff-ny.site
 gowactivator.com
+gowcp.com
 gowebolution.com
 gowebtools.com
 goweightlossinfoesok.live
@@ -91994,6 +92001,7 @@ imgresizer.shop
 imgrpost.xyz
 imgsources.com
 imgtokyo.com
+imgui.de
 imgupload.biz
 imgv.de
 imh.life
@@ -120874,6 +120882,7 @@ middletownpolice.org
 middlewestmovers.net
 middynasty.store
 mideastpower.com
+mideastview.com
 midebalonu.org
 midedf.net
 midekelepcesi.org
@@ -131342,6 +131351,7 @@ nnmqustumutqp.ru
 nnn062.com
 nnn88.net
 nnn9827.com
+nnnetworks.com
 nnnnnn.com
 nnot.net
 nnoway.ru
@@ -148796,6 +148806,7 @@ pulsemailsite.site
 pulsense.ai
 pulseofthestreets.com
 pulsepad.com
+pulsewebmenu.de
 pulsgniezna.pl
 pulsusseries.com
 pulverize136es.online
@@ -174877,6 +174888,7 @@ t1bkooepcd.gq
 t1bkooepcd.ml
 t1bkooepcd.tk
 t1g2vf.us
+t1mo.net
 t1osie.us
 t24e4p7.com
 t28.net
@@ -209151,6 +209163,7 @@ zz777br1.com
 zza.biz
 zzag.com
 zzcash.ml
+zzeu.us
 zzi.us
 zzjbfwqi.shop
 zzmail.fr

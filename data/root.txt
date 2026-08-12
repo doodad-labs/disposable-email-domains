@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-11T22:39:55.089Z
+# Aggregated blacklist generated on 2026-08-12T01:49:56.340Z
  
 0-30-24.com
 0-attorney.com
@@ -135922,6 +135922,7 @@ online5.ru
 onlineaccutaneworldpills.com
 onlineadultchatrooms.com
 onlineadultwebcam.com
+onlineapps.blog
 onlineautoloanrates.com
 onlineautomatenspiele.host
 onlineavtomati.net
@@ -193580,6 +193581,7 @@ vm009.com
 vm088.com
 vm2016.com
 vmadhavan.com
+vmail.cam
 vmail.cyou
 vmail.dev
 vmail.me

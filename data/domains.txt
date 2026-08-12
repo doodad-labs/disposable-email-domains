@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-11T22:39:55.089Z
+# Aggregated blacklist generated on 2026-08-12T01:49:56.340Z
  
 0-00.usa.cc
 0-30-24.com
@@ -38600,6 +38600,7 @@ bdpmedia.com
 bdq5csa7uo.mailbo.store
 bdqy.tieumuoishop.io.vn
 bdr22.space
+bdr3w.anonbox.net
 bdredemptionservices.com
 bdrfoe.store
 bdrkxjz.cse445.com
@@ -174628,6 +174629,7 @@ online5.ru
 onlineaccutaneworldpills.com
 onlineadultchatrooms.com
 onlineadultwebcam.com
+onlineapps.blog
 onlineautoloanrates.com
 onlineautomatenspiele.host
 onlineavtomati.net
@@ -245668,6 +245670,7 @@ vm2zfafqyv.mailbo.store
 vm6qmshy7z.mailbo.store
 vm9wsyf8cq.mailbo.store
 vmadhavan.com
+vmail.cam
 vmail.cyou
 vmail.dev
 vmail.me

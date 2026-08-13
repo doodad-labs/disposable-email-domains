@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-13T13:06:48.896Z
+# Aggregated blacklist generated on 2026-08-13T14:56:16.327Z
  
 0-30-24.com
 0-attorney.com
@@ -54835,6 +54835,7 @@ dincama.ml
 dincama.tk
 dincelemlak.xyz
 dincoin.biz
+dincung.com
 dindalutiflivid.com
 dindasurbakti.art
 dindev.ru
@@ -95903,6 +95904,7 @@ ittina.ga
 ittina.gq
 ittina.ml
 ittina.tk
+ittiv.com
 ittoofind.shop
 ittool.host
 ittvt.edu.it
@@ -132325,6 +132327,7 @@ novellwall.org
 novelproduct.com
 noveltycamera.com
 noveltycars.com
+novelv.com
 novembermovo.com
 novensys.pl
 noveoninternational.com

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-12T22:39:29.162Z
+# Aggregated blacklist generated on 2026-08-13T01:52:08.303Z
  
 0-30-24.com
 0-attorney.com
@@ -3957,6 +3957,7 @@
 2pxmpu.com
 2qbet.info
 2qgame.org
+2qsportbet.com
 2r1znbwk.fun
 2rix.com
 2rna.com
@@ -9013,6 +9014,7 @@
 799fu.com
 799gmail.com
 79bet31.net
+79clubapp.com
 79ek5f.us
 79f.info
 79gmail.com
@@ -20031,6 +20033,7 @@ apitraction.com
 apiva.io
 apivcolon.com
 apivin.ru
+apiworkshop.cyou
 apixy.sbs
 apk-download.site
 apk-download.website
@@ -25028,6 +25031,7 @@ b853llai.buzz
 b857tghh.buzz
 b8799.com
 b88i.ink
+b88mys.info
 b88sport.info
 b88vc.space
 b8acfgimyfbkutr.xyz
@@ -27258,6 +27262,7 @@ bdjb.xyz
 bdjd.com
 bdjola.com
 bdkey.xyz
+bdl89.net
 bdm.ovh
 bdmail.site
 bdmobiles.com
@@ -27282,6 +27287,7 @@ bdsyakima.com
 bdt2222bd.com
 bdtq777.com
 bdv3.icu
+bdvc555.com
 bdvfb.info.vn
 bdvri.com
 bdvsthpev.pl
@@ -29203,6 +29209,7 @@ betkarat.com
 betkarat20.com
 betkava.com
 betking365.com
+betkingmobile.net
 betlabapp.com
 betlabelapk.net
 betlabelcasino.info
@@ -40875,6 +40882,7 @@ chachia.net
 chachupa.com
 chachurbate.com
 chachyn.site
+chackaut.com
 chacuo.net
 chadogroup.com
 chadologia.ru
@@ -43756,6 +43764,7 @@ clearnmsdfkl86115.tk
 clearoptions.net
 clearpathblog.com
 clearpia.us
+clearpinestudio.com
 clearskinaz.com
 clearstackr.site
 clearviewdashboard.site
@@ -54288,6 +54297,7 @@ diceservices.net
 diceservices.org
 dichalorli.xyz
 dichima.com
+dichlorometha.com
 dichoso777.net
 dichoso777casino.com
 dichthuattructuyen.com
@@ -70480,6 +70490,7 @@ flashinbox.xyz
 flashingboards.net
 flashingxperts.com
 flashjump.site
+flashletter.net
 flashlogisticinc.com
 flashmail.co
 flashmail.my
@@ -74808,6 +74819,7 @@ gamegoldies.org
 gamegowin.net
 gamegregious.com
 gamegta.com
+gamehay88.net
 gameistanpkr.info
 gamekingparlour.com
 gameloli.com
@@ -86897,6 +86909,7 @@ hocibbo.ga
 hocibbo.gq
 hocibbo.ml
 hocibbo.tk
+hockey2017.online
 hockeyan.ru
 hockeycrash.info
 hockeydrills.info
@@ -90746,6 +90759,7 @@ ictenlider.org
 ictnew2024.com
 ictnew2027.com
 ictnew2039.com
+ictsaigon.vn
 ictuber.info
 icu.ovh
 icubik.com
@@ -90951,6 +90965,7 @@ idmail.online
 idmail.store
 idmailler.com
 idmali.ru
+idmax389.com
 idmeeting.web.id
 idn.vn
 idnaco.cf
@@ -104929,6 +104944,7 @@ kriunoper.tk
 krivoklaw.com
 krixis.site
 kriyakinesis.com
+krjackpotcity.com
 krjjqt.us
 krkeys.com
 krkk.com
@@ -105920,6 +105936,7 @@ l1rwscpeq6.gq
 l1rwscpeq6.ml
 l1rwscpeq6.tk
 l1viwy.us
+l2.ink
 l2creed.ru
 l2n5h8c7rh.com
 l2tmsp.site
@@ -108102,6 +108119,7 @@ lentafor.me
 lenterprize.com
 lentibularimail.com
 lenticulomail.com
+lentivo.eu
 lentoarea.com
 lenton.cloud
 lenuh.com
@@ -111741,6 +111759,7 @@ lottabits.com
 lottery-sambad.site
 lottery-weekly.com
 lottery365.info
+lottery92.info
 lotteryfordream.com
 lotteryforwin.com
 lotto-golden.com
@@ -112533,6 +112552,7 @@ luciferparfume.xyz
 lucifunzgl.club
 lucifunzgl.host
 lucigenic.com
+luciusmail.xyz
 luck-and-magic.site
 luck-bet.online
 luck-outside.tech
@@ -120337,6 +120357,7 @@ mexluckycasino.info
 mexluckycasino8.com
 mexokcasino.com
 mexoxcasino.com
+mexplaymxcasino.info
 mexvat.com
 mexvipcasino.com
 mexylocu.website
@@ -120881,6 +120902,7 @@ middletoncheneyuc.uk
 middletownpolice.org
 middlewestmovers.net
 middynasty.store
+mideastlens.com
 mideastpower.com
 mideastview.com
 midebalonu.org
@@ -132311,6 +132333,7 @@ novexa.biz.id
 novezejuduh.space
 novgorod-nedv.ru
 novibet.com
+novibetecuadorapp.com
 novidadenobrasil.com
 novinki.club
 novipsao.club
@@ -141455,6 +141478,7 @@ pepsisanc.com
 pepsmart.net
 pepsprod.com
 peptide-conference.com
+peptidehubs.com
 peptideinformation.com
 peptize29nq.online
 peqs.com
@@ -142385,6 +142409,7 @@ phfierycasino.com
 phfun33.net
 phgfve.us
 phgomail.tech
+phgperya.net
 phgreatcasino.net
 phgreatcasinolink.com
 phh6k4ob9.pl
@@ -142466,6 +142491,7 @@ phisbe.site
 phitheon.com
 phitsanulokfc.com
 phjilievocasino.com
+phjilimine.ph
 phjlactivety.com
 phjmsrc.ml
 phjouoznu.shop
@@ -146275,6 +146301,7 @@ pracylca.tk
 prada-bags-outlet.org
 prada-messenge-bag.us
 prada-shoes.info
+prada188login.com
 pradabagsalejp.com
 pradabagshopjp.com
 pradabagstorejp.com
@@ -155910,6 +155937,7 @@ rightheapun.tk
 righthirlo.cf
 righthirlo.gq
 righthirlo.ml
+rightluck.win
 rightmediaservices.com
 rightmili.club
 rightmili.online
@@ -165945,6 +165973,7 @@ simplemontes.ml
 simplemontes.tk
 simplepaylink.com
 simplepeacock.com
+simpleplay2000.com
 simpleprinting.net
 simplepx.life
 simplervision.org
@@ -168533,6 +168562,7 @@ solaractivist.network
 solaravenue.org
 solarbet99.site
 solarclassroom.net
+solarcompanyusa.org
 solarcoopc.site
 solarcraft.net
 solareclipsemud.com
@@ -169120,6 +169150,7 @@ soumail.info
 sound-and-silence.com
 soundagencystring.website
 sounday.it
+soundbuttons.life
 soundcheckmediagroup.com
 soundclouddownloader.info
 sounddesignfilm.com
@@ -193466,6 +193497,7 @@ vk-tvoe.ru
 vk1j6.bar
 vk45.site
 vk7077.com
+vk88vn.net
 vkae.cloud
 vkbags.in
 vkbb.ru
@@ -195130,6 +195162,7 @@ w88th.one
 w88vipen.com
 w88w88.info
 w88x3.com
+w88xlm.net
 w88yd0.com
 w88yd2.com
 w88yd4.com
@@ -202750,6 +202783,7 @@ xo0.buzz
 xo0yvn.com
 xoaao.com
 xoballoon.com
+xobana.my.id
 xocheri.sbs
 xocmoa22.com
 xodu.site
@@ -205269,6 +205303,7 @@ ynifewesu.xyz
 ynlasrpza.shop
 ynmerchant.com
 ynmrealty.com
+ynnord.top
 ynobeloydenterprises.com
 ynolptsmw.shop
 ynomagaka.agency
@@ -205615,6 +205650,7 @@ youngbrofessionals.com
 youngchief.gay
 youngcrew.ga
 youngerandwiser.com
+youngestsd.com
 youngexpresstransport.com
 youngforevers.com
 youngfreeandjingle.com

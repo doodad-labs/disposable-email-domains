@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-13T20:40:45.345Z
+# Aggregated blacklist generated on 2026-08-13T22:39:48.656Z
  
 0-00.usa.cc
 0-30-24.com
@@ -23992,6 +23992,7 @@ ahyahoo.com
 ahyars.site
 ahzko.06sad13fs1.parts
 ai-dealer.site
+ai-development-services.com
 ai-focus.org
 ai-for-good.researchforpeopleai.com
 ai-pct.com
@@ -39279,6 +39280,7 @@ beispiel.co.com
 beitexas.com
 beiuxcs10q.mailbo.store
 beiwody.info
+beiwoh.com
 beixa.top
 bej.com
 bejasus.com
@@ -99183,6 +99185,7 @@ ghatks.us
 ghatksch.us
 ghats.us
 ghatsc.us
+ghatsch.us
 ghatsedu.us
 ghatsh.us
 ghbceyuunw.ga
@@ -110080,6 +110083,7 @@ hidemyass.fun
 hidenglah.site
 hideo7010.norio96.marver-coats.xyz
 hidepost.net
+hidesit.net
 hidesmail.com
 hidesmail.net
 hidetag.maskmy.id
@@ -127394,6 +127398,7 @@ joynet.info
 joyoriginalhub.website
 joypsykologteam.se
 joyqluxnop.mailbo.store
+joystill.com
 joytakip.xyz
 joytoc.com
 joytoliveproducts.net
@@ -138318,6 +138323,7 @@ lck66c4.com
 lckf.spymail.one
 lckiq1.site
 lckossstyq.mailbo.store
+lcks.eu
 lclaireto.com
 lcleanersad.com
 lclun.capcut10.name.ng
@@ -141567,6 +141573,7 @@ litw.site
 litwickimedia.com
 litwy1sleu.mailbo.store
 litx.site
+lityh5ns0oqzlr.com
 liu191388548.store
 liucher.host
 liuepy0fit.mailbo.store
@@ -165631,6 +165638,7 @@ nepging.com
 nepheloaemail.com
 nepheme.live
 nephisandeanpanflute.com
+neplis.com
 neplokh.com
 nepms.wiki
 nepnut.com
@@ -208764,6 +208772,7 @@ sepican.site
 sepican.store
 sepican.website
 sepican.xyz
+sepmaf.com
 sepoisk.ru
 sepole.com
 sepotify.com
@@ -212296,6 +212305,7 @@ sixmail.store
 sixnxpqk87.mailbo.store
 sixoplus.com
 sixpackdifference.com
+sixr.live
 sixsharp.com
 sixsigmaconsultants.com
 sixsix7.de
@@ -222858,6 +222868,7 @@ tabcomons.gq
 tabcomons.tk
 tabcupen.ml
 tabcupen.tk
+tabeebee.com
 tabeertours.com
 tabelon.com
 taberautocenter.com
@@ -226670,6 +226681,7 @@ texquhn2se.mailbo.store
 text-generator.ai
 text-me.xyz
 text.gq
+text0.com
 textad.us
 textagrams.biz
 textagrams.org
@@ -231733,6 +231745,7 @@ tooniverser.com
 toonlawtulsa.com
 toonmoa48.com
 toonusfit.space
+toooby.com
 toooe.xyz
 toootook.shop
 toopitoo.com
@@ -240733,6 +240746,7 @@ usmailbook.com
 usmailstar.com
 usmajor.us
 usmartlife.com
+usmary.com
 usmfgu.com
 usmiech-w-strone-mody.pw
 usmm62r3.luksarcenter.ru
@@ -249893,6 +249907,7 @@ webnous.gr
 webofip.com
 weboka.info
 webomoil.com
+webonews.com
 webonofos.com
 webonoid.com
 weboors.com

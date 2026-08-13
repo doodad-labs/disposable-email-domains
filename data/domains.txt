@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-13T04:11:23.780Z
+# Aggregated blacklist generated on 2026-08-13T07:24:48.831Z
  
 0-00.usa.cc
 0-30-24.com
@@ -83225,6 +83225,7 @@ erasf.com
 erasgo.id
 eratetlo.tech
 erathlink.net
+erator.email
 eratorcancelcousineg.me
 erattanqueereatri.gq
 eratvrwtw.anonaddy.me
@@ -121878,6 +121879,7 @@ isletmeoyunlari24.com
 isletmeyorum.com
 islj6.anonbox.net
 isllj0ibpz.mailbo.store
+islomfox.ru
 islueeyle1.mailbo.store
 isluntvia.com
 ismail.online

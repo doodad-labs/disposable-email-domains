@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-13T07:24:48.831Z
+# Aggregated blacklist generated on 2026-08-13T09:10:46.781Z
  
 0-30-24.com
 0-attorney.com
@@ -185419,6 +185419,7 @@ tsgci.com
 tsgelas.club
 tsgjw.info
 tsguns.info
+tshdn.cfd
 tshirt.center
 tshirtformens.com
 tshirtsavvy.com

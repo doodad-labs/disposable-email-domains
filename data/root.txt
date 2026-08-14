@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-14T18:52:08.933Z
+# Aggregated blacklist generated on 2026-08-14T20:29:33.057Z
  
 0-30-24.com
 0-attorney.com
@@ -15900,6 +15900,7 @@ akmandken.tk
 akmra.com
 akmtop.com
 aknzr.com
+akolay.tech
 akomail.shop
 akoncasino1.com
 akoncasino4.com
@@ -126036,6 +126037,7 @@ myallsmiledentals.com
 myalphax.tech
 myamberpharmacy.net
 myamoria.lat
+myamya.tech
 myandex.ml
 myandroidonline.ru
 myanmar11.com

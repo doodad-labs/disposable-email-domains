@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-14T01:49:44.346Z
+# Aggregated blacklist generated on 2026-08-14T04:07:39.948Z
  
 0-30-24.com
 0-attorney.com
@@ -107096,6 +107096,7 @@ launcestonpools.com
 launch.vote
 launch.watch
 launchdetectorbot.xyz
+launchforge.biz
 launchfunnelsecrets.com
 launchjackings.com
 launchpadapp.com
@@ -179168,6 +179169,7 @@ thedavosman.store
 thedaymail.com
 thedealsvillage.com
 thedearnest.com
+thedeckstore.com
 thedeepbox.com
 thedeliteahouse.com
 thedenatlicon.com
@@ -204625,6 +204627,7 @@ ydfb.com
 ydgdojgpnk.ga
 ydgeimrgd.shop
 ydhbbr.site
+ydhfks.shop
 ydhopn.us
 ydjfnea.shop
 ydkkdg.com

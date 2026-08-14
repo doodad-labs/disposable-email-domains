@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-13T22:39:48.656Z
+# Aggregated blacklist generated on 2026-08-14T01:49:44.346Z
  
 0-30-24.com
 0-attorney.com
@@ -561,6 +561,7 @@
 0d00.com
 0d1vii.us
 0d4dcc.xyz
+0daymusic.org
 0droow.host
 0du.win
 0dyqp.com
@@ -93381,6 +93382,7 @@ inji4voqbbmr.gq
 inji4voqbbmr.ml
 inji4voqbbmr.tk
 injir.top
+injkrea.xyz
 injuredbabydefense.com
 injureproof.com
 injuryattorneyct.net
@@ -120700,6 +120702,7 @@ mic3eggekteqil8.ga
 mic3eggekteqil8.gq
 mic3eggekteqil8.ml
 mic3eggekteqil8.tk
+mica-compliance.today
 micalmo.com
 micalmo.net
 micalmo.org

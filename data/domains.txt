@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-13T22:39:48.656Z
+# Aggregated blacklist generated on 2026-08-14T01:49:44.346Z
  
 0-00.usa.cc
 0-30-24.com
@@ -822,6 +822,7 @@
 0d5x.cse445.com
 0d7t7q0z5v.mailbo.store
 0dajg8hnqu.mailbo.store
+0daymusic.org
 0dazpbqgfq.mailbo.store
 0dbbykiuig.mailbo.store
 0dftjido1m.mailbo.store
@@ -44787,6 +44788,7 @@ bnkmd.anonbox.net
 bnks.com
 bnle.luk2.com
 bnle844z.xyz
+bnlym.anonbox.net
 bnm612.com
 bnmjhbkj.site
 bnmlp.anonbox.net
@@ -119614,6 +119616,7 @@ inji4voqbbmr.gq
 inji4voqbbmr.ml
 inji4voqbbmr.tk
 injir.top
+injkrea.xyz
 injqxsch9x.mailbo.store
 injuredbabydefense.com
 injureproof.com
@@ -155040,6 +155043,7 @@ mic3eggekteqil8.ga
 mic3eggekteqil8.gq
 mic3eggekteqil8.ml
 mic3eggekteqil8.tk
+mica-compliance.today
 micalmo.com
 micalmo.net
 micalmo.org

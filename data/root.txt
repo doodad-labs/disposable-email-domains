@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-14T22:21:01.666Z
+# Aggregated blacklist generated on 2026-08-15T01:08:50.453Z
  
 0-30-24.com
 0-attorney.com
@@ -61039,6 +61039,7 @@ efelercepklinigi.com
 efelermt2.com
 efemail.com
 efepala.kazimierz-dolny.pl
+efepe.lat
 efer.cc
 eferenmail.com
 efesbahi60.com
@@ -149079,6 +149080,7 @@ purpleroyaltycollections.com
 purplest.dev
 purplestea.ru
 purplesyringa.moe
+purposeer.com
 purposeinvestmentclub.com
 purposeinvestorclub.com
 purposeinvestors.com
@@ -207047,6 +207049,7 @@ zapchati-a.ru
 zaphost.de
 zapilou.net
 zapl.ink
+zaply.lat
 zapmail.one
 zapqq.com
 zaproty.com

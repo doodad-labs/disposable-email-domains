@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-16T10:20:45.446Z
+# Aggregated blacklist generated on 2026-08-16T12:36:08.393Z
  
 0-30-24.com
 0-attorney.com
@@ -100123,6 +100123,7 @@ jusemao.xyz
 jusg.bid
 jusig.com
 juski.site
+jusnge-hf.xyz
 juso03.com
 jusomoa05.com
 jusomoa06.com

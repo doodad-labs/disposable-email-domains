@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-15T22:19:45.429Z
+# Aggregated blacklist generated on 2026-08-16T01:12:54.368Z
  
 0-00.usa.cc
 0-30-24.com
@@ -141236,6 +141236,7 @@ liphesa.ga
 liphesa.gq
 liphesa.ml
 liphesa.tk
+lipih.anonbox.net
 lipitorprime.com
 lipkntecug.mailbo.store
 lipmail.store
@@ -234700,6 +234701,7 @@ tsnhw.info
 tsnmw.com
 tsnx2on7xw.mailbo.store
 tsoftware.mrface.com
+tsoheutas.com
 tsoundmost.shop
 tsource.ist
 tsp9i.cse445.com

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-17T10:30:54.987Z
+# Aggregated blacklist generated on 2026-08-17T12:40:28.298Z
  
 0-00.usa.cc
 0-30-24.com
@@ -34859,6 +34859,7 @@ ayuhsingakeh.igg.biz
 ayuilewznn.mailbo.store
 ayulaksmi.art
 ayumail.com
+ayumas.store
 ayumu8810.yoshito23.marver-coats.xyz
 ayunen.my.id
 ayupiranti.com
@@ -152280,6 +152281,7 @@ mbahjambrongx.usa.cc
 mbahraffi.eu.org
 mbahtekno.net
 mbakingzl.com
+mbakjago.id
 mbakoneludez.igg.biz
 mbalue.biz
 mbamail.ga
@@ -195085,6 +195087,7 @@ rairoicau2369.a.lofteone.ru
 rairyri.cf
 rairyri.gq
 rairyri.tk
+raisapremium.store
 raise.mailbo.store
 raise999.com
 raisedhomes.com

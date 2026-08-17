@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-16T22:19:15.598Z
+# Aggregated blacklist generated on 2026-08-17T01:10:32.886Z
  
 0-00.usa.cc
 0-30-24.com
@@ -82602,6 +82602,7 @@ eo.emlhub.com
 eo13zda6q3.mailbo.store
 eo1j6atq4e.mailbo.store
 eo1pgozgnb.mailbo.store
+eo2xd.anonbox.net
 eo3qhducry.mailbo.store
 eo4byxtv29.mailbo.store
 eo5o.tieumuoishop.io.vn
@@ -89572,6 +89573,7 @@ ficsic.sbs
 fictional.group
 fictionalize112co.online
 fictionsite.com
+fictnio.com
 ficuobh.saucent.online
 ficureas5044.lofteone.ru
 fid-x.net
@@ -234394,6 +234396,7 @@ trustablehosts.com
 trustatscale.com
 trustattorneyscalifornia.com
 trustbravo.com
+trustbro.us
 trustcheck.cc
 trustcloud.engineer
 trustcoin.tech

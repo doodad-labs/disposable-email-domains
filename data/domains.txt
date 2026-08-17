@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-17T08:41:22.455Z
+# Aggregated blacklist generated on 2026-08-17T10:30:54.987Z
  
 0-00.usa.cc
 0-30-24.com
@@ -4550,6 +4550,7 @@
 2024.temporarily.de
 2025.temporarily.de
 20250331.top
+20253025.xyz
 20258037.com
 2025upload-1.shop
 2026.cam
@@ -12350,6 +12351,7 @@
 6353020.site
 635555.xyz
 636226.xyz
+636364.xyz
 6369927.com
 636niu.com
 6375566.net
@@ -14757,6 +14759,7 @@
 7914.saucent.online
 7924445.com
 792646.com
+792792.xyz
 7929.ca
 7929837.com
 792c.lol
@@ -18039,6 +18042,7 @@
 970cm6lvoe.mailbo.store
 970gmail.com
 970wl5f.cse445.com
+971007.xyz
 971310.xyz
 97138e.xyz
 9714445.com
@@ -24572,6 +24576,7 @@ aist-lipetsk.ru
 aistbzr6kf.mailbo.store
 aistis.xyz
 aistocks.xyz
+aisub.store
 aisubpro.click
 aisubstore.click
 aisupply.click
@@ -24635,6 +24640,7 @@ aizennsasuke.ga
 aizennsasuke.gq
 aizennsasuke.ml
 aizennsasuke.tk
+aizhongzhuan.cc
 aj-jardin.com
 aj.10mail.xyz
 aj.mell.net
@@ -42262,6 +42268,7 @@ bilibili.bar
 bilik.co.id
 bilingualbibles.org
 bilingualfamilia.com
+bilingva-ca.store
 bilisimyayincilik.com
 bilistand.site
 biliterfml.com
@@ -43249,6 +43256,7 @@ bjuewlkyac.mailbo.store
 bjurdins.tech
 bjuyg.anonbox.net
 bjvbw.anonbox.net
+bjvc.top
 bjvl.com
 bjvya.anonbox.net
 bjwb4durhh.mailbo.store
@@ -59833,6 +59841,7 @@ codew.site
 codeworkswell.com
 codewritinglessons.com
 codex-gmail.my.id
+codexrip.vip
 codexs.sbs
 codeyard.uk
 codeyou.site
@@ -65250,6 +65259,7 @@ cxetye.buzz
 cxh.laste.ml
 cxi6szo7sj.mailbo.store
 cxidvqlqbn.mailbo.store
+cxioms.help
 cxitnath.cse445.com
 cxja.autokey247.com
 cxjmrvesew.mailbo.store
@@ -66611,6 +66621,7 @@ dalamanturkishvillas.xyz
 dalananjay001.igg.biz
 dalang0222.usa.cc
 dalanila.tk
+dalanshu.org
 dalatrk.site
 dalatvirginia.com
 dalbam7.net
@@ -76182,6 +76193,8 @@ duldung.buzz
 dulei.ml
 dulfi.shop
 dulich84.com
+dulichdatlanh.com
+dulichdatlanh.vn
 dulieu.io.vn
 dulla.shop
 dullet.com
@@ -85903,6 +85916,7 @@ exyqs1lkjs.mailbo.store
 exyzna.site
 exzgon.disbox.net
 exzilla.ru
+exzork.sbs
 exzzwcf1ki.mailbo.store
 ey-hungry.top
 ey.br.com
@@ -88427,6 +88441,7 @@ fdood.com
 fdownload.net
 fdp0yywgrc.mailbo.store
 fdp9fgxecf.mailbo.store
+fdpbnzx.cn
 fdpe7dmvy6.mailbo.store
 fdpsgsxigm.ga
 fdpsqteh4r.mailbo.store
@@ -89173,6 +89188,7 @@ ffoffer.com
 fforeffort.info
 ffprdwvtra.mailbo.store
 ffprrddgr9.mailbo.store
+ffps.fun
 ffpu6qe1bg.mailbo.store
 ffpx.10mail.org
 ffqeude95e.mailbo.store
@@ -94445,6 +94461,7 @@ fsnmail.com
 fsnx.ccpro.click
 fsociety-br.online
 fsociety.org
+fsotl.icu
 fsouda.com
 fsov8pjzyq.mailbo.store
 fsp3.dung2tb.io.vn
@@ -95118,6 +95135,8 @@ fussycataractgrove.site
 fustercluck.slmail.me
 futbacky.com
 futbolcafe11.xyz
+futcost.online
+futcost.ru
 futebr.com
 futilesandilata.net
 futk.laste.ml
@@ -116235,6 +116254,7 @@ icjmc.org
 ick0h.site
 ickb.10mail.org
 ickletonrelief.co.uk
+ickletonrelief.shop
 ickx.de
 ickymail.online
 icl.freeml.net
@@ -118880,6 +118900,7 @@ indepthfishing.com
 indepthi.com
 indepthicefishing.com
 indeqsol.com
+inderpalsandhu.com
 indescribamail.ru
 indescrifml.com
 indesolml.ru
@@ -130071,6 +130092,7 @@ kamperrental.com
 kampoeng3d.club
 kampouts.com
 kampreett.igg.biz
+kampret.asia
 kampret100.igg.biz
 kampret101.igg.biz
 kampret102.igg.biz
@@ -133495,6 +133517,7 @@ klun.us
 klunds.com
 kluofficer.com
 klusiek.pl
+klut.io
 kluthbee.addy.io
 klv.yomail.info
 klvibe.org
@@ -135796,6 +135819,8 @@ kurnu.my.id
 kuro.marver-coats.marver-coats.xyz
 kuroate.info
 kurogaze.site
+kuromee.com
+kuromee.store
 kuromifan.shop
 kuromiz.shop
 kuronekoserver.com
@@ -137800,6 +137825,7 @@ lastconn.site
 laste.ml
 lastenergycall.com
 lastestberry.xyz
+lastexile.site
 lastflights.ir
 lasthotel.club
 lasthotel.website
@@ -139122,6 +139148,7 @@ lemondresses.net
 lemonebet.com
 lemongeek.best
 lemonjowo.buzz
+lemonkk.cn
 lemonsqueezy-mail.com
 lemontea.biz.id
 lemontreebookco.com
@@ -139215,6 +139242,7 @@ leoandassoc.com
 leodenarend.site
 leoel.addy.io
 leoforbaby.ru
+leoguio.site
 leohlch.com
 leohui.net
 leoirkhf.space
@@ -143952,6 +143980,7 @@ lovetuan.com
 loveu.com
 loveunitesus.live
 loveus.info
+loveuu.xyz
 lovevally.com
 lovevista.lat
 lovewelcomesall.org
@@ -150073,6 +150102,7 @@ mamamamail.usa.cc
 mamamanoslibres.com
 mamamintaemail.com
 mamamintaemail.hopto.org
+mamangbadrut.site
 mamaomka.com
 mamaquieroleche.com
 mamaroymarketing.com
@@ -155537,6 +155567,7 @@ mikrotikvietnam.com
 mikrotikvn.com
 mikrotikx.com
 miksa.store
+mikumirai.top
 mikuwiki.com
 mila-levchyk.info
 mila00.igg.biz
@@ -158021,6 +158052,7 @@ molda.com
 molded660xq.online
 moldered494dn.online
 moldesmti.com
+moldind.help
 moldnrodents.com
 moldova-nedv.ru
 moldova.uno
@@ -158667,6 +158699,7 @@ mopemi.ga
 mopemi.gq
 mopemi.ml
 mopemi.tk
+mopess.help
 mopeyj.us
 mophonezip.com
 mopilka.ru
@@ -169005,6 +169038,7 @@ nomnomca.com
 nomodata.org
 nomogeny.xyz
 nomolic.com
+nomomail.com
 nomor7up.com
 nomore-hairloss.info
 nomoremail.net
@@ -169288,6 +169322,7 @@ nornaiz.com
 nornemarktourist.shop
 norninc.com
 noroasis.com
+norovpn.site
 norquestassociates.com
 norrstev.com
 norsa.com.br
@@ -174236,6 +174271,7 @@ omnyo.com
 omoa0xswum.mailbo.store
 omodigitex.com
 omomuro.cancguttt.com
+omonomon.shop
 omoomn.host
 ompatel.co.in
 ompc.jailbreakeverything.com
@@ -176438,6 +176474,7 @@ orvnr2ed.pl
 orwax7wiuf.mailbo.store
 orwf.icu
 orwgzp2f6x.mailbo.store
+orwpaztm.cfd
 orx.emlhub.com
 orxy.tech
 oryclgfmdt.ga
@@ -180023,6 +180060,7 @@ pathtoig.com
 pathtomograph.com
 pathtopurity.org
 patientconnect365.com
+patientlecadet.online
 patinaphotography.com
 patinet.online
 pating5566.com
@@ -192602,6 +192640,7 @@ qqbr4vip.com
 qqc.veysem.pro
 qqcmail7.com
 qqcmail8.com
+qqcomeback.me
 qqcs.mimimail.me
 qqcv7f2.com
 qqdadu.com
@@ -205409,6 +205448,7 @@ samprem.store
 samprem.world
 samproject.tech
 samprus.com
+sampsave.tech
 sampsonteam.com
 sampun.biz.id
 samrbblack.bulc.club
@@ -212910,6 +212950,7 @@ skyhard.online
 skyhighbud.com
 skyhighdreem.com
 skyhope666.icu
+skyhope666.shop
 skyhopenb.shop
 skyjetnet.com
 skylablearning.com
@@ -214815,6 +214856,7 @@ socialtalker.com
 socialtextonline.org
 socialtheme.ru
 socialtracking.live
+socialtrash.online
 socialtroopers.com
 socialventuresglobal.com
 socialviplata.club
@@ -214883,6 +214925,7 @@ sodertornsfjarrvarme.nu
 sodertornsfjarrvarme.se
 sodexinternational.com
 sodg.luk2.com
+sodid.online
 soding.addy.io
 sodiumysszd.email
 sody.simplelogin.com
@@ -222092,6 +222135,8 @@ syllabicaml.com
 syllabificomail.com
 syllabifimail.com
 syllafmail.ru
+sylnetdns.site
+sylnetgcp.top
 sylnex.net
 sylva.cheap3ddigitalcameras.com
 sylvain.dev
@@ -225575,6 +225620,7 @@ temp-mail.cam
 temp-mail.cfd
 temp-mail.com
 temp-mail.de
+temp-mail.edu.rs
 temp-mail.freeddns.org
 temp-mail.gg
 temp-mail.gun23.net
@@ -225699,6 +225745,7 @@ tempemail.info
 tempemail.live
 tempemail.net
 tempemail.ninja
+tempemail.nyc.mn
 tempemail.org
 tempemail.pro
 tempemail.ru
@@ -236047,6 +236094,7 @@ twsexy66.info
 twsh.us
 twskv.eu.org
 twskyhope.top
+twskyhopenb.shop
 twsurgeon.com
 twt.23768.gwu.edu.smtp.greatcourse.xyz
 twt33.xyz
@@ -238527,6 +238575,7 @@ ultrago.de
 ultrahazzam.online
 ultraimperialism.best
 ultrainbox.dev
+ultralabs24.store
 ultraleverage.com
 ultraliffe.space
 ultralinellc.com
@@ -240159,6 +240208,7 @@ urbanspacepractice.com
 urbanstand.com
 urbanstudios.online
 urbansvg.com
+urbanvalore.info
 urbanvelo.ru
 urbaza.com
 urbismail.com
@@ -243273,6 +243323,7 @@ veo325k.io.vn
 veo325kcredit.io.vn
 veo33.io.vn
 veo3promts.com
+veo3ultra.sbs
 veoas.com
 veolo.top
 veomatrix25k.io.vn
@@ -257267,6 +257318,7 @@ xmgzyw.com
 xmhaoduoxie.com
 xmhwbnaq1l.bulkmessaging.qzz.io
 xmision.com
+xmisom.help
 xmjxcy.com
 xmk.yomail.info
 xml.dropmail.me
@@ -257715,6 +257767,7 @@ xn--9l4bn3j2ta380a7zc.net
 xn--9pro7iht4e.xn--j6w193g
 xn--9uv034f.top
 xn--a-eeu4d6a4m.com
+xn--ai-ry2ck37oorv.com
 xn--aliexprss-1f7d.com
 xn--alln-s6b.com
 xn--almazaradefiana-9qb.com
@@ -257838,6 +257891,7 @@ xn--d1agcv.xn--p1ai
 xn--d2q.net
 xn--damsolglasgon-rmb.se
 xn--desayuno-tnico-jkb.info
+xn--di5au2k.shop
 xn--dimensin-normalizada-h8b.info
 xn--dlqv1x88bf9qm66a.xyz
 xn--dncesizlerkulbesi-22bam97r.xyz
@@ -266563,6 +266617,7 @@ ziyacan.com
 ziyap.com
 ziyaratarbaeen1437.com
 ziyjq3x7zc.mailbo.store
+ziyoupi.asia
 ziyungj.com
 ziz.icu
 ziza.pl
@@ -267570,6 +267625,7 @@ zrspiwa.cse445.com
 zrt.ovh
 zrtmx.com
 zrtw.gq
+zrufe.com
 zruycop.site
 zrv.10mail.org
 zrvexjgqax.mailbo.store

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-17T01:10:32.886Z
+# Aggregated blacklist generated on 2026-08-17T02:58:23.188Z
  
 0-30-24.com
 0-attorney.com
@@ -114657,6 +114657,7 @@ mailcx.gq
 mailcx.ml
 mailcx.tk
 maild.pl
+maild.site
 maildaft.com
 maildanmark.dk
 maildax.me
@@ -177876,6 +177877,7 @@ temptifi.gq
 temptifi.ml
 temptifi.tk
 temptlaye.icu
+temptomail.org
 temptrashmail.com
 temptsteam.email
 temptti.buzz

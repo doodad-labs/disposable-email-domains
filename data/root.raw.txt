@@ -114644,6 +114644,7 @@ mailcx.gq
 mailcx.ml
 mailcx.tk
 maild.pl
+maild.site
 maildaft.com
 maildanmark.dk
 maildax.me
@@ -177863,6 +177864,7 @@ temptifi.gq
 temptifi.ml
 temptifi.tk
 temptlaye.icu
+temptomail.org
 temptrashmail.com
 temptsteam.email
 temptti.buzz

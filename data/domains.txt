@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-17T01:10:32.886Z
+# Aggregated blacklist generated on 2026-08-17T02:58:23.188Z
  
 0-00.usa.cc
 0-30-24.com
@@ -88093,6 +88093,7 @@ fbanalytica.site
 fbaq.dung2tb.io.vn
 fbasto.com
 fbasuperhero.com
+fbb.linkpc.net
 fbbd5tgfdr.usa.cc
 fbc.laste.ml
 fbcalbany.com
@@ -148386,6 +148387,7 @@ mailcx.gq
 mailcx.ml
 mailcx.tk
 maild.pl
+maild.site
 maildaft.com
 maildanmark.dk
 maildax.me
@@ -190988,6 +190990,7 @@ q7vo.tieumuoishop.io.vn
 q7vwu0.us
 q7w9pc25tu.mailbo.store
 q7zvgwcswy.mailbo.store
+q8.klvibe.org
 q80bgxmnq2.mailbo.store
 q822tm5uwh.mailbo.store
 q83q.dung2tb.io.vn
@@ -226053,6 +226056,7 @@ temptifi.gq
 temptifi.ml
 temptifi.tk
 temptlaye.icu
+temptomail.org
 temptrashmail.com
 temptsteam.email
 temptti.buzz

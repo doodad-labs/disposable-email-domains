@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-17T16:25:11.559Z
+# Aggregated blacklist generated on 2026-08-17T18:37:16.330Z
  
 0-00.usa.cc
 0-30-24.com
@@ -63538,6 +63538,7 @@ crmail.store
 crmail.top
 crmapex.com
 crmartinrealestate.com
+crmhearts.space
 crmlands.net
 crmplant.ru
 crmrc.us

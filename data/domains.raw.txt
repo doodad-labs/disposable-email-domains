@@ -58547,6 +58547,7 @@ client.festivalday.click
 client.gambolhq.click
 client.getcaper.click
 client.getgambol.click
+client.gettravellersrest.click
 client.getturnon.click
 client.hikehq.click
 client.holidayrap.click

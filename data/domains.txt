@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-18T10:26:45.088Z
+# Aggregated blacklist generated on 2026-08-18T12:42:09.332Z
  
 0-00.usa.cc
 0-30-24.com
@@ -58560,6 +58560,7 @@ client.festivalday.click
 client.gambolhq.click
 client.getcaper.click
 client.getgambol.click
+client.gettravellersrest.click
 client.getturnon.click
 client.hikehq.click
 client.holidayrap.click

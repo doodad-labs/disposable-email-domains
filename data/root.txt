@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-17T22:22:45.498Z
+# Aggregated blacklist generated on 2026-08-18T01:08:31.331Z
  
 0-30-24.com
 0-attorney.com
@@ -118325,6 +118325,7 @@ mbahraffi.eu.org
 mbahtekno.net
 mbakingzl.com
 mbakjago.id
+mbakjagostore.id
 mbalue.biz
 mbamail.ga
 mbamail.ml
@@ -148725,6 +148726,7 @@ publeocasa.com
 publf.site
 publg.site
 publh.site
+publhant.com
 publi.live
 public-files.de
 public-way.com
@@ -166555,6 +166557,7 @@ six25.biz
 six55.com
 six6sapp.info
 sixbeagle.com
+sixdi.lat
 sixdigitalmarketing.com
 sixdrops.org
 sixfgasgdo.ga

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-19T04:35:38.145Z
+# Aggregated blacklist generated on 2026-08-19T06:40:55.920Z
  
 0-30-24.com
 0-attorney.com
@@ -74919,6 +74919,8 @@ gamequocte.com
 gamer-market.net
 gamer.gd
 gamer.watch
+gamerai.shop
+gamerai.space
 gameram.servemp3.com
 gamercave.com
 gamercookie.com

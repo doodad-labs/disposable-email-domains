@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-19T08:35:29.874Z
+# Aggregated blacklist generated on 2026-08-19T10:26:46.235Z
  
 0-00.usa.cc
 0-30-24.com
@@ -53639,6 +53639,7 @@ cc.trippieredd.click
 cc.trycruise.click
 cc.trytrip.click
 cc.vacayly.click
+cc.virginvoyageshubs.click
 cc.young53.xo.je
 cc.zero34.qd.je
 cc.zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz.free.je.
@@ -245226,6 +245227,7 @@ virginmmedia.com
 virginshuttle.com
 virginsrus.xyz
 virginvoyages.click
+virginvoyageshubs.click
 virglio.com
 virgnmedia.com
 virgoans.co.uk

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-19T06:40:55.920Z
+# Aggregated blacklist generated on 2026-08-19T08:35:29.874Z
  
 0-00.usa.cc
 0-30-24.com
@@ -5383,6 +5383,7 @@
 263mali.cn
 263meet.com
 26422dbmobbil.emlhub.com
+264341.xyz
 26465.com
 26487.com
 2654445.com
@@ -31603,6 +31604,7 @@ asafdsgadghadsgfg101.cloud
 asahi.cf
 asahi.ga
 asahi.one
+asajv2ray.site
 asalsabarr.igg.biz
 asamail.com
 asamber.com
@@ -53802,6 +53804,7 @@ cciatori.com
 ccid.de
 cciderry.com
 ccikarate.com
+ccimran.buzz
 ccindustries.com
 ccj.luk2.com
 ccjk.cse445.com
@@ -72481,6 +72484,7 @@ diyixs.xyz
 diymarketing.academy
 diymarketinguniversity.com
 diyombrehair.com
+diyongjin.net
 diypinnacademy.my.id
 diyplfiv1l.mailbo.store
 diypostconpi.ml
@@ -118515,7 +118519,9 @@ imqaeaz.cse445.com
 imqx0hdmnr.mailbo.store
 imranbt.store
 imranccnn.buzz
+imrancm.buzz
 imranking.buzz
+imranspc.buzz
 imrekoglukoleksiyon.online
 imrekoglukoleksiyon.xyz
 imrekoglutesbih.online
@@ -126081,6 +126087,7 @@ jiroir.biz.id
 jiroir.my.id
 jiroir.web.id
 jirvccbdba.mailbo.store
+jisankhan1.site
 jiskhdgbgsytre43vh.ga
 jisngg-www.xyz
 jisumeta.store
@@ -130545,6 +130552,7 @@ kasli.uno
 kasmabirader.com
 kasmail.com
 kasmer.com
+kasmirfx.buzz
 kasmirkebabhouse.com
 kaspar.lol
 kaspartin.com
@@ -155123,6 +155131,7 @@ miaobidu.com
 miaohaha.com
 miaomiewang.com
 miaowang976.com
+miaowuai.buzz
 miarr.com
 miasionfed.com
 miasmm.com
@@ -164986,6 +164995,7 @@ nbrst7e.top
 nbrtugbcvf.igg.biz
 nbrzsrri.shop
 nbseomail.com
+nbskyhope.shop
 nbsnl.uk
 nbspace.us
 nbtlkdpgi2.mailbo.store
@@ -238637,6 +238647,7 @@ ultrada.ru
 ultradrugbuy.com
 ultrafan.site
 ultrafitnessguide.com
+ultrafive.online
 ultrago.de
 ultrahazzam.online
 ultraimperialism.best
@@ -238662,6 +238673,7 @@ ultraperformans.online
 ultrapinky.online
 ultrapro.buzz
 ultraschallanlagen.de
+ultrasix.online
 ultraslimdvr.com
 ultrasomail.ru
 ultrasonofmail.ru

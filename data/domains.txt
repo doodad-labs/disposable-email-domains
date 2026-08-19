@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-19T20:25:22.870Z
+# Aggregated blacklist generated on 2026-08-19T22:22:53.516Z
  
 0-00.usa.cc
 0-30-24.com
@@ -142975,6 +142975,7 @@ loginjoker123.link
 loginlapp.com
 loginoff.su
 loginpage-documentneedtoupload.com
+loginptn.xyz
 logins.l2w.org
 logins.page
 loginslotvip.ph

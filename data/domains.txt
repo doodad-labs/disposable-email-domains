@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-18T22:21:27.111Z
+# Aggregated blacklist generated on 2026-08-19T01:09:24.559Z
  
 0-00.usa.cc
 0-30-24.com
@@ -47118,6 +47118,7 @@ brentspencebridgecorridor.com
 brentstore.org
 brentwoodofficial.com
 brenz.asia
+brepe.anonbox.net
 bresana.net
 bresanclin.cf
 bresanclin.ga
@@ -171343,6 +171344,7 @@ nypost.best
 nyq8pn4awb.mailbo.store
 nyqhnkysgi.mailbo.store
 nyre.cse445.com
+nyrep.lat
 nyri.tieumuoishop.io.vn
 nyrmusic.com
 nyrrc.net
@@ -190317,6 +190319,7 @@ puttingpv.com
 putussoalbiasa01.igg.biz
 putzmail.pw
 puukkoknives.com
+puuntong.com
 puurspa.com
 puw.emlhub.com
 puw.emlpro.com
@@ -229741,6 +229744,7 @@ tiktokitop.com
 tiktokngon.com
 tiktokrewards.xyz
 tiktokuk.com
+tiktokus.us
 tiktokvideo.eu.org
 tikusqq.org
 tikvahhertogfellows.org
@@ -250784,6 +250788,7 @@ westboundventures.com
 westbranchtreasures.com
 westbymontana.com
 westcaltractor.net
+westcast-systems.com
 westchesterhomesbydeb.com
 westchesterlahomes.com
 westchicagoofficecleaning.com

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-18T22:21:27.111Z
+# Aggregated blacklist generated on 2026-08-19T01:09:24.559Z
  
 0-30-24.com
 0-attorney.com
@@ -133528,6 +133528,7 @@ nypdchange.net
 nypdchange.org
 nypinterest.com
 nypost.best
+nyrep.lat
 nyrmusic.com
 nyrrc.net
 nyscengage.com
@@ -149273,6 +149274,7 @@ putthisinyourspamdatabase.com
 puttingpv.com
 putzmail.pw
 puukkoknives.com
+puuntong.com
 puurspa.com
 puxa.top
 puxah.org
@@ -181164,6 +181166,7 @@ tiktokitop.com
 tiktokngon.com
 tiktokrewards.xyz
 tiktokuk.com
+tiktokus.us
 tiktokvideo.eu.org
 tikusqq.org
 tikvahhertogfellows.org
@@ -197344,6 +197347,7 @@ westboundventures.com
 westbranchtreasures.com
 westbymontana.com
 westcaltractor.net
+westcast-systems.com
 westchesterhomesbydeb.com
 westchesterlahomes.com
 westchicagoofficecleaning.com

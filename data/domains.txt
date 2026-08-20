@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-20T12:45:55.484Z
+# Aggregated blacklist generated on 2026-08-20T14:34:42.231Z
  
 0-00.usa.cc
 0-30-24.com
@@ -194891,6 +194891,7 @@ radicoreweb.com
 radicorn.com
 radiculemfri.com
 radifmail.ru
+radika.online
 radiku.ye.vc
 radin.anonaddy.me
 radinex.com

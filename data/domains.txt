@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-20T04:35:14.292Z
+# Aggregated blacklist generated on 2026-08-20T06:42:35.932Z
  
 0-00.usa.cc
 0-30-24.com
@@ -96607,6 +96607,7 @@ gamer-market.net
 gamer.watch
 gamerai.shop
 gamerai.space
+gamerai.website
 gameram.servemp3.com
 gamercave.com
 gamercookie.com
@@ -140082,6 +140083,7 @@ lh7ygdm1fu.mailbo.store
 lhadk11.pro
 lhas6bptvk.mailbo.store
 lhaytbfzni.mailbo.store
+lhba5510.com
 lhbraufk9g.mailbo.store
 lhckj3.com
 lhcoozpofi.mailbo.store
@@ -148639,6 +148641,7 @@ mailforspam.com
 mailforspam.net
 mailforst.com
 mailforthemeak.info
+mailfortiktok.us
 mailforwarding.amsterdam
 mailforxr.site
 mailfoy.de
@@ -209459,6 +209462,7 @@ seveproduction.com
 several.mailbo.store
 severimlers.site
 severina.slmail.me
+severnday.us
 sevgisoysal.org
 sevid.me
 sevid.tech

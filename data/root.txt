@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-20T04:35:14.292Z
+# Aggregated blacklist generated on 2026-08-20T06:42:35.932Z
  
 0-30-24.com
 0-attorney.com
@@ -74926,6 +74926,7 @@ gamer.gd
 gamer.watch
 gamerai.shop
 gamerai.space
+gamerai.website
 gameram.servemp3.com
 gamercave.com
 gamercookie.com
@@ -108863,6 +108864,7 @@ lh451.ml
 lh451.tk
 lh4phi.us
 lhadk11.pro
+lhba5510.com
 lhckj3.com
 lhda.email
 lhduob.com
@@ -114899,6 +114901,7 @@ mailforspam.com
 mailforspam.net
 mailforst.com
 mailforthemeak.info
+mailfortiktok.us
 mailforwarding.amsterdam
 mailforxr.site
 mailfoy.de
@@ -164019,6 +164022,7 @@ seventol.world
 seventol.xyz
 seveproduction.com
 severimlers.site
+severnday.us
 sevgisoysal.org
 sevid.me
 sevid.tech

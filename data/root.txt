@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-20T06:42:35.932Z
+# Aggregated blacklist generated on 2026-08-20T08:36:30.555Z
  
 0-30-24.com
 0-attorney.com
@@ -11807,6 +11807,7 @@ aakashbansal.info
 aakashrelan.com
 aakashtradeventures.com
 aakb.ru
+aakingcompany.shop
 aakk.de
 aakk.link
 aakkmail.com
@@ -22770,6 +22771,8 @@ atkinson166.store
 atkinson54.store
 atkirson.press
 atknsn.com
+atkshop.shop
+atkshopp.space
 atl360studio.com
 atlant.link
 atlanta-rv-rentals.com
@@ -95777,6 +95780,7 @@ itdeinter.tk
 itdesi.com
 itdom.homes
 itdom.motorcycles
+itduniya.online
 iteachnet.com
 itebekquhu.ga
 itech-versicherung.de
@@ -201521,6 +201525,8 @@ xihunwo.com
 xihunwu.com
 xiii.nu
 xiinoo31.com
+xiiqtg.com
+xiiqtg.vip
 xijjfjoo.turystyka.pl
 xikemail.com
 xikihn.us
@@ -202768,6 +202774,7 @@ xn--refeio-7ta5a.online
 xn--rgfest-vxa4c.com
 xn--rhq57skr5cgge.xn--j6w193g
 xn--rhqt5tmrbt30afkiqpk45b.top
+xn--rhqv96g.tv
 xn--ridsp-nua.se
 xn--robotino-pbb.tk
 xn--robotjurdico-zfb.com

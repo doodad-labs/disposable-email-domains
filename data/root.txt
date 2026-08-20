@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-19T22:22:53.516Z
+# Aggregated blacklist generated on 2026-08-20T01:08:50.690Z
  
 0-30-24.com
 0-attorney.com
@@ -40744,6 +40744,7 @@ cetamision.site
 cetemen.com
 ceteratest.com
 cetgpt.com
+cethhbix.my.id
 cetinraf.com
 cetmen.cyou
 cetmen.store
@@ -82897,6 +82898,7 @@ haikido.com
 haikuforlovers.com
 haikuinthemiddle.info
 hailchat.com
+hailong.online
 hailonggame.com
 hailsquall.ru
 hailuwuliu.com
@@ -114801,6 +114803,7 @@ mailed.ro
 maileder.com
 mailedu.de
 mailedu.edu.pl
+maileduvn.us
 maileere.com
 maileimer.de
 mailelectronic.com
@@ -134015,6 +134018,7 @@ occasfit.com
 occasics.site
 occasionalmandiri.co
 occasionaltrip.com
+occept.com
 occidentalic.com
 occidentomail.ru
 occipitofmail.com

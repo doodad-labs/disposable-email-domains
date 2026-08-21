@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-21T04:36:31.970Z
+# Aggregated blacklist generated on 2026-08-21T06:43:10.026Z
  
 0-30-24.com
 0-attorney.com
@@ -86523,6 +86523,7 @@ hivemii.com
 hivemusic.org
 hiveos.org
 hivertech.com
+hiverun.io
 hiwager.games
 hiwager.plus
 hiwave.org
@@ -132889,6 +132890,7 @@ ntslink.net
 ntspace.shop
 ntt.gotdns.ch
 ntt2704.com
+ntto.us
 nttools.io.vn
 ntub.cf
 ntudofutluxmeoa.cf
@@ -185365,6 +185367,7 @@ trustcheck.cc
 trustcloud.engineer
 trustcoin.tech
 trustcombat.com
+trustdomainvn.us
 trustdong.com
 trusted-canadian-online-pharmacy.com
 trusted.camera
@@ -185394,6 +185397,7 @@ trustfractalforge.com
 trustguru.vip
 trusthalal.com
 trusthomesmidsouth.com
+trusticloud.us
 trustinbalance.com
 trustingfunds.ltd
 trustingfunds.me
@@ -185402,6 +185406,7 @@ trustinthe.cloud
 trustiov.club
 trustjudg.fun
 trustlending.pro
+trustmailold.us
 trustmails.info
 trustmall.online
 trustme.dk
@@ -193307,6 +193312,7 @@ virtualrunninguk.com
 virtualserver.pro
 virtualsummeroutings.com
 virtualtags.co
+virtualtalentlabs.com
 virtualtrainingprograms.com
 virtualvaultsgy.com
 virtualveggiepatch.com

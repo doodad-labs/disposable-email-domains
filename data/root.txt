@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-21T06:43:10.026Z
+# Aggregated blacklist generated on 2026-08-21T08:38:38.410Z
  
 0-30-24.com
 0-attorney.com
@@ -63551,6 +63551,7 @@ enigmaff.pro
 enigmagames.net
 enigmaticowl.com
 enikova.ru
+enitempmail.xyz
 enithbank.com
 eniyikahve.online
 enj0yourfile.com
@@ -92387,7 +92388,9 @@ imputamail.com
 imranbt.store
 imranccnn.buzz
 imrancm.buzz
+imrancumi.buzz
 imranking.buzz
+imranmax.buzz
 imranspc.buzz
 imrekoglukoleksiyon.online
 imrekoglukoleksiyon.xyz
@@ -97986,6 +97989,7 @@ jgfrpy.us
 jgi21rz.nom.pl
 jgj11277.com
 jgjboeow.com
+jgjitffy.store
 jgkcr.com
 jgkh.com
 jglobal.org
@@ -144472,6 +144476,7 @@ plexamab.gq
 plexamab.ml
 plexamab.tk
 plexfirm.com
+plexflux.app
 plexibot.xyz
 plexo.cc
 plexolan.de
@@ -196483,6 +196488,7 @@ weaseling606tw.online
 weaselsolutions.com
 weasity.ru
 weatheford.com
+weatherbx.xyz
 weatherdakar.com
 weatheredstele.com
 weatherest.com

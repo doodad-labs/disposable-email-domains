@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-21T22:22:58.335Z
+# Aggregated blacklist generated on 2026-08-22T01:08:46.022Z
  
 0-30-24.com
 0-attorney.com
@@ -23720,6 +23720,7 @@ avatastar.com
 avathohouse.co
 avatowwanf.com
 avatrade.trading
+avatv.lat
 avava.site
 avaya.team
 avbeafun.ga
@@ -36787,6 +36788,7 @@ bybklfn.info
 bybyeducation.site
 bycesoir.com
 bycollective.com
+byconf.com
 bycy.xyz
 byd686.com
 bydanielgilley.com
@@ -60168,6 +60170,7 @@ ebenebiz.online
 ebeschlussbuch.de
 ebestaudiobooks.com
 ebet.co.za
+ebflyai.com
 ebhiq.us
 ebhospitality.com
 ebialrh.com
@@ -128009,6 +128012,7 @@ nansanyule.com
 nanshan-yule.com
 nanshanys.info
 nansyiiah.xyz
+nantmeur.com
 nanyang.news
 nanyangpost.net
 nanzi.sbs

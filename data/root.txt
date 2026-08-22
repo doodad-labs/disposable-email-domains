@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-22T04:30:48.334Z
+# Aggregated blacklist generated on 2026-08-22T06:37:29.041Z
  
 0-30-24.com
 0-attorney.com
@@ -24309,6 +24309,7 @@ axevolution-sf.net
 axewing.eu
 axexch.com
 axgd5m2et5kmwdn.xyz
+axgrad.io
 axham.org
 axhamgames.net
 axhb.com
@@ -88247,6 +88248,7 @@ hotmails.ltd
 hotmailsclub.com
 hotmailse.com
 hotmailt.fr
+hotmailtrusted.com
 hotmailvip.tokyo
 hotmaily.com
 hotmaim.co.uk
@@ -115360,6 +115362,7 @@ mailo.tk
 mailoctober.com
 mailoearth.net
 mailof.com
+mailold.us
 mailomega.com
 mailomni.com
 mailon.ws
@@ -132900,6 +132903,7 @@ ntspace.shop
 ntt.gotdns.ch
 ntt2704.com
 ntto.us
+nttoadmin2.us
 nttools.io.vn
 ntub.cf
 ntudofutluxmeoa.cf

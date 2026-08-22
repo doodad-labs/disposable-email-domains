@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-22T14:19:56.819Z
+# Aggregated blacklist generated on 2026-08-22T16:21:33.608Z
  
 0-00.usa.cc
 0-30-24.com
@@ -164873,6 +164873,7 @@ navmanwirelessoem.com
 navode.su
 navoff.com
 navrozecapital.com
+navura.in
 navya.fun
 navyfederaill.org
 navyhodnye.ru

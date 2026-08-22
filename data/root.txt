@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-22T18:28:16.427Z
+# Aggregated blacklist generated on 2026-08-22T20:20:31.910Z
  
 0-30-24.com
 0-attorney.com
@@ -201283,6 +201283,7 @@ xeosa9gvyb5fv.gq
 xeosa9gvyb5fv.ml
 xeosa9gvyb5fv.tk
 xeoty.com
+xeovo.ru
 xepa.ru
 xerath.tk
 xeraver.ml

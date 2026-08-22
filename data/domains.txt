@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-22T16:21:33.608Z
+# Aggregated blacklist generated on 2026-08-22T18:28:16.427Z
  
 0-00.usa.cc
 0-30-24.com
@@ -211108,6 +211108,7 @@ shopvia64mail.site
 shopviet73.com
 shopvipduzk666.shop
 shopvipduzk6868.shop
+shopvpn.uk
 shopw.top
 shopwalmarte.com
 shopwee.com

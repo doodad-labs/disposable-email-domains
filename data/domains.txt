@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-23T20:20:57.677Z
+# Aggregated blacklist generated on 2026-08-23T22:19:58.364Z
  
 0-00.usa.cc
 0-30-24.com
@@ -211073,6 +211073,7 @@ shopponyeducation.com
 shopppy.shop
 shoppradabagsjp.com
 shopprime.work
+shopprimeaccounts.com
 shoppung.com
 shoppyhunt.com
 shoppymarket.shop

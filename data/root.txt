@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-23T16:23:03.216Z
+# Aggregated blacklist generated on 2026-08-23T18:26:52.027Z
  
 0-30-24.com
 0-attorney.com
@@ -108681,6 +108681,7 @@ levi02.me
 leviacerman.store
 leviatereview.com
 levietthanh.info
+leviosaa.store
 levis-jeans.us
 levis-shoes.com
 levisdaily.com

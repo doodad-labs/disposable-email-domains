@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-23T10:22:10.832Z
+# Aggregated blacklist generated on 2026-08-23T12:36:58.073Z
  
 0-00.usa.cc
 0-30-24.com
@@ -42794,6 +42794,7 @@ birdseed.shop
 birdsfly.press
 birdsflying.xyz
 birdsinclay.com
+birdzpt.com
 birebirbahis.com
 birecruit.com
 birgarabot.ru
@@ -77151,6 +77152,7 @@ dzlh.luk2.com
 dzm.saucent.online
 dzmaxefkes.mailbo.store
 dznf.net
+dzntn.io.vn
 dznzjb0caq.mailbo.store
 dzo84wu3oz.mailbo.store
 dzobdtna9y.mailbo.store
@@ -92331,6 +92333,7 @@ foodsfever.com
 foodslosebellyfat.com
 foodspecial.pw
 foodtherapy.top
+foodtrik.com
 foodunitesus.com
 foodyuiw.com
 fooface.com

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-23T22:19:58.364Z
+# Aggregated blacklist generated on 2026-08-24T01:11:59.282Z
  
 0-00.usa.cc
 0-30-24.com
@@ -106082,6 +106082,7 @@ h5jiin8z.pl
 h5k8.com
 h5kewasix8.mailbo.store
 h5kkunatmw.mailbo.store
+h5lpf.anonbox.net
 h5mqxqv4sa.mailbo.store
 h5o0pi67zv.mailbo.store
 h5pstore.com
@@ -211512,6 +211513,7 @@ sierp.org
 sierra-leone.com
 sierraairsolutions.com
 sierragroup.us
+siessed.com
 siestaveteriner.com
 sietanca2529.lofteone.ru
 sieteluchas.com

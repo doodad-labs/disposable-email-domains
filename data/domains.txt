@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-24T16:35:30.099Z
+# Aggregated blacklist generated on 2026-08-24T18:39:06.960Z
  
 0-00.usa.cc
 0-30-24.com
@@ -216514,6 +216514,7 @@ spartanteam.net
 spartapress.com
 spartn.me
 sparts.com
+sparxautomationhub.store
 sparxbox.info
 spasalonsan.ru
 spase.website

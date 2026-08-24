@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-24T04:42:23.530Z
+# Aggregated blacklist generated on 2026-08-24T06:55:27.981Z
  
 0-00.usa.cc
 0-30-24.com
@@ -121007,6 +121007,7 @@ iolkjk.gq
 iolkjk.ml
 iolokdi.ga
 iolokdi.ml
+iolq.top
 iolvblwjw4.mailbo.store
 iomail.com
 iomail.xyz
@@ -164496,6 +164497,7 @@ naprb.com
 naps.cc
 napston.org
 napthe89.net
+napthex4.com
 naptien365.com
 naptiktokvn.net
 napwa.org
@@ -168177,6 +168179,7 @@ niu2m4r8.luksarcenter.ru
 niubi.li
 niubiba.lol
 niujkasdi.tk
+niulaibulai.me
 niumasoitr.gq
 niuyitupob.xyz
 nivalust.com
@@ -215471,6 +215474,7 @@ solution.travelwifi.click
 solution.tryhike.click
 solution.turnonhub.click
 solution.turnonly.click
+solution.usewisetransfer.click
 solution.wisetransfer.click
 solution4u.com
 solutions.fliplabs.click

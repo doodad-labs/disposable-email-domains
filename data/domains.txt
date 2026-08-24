@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-24T10:35:50.714Z
+# Aggregated blacklist generated on 2026-08-24T12:46:54.172Z
  
 0-00.usa.cc
 0-30-24.com
@@ -234778,6 +234778,7 @@ trypregenix.com
 tryprice.co
 tryrowscxw.mailbo.store
 tryshopin.xyz
+trysmarttraveller.click
 trystereo.com
 trysti.us
 trysubj.com
@@ -252460,6 +252461,7 @@ winwinni.site
 winwinslot777.com
 winwinus.xyz
 winxmail.com
+winz.my.id
 winzal.com
 winzircasino.info
 wiogwioeurower.ga

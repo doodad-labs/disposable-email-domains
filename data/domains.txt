@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-25T04:37:22.056Z
+# Aggregated blacklist generated on 2026-08-25T06:43:38.588Z
  
 0-00.usa.cc
 0-30-24.com
@@ -89774,6 +89774,7 @@ figlmueller-lugeck.com
 figly.net
 figmail.me
 figmail.store
+figmaster.net
 figo.com
 figoli.net
 figshot.com
@@ -123866,6 +123867,7 @@ jafufq.us
 jafw.pigeonprotocol.com
 jaga.email
 jagadgurubhanpura.info
+jagakarsa.me
 jagbreakers.com
 jagd2ea4if.mailbo.store
 jagdglas.de

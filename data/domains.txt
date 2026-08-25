@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-25T10:31:07.514Z
+# Aggregated blacklist generated on 2026-08-25T12:43:42.042Z
  
 0-00.usa.cc
 0-30-24.com
@@ -184178,6 +184178,7 @@ pkday.eu.cc
 pkdf.10mail.org
 pkdfw6rocc.mailbo.store
 pkdigitalmart.online
+pkdigitalmart.site
 pkdnht.us
 pke.de.com
 pkearl.com

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-25T20:27:56.470Z
+# Aggregated blacklist generated on 2026-08-25T22:25:25.251Z
  
 0-00.usa.cc
 0-30-24.com
@@ -169790,6 +169790,7 @@ novaantiques.com
 novaastra.store
 novabrana.sk
 novacodex.site
+novacontigencia.xyz
 novaeliza.art
 novaemail.com
 novaevs.cfd

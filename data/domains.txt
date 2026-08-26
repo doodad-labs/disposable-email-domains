@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-26T08:41:08.258Z
+# Aggregated blacklist generated on 2026-08-26T10:33:55.496Z
  
 0-00.usa.cc
 0-30-24.com
@@ -268096,6 +268096,7 @@ zuduz97ocs.mailbo.store
 zue.emlpro.com
 zueastergq.com
 zuebkjpnez.mailbo.store
+zuelx.cocoteambeyen.site
 zueom.com
 zufds26rys.mailbo.store
 zufhp7de2f.mailbo.store

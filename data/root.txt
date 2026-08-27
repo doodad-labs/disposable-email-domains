@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-27T07:26:20.892Z
+# Aggregated blacklist generated on 2026-08-27T18:54:35.197Z
  
 0-30-24.com
 0-attorney.com
@@ -10711,6 +10711,7 @@
 94502.info
 9454445.com
 945677.com
+94587293.xyz
 945gmail.com
 945xl.com
 9461.fun
@@ -20388,6 +20389,7 @@ apprubix.net
 apps.dj
 apps.eus
 appscreater.shop
+appsdjheru.site
 appsec.link
 appseer.com
 appsforcoins.com
@@ -27337,6 +27339,7 @@ bdnmail.com
 bdoindia.co.in
 bdpa-de.org
 bdpmedia.com
+bdq8.pw
 bdr22.space
 bdredemptionservices.com
 bdrfoe.store
@@ -77221,6 +77224,7 @@ ghffl.club
 ghffl.site
 ghfh.com
 ghfh.de
+ghfnhcf.xyz
 ghg-formations.com
 ghgjgyk.cloud
 ghgluiis.tk
@@ -86900,6 +86904,8 @@ hndifeng.com
 hndj365.com
 hnemail.org
 hnfk5o.us
+hnfw-ngd.top
+hnfw-ngd.wiki
 hngce.com
 hngwrb7ztl.ga
 hngwrb7ztl.gq
@@ -110829,6 +110835,7 @@ llogin.ru
 llotfourco.ga
 llotfourco.gq
 llotfourco.tk
+lloudfsxly.top
 lloyd149.store
 lloydpayee-control.com
 lloydsmg.com
@@ -130735,6 +130742,8 @@ niagaslotter-seo.com
 niamgroup.com
 niamhstorey.buzz
 niang-sfx.biz
+nianshen09.help
+nianshens.help
 niaopie.club
 niassanationalreserve.org
 niatingsun.tech
@@ -154946,6 +154955,7 @@ reotractant.cf
 reotractant.gq
 reotractant.ml
 reotractant.tk
+reovipvpn.top
 reox.fun
 rep.biz.id
 rep3-payment.site
@@ -199856,6 +199866,7 @@ wov.no
 wovem.com.br
 wovensport.store
 wovfkp.icu
+wovoemj1119.icu
 wow-h2.com
 wow-hack.com
 wow-keren.com
@@ -208128,6 +208139,7 @@ zgear.org
 zgenk.info
 zgeotd.us
 zgfzazbe.shop
+zgg0.help
 zgg520.com
 zggbzlw.net
 zggyfzyxgs.com

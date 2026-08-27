@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-26T22:44:14.334Z
+# Aggregated blacklist generated on 2026-08-27T07:26:20.892Z
  
 0-30-24.com
 0-attorney.com
@@ -34162,6 +34162,7 @@ bqhonda.com
 bqhost.top
 bqjew.com
 bqkemail.eu
+bqlvhnnd.my.id
 bqm2dyl.com
 bqmjotloa.pl
 bqsaptri.ovh
@@ -185387,6 +185388,7 @@ truelove.lat
 truelovemetaphysical.com
 truemeanji.com
 truemeat.com
+truemotor.ru
 truemr.com
 truenaturenetwork.info
 truereligionbrandmart.com
@@ -186417,6 +186419,7 @@ turvichurch.cf
 turvichurch.ga
 turvichurch.ml
 turvichurch.tk
+tury-v-turciyu-moskva.ru
 tuscerrajerosvalladolid.com
 tushi.icu
 tushmail.com
@@ -188849,6 +188852,7 @@ unibloom.host
 unibooks.site
 unicatis.net
 unicersalcreditsolved.com
+unich.lat
 unichain.us
 unichell.fun
 unicity.name
@@ -199127,6 +199131,7 @@ wm88casino.com
 wm88th.com
 wmafirm.com
 wmail.biz.id
+wmail.cam
 wmail.cf
 wmail.club
 wmail.tk
@@ -202030,6 +202035,7 @@ xlzdroj.ru
 xlzy.com
 xm3370.xyz
 xmage.live
+xmail.cam
 xmail.com
 xmail.edu
 xmail.edu.pl

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-26T22:44:14.334Z
+# Aggregated blacklist generated on 2026-08-27T07:26:20.892Z
  
 0-00.usa.cc
 0-30-24.com
@@ -129687,6 +129687,7 @@ k5haizqvtd.mailbo.store
 k5ia3.anonbox.net
 k5k1h.cse445.com
 k5lmd3vbbt.mailbo.store
+k5mgq.anonbox.net
 k5puedagfb.mailbo.store
 k5siw6lejy.mailbo.store
 k5vin1.xorg.pl
@@ -199416,6 +199417,7 @@ rgtvtnxvci8dnwy8dfe.ga
 rgtvtnxvci8dnwy8dfe.gq
 rgtvtnxvci8dnwy8dfe.ml
 rgtvtnxvci8dnwy8dfe.tk
+rgui.bqlvhnnd.my.id
 rgvendas.shop
 rgvvss2jln.mailbo.store
 rgwefascvxcb1.ru
@@ -234591,6 +234593,7 @@ truelove.lat
 truelovemetaphysical.com
 truemeanji.com
 truemeat.com
+truemotor.ru
 truemr.com
 truenaturenetwork.info
 truereligionbrandmart.com
@@ -235791,6 +235794,7 @@ turvichurch.cf
 turvichurch.ga
 turvichurch.ml
 turvichurch.tk
+tury-v-turciyu-moskva.ru
 tusabavowc.mailbo.store
 tuscerrajerosvalladolid.com
 tuserprofile.anonaddy.me
@@ -239389,6 +239393,7 @@ unibooks.site
 unicartagena.educ.co
 unicatis.net
 unicersalcreditsolved.com
+unich.lat
 unichain.dpdns.org
 unichain.us
 unichell.fun
@@ -253008,6 +253013,7 @@ wm88th.com
 wm8xppefix.mailbo.store
 wma.yomail.info
 wmafirm.com
+wmail.cam
 wmail.cf
 wmail.club
 wmail.tk
@@ -257526,6 +257532,7 @@ xm5wsnksw3.mailbo.store
 xm7rgtt.saucent.online
 xmadristps.mailbo.store
 xmage.live
+xmail.cam
 xmail.com
 xmail.edu
 xmail.edu.pl

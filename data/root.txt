@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-27T18:54:35.197Z
+# Aggregated blacklist generated on 2026-08-28T04:03:06.963Z
  
 0-30-24.com
 0-attorney.com
@@ -57211,6 +57211,7 @@ dopepedalers.com
 dopestkicks.ru
 dophs.stream
 dopic.xyz
+dopiset.com
 dopisivanje.in.rs
 dopp.me
 doppelgengler.com
@@ -131764,6 +131765,7 @@ nodehaus.net
 nodehouse.net
 nodehouse.org
 nodejs.uk
+nodekun.my.id
 nodem.app
 nodemail.net
 nodemix.com
@@ -152554,6 +152556,7 @@ ranpack.online
 ranpets.com
 ranput.xyz
 ranran777.shop
+ranro.lat
 ransern.com
 ransom.id
 ransombeauty.com
@@ -172601,6 +172604,7 @@ streetturtle.com
 streetwatchsecurity.com
 streetwisemail.com
 streetwormail.com
+strelizia.biz.id
 strelizia.site
 strelizia.store
 streliziastore.my.id
@@ -173119,6 +173123,7 @@ substidehz.space
 substitutesfat.com
 substitutesrun.com
 substoretools.com
+substoretools.site
 substoretools.store
 subsxchange.com
 subtartemail.ru
@@ -188583,6 +188588,7 @@ unalcas.ml
 unalcas.tk
 unall7.tech
 unalstore.xyz
+unam.mx
 unamali.ru
 unambiguous.net
 uname-r.com

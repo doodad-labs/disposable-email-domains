@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-28T04:03:06.963Z
+# Aggregated blacklist generated on 2026-08-28T18:13:56.493Z
  
 0-30-24.com
 0-attorney.com
@@ -51883,6 +51883,7 @@ dcpa.net
 dcrnkqdn.space
 dcru.email
 dcs21sd.com
+dcs21sd.online
 dcscgroup.com
 dcshop.biz
 dcshop.ma
@@ -98128,6 +98129,7 @@ jhdashjg99173.ga
 jhdashjg99173.tk
 jheardinc.com
 jhfg.us
+jhfnre-kjf.sbs
 jhgg.com
 jhgiklol.gq
 jhgjh.com
@@ -106003,6 +106005,8 @@ kylinara.ru
 kylos.pl
 kymogen.com
 kymun.site
+kynesia.bond
+kynesia.cyou
 kynet.be
 kynninc.com
 kynoeajq.xyz
@@ -204669,6 +204673,7 @@ yangoogl.cc
 yangzhai.xyz
 yangzhong-sfd.cc
 yangzhong-sfd.shop
+yanhd-jkd.top
 yanibu.com
 yanimateds.com
 yanj.com

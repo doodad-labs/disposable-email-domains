@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-29T10:49:39.705Z
+# Aggregated blacklist generated on 2026-08-29T16:15:06.964Z
  
 0-00.usa.cc
 0-30-24.com
@@ -199980,6 +199980,7 @@ rigormentorslang.site
 rigtmail.com
 rihamfarid.33mail.com
 rihis.org
+riho.keoiex.sbs
 rihzvhyt2w.mailbo.store
 riid.10mail.org
 riily.com

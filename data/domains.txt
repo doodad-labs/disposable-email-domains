@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-29T23:53:51.477Z
+# Aggregated blacklist generated on 2026-08-30T03:48:14.174Z
  
 0-00.usa.cc
 0-30-24.com
@@ -28628,6 +28628,7 @@ anklereb.xyz
 anklesa.online
 ankloclog7611.a.lofteone.ru
 anklpmnh2k.mailbo.store
+ankniwn.com
 ankoninc.pw
 ankorbeton.icu
 ankplacing.com
@@ -49694,6 +49695,7 @@ bvxsx.com
 bvya.mimimail.me
 bvytcrdf6t567677676.email-temp.com
 bvz.luk2.com
+bvz4p.anonbox.net
 bvz8k1.us
 bvzf5.anonbox.net
 bvzoonm.com

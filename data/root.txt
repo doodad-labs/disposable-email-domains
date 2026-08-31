@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-31T10:34:23.822Z
+# Aggregated blacklist generated on 2026-08-31T18:48:32.906Z
  
 0-30-24.com
 0-attorney.com
@@ -60125,6 +60125,7 @@ easypace.ru
 easypaperplanes.com
 easypass.rs
 easypaymaker1.com
+easypeasychinese.com
 easypharm.space
 easyplainlife.com
 easyreadnow.com
@@ -93394,6 +93395,7 @@ influenceya.com
 influencialladies.com
 influenciapositiva.org
 influenza.video
+inflyratech.site
 infnet.space
 info-24tv.site
 info-accounts-ppyl.com
@@ -184927,6 +184929,7 @@ travelers.co
 travelersglossary.com
 travelersinsurance.click
 travelfleet.net
+travelfriend.online
 travelguitarusa.com
 travelhacking4life.com
 travelhub.click

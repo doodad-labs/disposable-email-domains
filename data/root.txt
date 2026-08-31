@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-30T22:25:03.029Z
+# Aggregated blacklist generated on 2026-08-31T03:49:22.183Z
  
 0-30-24.com
 0-attorney.com
@@ -36024,6 +36024,7 @@ buscarnombre.com
 buscarpr.com
 buschgardenshotel.com
 buscoempleoya.info
+busd-mmjd3.wiki
 buself.store
 busemdisticaret.com
 busf.com
@@ -180326,6 +180327,7 @@ thenflravenshop.com
 thenickensfamily.com
 thenightmareofgaza.com
 theninthinfantrydivisionassociation.org
+thenness.com
 thenodehouse.net
 thenodish.org
 thenoftime.org.ua
@@ -206875,6 +206877,7 @@ yslonsale.com
 yslyep.online
 ysmails.com
 ysmm3.us
+ysnhd-latt.sbs
 ysosirius.com
 ysoundfirst.info
 yspend.com

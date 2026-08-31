@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-31T03:49:22.183Z
+# Aggregated blacklist generated on 2026-08-31T10:34:23.822Z
  
 0-00.usa.cc
 0-30-24.com
@@ -46199,6 +46199,7 @@ bosgrit.finance
 bosgrit.online
 bosgrit.tech
 bosh.ll47.net
+boshi-gdh.club
 boshuizen.org
 bosi.website
 bosific.cf
@@ -90586,6 +90587,7 @@ fireflies.edu
 firefox.cam
 firefox.zip
 firefuelseoagency.com
+firegameplay.com
 fireguardeng.com
 firehouselistens.top
 fireinthemountain.me
@@ -92480,6 +92482,7 @@ foodgurutakeaway.com
 foodhallimburg.com
 foodhat.net
 foodhealthandtravel.com
+foodhz.com
 foodics.store
 foodieinfluence.online
 foodieinfluence.pro
@@ -126695,6 +126698,7 @@ jkrowlg.gq
 jkrowlg.ml
 jks.contact
 jksdvecmw6.mailbo.store
+jksndh-afd2.wiki
 jkt48.biz
 jktif.live
 jktmail.web.id
@@ -145755,6 +145759,7 @@ lwaa.emlpro.com
 lwapv.us
 lwbf0jjpoc.mailbo.store
 lwbmarkerting.info
+lwbsli.teml.net
 lwbxjpe.crankymonkey.info
 lwcplror.shop
 lwd.saucent.online
@@ -195581,6 +195586,7 @@ rainmail.top
 rainmail.win
 rainplatform.cloud
 rainproofresidual.com
+rainsase.com
 rainsofttx.com
 rainstormes.com
 raintguide.com
@@ -242359,6 +242365,7 @@ v1zj5muumd.mailbo.store
 v1zt1axirp.mailbo.store
 v1zw.com
 v2-ray.me
+v2.lxvsi.com
 v205.obl.ong
 v21.me.uk
 v21net.co.uk
@@ -243803,6 +243810,7 @@ velikovsky.cz
 velismail.com
 velkam.org
 vellia.fun
+velloxist.site
 vellymachineid.anonaddy.com
 velmoor.org
 velnixaropq.io.vn
@@ -263869,6 +263877,7 @@ yourwellllc.com
 yourwildheart.com
 yourwinninglottery.com
 yourwinprize.info
+yourwiseguide.com
 youscope.nl
 yousefnabulsi.com
 youshallnotpass.it

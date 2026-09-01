@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-09-01T14:31:45.236Z
+# Aggregated blacklist generated on 2026-09-01T19:13:16.471Z
  
 0-00.usa.cc
 0-30-24.com
@@ -111066,6 +111066,7 @@ hjb.10mail.xyz
 hjbgsjuhuguis.igg.biz
 hjcnv63qfh.mailbo.store
 hjdfu45kio.igg.biz
+hjdkker-kdet.click
 hjdosage.com
 hjdsgfugfu.igg.biz
 hjdzrqdwz.pl

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-09-01T03:42:29.065Z
+# Aggregated blacklist generated on 2026-09-01T09:11:23.077Z
  
 0-00.usa.cc
 0-30-24.com
@@ -84819,6 +84819,7 @@ euro24.bet
 euro24.casino
 euro24bet11.com
 euro24bet12.com
+euroallsports.org.uk
 euroaromalab.org
 eurobail.com
 eurobakeportland.com
@@ -107734,6 +107735,7 @@ harperlarper.com
 harperwoodworking.com
 harperzoo.us
 harpix.info
+harpix.org.uk
 harrietrobertson.buzz
 harrinbox.info
 harringtonantiques.com
@@ -109678,6 +109680,7 @@ heritagepoint.org
 heriy.com
 herkesicinad.tk
 herkiponer.site
+herlan.co.uk
 herlcbwlmo.mailbo.store
 herlesi.cf
 herlesi.ga
@@ -114506,6 +114509,7 @@ hulewn.com
 hulibet80.com
 hulisang.edu.kg
 hulksales.com
+hulkteam.cyou
 hulky6wxid.mailbo.store
 hull-escorts.com
 hulligan.com
@@ -121809,6 +121813,7 @@ iranvolvos.info
 iraq-nedv.ru
 iraqbazar.com
 iraqbazzar.com
+iraqedu.online
 iraqi-iod.net
 iraqoilreport.net
 iraticial.site
@@ -143290,6 +143295,7 @@ login-email.tk
 login-moon.xyz
 login-online-co-uk.buzz
 login-to.online
+login.augusta.edu.pl
 login.connorbossy.com
 login.edus.edu.pl
 login.feath.rs
@@ -171712,6 +171718,7 @@ nyfodtpiller.website
 nyft.click
 nygiants.org
 nygoldvault.com
+nygrenrealty.com
 nyhalfpricedlistings.com
 nyhalfpricelisting.com
 nyhetsbrev.xyz
@@ -173098,6 +173105,7 @@ of.emlpro.com
 of.hammerhandz.com
 of.mailbo.store
 of.marksypark.com
+of4fi3.tmail.ws
 of4vyafr7d.mailbo.store
 of6z.ccpro.click
 of7gawb9ig.mailbo.store
@@ -195345,6 +195353,7 @@ radio-crazy.pl
 radio.mailbo.store
 radio240.com
 radioacmail.ru
+radioastronomynet.com
 radioauemail.ru
 radioautmail.ru
 radioblagon.com
@@ -218451,6 +218460,7 @@ stadterweaponry.com
 stadyumdan.com
 stafabandk.site
 stafabands.info
+staff.augusta.edu.pl
 staff.example.com
 staff.mailbo.store
 staff7.ml
@@ -220251,6 +220261,7 @@ studentprivacysymposium.org
 students-class1.ml
 students.academic.edu.rs
 students.ashtonpark.com
+students.augusta.edu.pl
 students.bhasvic.uk.com
 students.fmds.org
 students.fresno.edul.com
@@ -248369,6 +248380,7 @@ vwzti.anonbox.net
 vwzu.autokey247.com
 vwzv.com
 vx.10mail.org
+vx.rozxs.com
 vx0qfimzvv.mailbo.store
 vx2.saucent.online
 vx7amywmac.mailbo.store
@@ -249392,6 +249404,7 @@ wander.love
 wanderdszx.site
 wanderingstarstudio.com
 wanderlust.host
+wandouyu.run
 wandsworthplumbers.com
 wanelove.club
 wanelove.online
@@ -257124,6 +257137,7 @@ xg9rkxmyrg.mailbo.store
 xgaming.ca
 xgaon.site
 xgas.freeml.net
+xgcpking.space
 xgd3xqlbfm.mailbo.store
 xge3vn0qli.mailbo.store
 xgee.emltmp.com
@@ -261432,6 +261446,7 @@ yamaika-nedv.ru
 yamail.com
 yamail.win
 yamails.net
+yamakasi.edu.pl
 yamalmashstroy.ru
 yaman3raby.com
 yamanaraby.com
@@ -263413,6 +263428,7 @@ yop.ze.cx
 yopail.com
 yopamail.com
 yopi.ichier.biz.id
+yopm.zone.id
 yopmai.com
 yopmail.biz.st
 yopmail.bronze.eu.org

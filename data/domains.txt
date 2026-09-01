@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-08-31T23:37:46.152Z
+# Aggregated blacklist generated on 2026-09-01T03:42:29.065Z
  
 0-00.usa.cc
 0-30-24.com
@@ -48152,6 +48152,7 @@ btkylj.com
 btlajzet6i.mailbo.store
 btlatamcolombiasa.com
 btlcalculator.com
+btlkr.anonbox.net
 btmoe.com
 btmrjbntug.host
 btmtoon4.com
@@ -57155,6 +57156,7 @@ chuan.info
 chuangso888.com
 chuangtouquan.app
 chuangxueyuan.com
+chuars.com
 chubby.monster
 chubbychihuahua-designs.com
 chubbyteenmodels.com

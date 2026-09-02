@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-09-02T03:01:06.321Z
+# Aggregated blacklist generated on 2026-09-02T08:24:35.317Z
  
 0-00.usa.cc
 0-30-24.com
@@ -102040,6 +102040,7 @@ godspeedglobalservices.com
 godspot.biz.id
 godsworkinus.com
 godtiaprot4058.lofteone.ru
+godulygmail.com
 godut.com
 godwinpartners.com
 gody3dwb30.mailbo.store
@@ -175837,6 +175838,7 @@ ooxxoo.asia
 ooxygenn.site
 ooxygenn.tech
 ooyahoo.com
+ooynib.com
 ooyoho.com
 ooz0x4shvg.mailbo.store
 oozjxunb8z.mailbo.store

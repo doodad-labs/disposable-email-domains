@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-09-02T08:24:35.317Z
+# Aggregated blacklist generated on 2026-09-02T14:06:09.342Z
  
 0-00.usa.cc
 0-30-24.com
@@ -188773,6 +188773,8 @@ pro.cloudns.asia
 pro.hammerhandz.com
 pro.hellohappy2.com
 pro.iskba.com
+pro.jejes.net
+pro.jejesfb.biz.id
 pro.m8sbeingm8s.com
 pro.marksypark.com
 pro.poisedtoshrike.com
@@ -223462,6 +223464,7 @@ t9gafwpf3e.mailbo.store
 t9lw.us
 t9myqkrfza.mailbo.store
 t9obpqpfee.mailbo.store
+t9pzf5.tmpmail.org
 t9qsytzng7.mailbo.store
 t9rr.dung2tb.io.vn
 t9t5.tieumuoishop.io.vn

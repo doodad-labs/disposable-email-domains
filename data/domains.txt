@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-09-01T22:23:42.873Z
+# Aggregated blacklist generated on 2026-09-02T03:01:06.321Z
  
 0-00.usa.cc
 0-30-24.com
@@ -141205,6 +141205,7 @@ limanow.com
 limaquebec.webmailious.top
 limashumk.shop
 limatyr.ru
+limax.lat
 limbergrs.website
 limberzbmn.space
 limbo39.secondhandhomeappliances.com
@@ -172027,6 +172028,7 @@ o2y.ru
 o2y50o5.loseyourip.com
 o2y7vrp.cse445.com
 o2yry5wrkc.mailbo.store
+o2zat.anonbox.net
 o326lav.kozow.com
 o32c.com
 o32tkc8ege.mailbo.store
@@ -267968,6 +267970,7 @@ zonc.xyz
 zonde.asia
 zondee.ru
 zone-telechargement-1.com
+zone.id
 zone.slmail.me
 zone10electric.com
 zone4u-prizes1.info

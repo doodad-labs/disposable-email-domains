@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-09-02T22:23:19.857Z
+# Aggregated blacklist generated on 2026-09-03T03:03:39.889Z
  
 0-30-24.com
 0-attorney.com
@@ -94307,6 +94307,7 @@ insvip.site
 insxbtwboa.ga
 insydney.org
 insyghtssecurity.com
+int.yt
 intabon.com
 intadvert.com
 intady.com

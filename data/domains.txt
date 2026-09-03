@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-09-03T03:03:39.889Z
+# Aggregated blacklist generated on 2026-09-03T08:33:55.729Z
  
 0-00.usa.cc
 0-30-24.com
@@ -47067,6 +47067,7 @@ braynight.online
 braynight.xyz
 braytruckandparts.com
 brayy.com
+brazbuzii.online
 brazenlybeautiful.com
 brazilbites.com
 braziletech.com
@@ -62380,6 +62381,7 @@ correotodo.com
 correrportugal.net
 correspeaaemail.ru
 correspond.simplelogin.com
+corridor.bond
 corridorautokeys.com
 corrientelatina.net
 corroso1182.lofteone.ru
@@ -182447,6 +182449,7 @@ peterdethier.com
 petereconomou.com
 peterfaust088.xyz
 petergunter.com
+peterhe-ai.bond
 peterhoeg.online
 peterhoeg.ru
 peterhoffmanlaw.com

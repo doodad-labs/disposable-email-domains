@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-09-04T03:07:33.665Z
+# Aggregated blacklist generated on 2026-09-04T08:36:04.601Z
  
 0-30-24.com
 0-attorney.com
@@ -18148,6 +18148,7 @@ amharow.cieszyn.pl
 amhpdf.com.br
 ami-yacht.com
 ami.sc
+amiced.com
 amicrofi.cd
 amicuswe.us
 amid.co.pl
@@ -32937,6 +32938,7 @@ bogalec.ml
 bogalec.tk
 bogatynia.net.pl
 bogatyrova.org.ua
+bogchi.com
 bogdad.com
 bogdanchikodyvanchik.ga
 bogemmail.com
@@ -82185,6 +82187,7 @@ gupob.com
 guqage.ru
 guqoo.com
 guralsuhan.cfd
+gurantan.com
 gurevich-weiss.com
 gurgpola.cf
 gurgpola.ga
@@ -187798,6 +187801,7 @@ ubercollab.com
 uberdriver-taxi.ru
 ubergamers.net
 ubergeek.ro
+uberip.com
 uberketing.com
 uberlandiacontabil.com.br
 uberlin.net

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-09-04T14:01:18.221Z
+# Aggregated blacklist generated on 2026-09-04T18:50:15.204Z
  
 0-30-24.com
 0-attorney.com
@@ -118711,6 +118711,7 @@ mbakingzl.com
 mbakjago.dev
 mbakjago.id
 mbakjagostore.id
+mbakjagostore.net
 mbalue.biz
 mbamail.ga
 mbamail.ml
@@ -206229,6 +206230,7 @@ yoncaterlik.store
 yondrix.cfd
 yone.cam
 yone.site
+yongdan-hstn.best
 yongdaqm.com
 yongfameiye.com
 yonginwedding.com

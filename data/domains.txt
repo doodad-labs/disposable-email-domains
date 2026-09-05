@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-09-05T19:57:58.415Z
+# Aggregated blacklist generated on 2026-09-05T21:59:40.783Z
  
 0-00.usa.cc
 0-30-24.com
@@ -267966,6 +267966,7 @@ zol4.dung2tb.io.vn
 zol9.cse445.com
 zolaemporium.site
 zolamin.com
+zolb.dhezpxgr.biz.id
 zoldan.cfd
 zoldnwx.com
 zolfe.top

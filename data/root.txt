@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-09-05T08:04:28.754Z
+# Aggregated blacklist generated on 2026-09-05T13:15:45.698Z
  
 0-30-24.com
 0-attorney.com
@@ -47827,6 +47827,7 @@ coyotecarz.com
 coystigis.cf
 coystigis.ga
 coystigis.gq
+coywwbls.web.id
 coza.ro
 cozilla.pw
 cozmagicskincare.com
@@ -98155,6 +98156,7 @@ jevans.eu
 jevc.life
 jevtw6.host
 jewasity.com
+jewby.com
 jewdough.com
 jewel.ie
 jewelbyolivia.com

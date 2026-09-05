@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-09-05T16:33:51.669Z
+# Aggregated blacklist generated on 2026-09-05T19:57:58.415Z
  
 0-00.usa.cc
 0-30-24.com
@@ -97657,6 +97657,7 @@ gcpmakerds.cyou
 gcpowner.online
 gcpripon.space
 gcpriponteam.xyz
+gcptoday.xyz
 gcrf.com
 gcscarshipping.com
 gcsiinc.com
@@ -178298,6 +178299,7 @@ owo.so
 owob.emltmp.com
 owohbfhobr.ga
 owoso.com
+owovo.site
 owowed.moe
 owpb.laste.ml
 owpgfq4udg.mailbo.store

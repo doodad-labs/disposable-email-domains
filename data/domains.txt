@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-09-05T03:04:10.531Z
+# Aggregated blacklist generated on 2026-09-05T08:04:28.754Z
  
 0-00.usa.cc
 0-30-24.com
@@ -70324,6 +70324,7 @@ devov.site
 devow.site
 devox.site
 devoz.site
+devpoet.com
 devq.site
 devr.site
 devreg.org
@@ -205968,6 +205969,7 @@ samblad.ga
 samblad.ml
 samblogs.nett.to
 samblogs.zone.id
+sambolias.com
 sambuzh.com
 sambvid.my.id
 samcloudq.com

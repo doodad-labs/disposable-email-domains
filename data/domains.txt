@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-09-06T13:24:43.774Z
+# Aggregated blacklist generated on 2026-09-06T16:42:51.439Z
  
 0-00.usa.cc
 0-30-24.com
@@ -12727,6 +12727,7 @@
 66a96.com
 66aabet.info
 66aji2qigx.mailbo.store
+66b1it.eu.org
 66betcasino.info
 66betlogin.info
 66biolinks.net
@@ -43127,6 +43128,7 @@ bitovik-rostov.ru
 bitplayerpress.org
 bitpost.site
 bitrage.app
+bitrealm.in
 bitrf.anonbox.net
 bitrix-market.ru
 bitrixmail.xyz
@@ -84987,6 +84989,7 @@ evafan.com
 evaforum.info
 evaherbals.info
 evairo.fun
+evairo.web.id
 evakarin.net
 evakuator-dobriy.ru
 evakuator23rus.ru
@@ -124357,6 +124360,8 @@ jamel.com
 jamere.site
 james-design.com
 jamesadvisers.com
+jamesat.biz.id
+jamesat.my.id
 jamesbarron.org
 jamesbasics.com
 jamesbild.com
@@ -130992,6 +130997,8 @@ kathleenwalton.com
 kathmandumart.net
 kathrinelarsen.me
 kathrynbell-design.com
+kathrynis.my.id
+kathrynis.web.id
 kathrynowen.com
 kathwld.store
 kathybyrnes.com
@@ -167395,6 +167402,7 @@ nextmin.com
 nextmola.com
 nextoc.com
 nextphoneqa.com
+nextpomi.dynv6.net
 nextracom.info
 nextrial.ai
 nextroundcap.com
@@ -202132,6 +202140,7 @@ rosejellyyoga.com
 roselarose.com
 roselin.ee
 roselism.com
+rosella.my.id
 roselug.org
 rosemarrty.online
 rosendalerapids.com
@@ -248222,6 +248231,7 @@ vutruai.sbs
 vutrugay.org
 vuub.luk2.com
 vuunyqmi2c.mailbo.store
+vuv.indevs.in
 vuv9hhstrxnjkr.cf
 vuv9hhstrxnjkr.ga
 vuv9hhstrxnjkr.gq

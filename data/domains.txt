@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-09-05T23:45:50.582Z
+# Aggregated blacklist generated on 2026-09-06T03:04:16.281Z
  
 0-00.usa.cc
 0-30-24.com
@@ -10021,6 +10021,7 @@
 4q9tw.site
 4qar0abjwb.mailbo.store
 4qdazs30wy.mailbo.store
+4qdec.anonbox.net
 4qdlfck6vy.mailbo.store
 4qeqzkhb.mailosaur.net
 4qfll891oj.mailbo.store

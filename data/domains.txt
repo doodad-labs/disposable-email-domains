@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-09-07T03:01:40.375Z
+# Aggregated blacklist generated on 2026-09-07T08:56:47.232Z
  
 0-00.usa.cc
 0-30-24.com
@@ -66329,6 +66329,7 @@ d90b.xyz
 d90bs8.us
 d90z46i5fi.mailbo.store
 d91jhc2i9e.mailbo.store
+d91lw8.disbox.net
 d93xxp.us
 d94zkma3e5.mailbo.store
 d95652j.cse445.com
@@ -89100,6 +89101,7 @@ fenesitz.ml
 fenesitz.tk
 fenevbahce.ml
 fenexy.com
+fenfax.com
 feng.cloudns.org
 fengli4.com
 fengli5.com
@@ -92279,6 +92281,7 @@ fnzm.net
 fnzrv74bqr.mailbo.store
 fo-sale.online
 fo.luk2.com
+fo0ycb.moakt.cc
 fo48wzqdpi.mailbo.store
 fo588.com
 fo6lmxc4na.mailbo.store
@@ -93529,6 +93532,7 @@ france-goto.xyz
 france-legal.com
 france-monclers.com
 france-nedv.ru
+france.edu.pl
 france3-44lafranceliberee.com
 francecasinobonus.com
 francemedecine.online
@@ -107861,6 +107865,7 @@ haruto1710.masashi95.dev256.xyz
 harvard-ac-uk.tk
 harvard.ac.uk
 harvard.gq
+harvenkiori.us
 harvesinvestmentgroup.com
 harvestacademydz.com
 harvestcentre.org
@@ -138027,6 +138032,7 @@ lap13.com
 lapak21.video
 lapakbanyumas.com
 lapakbonus.top
+lapaklisensi.biz.id
 lapakpokers.net
 lapakqu.com
 lapakqu.site
@@ -149545,6 +149551,7 @@ mailphar.com
 mailphu.com
 mailpick.biz
 mailpile.co
+mailpingback.com
 mailpk.info
 mailpk.site
 mailpkc.com
@@ -172236,6 +172243,7 @@ o7t2auk8msryc.tk
 o7ucuhjd.mailosaur.net
 o7ukrxn5cd.mailbo.store
 o7vvj8.us
+o7vx4a.tmail.ws
 o7w7hfm8wq.mailbo.store
 o7xg2bqq0t.mailbo.store
 o7yb8ukq7e.mailbo.store
@@ -180207,6 +180215,7 @@ paris-attractions.com
 paris-golfette.com
 paris.com
 paris.company
+paris.edu.pl
 parisannonce.com
 parisanta.com
 parisbahis117.com
@@ -212601,6 +212610,7 @@ singamedical.com
 singapore-11.com
 singapore-nedv.ru
 singapore.cd
+singapore.edu.pl
 singaporeg.sg
 singaporelor.com
 singaporemail.com
@@ -220916,6 +220926,7 @@ suggest.healthcareprivacy.click
 suggest.healthroutine.click
 suggest.mailbo.store
 suggest.makeablunder.click
+suggest.smarttravellerhq.click
 suggest.thegambol.click
 suggest.tourlabs.click
 suggest.travellerrpg.click
@@ -236696,6 +236707,7 @@ twistedtortillafreshmexgrill.com
 twit-mail.com
 twitch.lellolidk.de
 twitch.work
+twitch.work.
 twitchieleaks.com
 twitchmasters.com
 twitchname.ru

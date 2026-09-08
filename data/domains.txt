@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-09-08T14:09:44.571Z
+# Aggregated blacklist generated on 2026-09-08T19:16:03.511Z
  
 0-00.usa.cc
 0-30-24.com
@@ -214430,6 +214430,7 @@ smarttechdesignlab.com
 smarttestztn.site
 smarttickethub.com
 smarttipsannie.com
+smarttravellerhq.click
 smarttrut.space
 smarttvshop.life
 smartvanlines.com
@@ -269269,6 +269270,7 @@ zz777br1.com
 zz8lwu0lbp.mailbo.store
 zz9fdnct6i.mailbo.store
 zzag.com
+zzaidah.cloud
 zzbechwe1g.mailbo.store
 zzcash.ml
 zzcez3ydkp.mailbo.store

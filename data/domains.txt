@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-09-07T22:31:08.847Z
+# Aggregated blacklist generated on 2026-09-08T03:11:33.325Z
  
 0-00.usa.cc
 0-30-24.com
@@ -167347,6 +167347,7 @@ nexmanti.net
 nexofinance.us
 nexondigi.com
 nexorabio.pro.vn
+nexoriumet.xyz
 nexosolucionespro.com
 nexosphere.lifestyle
 nexostartups.com
@@ -213171,6 +213172,7 @@ sjoya4jcyy.mailbo.store
 sjp.nyc
 sjpvvp.org
 sjq43pbyyu.mailbo.store
+sjqj2.anonbox.net
 sjqmiihs.shop
 sjrajufhwlb.cf
 sjrajufhwlb.ga

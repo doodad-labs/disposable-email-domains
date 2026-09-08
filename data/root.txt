@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-09-08T03:11:33.325Z
+# Aggregated blacklist generated on 2026-09-08T08:38:25.617Z
  
 0-30-24.com
 0-attorney.com
@@ -22963,6 +22963,7 @@ atrezje.radom.pl
 atrickmail.com
 atrimoney.site
 atrium.cd
+atriumcafe.cafe
 atriummanagment.com
 atriushealth.info
 atrixxx.site
@@ -23061,6 +23062,7 @@ atwankbe3wcnngp.ml
 atwankbe3wcnngp.tk
 atwellpublishing.com
 atwerpfj.shop
+atwilltours.com
 atxcrunner.com
 atyone.website
 atypiqueprod.com
@@ -53984,6 +53986,7 @@ dewayim.site
 dewchenkam.ru
 deweef.com
 dewewi.com
+deweyart.com
 deweyscoffee.com
 dewightanderson.com
 dewightssalon.com
@@ -59739,6 +59742,7 @@ e-wawa.pl
 e-windykacje.pl
 e-zlunchbox.com
 e-zpassct.com
+e.com
 e.tt
 e04ajj.site
 e052.com
@@ -84114,6 +84118,7 @@ harvard-ac-uk.tk
 harvard.ac.uk
 harvard.edu
 harvard.gq
+harvenkiori.com
 harvenkiori.us
 harvesinvestmentgroup.com
 harvestacademydz.com
@@ -84246,6 +84251,7 @@ hassandesigns.top
 hassle-me.com
 hasslex.com
 hassmiry.online
+hastana.com
 hastarlat.site
 hastingshotelrooms.co.uk
 hastingsrealestateagents.com
@@ -102112,6 +102118,7 @@ kdweed.com
 kdwz.cloudns.ph
 kdxcvft.xyz
 kdzrgroup.com
+ke.com
 ke1le.cyou
 ke3981.com
 ke3996.com
@@ -124885,6 +124892,7 @@ mp3afrique.com
 mp3cc-top.biz
 mp3charm.com
 mp3diamond.com
+mp3dj.eu
 mp3dn.net
 mp3download24.info
 mp3freed.net
@@ -159449,6 +159457,7 @@ rwc.tw
 rwcfunding.com
 rwcmail.com
 rwdd.com
+rweebz-mail-1.online
 rwerghjoyr.cloud
 rwerwerwer.com
 rwesfd2.shop
@@ -168276,6 +168285,7 @@ smartwriteups.com
 smartx.sytes.net
 smarty123.info
 smartyzaim.store
+smartzg.com
 smartzuyer.online
 smashchao.fun
 smashing-pumpkins.com
@@ -188629,6 +188639,7 @@ ukrgov.com
 ukrmail.org.ua
 ukrtovar.ru
 uks5.com
+ukshop538yt.uk
 uksingers.com
 ukslappers.co
 uksmm.biz
@@ -207311,6 +207322,7 @@ yuristsochi24.ru
 yurka.net
 yurko.fun
 yurneeds.com
+yurovovault.shop
 yurpex.site
 yurtdisitatilsec.com
 yurtdisitursec.com

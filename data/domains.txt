@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-09-08T03:11:33.325Z
+# Aggregated blacklist generated on 2026-09-08T08:38:25.617Z
  
 0-00.usa.cc
 0-30-24.com
@@ -33050,6 +33050,7 @@ atrickmail.com
 atrimoney.site
 atriox.rf.gd
 atrium.cd
+atriumcafe.cafe
 atriummanagment.com
 atriushealth.info
 atrixxx.site
@@ -33160,6 +33161,7 @@ atwankbe3wcnngp.ml
 atwankbe3wcnngp.tk
 atwellpublishing.com
 atwerpfj.shop
+atwilltours.com
 atwinvi2694.a.lofteone.ru
 atx.emltmp.com
 atxcrunner.com
@@ -70416,6 +70418,7 @@ dewcclossearch1694.lofteone.ru
 dewchenkam.ru
 deweef.com
 dewewi.com
+deweyart.com
 deweyscoffee.com
 dewightanderson.com
 dewightssalon.com
@@ -77448,6 +77451,7 @@ e.bettermail.website
 e.blogspam.ro
 e.captchaeu.info
 e.coloncleanse.club
+e.com
 e.crazymail.website
 e.darkmesa.net
 e.discard-email.cf
@@ -107866,6 +107870,7 @@ haruto1710.masashi95.dev256.xyz
 harvard-ac-uk.tk
 harvard.ac.uk
 harvard.gq
+harvenkiori.com
 harvenkiori.us
 harvesinvestmentgroup.com
 harvestacademydz.com
@@ -108008,6 +108013,7 @@ hassle-me.com
 hasslex.com
 hassmiry.online
 hassvkljhc.mailbo.store
+hastana.com
 hastarlat.site
 hastingshotelrooms.co.uk
 hastingsrealestateagents.com
@@ -128006,6 +128012,7 @@ jpzgjh.org
 jq.dropmail.me
 jq.emlhub.com
 jq.luk2.com
+jq.nm.edu.pl
 jq1rdpc6zc.mailbo.store
 jq310.site
 jq385ezfoq.mailbo.store
@@ -131447,6 +131454,7 @@ kdygva9a91.mailbo.store
 kdzaqwj.cse445.com
 kdziaslgcr.cempue.online
 kdzrgroup.com
+ke.com
 ke.emlpro.com
 ke.luk2.com
 ke1le.cyou
@@ -159862,6 +159870,7 @@ mp3afrique.com
 mp3cc-top.biz
 mp3charm.com
 mp3diamond.com
+mp3dj.eu
 mp3dn.net
 mp3download24.info
 mp3freed.net
@@ -203975,6 +203984,7 @@ rwc.tw
 rwcfunding.com
 rwdd.com
 rwed.cse445.com
+rweebz-mail-1.online
 rwerghjoyr.cloud
 rwerwerwer.com
 rwesfd2.shop
@@ -214435,6 +214445,7 @@ smartwriteups.com
 smartx.sytes.net
 smarty123.info
 smartyzaim.store
+smartzg.com
 smartzuyer.online
 smashchao.fun
 smashing-pumpkins.com
@@ -239138,6 +239149,7 @@ ukrmail.org.ua
 ukrnju4pgm.mailbo.store
 ukrtovar.ru
 uks5.com
+ukshop538yt.uk
 uksingers.com
 ukslappers.co
 uksmm.biz
@@ -264845,6 +264857,7 @@ yuristsochi24.ru
 yurka.net
 yurko.fun
 yurneeds.com
+yurovovault.shop
 yurpex.site
 yurtdisitatilsec.com
 yurtdisitursec.com

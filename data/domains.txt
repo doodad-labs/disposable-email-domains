@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-09-09T14:10:45.294Z
+# Aggregated blacklist generated on 2026-09-09T19:05:35.471Z
  
 0-00.usa.cc
 0-30-24.com
@@ -167471,6 +167471,7 @@ nexus388.org
 nexusbridge.co
 nexusgaming88com.com
 nexusgecko.com
+nexushost.site
 nexusmail.cfd
 nexuss88.com
 nexusstream.online
@@ -190566,6 +190567,7 @@ pulseofthestreets.com
 pulsepad.com
 pulsewebmenu.de
 pulsgniezna.pl
+pulsix.pw
 pulsusseries.com
 pulverize136es.online
 pulwarm.net

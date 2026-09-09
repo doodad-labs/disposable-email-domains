@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-09-09T03:13:30.248Z
+# Aggregated blacklist generated on 2026-09-09T08:39:30.522Z
  
 0-00.usa.cc
 0-30-24.com
@@ -5417,6 +5417,7 @@
 2694445.com
 269966.xyz
 269ac.com
+26ai.art
 26ai.org
 26an1am6wl.mailbo.store
 26c7.club
@@ -17229,6 +17230,7 @@
 8pc2ztkr6.pl
 8pff35yd.saucent.online
 8pgm.dung2tb.io.vn
+8pizzapeperoni.space
 8pm6.cse445.com
 8pmojmpb7b.mailbo.store
 8pmqjqx5do.mailbo.store
@@ -20158,6 +20160,7 @@ aasgashashashajh.gq
 aashapuraenterprise.com
 aaskin.fr
 aasm6udhkr.mailbo.store
+aaspeptide.com
 aasrenoworks.com
 aasrvkr2gp.mailbo.store
 aasshycsqs.mailbo.store
@@ -35083,11 +35086,14 @@ azgnbkl1a6.mailbo.store
 azgoptc4ez.mailbo.store
 azh1tq.site
 azhacad.org
+azhacd.org
+azharhi.org
 azharhs.org
 azhcol.com
 azhcol.org
 azhedu.org
 azhhi.org
+azhhigh.org
 azhi.us
 azhigh.org
 azhirock.com
@@ -60583,6 +60589,7 @@ columbustaps.com
 columbuswellnessmedicine.com
 columedu.us
 colums.us
+columsch.us
 colurmish.com
 colus.us
 coluscho.us
@@ -61804,6 +61811,7 @@ controller.jorxe.com
 controllerblog.com
 controllernation.com
 controlshiftn.com
+controlwaste.ru
 controversiafmals.com
 conttirdia.cf
 conttirdia.ga
@@ -87259,6 +87267,7 @@ fake-mail.ml
 fake-mail.net
 fake-mail.tk
 fake-raybans.org
+fake.com
 fake.igg.biz
 fake.sorcix.com
 fake.toys
@@ -93644,6 +93653,7 @@ fraud.ltd
 fraudattorneys.biz
 fraudcaller.com
 frauddivision.com
+fraudfindez.com
 fraudsniper.net
 frauenspezifische.com
 fravilo.space
@@ -99521,6 +99531,7 @@ ghathigh.us
 ghaths.us
 ghathsus.us
 ghatk.us
+ghatkali.us
 ghatkedu.us
 ghatkh.us
 ghatkhal.us
@@ -109982,6 +109993,7 @@ heyveg.com
 heywebuyhousesfast.com
 heywhatsnews.com
 heywhatsoup.com
+heyzalo.vn
 heyzane.wtf
 hezarpay.com
 hezemail.ga
@@ -115424,6 +115436,7 @@ hypercarmail.com
 hypercomplete.net
 hypercrli.com
 hypercrmail.com
+hypercubemail.com
 hyperdash.site
 hyperdmail.com
 hyperebml.ru
@@ -118405,6 +118418,7 @@ imageslow.buzz
 imagesnuptial.com
 imagesofcreation.net
 imagesofsantabarbara.com
+imagesthere.com
 imagestopshop.com
 imagesystems.com
 imagic.wiki
@@ -130074,6 +130088,7 @@ k8wckeuath.mailbo.store
 k8wmm1nsfj.mailbo.store
 k8wo386.cse445.com
 k8xp.com
+k9.nm.edu.pl
 k902rp.saucent.online
 k91j.autokey247.com
 k955ulwv07.mailbo.store
@@ -130501,6 +130516,7 @@ kameili.com
 kameloenmm.igg.biz
 kamelonn.igg.biz
 kamen-market.ru
+kamenjkee.online
 kamenrider.ru
 kamershipping.net
 kamesvillage.store
@@ -151123,6 +151139,7 @@ manyg.site
 manyh.site
 manyhaywire.com
 manyhod.space
+manyima.com
 manyj.site
 manyk.com
 manyk.site
@@ -163521,6 +163538,7 @@ myr2d.com
 myr49v.us
 myrabax.space
 myrabeatriz.minemail.in
+myralea.com
 myramires.com
 myrandomthoughts.info
 myrates.ru
@@ -168409,6 +168427,7 @@ nilocaserool.tk
 nilocus.com
 nils261.store
 nilsenlaw.com
+nilufa.kuromee.com
 nilufer.org
 niluferevleri.xyz
 nilyazilim.com
@@ -176659,6 +176678,7 @@ oratalk.com
 oravaconsulting.com
 oravantis.cfd
 oravell.cfd
+orb0.wgtapps.com
 orbh.com
 orbidea.shop
 orbit25k.io.vn
@@ -189109,6 +189129,7 @@ profilelocked.com
 profilepictureguard.club
 profilepictureguard.net
 profilesag.com
+profiless.online
 profilewatcher.website
 profiliebakankisiler1.club
 profilific.com
@@ -189351,6 +189372,7 @@ prometheusworks.co
 promgmt.com.sa
 promin-33.com
 prominentapp.com
+prominentghost.com
 prominx.my.id
 promiron.com
 promisetoact.info
@@ -250161,6 +250183,7 @@ wb3tdxgbau.mailbo.store
 wb5l9je1ii.mailbo.store
 wb8mlvehno.mailbo.store
 wb8ozvczem.mailbo.store
+wb8rxa.moakt.ws
 wbaktl4gku.mailbo.store
 wbatx.anonbox.net
 wbaznkroxo.mailbo.store
@@ -251639,6 +251662,7 @@ weszwestyningrum767.cf
 wet-fish.com
 wet-lip.com
 wetama.com
+wetfan.com
 wetguuttt.cam
 wetheagency.net
 wetheot.com
@@ -257090,6 +257114,7 @@ xenodiagnruby.ru
 xenodio.gr
 xenofmail.ru
 xenofon.gr
+xenoforo.online
 xenogamy.site
 xenonforte.space
 xenonheadlightsale.com
@@ -268713,6 +268738,7 @@ zualikhakk.tk
 zuan4e.us
 zuaod.com
 zuasu.com
+zub.edu.pl
 zubacteriax.com
 zubairnews.com
 zubayer.cf

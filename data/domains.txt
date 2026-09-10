@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-09-09T22:16:47.844Z
+# Aggregated blacklist generated on 2026-09-10T03:13:12.632Z
  
 0-00.usa.cc
 0-30-24.com
@@ -43556,6 +43556,7 @@ bl2oqck09k.mailbo.store
 bl2vhjwars.mailbo.store
 bl36v.anonbox.net
 bl3xo7.us
+bl3zj.anonbox.net
 bl555uknet.com
 bl5ic2ywfn7bo.cf
 bl5ic2ywfn7bo.ga
@@ -118110,6 +118111,7 @@ ikvy.email
 ikwdf.anonbox.net
 ikwec9kdej.mailbo.store
 ikwo.dropmail.me
+ikwq.cnpenylq.web.id
 ikxr.freeml.net
 iky1.cse445.com
 ikyg.tieumuoishop.io.vn
@@ -154253,6 +154255,7 @@ meloman.in
 melon-beyond.com
 melonandhini.io
 melonic.store
+melorvian.com
 melowsa.com
 melpadis8663.a.lofteone.ru
 melresa.cf
@@ -188518,6 +188521,7 @@ primevaluegolf.com
 primevaluenutrition.com
 primevaluevitamins.com
 primevantage.com.mx
+primevista.it.com
 primewest.com
 primewire-movies.biz
 primex.club
@@ -243996,6 +244000,7 @@ velocitydigital.net
 velocityinbox.cfd
 velomandryvo.xyz
 velomind.space
+velonarix.com
 veloped.us
 velosegway.ru
 velostocrat.com

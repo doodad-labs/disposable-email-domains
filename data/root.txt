@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-09-09T22:16:47.844Z
+# Aggregated blacklist generated on 2026-09-10T03:13:12.632Z
  
 0-30-24.com
 0-attorney.com
@@ -44923,6 +44923,7 @@ cnojobs.com
 cnolder.net
 cnovelhu.com
 cnpcapitalbank.com
+cnpenylq.web.id
 cnplace.com
 cnrtrip.com
 cnsa.biz
@@ -120029,6 +120030,7 @@ meloman.in
 melon-beyond.com
 melonandhini.io
 melonic.store
+melorvian.com
 melowsa.com
 melresa.cf
 melresa.ga
@@ -147679,6 +147681,7 @@ primevaluegolf.com
 primevaluenutrition.com
 primevaluevitamins.com
 primevantage.com.mx
+primevista.it.com
 primewest.com
 primewire-movies.biz
 primex.club
@@ -192181,6 +192184,7 @@ velocitydigital.net
 velocityinbox.cfd
 velomandryvo.xyz
 velomind.space
+velonarix.com
 veloped.us
 velosegway.ru
 velostocrat.com

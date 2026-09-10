@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-09-10T18:57:53.305Z
+# Aggregated blacklist generated on 2026-09-10T22:16:25.107Z
  
 0-00.usa.cc
 0-30-24.com
@@ -150717,6 +150717,7 @@ managementconsulting.site
 managementinstruction.buzz
 managementluna.com
 managements.best
+manager.lat
 manager.mailbo.store
 managere.store
 managerfmail.com
@@ -254163,6 +254164,7 @@ workcrossbow.ml
 workemail5.ru
 worker.com
 worker.mailbo.store
+workers.lat
 workers.su
 workersunity.org
 workevo.email

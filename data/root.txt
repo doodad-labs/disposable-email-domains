@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-09-10T22:16:25.107Z
+# Aggregated blacklist generated on 2026-09-11T03:08:34.303Z
  
 0-30-24.com
 0-attorney.com
@@ -137169,6 +137169,7 @@ openssource.site
 openstark.org
 openstate.info
 openstaxtutor.com
+openstudy.edu.pl
 opensupports.click
 opensupportteams.click
 opensupprts.click

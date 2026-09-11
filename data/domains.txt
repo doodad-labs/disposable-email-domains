@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-09-11T18:59:42.064Z
+# Aggregated blacklist generated on 2026-09-11T22:16:34.455Z
  
 0-00.usa.cc
 0-30-24.com
@@ -265100,6 +265100,7 @@ ywydw.com
 ywyer3xg8b.mailbo.store
 ywys.emltmp.com
 ywzd.laste.ml
+ywzg.bevljoqf.web.id
 ywzmb.top
 ywzs20d76pb06zy.xyz
 yx.dns-cloud.net

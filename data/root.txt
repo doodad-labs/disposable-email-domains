@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-09-12T03:15:19.132Z
+# Aggregated blacklist generated on 2026-09-12T08:23:08.806Z
  
 0-30-24.com
 0-attorney.com
@@ -70358,6 +70358,7 @@ firstmail.space
 firstmail.website
 firstmailler.com
 firstmailler.net
+firstmailmorty.com
 firstmainweekend.com
 firstmeta.com
 firstmistake.com
@@ -77381,6 +77382,7 @@ ghatksch.us
 ghats.us
 ghatsc.us
 ghatsch.us
+ghatsco.us
 ghatsedu.us
 ghatsh.us
 ghbceyuunw.ga
@@ -78411,6 +78413,7 @@ global4d.online
 globalaluminyum.net
 globalbetaetf.com
 globalbizflow.com
+globalcacher.uk
 globalcampus.edu.pl
 globalcarinsurance.top
 globalccashcard.com
@@ -81674,6 +81677,7 @@ gsasearchenginerankersocialser.com
 gsasearchenginerankervps.com
 gsaseoemail.com
 gsaser.world
+gsaserbuilder.xyz
 gsaverifiedlist.download
 gsavps.xyz
 gsbalumni.com
@@ -103888,6 +103892,7 @@ kiyastand.site
 kiyg.me
 kiyoapk.web.id
 kiyonna.ru
+kiyora.my.id
 kiyua.com
 kiz.rip
 kiz10.games

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-09-12T23:45:45.866Z
+# Aggregated blacklist generated on 2026-09-13T03:19:06.200Z
  
 0-00.usa.cc
 0-30-24.com
@@ -68559,6 +68559,7 @@ deborahpodolsky.org
 deborahvess.org
 debraboyle.com
 debradelfino.com
+debradev.biz.id
 debran-indian-swords.com
 debrauwadvocaten.online
 debruler.dynamailbox.com
@@ -111562,6 +111563,7 @@ hmpoeao.com
 hmpt.com
 hmpw.com
 hmqakvuxu2.mailbo.store
+hmrgk.anonbox.net
 hmrh.spymail.one
 hms8skwoqk.mailbo.store
 hmsale.org
@@ -246021,6 +246023,7 @@ virginmmedia.com
 virginshuttle.com
 virginsrus.xyz
 virginvoyages.click
+virginvoyagesapp.click
 virginvoyageshubs.click
 virglio.com
 virgnmedia.com

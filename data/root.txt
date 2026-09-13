@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-09-13T18:33:20.730Z
+# Aggregated blacklist generated on 2026-09-13T22:08:10.057Z
  
 0-30-24.com
 0-attorney.com
@@ -20175,6 +20175,7 @@ apocaw.com
 apocyntomail.com
 apocztaz.com.pl
 apodeimalu.ru
+apoefgm.my.id
 apogeeropeaccess.com
 apogeotaml.ru
 apogeotmail.ru
@@ -113396,6 +113397,7 @@ luocentce.gq
 luocentce.ml
 luocentce.tk
 luohunzu.com
+luoi.asia
 luomeng.info
 luonchia.online
 luongbinhduong.ml

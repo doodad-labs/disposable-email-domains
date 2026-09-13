@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-09-13T14:04:38.817Z
+# Aggregated blacklist generated on 2026-09-13T18:33:20.730Z
  
 0-30-24.com
 0-attorney.com
@@ -72094,6 +72094,7 @@ formonsdy.gq
 formonsdy.ml
 formonsdy.tk
 forms-checker.online
+forms.lat
 formserwis.pl
 formsm.com
 formsnapper.com
@@ -157593,6 +157594,7 @@ rocketmail.ro
 rocketmail.ru
 rocketmail.se
 rocketmail.sg
+rocketmail.top
 rocketmaill.com
 rocketmsil.com
 rocketpostbox.com

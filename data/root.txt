@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-09-13T08:59:25.250Z
+# Aggregated blacklist generated on 2026-09-13T14:04:38.817Z
  
 0-30-24.com
 0-attorney.com
@@ -32887,6 +32887,7 @@ bodiedbootcamp.com
 bodjob.co.uk
 bodlet.com
 bodmail.store
+bodmenn.com
 bodmod.ga
 bodog-asia.net
 bodog-poker.net
@@ -84244,6 +84245,7 @@ hashprime.com
 hashratehunters.com
 hashratetest.com
 hashtag-travel.net
+hashtag.lat
 hashtagalcohol.com
 hashtagblock.com
 hashtagbyte.com
@@ -177552,6 +177554,7 @@ techchakras.com
 techchamak.com
 techclouder.tech
 techcreative.us
+techcyber.shop
 techcz.com
 techdan.site
 techdevacademy.info

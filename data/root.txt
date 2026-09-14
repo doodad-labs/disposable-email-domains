@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-09-13T22:08:10.057Z
+# Aggregated blacklist generated on 2026-09-14T03:31:02.661Z
  
 0-30-24.com
 0-attorney.com
@@ -78549,6 +78549,7 @@ glorysteak.email
 glorytr.xyz
 glorytru.xyz
 gloryws.com
+glorzomail.com
 gloservma.com
 gloset.mx
 gloshospitals.com
@@ -103731,6 +103732,7 @@ kirchdicka.ml
 kirchdicka.tk
 kirchgatters.com
 kirifurian.com
+kirikanan.icu
 kirikiyacasino.com
 kirikkaleanadolulisesi.xyz
 kirim.cfd
@@ -121434,6 +121436,7 @@ microsporfmail.com
 microspormal.com
 microsses.xyz
 microteez.com
+microversemail.com
 microwavetechnology.xyz
 micrrove.com
 micrsomali.ru
@@ -137297,6 +137300,7 @@ opkhronvj.shop
 oplaskit.ml
 oplat-tele.com
 oplata-kartoi-a.xyz
+oplata-servisov.store
 oplatrun.cyou
 ople5c.info
 oplimcha.org
@@ -167728,6 +167732,7 @@ skynt.be
 skyoid.xyz
 skyometric.com
 skypaluten.de
+skypayeal.online
 skypaypay.xyz
 skype.com.se
 skypewebui.eu

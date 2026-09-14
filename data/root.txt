@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-09-14T03:31:02.661Z
+# Aggregated blacklist generated on 2026-09-14T09:35:45.858Z
  
 0-30-24.com
 0-attorney.com
@@ -6569,6 +6569,7 @@
 51kyb.com
 51lya8.site
 51lyt.com
+51mail.shop
 51mfty.com
 51pvp.win
 51stocks.xyz
@@ -41463,6 +41464,7 @@ chatbotpack.org
 chatbulate.com
 chatburte.com
 chatcamporn.com
+chatclaude.top
 chatdays.com
 chatdig.com
 chateastern.com
@@ -92093,6 +92095,7 @@ ileosigmmail.com
 ileqmail.com
 iletity.com
 ilex-canal.fr
+ilfake.com
 ilh0c2.us
 ilhabelablogs.store
 ilhalfpricelisting.com
@@ -92279,6 +92282,7 @@ imagegaga.com
 imagehostfile.eu
 imagehouse.online
 imagelabsaibig.com
+imagenbox.xyz
 imageninnova.com
 imagens.cf
 imagepoet.net

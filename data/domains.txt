@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-09-14T03:31:02.661Z
+# Aggregated blacklist generated on 2026-09-14T09:35:45.858Z
  
 0-00.usa.cc
 0-30-24.com
@@ -10604,6 +10604,7 @@
 51kyb.com
 51lya8.site
 51lyt.com
+51mail.shop
 51mfty.com
 51nw.pigeonprotocol.com
 51o3yjcrsa.mailbo.store
@@ -55731,6 +55732,7 @@ chatbulate.com
 chatburte.com
 chatcamporn.com
 chatceiman4046.lofteone.ru
+chatclaude.top
 chatdays.com
 chatdig.com
 chateastern.com
@@ -71408,6 +71410,7 @@ digicash.org
 digiclase.com
 digicontentnetwork.com
 digicures.com
+digidaw.qd.je
 digier365.pl
 digifast.web.id
 digiglobalai.com
@@ -118198,6 +118201,7 @@ ileosigmmail.com
 ileqmail.com
 iletity.com
 ilex-canal.fr
+ilfake.com
 ilfquajbvr.mailbo.store
 ilftyqqckj.mailbo.store
 ilh.laste.ml
@@ -118429,6 +118433,7 @@ imagegaga.com
 imagehostfile.eu
 imagehouse.online
 imagelabsaibig.com
+imagenbox.xyz
 imageninnova.com
 imagens.cf
 imagepoet.net

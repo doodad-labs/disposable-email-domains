@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-09-15T20:55:51.229Z
+# Aggregated blacklist generated on 2026-09-15T23:59:05.221Z
  
 0-00.usa.cc
 0-30-24.com
@@ -149399,7 +149399,6 @@ mailhq.club
 mailhq.online
 mailhub-lock.com
 mailhub.online
-mailhub.pro
 mailhub.pw
 mailhub.top
 mailhub15.outlook.rest

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-09-15T00:18:51.300Z
+# Aggregated blacklist generated on 2026-09-15T07:13:28.940Z
  
 0-30-24.com
 0-attorney.com
@@ -58951,6 +58951,7 @@ dudscc.com
 dudscc.sbs
 dudscuapcut.store
 dudsstore.fun
+duduai.my.id
 dudud.com
 dudvc.com
 dudy.mom
@@ -79466,6 +79467,7 @@ gogleepost.com
 goglemail.cf
 goglemail.ga
 goglemail.ml
+gogles.sbs
 gogoanimes.xyz
 gogobubut.com
 gogoemail.top

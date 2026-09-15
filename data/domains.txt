@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-09-15T17:56:21.400Z
+# Aggregated blacklist generated on 2026-09-15T20:55:51.229Z
  
 0-00.usa.cc
 0-30-24.com
@@ -135,6 +135,7 @@
 007gmail.com
 007jlbu.com
 007jllogin.ph
+007jlphp.com
 008015.xyz
 0081jzjnuydfhutav.topikurrohman.xyz
 0083015.com
@@ -163722,6 +163723,7 @@ myplanmap.com
 myplanmypackage.com
 myplannerbook.com
 mypmoc.com
+mypochtanew.top
 mypool.live
 mypop3.bid
 mypop3.trade

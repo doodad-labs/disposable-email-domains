@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-09-14T21:31:30.469Z
+# Aggregated blacklist generated on 2026-09-15T00:18:51.300Z
  
 0-30-24.com
 0-attorney.com
@@ -15638,6 +15638,7 @@ airwayy.us
 airweldon.com
 airxr.ru
 airybreeze.com
+airychen.com
 airyofe.space
 aisaelectronics.com
 aisan.my.id
@@ -31918,6 +31919,7 @@ blnm.com
 blntm.site
 bloatbox.com
 blob5.com
+blobapps.com
 bloc.quebec
 block-caching.com
 block-coinhub.info
@@ -58051,6 +58053,7 @@ dreamcatcher.email
 dreamclarify.org
 dreamdonation.com
 dreamed776ll.online
+dreameg.com
 dreamerbusinesssolutions.com
 dreamercast.shop
 dreamersglobal.com
@@ -58969,6 +58972,7 @@ duhanicapital.com
 duhastmail.com
 duhocnhatban.org
 dui-attorney-news.com
+duidir.com
 duipractice.com
 duiter.com
 duitseonlinecasino.nl
@@ -70055,6 +70059,7 @@ findingperry.com
 findingremedy.xyz
 findingyourfinancialpower.com
 finditfoxvalley.com
+findize.com
 findlayhomeshow.com
 findleyfit.com
 findlocalusjobs.com
@@ -86278,6 +86283,7 @@ hiddenspringsllc.net
 hiddentombstone.info
 hiddentragedy.com
 hide-mail.net
+hideam.com
 hidebox.org
 hidebro.com
 hidebusiness.xyz
@@ -99252,6 +99258,7 @@ jobsaa317.xyz
 jobsappmatch.com
 jobsblog.africa
 jobsblog.ru
+jobscai.com
 jobscale.shop
 jobsclever.com
 jobsdeforyou.sa.com
@@ -120351,6 +120358,7 @@ meomeo123.com
 meomo.store
 meon.be
 meong.store
+meonvr.com
 meooovspjv.pl
 meovv.online
 meow-server.space

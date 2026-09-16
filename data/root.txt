@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-09-16T04:35:55.434Z
+# Aggregated blacklist generated on 2026-09-16T10:53:45.503Z
  
 0-30-24.com
 0-attorney.com
@@ -15332,6 +15332,7 @@ aileas.ca
 aileensoo.com
 ailem.info
 ailenien.com
+ailfake.com
 ailicke.com
 ailideng.club
 ailifetexas.com
@@ -109328,6 +109329,7 @@ lez.se
 lezhongda.club
 lf-jy.com
 lf271.site
+lfake.com
 lfamai.buzz
 lfapku.tokyo
 lfbeichuang.com
@@ -117126,6 +117128,7 @@ manhatttanconstructiongroup.com
 manhavebig.shop
 manhha.fun
 manhmkb.click
+manhmmonew.online
 manhwamomo.com
 mania-qq.website
 mania99.org
@@ -163909,6 +163912,7 @@ semessusta.cf
 semessusta.ml
 semessusta.tk
 semestatogel.com
+semester.bond
 semeynayakl.ru
 semfmail.ru
 semfronteira.online

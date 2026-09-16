@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-09-15T23:59:05.221Z
+# Aggregated blacklist generated on 2026-09-16T04:35:55.434Z
  
 0-30-24.com
 0-attorney.com
@@ -42042,6 +42042,7 @@ chelifermail.com
 cheliped.info
 chellup.info
 chelny.press
+chelo.lat
 chelsea.com.pl
 chelseaartsgroup.com
 chelseabibb.com
@@ -111700,6 +111701,7 @@ locklisa.tk
 lockmyaccount.com
 lockout.com
 lockportnydentist.com
+lockroom.cfd
 locksis.site
 locksmangaragedoors.info
 locksmithcourses.us

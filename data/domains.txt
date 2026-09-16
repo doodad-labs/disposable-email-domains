@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-09-15T23:59:05.221Z
+# Aggregated blacklist generated on 2026-09-16T04:35:55.434Z
  
 0-00.usa.cc
 0-30-24.com
@@ -50027,6 +50027,7 @@ bxhktmllk31874.tk
 bxhktmllk84478.ga
 bxhktmllk84478.tk
 bxikkargc9.mailbo.store
+bxiql.anonbox.net
 bxis.email
 bxiwdez413.space
 bxjm.com
@@ -56324,6 +56325,7 @@ chelifermail.com
 cheliped.info
 chellup.info
 chelny.press
+chelo.lat
 chelsea.com.pl
 chelseaartsgroup.com
 chelseabibb.com
@@ -159387,6 +159389,7 @@ moon-piano.online
 moon.blatnet.com
 moon.cowsnbullz.com
 moon.hammerhandz.com
+moon.lockroom.cfd
 moon.makingdomes.com
 moon.pointbuysys.com
 moon.xlping.com

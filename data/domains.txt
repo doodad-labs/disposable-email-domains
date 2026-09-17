@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-09-16T20:54:32.059Z
+# Aggregated blacklist generated on 2026-09-17T00:07:15.299Z
  
 0-00.usa.cc
 0-30-24.com
@@ -129644,6 +129644,7 @@ jzexport.com
 jzfpiwlzuk.mailbo.store
 jzfqcckqk.tk
 jzfswn.com
+jzg35.anonbox.net
 jzgqa1ktxj.mailbo.store
 jzhkby.us
 jzhobuexcd.mailbo.store
@@ -139791,6 +139792,7 @@ lelie.sytes.net
 lella.co
 lellno.gq
 lellol.dev
+lellol.tech
 lellolidk.de
 lelo4you.ru
 leloimed.com.vn
@@ -203923,6 +203925,7 @@ ruletka-online.ru
 ruletkacsgo.com
 ruli.avlnch.store
 rulk.spymail.one
+rulldev.com
 rulnjucoaa.mailbo.store
 rulobet49.com
 ruloli.com

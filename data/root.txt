@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-09-16T20:54:32.059Z
+# Aggregated blacklist generated on 2026-09-17T00:07:15.299Z
  
 0-30-24.com
 0-attorney.com
@@ -108679,6 +108679,7 @@ lelie.sytes.net
 lella.co
 lellno.gq
 lellol.dev
+lellol.tech
 lellolidk.de
 lelo4you.ru
 leloimed.com.vn
@@ -159458,6 +159459,7 @@ rules.lat
 ruletadecasino.net
 ruletka-online.ru
 ruletkacsgo.com
+rulldev.com
 rulobet49.com
 ruloli.com
 rulu.com

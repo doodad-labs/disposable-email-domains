@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-09-17T23:55:14.811Z
+# Aggregated blacklist generated on 2026-09-18T03:19:23.786Z
  
 0-30-24.com
 0-attorney.com
@@ -72872,6 +72872,7 @@ fredojf.dev
 fredol.live
 fredperrycoolsale.com
 fredscarpetcleaners.com
+fredy.lat
 fredy.store
 free-1xbet-app-download.com
 free-4-everybody.bid

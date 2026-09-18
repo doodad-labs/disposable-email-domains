@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-09-17T23:55:14.811Z
+# Aggregated blacklist generated on 2026-09-18T03:19:23.786Z
  
 0-00.usa.cc
 0-30-24.com
@@ -41861,6 +41861,7 @@ bhukq.anonbox.net
 bhuman22.store
 bhumi.ong
 bhumi21.store
+bhuup.anonbox.net
 bhuxp.org
 bhuyarey.ga
 bhuyarey.ml
@@ -93851,6 +93852,7 @@ fredojf.dev
 fredol.live
 fredperrycoolsale.com
 fredscarpetcleaners.com
+fredy.lat
 fredy.store
 free-1xbet-app-download.com
 free-4-everybody.bid

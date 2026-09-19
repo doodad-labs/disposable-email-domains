@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-09-18T22:19:36.660Z
+# Aggregated blacklist generated on 2026-09-19T03:15:48.147Z
  
 0-00.usa.cc
 0-30-24.com
@@ -33217,6 +33217,7 @@ attractionmarketing.net.nz
 attraktiv.nu
 attribufmail.ru
 attruckingservices.net
+attumpt.com
 attxpress.com
 atucotejo.com
 atulya.gq
@@ -48236,6 +48237,7 @@ btcpurchases.site
 btcrobotreviews.org
 btctele.com
 btctoolbox.xyz
+btcz2.anonbox.net
 btczw.com
 btd4p9gt21a.cf
 btd4p9gt21a.ga
@@ -68487,6 +68489,7 @@ de-register-newdevice.com
 de-register.newdevice-secure.com
 de-visions.com
 de.10mail.org
+de.benefactor.website
 de.capio.com
 de.extra-breast.info
 de.introverted.ninja
@@ -72198,6 +72201,7 @@ dirnicefile.site
 dirnicefiles.site
 dirnicelib.site
 dirnicetext.site
+diro.grok-mail.co
 diromail29.biz
 dirrarefile.site
 dirrarefiles.site
@@ -104575,6 +104579,7 @@ grommail.fr
 gronasu.com
 grond.com
 gronk.killa.com.br
+gronkmail.com
 gronn.pl
 groobler.com
 groobox.info
@@ -108487,6 +108492,7 @@ hazardousatmosphere.ru
 hazayuno.com
 hazdigi.com
 hazecobill.com
+hazelcottage.top
 hazelhazel.com
 hazellhouse.co
 hazelmczwu.space
@@ -165225,6 +165231,7 @@ nanopools.cloud
 nanopools.info
 nanopoolscore.online
 nanopoolscore.site
+nanos.lat
 nanoskin.vn
 nanostripes.com
 nanotechranch.com

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-09-19T03:15:48.147Z
+# Aggregated blacklist generated on 2026-09-19T08:33:10.972Z
  
 0-00.usa.cc
 0-30-24.com
@@ -47374,6 +47374,7 @@ brevlady.eu
 brevn.net
 brevnopen.ru
 brew-meister.com
+brew.lat
 brew.ll47.net
 brewbuddies.website
 brewdin.com
@@ -153130,6 +153131,7 @@ mbahraffi.eu.org
 mbahtekno.net
 mbakingzl.com
 mbakjago.dev
+mbakjago.email
 mbakjago.id
 mbakjagostore.id
 mbakjagostore.net
@@ -269936,6 +269938,7 @@ zzz.disbox.org
 zzz.zj.cn
 zzz999bet.info
 zzzaccounting.xyz
+zzzb.megumiss.me
 zzzbetcasino.info
 zzzbwjw384.mailbo.store
 zzzle.anonbox.net

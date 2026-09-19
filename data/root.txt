@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-09-19T20:05:38.250Z
+# Aggregated blacklist generated on 2026-09-19T23:54:47.948Z
  
 0-30-24.com
 0-attorney.com
@@ -15290,6 +15290,10 @@ aifmusic.top
 aifootballpredictions.tips
 aifree.xyz
 aifreetoolz.com
+aifreeuk.com
+aifreeuk.info
+aifreeuk.net
+aifreeuk.store
 aigamail.com
 aigame.xyz
 aigledev.com
@@ -33583,6 +33587,7 @@ bookl.site
 booklacer.site
 booklingmedia.com
 bookliop.xyz
+booklive.com
 bookloader.site
 bookmabe.cf
 bookmabe.gq
@@ -113606,6 +113611,7 @@ lumg.uk
 lumi-ceuticals.com
 lumia24paymanet.com
 lumihub.com
+lumina-store.net
 luminaireinstitute.com
 luminaireinstitute.org
 lumineon.net
@@ -126740,6 +126746,7 @@ mxheesfgh38tlk.tk
 mxhop.de
 mxhquxyi.top
 mxinspect.org
+mxjackrabbit.com
 mxl001.win
 mxl4ix.us
 mxlobocasino.com

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-09-19T08:33:10.972Z
+# Aggregated blacklist generated on 2026-09-19T13:42:20.923Z
  
 0-30-24.com
 0-attorney.com
@@ -30717,6 +30717,7 @@ billho.website
 billiamendment.xyz
 billiament.info
 billieb.shop
+billieholidayhub.click
 billieholidayhubs.click
 billieholidaylabs.click
 billieholidayly.click
@@ -119093,6 +119094,7 @@ mba-virgin.com
 mbacolleges.info
 mbadicole.info
 mbadvertising.com
+mbahqin.com
 mbahraffi.eu.org
 mbahtekno.net
 mbakingzl.com

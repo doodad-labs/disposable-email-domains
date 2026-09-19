@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-09-19T08:33:10.972Z
+# Aggregated blacklist generated on 2026-09-19T13:42:20.923Z
  
 0-00.usa.cc
 0-30-24.com
@@ -153127,6 +153127,7 @@ mbacperli1331.a.lofteone.ru
 mbadicole.info
 mbadvertising.com
 mbahjambrongx.usa.cc
+mbahqin.com
 mbahraffi.eu.org
 mbahtekno.net
 mbakingzl.com
@@ -194472,6 +194473,7 @@ quick-preapproval.com
 quick-shopping.online
 quick.amistake.click
 quick.beachtourism.click
+quick.billieholidayhub.click
 quick.careline.click
 quick.carwow.click
 quick.cheaptrips.click

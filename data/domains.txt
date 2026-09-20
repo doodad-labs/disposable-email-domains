@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-09-20T03:32:52.350Z
+# Aggregated blacklist generated on 2026-09-20T09:06:08.343Z
  
 0-00.usa.cc
 0-30-24.com
@@ -133879,6 +133879,7 @@ kjkszpjcompany.com
 kjlyobvf8d.mailbo.store
 kjmnui.com
 kjmswrawgc.mailbo.store
+kjnbtv.dedyn.io
 kjncascoiaf.ru
 kjnhsdtkj18875.ga
 kjnhsdtkj18875.ml
@@ -149374,6 +149375,7 @@ mailf5.com
 mailf5.us
 mailfa.cf
 mailfa.tk
+mailfake.com
 mailfake.ga
 mailfall.com
 mailfan.biz.id
@@ -236319,6 +236321,7 @@ ttwj.luk2.com
 ttwyykffjw.mailbo.store
 ttxcom.info
 ttxe.com
+ttxt9b.tmail.ws
 ttxte.com
 ttxx6868.com
 tty.io
@@ -251239,6 +251242,7 @@ webcare.tips
 webcarta.com
 webcarton.store
 webcchelp.com
+webcenterfairbanks.dedyn.io
 webcentric.net
 webcialive.com
 webcity.ca

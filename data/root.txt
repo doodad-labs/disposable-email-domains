@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-09-19T23:54:47.948Z
+# Aggregated blacklist generated on 2026-09-20T03:32:52.350Z
  
 0-30-24.com
 0-attorney.com
@@ -35256,6 +35256,7 @@ brunotakeaway.com
 brunsonline.com
 brunswick.apartments
 brupe.lat
+brus-dom-spb.ru
 bruse.be
 brushabiemail.ru
 brushandtools.com
@@ -44752,6 +44753,7 @@ clsn1.com
 clso.us
 clspincasino.com
 clt.dev
+cltiscy.com
 cltj5.us
 cltucasinoencasa.com
 club-casino.ru
@@ -59098,6 +59100,7 @@ dudinenyc.com
 dudinkonstantin.ru
 dudj.com
 dudleymail.bid
+dudleyplumbingfix.com
 dudmail.com
 dudoanxsmbkubet.net
 dudscc.com
@@ -68713,6 +68716,7 @@ fbomultinational.com
 fbooktracking.online
 fboss3r.info
 fboxmail.com
+fboxz.lat
 fbpintl.asia
 fbpoint.net
 fbpubi.com
@@ -114334,6 +114338,7 @@ ma-net.link
 ma-perceuse.net
 ma-plastik.com
 ma-rcs.com
+ma.ru
 ma1l.duckdns.org
 ma1lgen622.ga
 ma2limited.com
@@ -148507,6 +148512,7 @@ procvetaeva.ru
 prod-factory-official.ru
 prodamus-pay.store
 prodaps.com
+prodati-lekarstvaa.online
 prodavcazaschit.xyz
 prodaza-avto.kiev.ua
 prodbits.com
@@ -188729,6 +188735,7 @@ ueva.com
 uew0i.us
 uewodia.com
 uewryweqiwuea.tk
+uewst.lat
 ueymail.com
 uezzhaem.ru
 uf.edu.pl

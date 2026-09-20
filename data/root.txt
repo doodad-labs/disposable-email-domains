@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-09-20T20:22:07.939Z
+# Aggregated blacklist generated on 2026-09-20T23:51:45.643Z
  
 0-30-24.com
 0-attorney.com
@@ -78961,6 +78961,7 @@ gmaildotcom.com
 gmaildottrick.com
 gmaile.co.com
 gmaile.design
+gmailedu.us
 gmailer.site
 gmailer.top
 gmailere.com
@@ -94969,6 +94970,7 @@ intiona.com
 intisari.news
 intlgalleryheritageculture.org
 intlinx.com
+intlpetgroup.com
 intmails.ru
 intms67.com
 intoa.bar
@@ -174774,6 +174776,7 @@ superkingcasino.net
 superlativerecruitment.co.uk
 superleocasino.com
 superleopoker.com
+superlikefollow.com
 superlistas.info
 superloto01.icu
 supermacsmaynooth.com
@@ -188193,6 +188196,7 @@ tz4qhs.com
 tzarmail.info
 tzawke.us
 tzc14.space
+tzddm.com
 tzkmp.us
 tzltt.com
 tzlxlwp003.site

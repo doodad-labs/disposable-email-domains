@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-09-21T16:13:06.875Z
+# Aggregated blacklist generated on 2026-09-21T21:44:06.502Z
  
 0-00.usa.cc
 0-30-24.com
@@ -76534,6 +76534,7 @@ dudscuapcut.store
 dudsstore.fun
 duduai.my.id
 dudud.com
+duduprem.my.id
 dudvc.com
 dudy.mom
 due6hupkez.mailbo.store
@@ -193175,6 +193176,7 @@ qkbzptliqpdgeg.ml
 qkbzptliqpdgeg.tk
 qkc558.com
 qkckp1lhf1.mailbo.store
+qkdc.bokydkjz.my.id
 qkdeeefxsq.mailbo.store
 qkecil.net
 qkerbl.com

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-09-21T09:37:22.447Z
+# Aggregated blacklist generated on 2026-09-21T16:13:06.875Z
  
 0-00.usa.cc
 0-30-24.com
@@ -114361,6 +114361,7 @@ hsjjttr.tk
 hsjlekvyty.ga
 hsjsj.com
 hsjtzo.igg.biz
+hsjyang4ss.shop
 hsk2q1e4in.mailbo.store
 hskdae.com
 hskhidk.cse445.com
@@ -265474,6 +265475,7 @@ yuntiangjzc.com
 yunusdelano.online
 yunusemre.kim
 yunusgokersoylu.cfd
+yunxiangpnv.lol
 yuoia.com
 yuom.cse445.com
 yupejeyxas.mailbo.store
@@ -269534,6 +269536,7 @@ zutn.dung2tb.io.vn
 zutomayo.best
 zutqhs9.crankymonkey.info
 zutt8pfqqj.mailbo.store
+zutu.grok-mail.co
 zuu.10mail.xyz
 zuuel.com
 zuujedyn3f.mailbo.store

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-09-21T09:37:22.447Z
+# Aggregated blacklist generated on 2026-09-21T16:13:06.875Z
  
 0-30-24.com
 0-attorney.com
@@ -89444,6 +89444,7 @@ hsjjttr.ga
 hsjjttr.tk
 hsjlekvyty.ga
 hsjsj.com
+hsjyang4ss.shop
 hskdae.com
 hskinstruments.com
 hsls5guu0cv.cf
@@ -207911,6 +207912,7 @@ yuntiangjzc.com
 yunusdelano.online
 yunusemre.kim
 yunusgokersoylu.cfd
+yunxiangpnv.lol
 yuoia.com
 yupengjy.com
 yuplot.website

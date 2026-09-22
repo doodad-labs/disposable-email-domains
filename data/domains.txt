@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-09-22T07:20:58.527Z
+# Aggregated blacklist generated on 2026-09-22T13:07:35.009Z
  
 0-00.usa.cc
 0-30-24.com
@@ -47851,6 +47851,14 @@ browserscout.com
 browsertab.xyz
 browsesafesearch.com
 browsing.page
+browzensew.ca
+browzensew.com
+browzensew.icu
+browzensew.info
+browzensw.com
+browzensw.info
+browzensw.net
+browzensw.store
 broylesgroup.com
 brozo.slmail.me
 brozzlv.tastyarabicacoffee.com
@@ -165513,6 +165521,7 @@ nate.co.kr
 nate.com
 nate.com.bfo.kr
 nate.com.vay.kr
+nategetvpn.store
 natekinc.com
 natepuri.online
 natepuri.ru

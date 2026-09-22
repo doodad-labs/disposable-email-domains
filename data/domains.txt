@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-09-22T17:57:57.505Z
+# Aggregated blacklist generated on 2026-09-22T21:04:55.463Z
  
 0-00.usa.cc
 0-30-24.com
@@ -42540,6 +42540,7 @@ billho.website
 billiamendment.xyz
 billiament.info
 billieb.shop
+billieholidayhub.click
 billieholidayhubs.click
 billieholidaylabs.click
 billieholidayly.click
@@ -174800,6 +174801,7 @@ olad5eh3zg.mailbo.store
 olafmail.com
 olafood.com
 olafr.tk
+olahdi.cloud
 olahoo.com
 olaiyuywow.ga
 olakila.com
@@ -265106,6 +265108,7 @@ ysmails.com
 ysmm3.us
 ysmndgwhnj.mailbo.store
 ysmxxlrpcf.mailbo.store
+ysngdtw55n.top
 ysnhd-latt.sbs
 ysnmrt5bbx.mailbo.store
 ysosirius.com

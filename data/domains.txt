@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-09-21T21:44:06.502Z
+# Aggregated blacklist generated on 2026-09-22T00:36:33.045Z
  
 0-00.usa.cc
 0-30-24.com
@@ -79538,6 +79538,7 @@ ee1.pl
 ee11bet.info
 ee18269.com
 ee2.pl
+ee2s3.anonbox.net
 ee2vaoxyh0.mailbo.store
 ee442fsmx3.mailbo.store
 ee4rsduf.cse445.com
@@ -80657,6 +80658,7 @@ eldoradoschool.org
 eldoradowin6.casino
 eldoradowin9.casino
 eldv.com
+eldver.com
 ele-gora.com
 eleanorallen.me
 elearndevgeek.com
@@ -125057,6 +125059,7 @@ jauhari.ga
 jauhari.gq
 jaujqt.site
 jaule.me
+jaume.lat
 jaumin.best
 jauresiyoro.com
 jauypxwqxb.mailbo.store
@@ -155638,6 +155641,7 @@ mfip.tieumuoishop.io.vn
 mfireski.com
 mflfdgsa.shop
 mflinks.com
+mflix.lat
 mflosmwkq4.mailbo.store
 mflw.tieumuoishop.io.vn
 mfmail.store
@@ -267203,6 +267207,7 @@ zenithutd.com
 zenithvibes.life
 zenithwave.website
 zenithwellnessfit.site
+zenix.lat
 zenkaihub.tokyo
 zenkecn.com
 zenko.top

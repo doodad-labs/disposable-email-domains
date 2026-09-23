@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-09-23T04:35:37.648Z
+# Aggregated blacklist generated on 2026-09-23T10:49:24.499Z
  
 0-30-24.com
 0-attorney.com
@@ -35089,6 +35089,7 @@ bromeil.com
 bromfieldagency.com
 bromidrudp.com
 bromleydotcom.com
+bromo.lat
 bromolla.com
 bromtedlicyc.xyz
 bronaotdyhe.site
@@ -51666,6 +51667,7 @@ datchka.ru
 datchuban.top
 datdeptraivl.shop
 datdiamh.shop
+datdonshopee.site
 date-christians.co.uk
 dategalaxy.lat
 dateharbor.lat
@@ -79012,6 +79014,7 @@ gmailhub.cloudns.pro
 gmailil.xyz
 gmailines.online
 gmailines.site
+gmailinsta.com
 gmailisberysus.tk
 gmailix.com
 gmailiz.com
@@ -103785,6 +103788,7 @@ kingchance.org
 kingchances.info
 kingcontroller.cf
 kingcq.com
+kingdais.com
 kingdentalhuntsville.com
 kingding.net
 kingdom-mag.com
@@ -136388,6 +136392,7 @@ omailer.xyz
 omailo.top
 omamh.info
 oman.com
+omanarts.com
 omanizdjm.ru
 omankomanias.net
 omanmac.com
@@ -174371,6 +174376,7 @@ sulawesitenggara.net
 suleymanxsormaz.xyz
 sulfadimmali.ru
 sulfil.com
+sulip.site
 sulit777login.info
 sulitapp.com
 sulitnya.my.id
@@ -178416,6 +178422,7 @@ teicrimta.ml
 teicrimta.tk
 teidecasa.com
 teihu.com
+teijx.lat
 teimur.com
 teiracing.com
 tejahomes.icu
@@ -194606,6 +194613,7 @@ visiokatu.xyz
 visionaries.world
 visionariesglobal.com
 visionarise.com
+visionary-executive-search.com
 visionarysylvia.biz
 visionaryventures.store
 visionaut.com

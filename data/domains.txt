@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-09-23T04:35:37.648Z
+# Aggregated blacklist generated on 2026-09-23T10:49:24.499Z
  
 0-00.usa.cc
 0-30-24.com
@@ -47718,6 +47718,7 @@ bromeil.com
 bromfieldagency.com
 bromidrudp.com
 bromleydotcom.com
+bromo.lat
 bromtedlicyc.xyz
 bronaotdyhe.site
 bronchommail.com
@@ -51676,6 +51677,7 @@ camoo.online
 camorgasmo.com
 camorra.usa.cc
 camoter2581.a.lofteone.ru
+camp.unibiz.edu.pl
 campaign.mailbo.store
 campano.cl
 campatar.com
@@ -67682,6 +67684,7 @@ datchka.ru
 datchuban.top
 datdeptraivl.shop
 datdiamh.shop
+datdonshopee.site
 date-christians.co.uk
 dategalaxy.lat
 dategirlonline.igg.biz
@@ -76429,6 +76432,7 @@ du7jtqsejd.mailbo.store
 du88bet.net
 du8bdzcm0e.mailbo.store
 du9su2ue37.mailbo.store
+dua.unibiz.edu.pl
 duacgel.info
 duahaumail.com
 duahaumail.net
@@ -80486,6 +80490,7 @@ eko-ciuchy.pw
 eko-europa.com
 eko-moda.pw
 eko-smart-solutions.com
+eko.unibiz.edu.pl
 eko6qmagev.mailbo.store
 ekocqgdgiu.mailbo.store
 ekodhiejmr.mailbo.store
@@ -81463,6 +81468,7 @@ email.slmail.me
 email.sowad.tk
 email.soyisy.com
 email.ucms.edu.pk
+email.unibiz.edu.pl
 email.ut1l.com
 email.uu6.top
 email.villablanca.tech
@@ -100181,6 +100187,7 @@ gigabets.info
 gigabitstreaming.com
 gigabitz.xyz
 gigabonus.fr
+gigabyte.unibiz.edu.pl
 gigaclick.tech
 gigacylydm.space
 gigaload.site
@@ -101628,6 +101635,7 @@ gmailhub.cloudns.pro
 gmailil.xyz
 gmailines.online
 gmailines.site
+gmailinsta.com
 gmailisberysus.tk
 gmailix.com
 gmailiz.com
@@ -133390,6 +133398,7 @@ kingchance.org
 kingchances.info
 kingcontroller.cf
 kingcq.com
+kingdais.com
 kingdentalhuntsville.com
 kingding.net
 kingdom-mag.com
@@ -175158,6 +175167,7 @@ omailer.xyz
 omailo.top
 omamh.info
 oman.com
+omanarts.com
 omanizdjm.ru
 omankomanias.net
 omanmac.com
@@ -185962,6 +185972,7 @@ plus-media.co.uk
 plus-size-promdresses.com
 plus.8shield.net
 plus.google.com
+plus.unibiz.edu.pl
 plus553.com
 plus777apk.com.ph
 plus777asia.com.ph
@@ -195710,6 +195721,7 @@ r7.com
 r7.undeadbank.com
 r71nwtk4sv.mailbo.store
 r72cyggz.luksarcenter.ru
+r73e5v.moakt.co
 r75ed8p19e.mailbo.store
 r76frvaboe.mailbo.store
 r777app.info
@@ -206553,6 +206565,7 @@ salvatore1818.site
 salventrex.com
 salviasmudge.com
 salvo84.freshbreadcrumbs.com
+salz.unibiz.edu.pl
 sam-dizainer.ru
 sam-serial2.xyz
 sam-serial5.xyz
@@ -209038,6 +209051,7 @@ secure.cowsnbullz.com
 secure.lakemneadows.com
 secure.okay.email.safeds.tk
 secure.oldoutnewin.com
+secure.unibiz.edu.pl
 secure.wrengostic.com
 secure07xchs-onlinebanking.com
 secure10bc-onlinebanking.com
@@ -220951,6 +220965,7 @@ student.telkomuniversity.cloudns.cl
 student.telkomuniversity.eu.org
 student.telkomuniversity.netlib.re
 student.tp.edu.sg.ehmhondajazz.buzz
+student.unibiz.edu.pl
 student.uum.edu.my.kecapasin.buzz
 student.waynesburg.com
 studentart.fun
@@ -221680,6 +221695,7 @@ sulawesitenggara.net
 suleymanxsormaz.xyz
 sulfadimmali.ru
 sulfil.com
+sulip.site
 sulit777login.info
 sulitapp.com
 sulitnya.my.id
@@ -226045,6 +226061,7 @@ teacher.edus.edu.pl
 teacher.ktktbp.edu.vn
 teacher.mailbo.store
 teacher.semar.edu.pl
+teacher.unibiz.edu.pl
 teacherk12.io.vn
 teachersblueprint.com
 teachfr.xyz
@@ -226661,6 +226678,7 @@ teicrimta.tk
 teidecasa.com
 teie.laste.ml
 teihu.com
+teijx.lat
 teimur.com
 teiracing.com
 tej0hexhbg.mailbo.store
@@ -240246,6 +240264,7 @@ un-spider.info
 un-uomo.site
 un.749.akd-k.icu
 un.laste.ml
+un.unibiz.edu.pl
 un777login.net
 un99ulq.xyz
 una-alpesvaucluse.net
@@ -240815,6 +240834,7 @@ universitas.codes
 universiteomarbongo.ga
 universitiesmail.com
 university.cloudns.ph
+university.unibiz.edu.pl
 universityecotesbenin.com
 universityincanada.info
 universityla.edu
@@ -246741,6 +246761,7 @@ visignal.com
 visiokatu.xyz
 visionaries.world
 visionariesglobal.com
+visionary-executive-search.com
 visionarysylvia.biz
 visionaryventures.store
 visionaut.com
@@ -251449,6 +251470,7 @@ webmail.igg.biz
 webmail.inc.gs
 webmail.kolmpuu.net
 webmail.postech.ac.kr.bko.kr
+webmail.unibiz.edu.pl
 webmail.vidwobox.com
 webmail.wuaze.com
 webmail123.hensailor.hensailor.xyz
@@ -254796,6 +254818,7 @@ work.gd
 work.mailbo.store
 work.obask.com
 work.oldoutnewin.com
+work.unibiz.edu.pl
 work24h.eu
 work4me.store
 work4uber.us
@@ -264969,6 +264992,7 @@ yqsycezdty.ga
 yqtfhtls3v.mailbo.store
 yqtmcngzpd.mailbo.store
 yquhnhipm.pl
+yqujh5.moakt.ws
 yqury5.igg.biz
 yqv.morekorata.eu.cc
 yqvgzbjx7h.mailbo.store

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-09-23T00:00:28.111Z
+# Aggregated blacklist generated on 2026-09-23T04:35:37.648Z
  
 0-00.usa.cc
 0-30-24.com
@@ -29316,6 +29316,7 @@ anurbir.ga
 anurbir.gq
 anurbir.tk
 anut7gcs.atm.pl
+anuva.lat
 anvee.fun
 anvelope-noi.md
 anvelopeinchisinau.md
@@ -31392,6 +31393,7 @@ art.scarbour.com
 art.scoldly.com
 art.suspent.com
 art2427.com
+art2mart.com
 art3d.xyz
 arta.warunkto.com
 artaa316.xyz
@@ -36063,6 +36065,7 @@ b6eiqtp1vu.mailbo.store
 b6faz.anonbox.net
 b6fm5.anonbox.net
 b6fo7usagi.mailbo.store
+b6fs2.anonbox.net
 b6gge.anonbox.net
 b6gs9nfpvc.mailbo.store
 b6h3bg.gembul.site
@@ -48750,6 +48753,7 @@ bulkfinder.site
 bulkgeocode.com
 bulksmsad.net
 bulksmsmobilemarketing.com
+bullbaby.com
 bullbeer.net
 bullbeer.org
 bullclipsmedia.com
@@ -71798,6 +71802,7 @@ dikriemangasu.gq
 dikriemangasu.ml
 dikriemangasu.tk
 diks.spymail.one
+dikshant.org
 diksmet.cloud
 dikt.dung2tb.io.vn
 dikulqloey.mailbo.store
@@ -98190,6 +98195,7 @@ geeau.com
 geedeehewstone.me
 geedt.icu
 geedvwqqrq.mailbo.store
+geedymail.com
 geeee.me
 geegs.com
 geek-poster.ru
@@ -107091,6 +107097,7 @@ haihan.vn
 haihantnc.xyz
 haihn.net
 haiironomajo.4wrd.cc
+haijl.lat
 haikc.online
 haikido.com
 haikuforlovers.com
@@ -111173,6 +111180,7 @@ hirebi.cf
 hirebi.tk
 hirebo.com
 hired.co.uk
+hiredify.com
 hireelectricbike.com
 hirehalls.com
 hirekuq.tk
@@ -123386,6 +123394,7 @@ iumqj5ytmf.mailbo.store
 iun8eqsviu.mailbo.store
 iunicus.com
 iuno.fun
+iunp.edu.rs
 iup2.dung2tb.io.vn
 iupo219.ddnsfree.com
 iuporno.info
@@ -153017,6 +153026,7 @@ maxsmagicshop.com
 maxsnap.shop
 maxstylehome.com
 maxtakol.com
+maxtanie.com
 maxtommy-ra.ru
 maxtop.aleeas.com
 maxtoy3d.club
@@ -155180,6 +155190,7 @@ mes-mails.brondino.fr
 mes.maillsk.com
 mesaamado.com
 mesadelcapitan.com
+mesaj.lat
 mesama.cf
 mesama.ga
 mesama.gq
@@ -159447,6 +159458,7 @@ montanachoicerealestate.com
 montanaquote.com
 montanaweddingdjs.com
 montbecbe5039.a.lofteone.ru
+montclairpo.com
 montclairpodiatry.com
 montebellunasportsystem.com
 montecarlo.pw
@@ -160807,6 +160819,7 @@ msg.mailslite.com
 msg.rozztin.com
 msg.ws
 msg2phone.com
+msg53.serbet.ru
 msgden.com
 msgden.net
 msgdu5mo2o.mailbo.store
@@ -166028,6 +166041,7 @@ ncjuniorcanes.com
 nckxa.com
 ncl.co
 nclean.us
+ncleap.com
 nclear.us
 nclkgedrod.mailbo.store
 nclm.dung2tb.io.vn
@@ -170430,6 +170444,7 @@ norules.zone
 norvanta.cfd
 norvasconlineatonce.com
 norveg-nedv.ru
+norvello.xyz
 norvica.autos
 norwars.site
 norwaycup.cf
@@ -172225,6 +172240,7 @@ nycemore.com
 nycexercise.com
 nychealthtech.com
 nyclife.33mail.com
+nycmanhattannuruelite.com
 nyconsale.com
 nyctaginmail.com
 nycthing.com
@@ -191091,6 +191107,7 @@ pumoe.com
 pump-ltd.ru
 pumpl.app
 pumpmail.online
+pumpoly.com
 pumps-fashion.com
 pumpsandautomation.com
 pumpwearil.com
@@ -252308,6 +252325,7 @@ wetheprotocol.com
 wetheprotocol.net
 wetherburnehomes.com
 wetk.net
+wetk.org
 wetlegs.com
 wetlwlsbxt.mailbo.store
 wetr.com

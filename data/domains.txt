@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-09-23T21:07:14.319Z
+# Aggregated blacklist generated on 2026-09-24T00:15:05.512Z
  
 0-00.usa.cc
 0-30-24.com
@@ -20154,6 +20154,7 @@ aaphace9.ml
 aapiesnetwork.online
 aaplgroup.info
 aapmanual.skin
+aappr.lat
 aaq.veysem.pro
 aaq78kuq6m.mailbo.store
 aaqpy2ust5.mailbo.store
@@ -85156,6 +85157,7 @@ eurovip.club
 euroweb.email
 eurowinnercasino.com
 eurox.eu
+eurped.com
 eururui6i7o.usa.cc
 eurxfqylpi.mailbo.store
 eurygnmofml.ru
@@ -176219,6 +176221,7 @@ onwardmail.com
 onwmail.com
 onwwyxs1vb.mailbo.store
 onx.10mail.xyz
+onx2p.anonbox.net
 onychan.my.id
 onychatrfmail.ru
 onychjkmail.ru

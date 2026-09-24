@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-09-24T18:13:21.827Z
+# Aggregated blacklist generated on 2026-09-24T23:01:07.509Z
  
 0-00.usa.cc
 0-30-24.com
@@ -196287,6 +196287,7 @@ rainlear.com
 rainmail.biz
 rainmail.top
 rainmail.win
+raino.my.id
 rainplatform.cloud
 rainproofresidual.com
 rainsase.com

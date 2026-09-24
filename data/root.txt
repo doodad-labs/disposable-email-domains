@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-09-24T00:15:05.512Z
+# Aggregated blacklist generated on 2026-09-24T07:13:54.473Z
  
 0-30-24.com
 0-attorney.com
@@ -14863,6 +14863,7 @@ agrariant.com
 agrariant.net
 agrarnaja-politika.ru
 agrealgroup.com
+agreed.bar
 agreeone.ga
 agreesa.shop
 agreetoshop.com
@@ -32526,6 +32527,7 @@ bluefriday.top
 bluegingerchinesetakeaway.com
 bluegorillatradesman.info
 bluegrassforum.com
+bluegrassluck.com
 blueharbourhomes.com
 bluehorizonsoftware.net
 bluehotmail.com
@@ -33931,6 +33933,8 @@ bos21.club
 bos228.org
 bosahek.com
 bosakun.com
+bosakun.info
+bosakun.online
 bosanmasureci.com
 bosbeer.best
 boscage.net
@@ -57082,6 +57086,7 @@ dom-okna.com
 dom13.cd
 dom16.cd
 dom855.live
+dom88.lat
 doma-sad.ru
 domaaaaaain7.shop
 domaaaain3.online
@@ -75941,6 +75946,7 @@ gayol.com
 gayrimenkuluniversitesi.com
 gaysidewalk.site
 gaytag.club
+gayun.lat
 gayvideochats.com
 gayvirtualworld.com
 gaz-inv1st.space
@@ -79150,7 +79156,9 @@ gmal.co.com
 gmal.com
 gmalay.site
 gmali.com
+gmali.info
 gmali.my.id
+gmali.online
 gmalie.com
 gmall.com
 gmall.com.br
@@ -88932,6 +88940,7 @@ hottestteenpornstar.com
 hottienikki.com
 hottkerio4.xyz
 hottmat.com
+hottmat.online
 hottmil.com
 hottosale.com
 hottrend.site
@@ -99482,6 +99491,7 @@ jo8otki4rtnaf.gq
 jo8otki4rtnaf.ml
 jo8otki4rtnaf.tk
 joagold.com
+joagold.info
 joajecjb.tech
 joajoa.xyz
 joakarond.tk
@@ -104010,6 +104020,7 @@ kioscapsa88.life
 kiose.site
 kiosssco.com
 kiove.online
+kipastangan.my.id
 kipavlo.ru
 kipaystore.com
 kipequips.com
@@ -191324,6 +191335,7 @@ usualion.com
 usualism.site
 usufrmail.com
 usufrmails.ru
+usugg.lat
 usus.accesscam.org
 usus.camdvr.org
 usus.casacam.net
@@ -207223,6 +207235,7 @@ your-dentalimplantonline.sale
 your-dentalimplantsites.rocks
 your-dentalimplantspot.market
 your-dentalimplantzone.market
+your-domain.com
 your-energy.net
 your-free-mail.bid
 your-health.store
@@ -208853,6 +208866,7 @@ zeapinc.com
 zeas.com
 zeballos-gomez.com
 zebarrier.com
+zebec.lat
 zebee.fun
 zebins.com
 zebins.eu

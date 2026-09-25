@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-09-25T03:34:43.637Z
+# Aggregated blacklist generated on 2026-09-25T09:24:13.012Z
  
 0-00.usa.cc
 0-30-24.com
@@ -16894,6 +16894,7 @@
 8dc1.dung2tb.io.vn
 8dd4hulcwy.mailbo.store
 8dffgha.cse445.com
+8dgms.lat
 8dgr2bbpdc.mailbo.store
 8di21jv5br.mailbo.store
 8dipbk.online
@@ -25209,6 +25210,7 @@ akmail.com
 akmail.in
 akmaila.org
 akmandken.tk
+akmeyo.web.id
 akmnrwtqc.33mail.com
 akmra.com
 akmtop.com
@@ -26186,6 +26188,7 @@ alitonline.com
 alitsecure.site
 alittle.website
 alivance.com
+alive.lat
 aliveesbienestar.com
 aliveinlosangeles.com
 alivesa.site
@@ -76634,6 +76637,7 @@ dulla.shop
 dullet.com
 dullynwu.info
 dulogewu.astro777.online
+dulphun.com
 dult.org
 duluaqpunyateman.com
 duluthmn.gov
@@ -113668,6 +113672,7 @@ hottestteenpornstar.com
 hottienikki.com
 hottkerio4.xyz
 hottmat.com
+hottmat.info
 hottmat.online
 hottmil.com
 hottosale.com
@@ -155796,6 +155801,7 @@ mgd.luk2.com
 mgdavisevents.com
 mgdchina.com
 mgdentalcare.co.uk
+mgdns.shop
 mgejrbv85r.mailbo.store
 mgeladze.ru
 mgenece.com
@@ -188638,6 +188644,7 @@ premiumdomain.ru
 premiumeventspuntacana.com
 premiumgo.id
 premiumgreencoffeereview.com
+premiuminternetvpn.xyz
 premiumisme.info
 premiumku.app
 premiumku.com
@@ -188658,6 +188665,7 @@ premiumreferencement.com
 premiumsales.online
 premiumseoservices.net
 premiumservisak.tk
+premiumsigma.shop
 premiumsmartphonebonus.bid
 premiumvns.com
 premiumvns.io.vn
@@ -203142,6 +203150,7 @@ rozavenok.ru
 rozebet.com
 rozfr3ld3g.mailbo.store
 rozkamao.in
+rozpi.com
 rozsadneinwestycje.pl
 rozwe.online
 rozwojosobisty.site
@@ -235912,6 +235921,8 @@ trusted.shoes
 trusted.style
 trusted.trading
 trusted.wine
+trustedadmin2.shop
+trustedadmindns.site
 trustedchest.site
 trustedcvvshop.ru
 trustedhosts.net
@@ -246701,6 +246712,7 @@ virtualjeanie.com
 virtualjunkie.com
 virtuallyyosi.com
 virtualmedicalconsulting.com
+virtualminerals.com
 virtualnetia.de
 virtualphone.zapto.org
 virtualprivateserversindia.com
@@ -266329,6 +266341,7 @@ z7eoy5r90v.mailbo.store
 z7eyul8.flashhub.net
 z7imfsadpc.mailbo.store
 z7j1.5scode.email
+z7loz0.sakerah.web.id
 z7p8rrqsmr.mailbo.store
 z7pkhh6ant.mailbo.store
 z7u.saucent.online

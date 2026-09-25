@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-09-25T15:00:31.424Z
+# Aggregated blacklist generated on 2026-09-25T19:50:42.255Z
  
 0-00.usa.cc
 0-30-24.com
@@ -120833,6 +120833,7 @@ instad4you.info
 instaddr.ch
 instaddr.org
 instaddr.uk
+instaddr.uk.
 instaddr.win
 instadp.site
 instaflowers.shop

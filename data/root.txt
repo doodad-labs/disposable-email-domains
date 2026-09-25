@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-09-24T23:01:07.509Z
+# Aggregated blacklist generated on 2026-09-25T03:34:43.637Z
  
 0-30-24.com
 0-attorney.com
@@ -179305,6 +179305,7 @@ teocarsa.gq
 teocarsa.ml
 teogansse.gq
 teogansse.tk
+teoia.lat
 teompm.shop
 teonanakatl.info
 teonufest.ga

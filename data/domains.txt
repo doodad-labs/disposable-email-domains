@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-09-26T14:07:54.602Z
+# Aggregated blacklist generated on 2026-09-26T19:02:11.321Z
  
 0-00.usa.cc
 0-30-24.com
@@ -127858,6 +127858,7 @@ jojoemail.fun
 jojojojoojojo.shop
 jojojokeked.com
 jojolouisvuittonshops.com
+jojolt.shop
 jojomedia.store
 jojoo.online
 jojoxnmekv.mailbo.store
@@ -166966,6 +166967,7 @@ netg.me
 netgainmedia.com
 netgameslots.ru
 netgas.info
+netgcp.online
 netgdpr.com
 netghost.guru
 netgia.com
@@ -188651,6 +188653,7 @@ premiumdomain.ru
 premiumeventspuntacana.com
 premiumgo.id
 premiumgreencoffeereview.com
+premiuminternet.site
 premiuminternetvpn.xyz
 premiumisme.info
 premiumku.app
@@ -189028,6 +189031,7 @@ prime-models.ru
 prime-zone.ru
 prime.gold.edu.pl
 primeblog.us
+primebulidv1.uk
 primebusinessfinancingonline.com
 primebusinessfinancingpro.com
 primecartuchos.com.br

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-09-26T09:08:42.373Z
+# Aggregated blacklist generated on 2026-09-26T14:07:54.602Z
  
 0-00.usa.cc
 0-30-24.com
@@ -29760,6 +29760,7 @@ apcxg7urcm.mailbo.store
 apd.yomail.info
 apdhxpfisj.mailbo.store
 apdiv.com
+apdoro.biz.id
 apdtax.com
 ape-tech.run.place
 apebkxcqxbtk.cf
@@ -150699,6 +150700,7 @@ majorsww.com
 majortv.best
 majortv.club
 majostores.site
+majproject.dpdns.org
 maju.autokey247.com
 majuperang.igg.biz
 majuteruslah.com

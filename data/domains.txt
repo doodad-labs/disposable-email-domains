@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-09-25T23:06:09.641Z
+# Aggregated blacklist generated on 2026-09-26T03:40:21.094Z
  
 0-00.usa.cc
 0-30-24.com
@@ -83556,6 +83556,7 @@ eqbo62qzu2r8i0vl.tk
 eqcqcpng1h.mailbo.store
 eqdnlgml0i.mailbo.store
 eqeqeqeqe.tk
+eqfrntue.com
 eqft2ygbkk.mailbo.store
 eqg3t6pj4z.mailbo.store
 eqgigyhce.shop
@@ -89304,6 +89305,7 @@ felpega.ga
 felpega.tk
 felphi.com
 feltutorscan.gq
+felwu.anonbox.net
 felzman.com
 fema.email
 femail.com
@@ -124482,6 +124484,7 @@ jackyy.33mail.com
 jackzai.online
 jacmelinter.xyz
 jacob-jan-boerma.art
+jacob.lat
 jacob289.store
 jacobandcody.com
 jacobarmstrong.dev

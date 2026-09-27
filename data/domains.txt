@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-09-26T22:23:13.612Z
+# Aggregated blacklist generated on 2026-09-27T03:49:07.517Z
  
 0-00.usa.cc
 0-30-24.com
@@ -36005,6 +36005,7 @@ b572elzs.buzz
 b572pfvrae.mailbo.store
 b59da.xyz
 b59qph.us
+b5aeh.anonbox.net
 b5bszdpxmc.mailbo.store
 b5c53.anonbox.net
 b5c8seypz9.mailbo.store
@@ -142280,6 +142281,7 @@ lisowski-development.com
 lisowski-development.de
 lispblog.com
 lisptutorials.com
+liss.im
 lisseurghdpascherefr.com
 lisseurghdstylers.com
 lissseurghdstylers.com

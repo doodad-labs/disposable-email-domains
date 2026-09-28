@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-09-27T22:49:48.343Z
+# Aggregated blacklist generated on 2026-09-28T03:48:51.080Z
  
 0-30-24.com
 0-attorney.com
@@ -106995,6 +106995,7 @@ lablasting.com
 labmail.fun
 labo-ami.com
 labo.ch
+labobike.com
 labodina.ru
 labogili.ga
 laboitecrue.com

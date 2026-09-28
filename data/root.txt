@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-09-28T03:48:51.080Z
+# Aggregated blacklist generated on 2026-09-28T10:36:35.267Z
  
 0-30-24.com
 0-attorney.com
@@ -203004,6 +203004,7 @@ xiaoche.ggff.net
 xiaofan.cloudns.org
 xiaoguaishou.icu
 xiaojifang.com
+xiaolone.com
 xiaolvmao.xyz
 xiaomi.onthewifi.com
 xiaomidroneturkiye.com

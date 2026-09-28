@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-09-28T10:36:35.267Z
+# Aggregated blacklist generated on 2026-09-28T19:16:55.453Z
  
 0-00.usa.cc
 0-30-24.com
@@ -79925,6 +79925,7 @@ eg7rd0xtes.mailbo.store
 eg85qf.com
 eg9ollb59x.mailbo.store
 eg9t.tieumuoishop.io.vn
+ega.biz.id
 egacademy.co.com
 egacademy.com
 egafar.cf
@@ -183844,6 +183845,7 @@ phillipsd.net
 phillyservsafe.com
 phillysmallbusinesses.com
 philohelleemail.ru
+philome.biz.id
 philoprogenfmals.com
 philosmail.ru
 philosomali.ru
@@ -251010,6 +251012,7 @@ wawa.moe
 wawa990.pl
 wawadaw.fun
 wawan.org
+wawang.my.id
 wawaservice75679.site
 wawaterfilters.com
 wawi.es

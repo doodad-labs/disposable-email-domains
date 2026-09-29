@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-09-28T19:16:55.453Z
+# Aggregated blacklist generated on 2026-09-29T00:12:32.220Z
  
 0-00.usa.cc
 0-30-24.com
@@ -47897,6 +47897,7 @@ browzensw.store
 broylesgroup.com
 brozo.slmail.me
 brozzlv.tastyarabicacoffee.com
+brpmm.anonbox.net
 brprp9i9hr.mailbo.store
 brptb.anonbox.net
 brqh.us
@@ -115234,6 +115235,7 @@ hushmail.cf
 hushmail21.outlook.rest
 hushskinandbody.com
 hushusihfiusgf.usa.cc
+husited.com
 husk-mig.dk
 huskergaragedoorrepair.com
 huskion.net
@@ -167568,6 +167570,7 @@ newfoundlandchocolatecompany.ca
 newfreesex.com
 newfunction.net
 newgameexpert.ru
+newgen8686.us
 newgeneration.cyou
 newgentraffic.com
 newgmail.top
@@ -184357,6 +184360,7 @@ pichumper.com
 picilur.site
 pick.mailbo.store
 pickadulttoys.com
+pickaroofer.com
 pickasroot.store
 pickatyre.com
 pickawash.com
@@ -192370,6 +192374,7 @@ q7k2cad4wb.mailbo.store
 q7k8.dung2tb.io.vn
 q7lldvfnu6.mailbo.store
 q7lm5dpnga.mailbo.store
+q7m4k9a2xw.io.vn
 q7mmfqwhzt.mailbo.store
 q7mxvjo3nc.mailbo.store
 q7orzhzmdk.mailbo.store
@@ -193235,6 +193240,7 @@ qinhuangyuan.com
 qinhuistone.com
 qinicial.ru
 qinject.com
+qinova.io.vn
 qinspections.online
 qinth.today
 qiodinlxed.pro
@@ -203483,6 +203489,7 @@ rr-group.tk
 rr.ados.bbroot.com
 rr.ca
 rr.ccs.pl
+rr.cloudns.nz
 rr.ee.eu.org
 rr.gamess.bot.cd
 rr.hostdaddy.dns.navy
@@ -237813,6 +237820,7 @@ txmovingquotes.com
 txn.emlpro.com
 txnhqkiwjp.ga
 txnnlecctp.mailbo.store
+txoko.lat
 txpqelxxf5.mailbo.store
 txpwg.usa.cc
 txqei4zhts.mailbo.store
@@ -244321,6 +244329,7 @@ vazinity.com
 vazljqosfw.ga
 vazq.emlpro.com
 vaztor.com
+vazzisk.biz.id
 vb-company.com
 vb-pro.co.uk
 vb.emlpro.com

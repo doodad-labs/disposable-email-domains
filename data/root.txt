@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-09-28T19:16:55.453Z
+# Aggregated blacklist generated on 2026-09-29T00:12:32.220Z
  
 0-30-24.com
 0-attorney.com
@@ -90153,6 +90153,7 @@ hushedhost.com
 hushline.com
 hushmail.cf
 hushskinandbody.com
+husited.com
 husk-mig.dk
 huskergaragedoorrepair.com
 huskion.net
@@ -130773,6 +130774,7 @@ newfoundlandchocolatecompany.ca
 newfreesex.com
 newfunction.net
 newgameexpert.ru
+newgen8686.us
 newgeneration.cyou
 newgentraffic.com
 newgmail.top
@@ -144144,6 +144146,7 @@ pichu.me
 pichumper.com
 picilur.site
 pickadulttoys.com
+pickaroofer.com
 pickasroot.store
 pickatyre.com
 pickawash.com
@@ -150790,6 +150793,7 @@ q6suiq1aob.ml
 q6suiq1aob.tk
 q6ts3c.us
 q7hccq.us
+q7m4k9a2xw.io.vn
 q7qipaa.kozow.com
 q7t43q92.com
 q7vwu0.us
@@ -151219,6 +151223,7 @@ qinhuangyuan.com
 qinhuistone.com
 qinicial.ru
 qinject.com
+qinova.io.vn
 qinspections.online
 qinth.today
 qiodinlxed.pro
@@ -159193,6 +159198,7 @@ rr-group.gq
 rr-group.ml
 rr-group.tk
 rr.ca
+rr.cloudns.nz
 rr.com
 rr.ee.eu.org
 rr.nu
@@ -188133,6 +188139,7 @@ txje.com
 txlq3i.us
 txmovingquotes.com
 txnhqkiwjp.ga
+txoko.lat
 txqq99.com
 txqx.skin
 txr.sh
@@ -192633,6 +192640,7 @@ vazerliposaksin.com
 vazinity.com
 vazljqosfw.ga
 vaztor.com
+vazzisk.biz.id
 vb-company.com
 vb-pro.co.uk
 vb17100astridcoleman.info

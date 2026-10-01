@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-10-01T01:04:50.164Z
+# Aggregated blacklist generated on 2026-10-01T08:20:43.699Z
  
 0-30-24.com
 0-attorney.com
@@ -116976,6 +116976,7 @@ m9enrvdxuhc.tk
 m9evcp.com
 m9so.ru
 m9ssen.me
+m9x5q2k7a3r8z1c.io.vn
 ma-didoma.website
 ma-net.link
 ma-perceuse.net

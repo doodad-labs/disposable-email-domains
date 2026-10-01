@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-10-01T01:04:50.164Z
+# Aggregated blacklist generated on 2026-10-01T08:20:43.699Z
  
 0-00.usa.cc
 0-30-24.com
@@ -10044,6 +10044,7 @@
 4nx1.cse445.com
 4nx7fkep6p.mailbo.store
 4nxzxri63g.mailbo.store
+4nyr11.tmpmail.net
 4nyvq.anonbox.net
 4o10bdnbte.mailbo.store
 4o1cgyc8in.mailbo.store
@@ -19369,6 +19370,7 @@
 9y666666.app
 9y6vgzfkxl.mailbo.store
 9y7.app
+9y74yi.tmails.net
 9y777.app
 9y7777.app
 9y77777.app
@@ -150410,6 +150412,7 @@ m9ssen.addy.io
 m9ssen.me
 m9to.dung2tb.io.vn
 m9vbvl1sjs.mailbo.store
+m9x5q2k7a3r8z1c.io.vn
 ma-boite-aux-lettres.infos.st
 ma-didoma.website
 ma-net.link

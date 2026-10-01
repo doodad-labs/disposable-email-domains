@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-10-01T16:53:39.384Z
+# Aggregated blacklist generated on 2026-10-01T22:22:48.592Z
  
 0-30-24.com
 0-attorney.com
@@ -123695,6 +123695,7 @@ meisterwerk-leben.com
 meitianlu04.xyz
 meitianlu06.xyz
 meitianlu07.xyz
+meitu.io.vn
 meitu.lat
 meitu.us
 meituxiezhen.xyz

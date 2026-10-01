@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-09-30T21:54:31.893Z
+# Aggregated blacklist generated on 2026-10-01T01:04:50.164Z
  
 0-30-24.com
 0-attorney.com
@@ -25013,6 +25013,7 @@ aymarasamudio.com
 aympatico.ca
 ayna.com
 aynbpx.us
+ayndmo.com
 aynenknkajsfkn83278.cf
 aynenknkajsfkn83278.ga
 aynenknkajsfkn83278.ml
@@ -79151,6 +79152,7 @@ ggbrop.net
 ggbx.ml
 ggcapcut.biz.id
 ggck.com
+ggcvc.lat
 ggdr.com
 ggdr0p.ru
 ggdropx.ru
@@ -209888,6 +209890,7 @@ xtdl.com
 xtds.net
 xteammail.com
 xtemp-mail.com
+xtemp.lat
 xtempmail.com
 xtenmail.com
 xtensionssalon.com
@@ -214172,6 +214175,7 @@ zdanisphotography.com
 zdbgjajg.shop
 zdbgroup.com
 zdcardtechglobal.com
+zdebu.lat
 zdecadesgl.com
 zdenka.net
 zdesyaigri.ru

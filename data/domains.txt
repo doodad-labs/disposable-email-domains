@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-09-30T21:54:31.893Z
+# Aggregated blacklist generated on 2026-10-01T01:04:50.164Z
  
 0-00.usa.cc
 0-30-24.com
@@ -35493,6 +35493,7 @@ aymarasamudio.com
 aympatico.ca
 ayna.com
 aynbpx.us
+ayndmo.com
 aynenknkajsfkn83278.cf
 aynenknkajsfkn83278.ga
 aynenknkajsfkn83278.ml
@@ -101742,6 +101743,7 @@ ggbsrdlc4l.mailbo.store
 ggbx.ml
 ggcapcut.biz.id
 ggck.com
+ggcvc.lat
 ggdr.com
 ggdr0p.ru
 ggdropx.ru
@@ -146182,6 +146184,7 @@ lkuechq4zg.mailbo.store
 lkwmhl.fun
 lkxloans.com
 lkxmgvoplb.mailbo.store
+lkxu3.anonbox.net
 lkxw5monbg.mailbo.store
 lkxxi.website
 lky82th3m2.mailbo.store
@@ -267408,6 +267411,7 @@ xtdl.com
 xtds.net
 xteammail.com
 xtemp-mail.com
+xtemp.lat
 xtempmail.com
 xtenmail.com
 xtensionssalon.com
@@ -274038,6 +274042,7 @@ zdcdyko4hn.mailbo.store
 zdcx6dzjjd.mailbo.store
 zdds.dung2tb.io.vn
 zde.spymail.one
+zdebu.lat
 zdecadesgl.com
 zdenka.net
 zdeo2c1tzt.mailbo.store

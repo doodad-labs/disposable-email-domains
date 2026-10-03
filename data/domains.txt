@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-10-02T21:51:15.007Z
+# Aggregated blacklist generated on 2026-10-03T00:57:12.201Z
  
 0-00.usa.cc
 0-30-24.com
@@ -46370,6 +46370,7 @@ bolotin.info
 bolozux13u.mailbo.store
 bolq.ru
 bolraweqq0.mailbo.store
+bolsa.lat
 bolsasyenvases.com
 bolshakova-studio.ru
 bolshakovastudio.ru
@@ -50768,6 +50769,7 @@ bw3.cse445.com
 bw31mle.cse445.com
 bw56t.anonbox.net
 bw6asmn.cse445.com
+bw6hf.anonbox.net
 bw6r7.anonbox.net
 bw8n.dung2tb.io.vn
 bw9lkffin0.mailbo.store
@@ -108298,6 +108300,7 @@ gv.luk2.com
 gv.ru
 gv26e1qsec.mailbo.store
 gv2jkc28es.mailbo.store
+gv3la.lat
 gv3rzogmtq.mailbo.store
 gv64jc3ayu.mailbo.store
 gv6apirbm2.mailbo.store
@@ -147376,6 +147379,7 @@ londontimes.me
 londonwinexperience.com
 londonyouthsailing.org
 lone-rover.com
+lonegarden.top
 loneleschultz4lj.site
 lonelybra.ml
 lonelyshe.com
@@ -157382,6 +157386,7 @@ maxxdrv.ru
 maxxedout.net
 maxxeu.world
 maxxprobikes.ru
+maxxspace.com
 maxzhong.com
 maxzora.site
 may-bk.org
@@ -172118,6 +172123,7 @@ newcomerprograms.org
 newconnect.uk
 newcoolfix.xyz
 newcreditworld.net
+newcs.lat
 newcupon.com
 newdailyoffers.shop
 newdailys.com
@@ -174645,6 +174651,7 @@ nodepositecasinous.com
 nodepositslotcasino.com
 nodepozits.info
 nodered.com
+nodes.lat
 nodesauce.com
 nodesec.directory
 nodezine.com

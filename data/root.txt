@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-10-03T00:57:12.201Z
+# Aggregated blacklist generated on 2026-10-03T07:37:13.615Z
  
 0-30-24.com
 0-attorney.com
@@ -41119,6 +41119,7 @@ cecedu.us
 cecerbuyshouses.com
 cech-liptov.eu
 cecilihouse.co
+cecizie.web.id
 ceclb.us
 ceclmb.us
 ceclmbs.us
@@ -77788,6 +77789,7 @@ gcosmic.ru
 gcp.ong
 gcpainters.com
 gcpfas.shop
+gcphanter.skin
 gcpmakerds.cyou
 gcpowner.online
 gcpripon.space
@@ -79204,6 +79206,7 @@ ggdropxl.ru
 ggedell.site
 ggergerherhhrehrgfd.club
 ggezmail.com
+ggezmailint.com
 ggezme.shop
 ggfb.org
 ggfbp.xyz

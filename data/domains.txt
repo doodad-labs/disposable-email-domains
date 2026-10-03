@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-10-03T07:37:13.615Z
+# Aggregated blacklist generated on 2026-10-03T13:03:11.274Z
  
 0-00.usa.cc
 0-30-24.com
@@ -4017,6 +4017,7 @@
 1sec-mail.pro
 1sec-mail.site
 1sec-mail.space
+1sec.email
 1sec.site
 1secemail.com
 1secmail.asia
@@ -6217,6 +6218,7 @@
 2mailfree.shop
 2mailnext.com
 2mailnext.top
+2mails.site
 2mao.xyz
 2marketbags.com
 2maudacieuse.org
@@ -20640,6 +20642,7 @@ abcbet.info
 abcd01.shop
 abcda.tech
 abcday.net
+abcdayb330.biz.id
 abcdazja330.biz.id
 abcdef1234abc.ml
 abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijk.com
@@ -30733,6 +30736,7 @@ aptseniorlivingtab.live
 aptweightlosshelpok.live
 apu.com
 apu.re
+apuera.fyi
 apuesta10caballos.com
 apun.meikaa.store
 apuns.live
@@ -35329,7 +35333,9 @@ axis-com.com
 axisbank.co
 axischurchbend.com
 axiscosmic.com
+axiskernel.com
 axisnet.com
+axispacket.com
 axitrader.ph
 axixmail.com
 axiz.digital
@@ -46304,6 +46310,7 @@ bola918.net
 bola918.org
 bolaaman.com
 bolabrasilacademy.com
+bolacha.email
 bolaeuro.com
 bolagames.org
 bolagemar.online
@@ -49127,6 +49134,7 @@ btjia.net
 btjkv.anonbox.net
 btjnqla75t.mailbo.store
 btjoy20.com
+btjpyro.com
 btjz6.anonbox.net
 btks2.anonbox.net
 btkylj.com
@@ -61270,6 +61278,7 @@ codemystartup.com
 codenative.info
 codenexty.com
 codeninja819.anonaddy.com
+codenix.icu
 codenovation.tech
 codenow.com
 codenwinxpire.com
@@ -64712,6 +64721,7 @@ crazywincasino.net
 crazywot.net
 crazzzyballs.ru
 crboger.com
+crc.vakolubo412.biz.id
 crc20.com
 crcrc.com
 crct.autokey247.com
@@ -69333,6 +69343,7 @@ db-2phone.com
 db-phone-zip.com
 db-vets.com
 db-whoisit.com
+db.narokonu412.biz.id
 db0ogccmwo.mailbo.store
 db214.com
 db2sports.com
@@ -74689,6 +74700,7 @@ dm9bqwkt9i2adyev.ga
 dm9bqwkt9i2adyev.ml
 dm9bqwkt9i2adyev.tk
 dma.in-ulm.de
+dma.yuzu.sryze.cc
 dma2x7s5w96nw5soo.cf
 dma2x7s5w96nw5soo.ga
 dma2x7s5w96nw5soo.gq
@@ -88544,6 +88556,7 @@ ezsi.email
 ezsj.hair
 ezskoolz.com
 ezsmail.com
+ezsmurf.top
 ezstest.com
 ezswoljrj4.mailbo.store
 eztam.xyz
@@ -95613,6 +95626,7 @@ fpjyxqyafb.mailbo.store
 fpkdbn.shop
 fpkf.jailbreakeverything.com
 fpkfdyed.shop
+fpklm.com
 fpkzoso96i.mailbo.store
 fpl.luk2.com
 fpl.tips
@@ -98977,6 +98991,7 @@ gajahtoto.org
 gajelaslu.biz.id
 gajesajflk.cf
 gajesajflk.gq
+gajokula412.biz.id
 gajulcs8.choirul.host
 gakahu8hro.mailbo.store
 gakbec.us
@@ -112127,6 +112142,7 @@ helloyyh.com
 hells-heater.ru
 hellsheater.ru
 hellsmoney.com
+hellthcare.org
 helluniversity.com
 hellwood.dpdns.org
 helm.ml
@@ -120078,6 +120094,7 @@ idiosynmail.ru
 idioticfl.com
 idiotmails.com
 idividi.com
+idj.kolikoki412.biz.id
 idjbet.net
 idjecb8d6l.mailbo.store
 idjitu100.com
@@ -121353,6 +121370,7 @@ iloverio.ml
 ilovespam.com
 iloveu.dk
 iloveupd.com
+iloveyou2.fun
 ilowbay.com
 ilpersonalepa.org
 ilpetre.trade
@@ -124336,6 +124354,7 @@ investering-solenergi.dk
 investex.com
 investfxlearning.com
 investhaiti.org
+investhub.sbs
 investidoreseparceiros.com
 investigator.cloud
 investigebml.ru
@@ -125334,6 +125353,7 @@ is8t.cse445.com
 isa.net
 isa1lyahbm.mailbo.store
 isaac.aleeas.com
+isaacapcut.sbs
 isaacjmackay.com
 isaactubbs.com
 isabe2017.com
@@ -136105,6 +136125,7 @@ kibuzfoc1k.mailbo.store
 kibwot.com
 kic2qq58uo.mailbo.store
 kicaubet.online
+kicaumania.web.id
 kicaw.biz.id
 kicaw.web.id
 kichco.com
@@ -137193,6 +137214,7 @@ kkredyttonline.pl
 kkrmcj.fun
 kksahsap.com
 kksm.be
+kkspeak.online
 kkss33.com
 kktheblu.us
 kktk.autokey247.com
@@ -138009,6 +138031,7 @@ koletter.com
 kolfe.fun
 kolgoreng.biz.id
 koli.es
+kolikoki412.biz.id
 koliman.me
 kolin.net
 kolinanok.it.com
@@ -138084,6 +138107,7 @@ kometaofficialcasino.ru
 kometaonlinecasino.ru
 komferry.com
 komfu.com
+komgame.win
 komik.cleansite.us
 komilbek90.site
 kommespaeter.de
@@ -143165,6 +143189,7 @@ lekka.co.uk
 leknawypadaniewlosow.pl
 lekrmjkq3j.mailbo.store
 leks.me
+lektia.fr
 lekw.com
 lekw3qawmg.mailbo.store
 lekynus.com
@@ -148262,6 +148287,7 @@ lowerrightabdominalpain.org
 lowes.fun
 lowesters.xyz
 lowestpricesonthenet.com
+lowid.yuzu.sryze.cc
 lowiqmail.net
 lowkeys.addy.io
 lowlifeairride.com
@@ -157931,6 +157957,7 @@ mcu.laste.ml
 mcudj.us
 mcuma.com
 mcunnm.ccwu.cc
+mcveangroup.com
 mcvip.es
 mcvjnm1nws.mailbo.store
 mcvzd.anonbox.net
@@ -170110,6 +170137,7 @@ narlyx.maskmy.id
 narnia-chronik.com
 narodnydoctor.ru
 narodnyjlekar.ru
+narokonu412.biz.id
 narrec10.club
 narrereste.ml
 narrowment.com
@@ -170197,6 +170225,7 @@ nassery.org
 nassie.anonaddy.com
 nasskar.com
 nassryyy78.lat
+nasstecairnet.net.pk
 nastarcie.site
 nastase.ddnsfree.com
 nastroikalinuksa.ru
@@ -170378,6 +170407,7 @@ naturewild.ru
 naturezonepet.com
 naturgate.ru
 naturinpo.com.br
+naturist-fiction.com
 naturopathequipment.com
 naturos.xyz
 natusmail.com
@@ -172587,6 +172617,7 @@ nexcv.com
 nexehi9kyj.mailbo.store
 nexentia.cfd
 nexgen-buysrentals.com
+nexgen.net.pk
 nexgenlocalmarketing.biz
 nexgenlocalxxx.biz
 nexgenwebsite.biz
@@ -174132,6 +174163,7 @@ nktc-kw.com
 nktechnical.tech
 nktgzmjrxx.ga
 nktltpoeroe.cf
+nktv1.lat
 nktwhg.com
 nkuj.autokey247.com
 nkushix.com
@@ -176586,6 +176618,7 @@ nusaena.web.id
 nusahomeinteriors.com
 nusamail.web.id
 nusamart.site
+nusantaraku.my.id
 nusatenggarabarat.net
 nusatenggaratimur.net
 nuself.ru
@@ -179476,6 +179509,7 @@ okdziv.myddns.me
 oke.badut.cloud
 oke.bar
 oke.lumora731.biz.id
+oke.sulqer231.biz.id
 okean-doors.ru
 okebet4.net
 okece.xyz
@@ -179642,6 +179676,7 @@ oksantodomingo.com
 okseattle.com
 okshoesok.com
 oksihum.com
+oksmtp.com
 okspringfield.com
 oksser.com
 okstamford.com
@@ -180067,6 +180102,7 @@ omahisa.com
 omahsimbah.com
 omail.de
 omail.edu.pl
+omail.id
 omail.pp.ua
 omail.pro
 omailer.xyz
@@ -181845,6 +181881,7 @@ optimizationcomputersspot.com
 optimizeconseil.com
 optimizely.work.gd
 optimizepresntationllc.com
+optimizeux.co
 optimizeyourweb.site
 optimum.net
 optimumnet.com
@@ -187792,6 +187829,7 @@ perfo.best
 perfomjobs.com
 perform.mailbo.store
 performance.mailbo.store
+performanceairhc.com
 performancesciencesllc.biz
 performant.dev
 performfirst.net
@@ -206812,6 +206850,7 @@ ritighpi.cf
 ritighpi.ga
 ritighpi.gq
 ritighpi.tk
+rito.grok-mail.co
 ritoper.ml
 ritrlvcsqp.mailbo.store
 ritsonoptical.com
@@ -210047,6 +210086,7 @@ rusvisit.ru
 rusyakikerem.network
 rut.emlpro.com
 rutale.ru
+rutf.shop
 ruthann.best
 ruthas.com
 rutherford-group.co.uk
@@ -210162,6 +210202,7 @@ rvsneajlvu.mailbo.store
 rvspedals.com
 rvssu7htao.mailbo.store
 rvstep.com
+rvt.abcdayb330.biz.id
 rvtgrc5k.cse445.com
 rvtiaqwf.shop
 rvto3ndhq3.mailbo.store
@@ -216565,6 +216606,7 @@ sf-getcare.org
 sf-nero.site
 sf-ss.ru
 sf.emltmp.com
+sf.gajokula412.biz.id
 sf.laste.ml
 sf15.space
 sf16.space
@@ -220835,6 +220877,7 @@ smartcharts.live
 smartcharts.pro
 smartdedicated.site
 smartdigitalone.com
+smartdigitalpromo.com
 smartdreamzzz.com
 smartemail.fun
 smartemailbox.co
@@ -221130,6 +221173,7 @@ smotry-v-glaza.ru
 smottowee.info
 smoug.net
 smoz.us
+smp.balajar.id
 smp17.amzn1.de
 smpcenipkc.mailbo.store
 smpcharity.co.uk
@@ -223073,6 +223117,7 @@ sousah.com
 soushuba.xyz
 sousor.com
 sousousousou.com
+souss.dev
 south-windinfo.online
 south.mailbo.store
 southafrica-nedv.ru
@@ -223315,6 +223360,7 @@ spade69casino.net
 spaereplease.com
 spaexi.com
 spagyrichemp.com
+spahe.space
 spahe.xyz
 spahealth.club
 spahealth.online
@@ -227732,6 +227778,7 @@ sulphantimmals.ru
 sulphantimolml.ru
 sulphantiomail.com
 sulphonies.xyz
+sulqer231.biz.id
 suls91smlh.mailbo.store
 sultanbaptist.space
 sultanbetbonus.net
@@ -231486,6 +231533,7 @@ tatasteellongproductslimited.net
 tatasteellpl.com
 tatasteellpl.info
 tatataia.com
+tatatutu.site
 tatbuffremfastgo.com
 tatchongtruot.com
 tatebayashi-zeirishi.biz
@@ -233537,6 +233585,7 @@ temporagourmet.com
 temporalemail.org
 temporam.com
 temporam.fun
+temporam.me
 temporam.online
 temporam.shop
 temporam.xin
@@ -237652,6 +237701,7 @@ tiny.dobunny.com
 tiny.itemxyz.com
 tiny.marksypark.com
 tiny.pointbuysys.com
+tinyadventures.xyz
 tinybet.org
 tinybizhub.xyz
 tinybt.com
@@ -238678,6 +238728,7 @@ tmpmail.co
 tmpmail.com
 tmpmail.net
 tmpmail.org
+tmpmailer.com
 tmpmails.com
 tmpmailtor.com
 tmpnator.live
@@ -239953,6 +240004,7 @@ toptf.click
 topthailandsport.com
 topthingsstore.info
 toptierfloorcleaning.com
+topto.lat
 toptopmail.cf
 toptopmail.ga
 toptopmail.gq
@@ -250115,6 +250167,7 @@ vakhariagroup.com
 vakifarabam.com
 vaklena.online
 vaknin-law.com
+vakolubo412.biz.id
 vakonu.xyz
 vakri.top
 vaktarjobb.se
@@ -250973,6 +251026,7 @@ vectorcarmail.com
 vectorcarml.ru
 vectorgo.site
 vectoris.site
+vectorpixel.org
 vectorsentry.net
 ved9ghqzka.mailbo.store
 vedalholding.com
@@ -251595,6 +251649,7 @@ vertamo.tk
 vertebraraml.ru
 vertebrobmail.com
 verterygiep.com
+vertexdecor.com
 vertexinbox.com
 vertexium.net
 vertexpropmgmt.com
@@ -258544,6 +258599,7 @@ weedseedsforsale.com
 weefegywar.mailbo.store
 weefenrir.com
 weegal.com
+weehost.top
 weehy.com
 week.mailbo.store
 weekendcarnival.com
@@ -269630,6 +269686,7 @@ yazzon.shop
 yb.10mail.org
 yb.emlpro.com
 yb.luk2.com
+yb.xiunakana.shop
 yb0hmi.us
 yb2kan8ios.mailbo.store
 yb2wqpdj.cse445.com
@@ -273081,6 +273138,7 @@ yyds26.eu.cc
 yydsmail-verify.roydust.top
 yydsmail.cckff.ggff.net
 yydsplus.top
+yydsyes.ccwu.cc
 yyecnqdckf.mailbo.store
 yyedg.kintama.cfd
 yyemek.xyz

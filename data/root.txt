@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-10-05T00:27:29.072Z
+# Aggregated blacklist generated on 2026-10-05T08:23:49.546Z
  
 0-30-24.com
 0-attorney.com
@@ -17483,6 +17483,7 @@ allsasssa.online
 allseasonsgazebos.net
 allseasonswe.us
 allserch.net
+allservice.fun
 allsets.xyz
 allsizepallet.com
 allslickdeals.com
@@ -20564,6 +20565,7 @@ aplikasi-premium.my.id
 aplikasi.mywire.org
 apliquedecabelo.net
 apliuyao.top
+aplix.id
 apliylog.shop
 aplo.me
 aploris.com
@@ -21931,6 +21933,7 @@ artcreate.ai
 artdigimail.com
 artdreams.us
 artdrip.com
+artea.lat
 artedecancun.com
 artefact.co
 artefacto11.com
@@ -25250,6 +25253,7 @@ azmziarat.com
 azna.ga
 azo.co
 azocoin.com
+azoehar413.biz.id
 azoguee.shop
 azomain.xyz
 azon-review.com
@@ -30414,6 +30418,7 @@ bewincasino.net
 bewleysnorthamerica.com
 bewleysusa.com
 bewumarkets.site
+bex.ro
 bexlom.click
 bexnxx.giize.com
 bexnxx.xyz
@@ -50851,6 +50856,7 @@ cushyjoy.com
 cuspy.ru
 cust.edu.rs
 cust.in
+custemail.xyz
 custenms.com
 custmon.net
 custmon.org
@@ -51447,6 +51453,7 @@ czguangyus.com
 czilou.com
 czip.site
 cznyaw.us
+czoehar413.biz.id
 czpanda.cn
 czpaydayloans.com
 czpivquq.shop
@@ -52402,6 +52409,7 @@ danzeralla.com
 danzlogo.com
 dao.pp.ua
 dao7j4.us
+daodao.app
 daoduytu.net
 daof.cn
 daogarden.ru
@@ -69776,6 +69784,7 @@ fast1688.com
 fast2bet.asia
 fast3std0wnload.com
 fast4me.info
+fast4wardmail.co.in
 fastaccare.xyz
 fastacura.com
 fastaddictionhelp.com
@@ -84910,6 +84919,7 @@ gzk2sjhj9.pl
 gzley.site
 gzlingxiu.com
 gzlsw.info
+gzoehar413.biz.id
 gzpljm.us
 gzqyjtgs.com
 gzrwx.com
@@ -99328,6 +99338,7 @@ izmirseyirtepe.net
 izmitvestelservis.com
 izmun.click
 iznai.ru
+izoehar413.biz.id
 izolacja-budynku.info.pl
 izoli9afsktfu4mmf1.cf
 izoli9afsktfu4mmf1.ga
@@ -103625,6 +103636,7 @@ jzjgy4.com
 jzkn1.us
 jzlvoei.cn
 jzlz.hair
+jzoehar413.biz.id
 jzsp8r.com
 jzxlink.xyz
 jzxsportgw.xyz
@@ -116914,6 +116926,7 @@ lzgyigfwf2.ml
 lzgyigfwf2.tk
 lzmjgc.com
 lzoaq.com
+lzoehar413.biz.id
 lzpooigjgwp.pl
 lzqm.us
 lzs1.us
@@ -117493,6 +117506,7 @@ magetrust.com
 maggieclark.org
 maggievirtually.com
 maggotymeat.ga
+maggy.lat
 maghassistance.com
 maghyg.xyz
 magia-malarska.pl
@@ -122923,6 +122937,7 @@ mcpressurewashingfl.com
 mcprotec.com
 mcpservers.one
 mcpsvastudents.org
+mcpt.cn
 mcpt.online
 mcqmnb.icu
 mcqo.com
@@ -129608,6 +129623,7 @@ mtmgeismar.com
 mtnewtoy.us
 mtnlf.com
 mto2.ru
+mtoemail.com
 mtotobakimdetailing.com
 mtpolice-megazine.com
 mtpower.com
@@ -133150,6 +133166,7 @@ nce2x8j4cg5klgpupt.ga
 nce2x8j4cg5klgpupt.gq
 nce2x8j4cg5klgpupt.ml
 nce2x8j4cg5klgpupt.tk
+nceayacp526.biz.id
 ncedetrfr8989.cf
 ncedetrfr8989.ga
 ncedetrfr8989.gq
@@ -144503,6 +144520,7 @@ pandemic.holdings
 pandemic.llc
 pandemic20.us
 pandemic8.com
+pandey.club
 pandey.lol
 pandiculating.net
 pandies.space
@@ -162936,6 +162954,7 @@ roomy-hostel.ru
 rooqie.com
 roorkee.in
 rooseveltmail.com
+roosh.com
 rooshipolyplast.com
 rooster-pil-pil-ballincollig.com
 rooststellarsmelt.site
@@ -184658,6 +184677,7 @@ textcasi.cf
 textcasi.gq
 textcasi.ml
 textcasi.tk
+textdiff.net
 textel.id
 texters.ru
 textfrees.us
@@ -188755,6 +188775,7 @@ toin3535.com
 tojalrajas.cyou
 tojaybetdownload.net
 tojbet.com
+tojson.icu
 tokai.tk
 tokar.com.pl
 tokatgop.com
@@ -196205,6 +196226,7 @@ usapharmsn.com
 usaphonezip.com
 usaplayerscasino.com
 usapodcasd.com
+usapremium.net
 usapurse.com
 usarealme.com
 usareplicawatch.com
@@ -206858,6 +206880,7 @@ wudet.men
 wudiai.shop
 wudiart.com
 wudmis.com
+wudpdx.my.id
 wudprint.online
 wudsec.com
 wudtee.online

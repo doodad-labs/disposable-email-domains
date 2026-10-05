@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-10-04T21:14:05.544Z
+# Aggregated blacklist generated on 2026-10-05T00:27:29.072Z
  
 0-30-24.com
 0-attorney.com
@@ -44307,6 +44307,7 @@ ciprofloxacin500mg.store
 ciproonlinesure.com
 ciprorxpharma.com
 ciptasphere.tech
+cipto.lat
 cipulz.site
 ciputra88login.info
 ciputraceme.com

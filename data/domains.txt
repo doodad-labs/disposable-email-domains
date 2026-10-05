@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-10-04T21:14:05.544Z
+# Aggregated blacklist generated on 2026-10-05T00:27:29.072Z
  
 0-00.usa.cc
 0-30-24.com
@@ -58905,6 +58905,7 @@ ciproonlinesure.com
 ciprorxpharma.com
 cips.autokey247.com
 ciptasphere.tech
+cipto.lat
 cipulz.site
 ciputra88login.info
 ciputraceme.com
@@ -174002,6 +174003,7 @@ nj1mat17p9.mailbo.store
 nj2crojwlt.mailbo.store
 nj2pk0dqwd.mailbo.store
 nj3dprinting.com
+nj3q6.anonbox.net
 nj47wmkyza.mailbo.store
 nj4puu25kz.mailbo.store
 nj61k0ea.saucent.online

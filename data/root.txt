@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-10-05T08:23:49.546Z
+# Aggregated blacklist generated on 2026-10-05T19:04:29.865Z
  
 0-30-24.com
 0-attorney.com
@@ -82071,6 +82071,7 @@ goodinternetmoney.com
 goodiploms.com
 goodjab.club
 goodjob.pl
+goodjzy.art
 goodlathe.com
 goodlibbooks.site
 goodlibfile.site
@@ -196728,6 +196729,7 @@ uveh.com
 uvelichit-grud.ru
 uvezem.su
 uvhs.com
+uvicone.in
 uvmail.com
 uvomail.com
 uvoofiwy.pl

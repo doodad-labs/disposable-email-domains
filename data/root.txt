@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-10-06T16:30:45.487Z
+# Aggregated blacklist generated on 2026-10-06T22:22:03.276Z
  
 0-30-24.com
 0-attorney.com
@@ -17865,6 +17865,7 @@ alptoker.com
 alpynosan.tech
 alqeeat.org
 alqiblah.net
+alquilerjetskitf.com
 alquimiaproduccion.com
 alquivendelsur.com
 alqy5wctzmjjzbeeb7s.cf
@@ -23410,6 +23411,7 @@ atnextmail.com
 atnight.me
 atolyeepos.com
 atolyezen.com
+atom77777.com
 atombomb.online
 atomdev.eu
 atomeca.com
@@ -79476,6 +79478,7 @@ ghjtv.site
 ghk55.us
 ghkal.us
 ghkali.us
+ghkalihi.us
 ghked.us
 ghkedu.us
 ghkh.us
@@ -92329,6 +92332,7 @@ hvhg.skin
 hvhgw.club
 hvhgw.xyz
 hvhtransportation.com
+hvinspection.com
 hviy.skin
 hvkp.com
 hvld.net
@@ -113283,6 +113287,7 @@ linlowebp.ml
 linlowebp.tk
 linlshe.com
 linnei.site
+linocasik.ru
 linode.systems
 linodecdn.org
 linodecloud.tech
@@ -131254,6 +131259,7 @@ mylicense.ga
 mylightning.best
 mylightning.site
 mylilan.site
+mylinkblaster.cfd
 mylinkedinsolution.com
 mylinks.dk
 myliomail.ru
@@ -134950,6 +134956,7 @@ nexusbridge.co
 nexusedge.tech
 nexusgaming88com.com
 nexusgecko.com
+nexushint.com
 nexushost.site
 nexusmail.cfd
 nexuss88.com
@@ -147261,6 +147268,7 @@ pewebnont.gq
 pewebnont.ml
 pewebnont.tk
 pewestacecasino.com
+pewhd.com
 pewnealarmy.pl
 pewpewpewpew.pw
 pexda.co.uk
@@ -150266,6 +150274,7 @@ poki.us
 pokiemobile.com
 pokjey.com
 poko.my
+pokomail.org
 pokoshop.se
 pokostand.se
 pokostore.se
@@ -153833,6 +153842,7 @@ pspvitagames.info
 psqf.xyz
 psr1225.club
 pssection9.online
+pssecurity.it
 pstaxsolutionspros.com
 pstv.live
 psud.com
@@ -164216,6 +164226,7 @@ rumednews.site
 rumeli.com
 rumenbazaar.xyz
 rumet.online
+rumeysagelinlik.com
 rumgel.com
 rumislotsgame.info
 rummelhoffslimousine.com
@@ -174852,6 +174863,7 @@ sondwantbas.tk
 sondzvlhehe.online
 sonesont.shop
 song555.ggff.net
+song88.xyz
 songart.ru
 songbomb.com
 songember.com
@@ -197943,6 +197955,7 @@ veg2o.com
 vega100mgtr.com
 vegabet137.com
 vegaeticaret.com
+vegaj.com
 vegan-in-frankenthal.info
 veganbargains.com
 veganlifecoach.net

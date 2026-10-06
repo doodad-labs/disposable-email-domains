@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-10-05T19:04:29.865Z
+# Aggregated blacklist generated on 2026-10-06T01:07:59.406Z
  
 0-00.usa.cc
 0-30-24.com
@@ -175929,6 +175929,7 @@ nqlzfrn.com
 nqmfl1.igg.biz
 nqmo.com
 nqn.freeml.net
+nqnb5.anonbox.net
 nqnx.io
 nqpc.com
 nqpf.laste.ml

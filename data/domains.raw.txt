@@ -112119,6 +112119,7 @@ hello.tryperegrinate.click
 hello.trytrip.click
 hello.turnonhq.click
 hello.vacly.click
+hello.wisetransfer.click
 hello1.pinmx.net
 hello123.com
 helloairfares.com

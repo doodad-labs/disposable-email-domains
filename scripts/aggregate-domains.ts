@@ -59,7 +59,7 @@ async function main() {
 
         for (const lines of txt) {
             console.log(lines.length)
-            for (const entry of lines) tld_whitelist.add(entry)
+            for (const entry of lines) whitelist.add(entry)
         }
 
     } catch (err) {
@@ -83,31 +83,7 @@ async function main() {
 
         for (const lines of txt) {
             console.log(lines.length)
-            for (const entry of lines) whitelist.add(entry)
-        }
-
-    } catch (err) {
-        console.error(err)
-        process.exit(1)
-    }
-
-    try {
-
-        const txt = await Promise.all(
-            sources.whitelist.txt.map(async (url) => {
-                try {
-                    console.log(`Fetching ${url}`)
-                    return await fetchListText(url)
-                } catch (err) {
-                    console.warn(String(err))
-                    throw err
-                }
-            })
-        )
-
-        for (const lines of txt) {
-            console.log(lines.length)
-            for (const entry of lines) whitelist.add(entry)
+            for (const entry of lines) tld_whitelist.add(entry)
         }
 
     } catch (err) {

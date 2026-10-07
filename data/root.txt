@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-10-07T09:24:48.534Z
+# Aggregated blacklist generated on 2026-10-07T12:42:23.784Z
  
 0-30-24.com
 0-attorney.com
@@ -1977,6 +1977,7 @@
 18jlslotcasino.com
 18kin.jp
 18ladies.com
+18lover.com
 18luck.domains
 18moa10.net
 18naga.com
@@ -9340,6 +9341,7 @@
 7nglhuzdtv.gq
 7nglhuzdtv.ml
 7nglhuzdtv.tk
+7ni.foo
 7nka4e.us
 7novels.com
 7nsska.us
@@ -11993,6 +11995,7 @@ aah126.cc
 aahaarbharat.com
 aahaha.com
 aahs.co.pl
+aahzz.com
 aaimbees.site
 aajj234.com
 aajlayj.website
@@ -14061,6 +14064,7 @@ adtalarmsbuffalo.com
 adtemps.org
 adternative.net
 adtg.com
+adthost.top
 adtika.online
 adtolls.com
 adtraden.cf
@@ -15496,6 +15500,7 @@ aifreeuk.net
 aifreeuk.store
 aigamail.com
 aigame.xyz
+aigcdog.com
 aigledev.com
 aigogo.pro
 aigostar-bg.com
@@ -18883,6 +18888,7 @@ analogsemail.com
 analogsky.com
 analogwe.us
 analplug.co.uk
+analsexporn.xyz
 analymal.com
 analysan.ru
 analysesa.site
@@ -20402,6 +20408,7 @@ aparelhosmedicos.net
 apartamentosrd.online
 apartement.id
 apartiko.ru
+apartmanipetra.com
 apartment.supplies
 apartmentpropertyinvesting.com
 apartmentquest.com
@@ -38555,6 +38562,7 @@ calimedia.vn
 calintec.com
 calipari.info
 caliperinc.com
+calirona.com
 calisfei.cf
 calisfei.ga
 calisfei.gq
@@ -47459,6 +47467,7 @@ comx.cf
 comyc.com
 comyci.website
 comyze.org
+comzx.com
 con.com
 con.mx
 con.net
@@ -48351,6 +48360,7 @@ copyright-enfocement.com
 copyright-gratuit.net
 copyrightdesk.com
 copyrightjo.ru
+copytosh.com
 copytrade.investments
 coqh.com
 coqmail.com
@@ -61102,6 +61112,7 @@ dzklaw.com
 dznf.net
 dzntn.io.vn
 dzoefxifzd.ga
+dzoehar413.biz.id
 dzpqjxarji.ga
 dzprosat.com
 dzsyr.com
@@ -79776,6 +79787,7 @@ gilliancunninghamrealestateagentallentx.com
 gilliancunninghamrealestateagentcarrolltontx.com
 gilliancunninghamrealestateagentdallastx.com
 gilliancunninghamrealestateagentfriscotx.com
+gillisscatering.com
 gillovhjol.space
 gilma.com
 gilmail.com
@@ -81545,6 +81557,7 @@ gofsaosa.tk
 gofsrhr.com
 gofuckporn.com
 gofuckyourselves.com
+gofunid.icu
 gog4dww762tc4l.cf
 gog4dww762tc4l.ga
 gog4dww762tc4l.gq
@@ -83912,6 +83925,7 @@ gstatic-cache-fra1.xyz
 gstone.com
 gstore96.ru
 gstreamtv.biz.id
+gsttony.shop
 gstx1.xyz
 gsuitedigital.com
 gsvg.info
@@ -86668,6 +86682,7 @@ hawteur.com
 hawthornepaydayloans.info
 hax0r.id
 hax55.com
+haxaim.com
 haxmail.co
 haxnode.net
 haxo.club
@@ -87949,6 +87964,7 @@ herbertgrnemeyer.in
 herbflushness.com
 herbivmail.com
 herbkab.icu
+herclan.com
 hercn.com
 herculescasino.com
 herdigitalimpact.com
@@ -104073,6 +104089,7 @@ kalsihut.com
 kaltimpoker.com
 kalvascorp.com
 kalvertgroup.com
+kalwa.fun
 kamaahmad.org
 kamadoti.cyou
 kamagra-lovegra.com.pl
@@ -109238,6 +109255,7 @@ kzk2o.club
 kzle.com
 kzmta.xyz
 kzn.us
+kzoehar413.biz.id
 kzone88.com
 kzq6zi1o09d.cf
 kzq6zi1o09d.ga
@@ -110550,6 +110568,7 @@ lavevojsnmt71366.ml
 lavinacasno.club
 lavish-cork.com
 lavishbelleevents.com
+lavishmail.com
 lavkaidey.ru
 lavkamail.com
 lavnikov.com
@@ -110941,6 +110960,7 @@ leadwins.com
 leadwizzer.com
 leadwojzer.space
 leaec.com
+leafflip.com
 leafmanager.com
 leafofallcolors.com
 leaforic.com
@@ -112891,6 +112911,7 @@ limberzbmn.space
 limboflow.com
 limboo.ga
 limbostudios.com
+limcil.cyou
 limcorp.net
 lime-cb8.com
 limedesign.net
@@ -116772,6 +116793,7 @@ lycos.co.kr
 lycos.nl
 lycose.com
 lycosemail.com
+lycosmail.com
 lyct.com
 lydia-uniform.com
 lydia862.sbs
@@ -117713,6 +117735,7 @@ mail-fix.com
 mail-fix.net
 mail-free-mailer.online
 mail-fukfriend.com
+mail-fusion.co.in
 mail-gen.xyz
 mail-group.net
 mail-guru.net
@@ -119615,6 +119638,7 @@ mails-4-mails.bid
 mails-domens.online
 mails-domes.online
 mails-go.online
+mails.cm
 mails.com
 mails.edu.pl
 mails.ru
@@ -123756,6 +123780,7 @@ meingrosserkredit.club
 meinspamschutz.de
 meintick.com
 meinto.sbs
+meinvr.com
 meinz.shop
 meirapy.cf
 meirapy.ga
@@ -139030,6 +139055,7 @@ odulonmail.com
 oduyzrp.com
 odvh.xyz
 odw88.com
+odynex.online
 odysseusshop.com
 odyssey-kitefishing.com
 odyssey.gold
@@ -154334,6 +154360,7 @@ pureindianrush.com
 pureindiantakeaway.com
 pureiowahoney.com
 pureism.org
+pureknight.com
 purelifecleanses.com
 purellc.com
 purelogistics.org
@@ -186983,6 +187010,7 @@ throwam.com
 throwaway.dynv6.net
 throwaway.io
 throwaway.top
+throwawayemail.app
 throwawayemail.com
 throwawayemailaddress.com
 throwawaymail.app
@@ -188772,6 +188800,7 @@ token-painted.website
 token.cloudns.be
 token.ro
 token0v0.com
+token520.cyou
 tokencoach.com
 tokencoach.net
 tokenedu.cfd
@@ -190263,6 +190292,7 @@ trade-magazine-product.ru
 tradeatf.mobi
 tradebea.us
 tradebitrage.com
+tradebloomrun.com
 tradecnyo.cf
 tradecnyo.ga
 tradecnyo.gq
@@ -190328,6 +190358,7 @@ tradingviewgiare.com
 traditionalimpacts.com
 traditionfml.ru
 traditionmail.ru
+tradr.space
 traducatoriromana.com
 traducereenglezaromana.com
 tradunen.ml
@@ -191280,6 +191311,7 @@ trivica.boats
 trixieberry.shop
 trixiebrio.site
 trixtrux1.ru
+triz-il.org
 triz4you.site
 trizz.pro
 trizz.xyz
@@ -191512,6 +191544,7 @@ truemeat.com
 truemotor.ru
 truemr.com
 truenaturenetwork.info
+truenexusnet.com
 truereligionbrandmart.com
 truereligionjeansdublin.eu
 truesimplesoft.com
@@ -199761,6 +199794,7 @@ virtual-baccarat-online.com
 virtual-bank.live
 virtual-email.com
 virtual-generations.com
+virtual-hipster.com
 virtual-mail.net
 virtual-trader.com
 virtual2r.com
@@ -205192,6 +205226,7 @@ winginus.xyz
 wingkobabat.buzz
 wingmer.com
 wingnutz.com
+wingsai.online
 wingslacrosse.com
 wingsoverborneo.com
 wingspkr.net
@@ -215657,6 +215692,7 @@ zofi.com
 zoftware.software
 zogavm.ru
 zoho.in
+zohobillings.com
 zohoseek.com
 zoianp.com
 zoica.fun

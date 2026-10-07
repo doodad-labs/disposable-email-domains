@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-10-07T04:28:18.854Z
+# Aggregated blacklist generated on 2026-10-07T09:24:48.534Z
  
 0-00.usa.cc
 0-30-24.com
@@ -4458,7 +4458,6 @@
 20-20trustees.com
 20.dns-cloud.net
 20.duxer.top
-20.gov
 20.navyant.bxbqrbku.xyz
 20.o-r.kr
 20.redds.site
@@ -17235,7 +17234,6 @@
 8k8bzbao1a.mailbo.store
 8k8rd2rmw2.mailbo.store
 8kazino-slotv1.ru
-8kbet.health
 8kbet.locker
 8kbet.rocks
 8kbetcasino.net
@@ -23156,7 +23154,6 @@ aeronauticaldictionary.com
 aeronauticalglossary.com
 aeronauticalterms.com
 aeronyx.cfd
-aeroponics.edu
 aeroport78.co.tv
 aeroseedsky.com
 aeroshack.com
@@ -27482,7 +27479,6 @@ aluminumbrush.us
 aluminumbrushes.org
 aluminumbrushes.us
 alumix.cf
-alumni.calvin.edu
 alumni.plainsmontessori.org
 alumnidirector.com
 alumnimp3.xyz
@@ -28875,7 +28871,6 @@ angiad.xyz
 angiefleming.com
 angiehomeservices.com
 angielski-z-dziecmi.pl
-angielski.edu
 angielskie.synonimy.com
 angieplease.com
 angifmail.ru
@@ -29388,7 +29383,6 @@ ansatko.tk
 ansbanks.ru
 anschool.ru
 anselftech.com
-anselme.edu
 ansenlg.com
 anseolio.cf
 anseolio.ga
@@ -29927,7 +29921,6 @@ aol.com.ua
 aol.cz
 aol.de
 aol.dm
-aol.edu
 aol.es
 aol.fm
 aol.gm
@@ -30176,7 +30169,6 @@ apebkxcqxbtk.ml
 apeclihx2o.mailbo.store
 apedesigns.jo3.org
 apedesigns.linkpc.net
-apeejay.edu
 apel88.com
 apeleon.net
 apelsin-shop.ru
@@ -30566,7 +30558,6 @@ appliedinclusion.com
 appliedphytogenetics.com
 appliziner.com
 applphone.ru
-apply.health
 apply.mailbo.store
 apply4more.com
 applyforcovid19relief.com
@@ -31664,7 +31655,6 @@ armstronglove.net
 armu0fgnvt.mailbo.store
 armw9urdfi.mailbo.store
 army-news.online
-army.gov
 army.ll47.net
 armyan-nedv.ru
 armyglossary.com
@@ -34126,7 +34116,6 @@ austinveterinarycenter.net
 austlrh.com
 australahumados.com
 australia-travel.news
-australia.edu
 australiaasicsgel.com
 australiadirect.xyz
 australiamining.xyz
@@ -37695,7 +37684,6 @@ balanz.earth
 balanz.energy
 balanz.farm
 balanz.fund
-balanz.health
 balanz.homes
 balanz.llc
 balanz.marketing
@@ -38315,6 +38303,7 @@ barcntenef.gq
 barcntenef.ml
 barcntenef.tk
 barcodepot.com
+barconic.org
 bardecor.ru
 bardera.es
 bardetective.com
@@ -38462,7 +38451,6 @@ bartowcountyga.com
 bartsch.cd
 barty.aleeas.com
 barubek-consalt.ru
-baruchcc.edu
 barumart.com
 barus.top
 baruscoltd.com
@@ -38839,7 +38827,6 @@ bayriatrap.ml
 bayriatrap.tk
 bayrjnf.pl
 baysansli30.com
-bayshore.edu
 baysidepublishing.org
 baysportfishing.net
 baytrilfordogs.org
@@ -39068,7 +39055,6 @@ bbrqso11mx.mailbo.store
 bbrsr.anonbox.net
 bbruastripe.com
 bbryk.live
-bbs.edu
 bbs.luk2.com
 bbs8den8teudng.xyz
 bbs96.us
@@ -45126,7 +45112,6 @@ blogsapp.xyz
 blogsbinary.eu
 blogscan.com
 blogschool.com
-blogschool.edu
 blogsecure.com
 blogseller.com
 blogsgaia.com
@@ -45319,7 +45304,6 @@ blsk.io
 blsmail.xyz
 blspiwvv.shop
 blssmly.com
-blst.gov
 blstorestore.com
 blsyq.anonbox.net
 bltbfq.teml.net
@@ -45715,7 +45699,6 @@ bmw325.tk
 bmw328.tk
 bmw33.tk
 bmw4life.com
-bmw4life.edu
 bmw5.tk
 bmw540.tk
 bmw55casino.net
@@ -52335,7 +52318,6 @@ californiaaws.com
 californiabloglog.com
 californiabrides.net
 californiaburgers.com
-californiacolleges.edu
 californiadatingsingles.net
 californiadroneworks.com
 californiafarmwedding.com
@@ -53750,7 +53732,6 @@ cartermanufacturing.com
 cartersvillewebdesign.com
 cartestraina.ro
 cartflare.com
-carthagen.edu
 cartieruk.com
 cartmails.com
 cartographif.com
@@ -56411,7 +56392,6 @@ ch8mfel3ga.mailbo.store
 ch9.saucent.online
 cha-cha.org.pl
 cha-cha20.simplelogin.com
-cha.harvard.edu
 cha17.com
 chaamtravel.org
 chaappy9zagruska.ru
@@ -63491,7 +63471,6 @@ copasi.ga
 copastore.co
 copastw.xyz
 copawoke.com
-copd.edu
 copdfmanuales.xyz
 cope.ll47.net
 copeasier.com
@@ -63671,7 +63650,6 @@ corhash.net
 corianiofoundation.com
 corifmail.ru
 corinadigital.es
-coris.bank
 corivalocasino.com
 cork.aleeas.com
 corkcoco.com
@@ -65874,7 +65852,6 @@ csslate.com
 cssm.autokey247.com
 csso.laste.ml
 csstestapp.xyz
-cssu.edu
 cssu.wiki
 cssyx.tech
 cst-service.biz
@@ -68347,7 +68324,6 @@ dalis-tech.com
 dall10.musclejapancars.com
 dallaisd.org
 dallas-ix.org
-dallas.gov
 dallas4d.com
 dallasbuzz.org
 dallascheapdrinks.com
@@ -70190,7 +70166,6 @@ declera6165.a.lofteone.ru
 declicpc.net
 decline.live
 declinefmail.com
-deco-rator.edu
 decobar.ru
 decoboardenterprisesinc.com
 decocde9381.a.lofteone.ru
@@ -70505,7 +70480,6 @@ deipostoe.gq
 deipostoe.tk
 deiries.site
 deiriesz.space
-deisanvu.gov
 deisgn-ai.work.gd
 deishmann.pl
 deitada.com
@@ -71067,7 +71041,6 @@ denverwebhost.net
 denwin.com
 denxsu.net
 denyfromall.org
-deo.edu
 deo.emlhub.com
 deo96wkshk.mailbo.store
 deoanthitcho.site
@@ -72917,7 +72890,6 @@ dietpill-onlineshop.com
 dietresource.org
 dietrich-group.com
 diets-plan.com
-dietsecrets.edu
 dietsolutions.com
 dietstart.biz
 dietsvegetarian.com
@@ -73123,7 +73095,6 @@ digitalrecordconnector.com
 digitalrestore.net
 digitalryno.net
 digitalsanctuary.com
-digitalsc.edu
 digitalscandinavia.net
 digitalscreens.com.ua
 digitalscreens.net.ua
@@ -76632,7 +76603,6 @@ dppyvozfdh.mailbo.store
 dpr.eu.com
 dprasu.sbs
 dpriders.com
-dprinceton.edu
 dprots.com
 dprscakwcg.mailbo.store
 dpryz.anonbox.net
@@ -77605,7 +77575,6 @@ drywallassociation.com
 drywallevolutions.com
 dryzewvssw.mailbo.store
 drzibners.com
-drzwi.edu
 drzwi.turek.pl
 drzwi21.pl
 ds-3.cf
@@ -78209,7 +78178,6 @@ dulogewu.astro777.online
 dulphun.com
 dult.org
 duluaqpunyateman.com
-duluthmn.gov
 dulycoded.com
 dum3.tieumuoishop.io.vn
 dumail.com
@@ -80061,7 +80029,6 @@ eatsome.pizza
 eatstopeatdiscount.org
 eatthegarden.co.uk
 eauapkfzhp.mailbo.store
-eauclairecounty.gov
 eauclaireford.com
 eauctiontrade.com
 eauie.top
@@ -80556,7 +80523,6 @@ ecomsecure.org
 ecomwihjv2.mailbo.store
 ecomyst.com
 ecomzera.com
-econ.umd.edu
 econaturella.store
 econceptdigital.com
 econconferences.net
@@ -84556,7 +84522,6 @@ enginusakelele.buzz
 enginwork.com
 engit.live
 england.com
-england.edu
 england4d.com
 englandnews.info
 englandvs.com
@@ -90196,7 +90161,6 @@ fastdeal.com.br
 fastdealhome.com
 fastdownloadcloud.ru
 fasteacher.com
-fastee.edu
 fastemails.us
 fastemailservices.com
 fastercar.site
@@ -92246,7 +92210,6 @@ fightingzebras.org
 fightlife.net
 fightth.press
 fightvg.xyz
-fightwrinkles.edu
 figjs.com
 figler.junkcarsfloridamiami.com
 figlmueller-lugeck.com
@@ -92916,7 +92879,6 @@ firef0x.gq
 firef0x.ml
 firef0x.tk
 firefightersface.com
-fireflies.edu
 firefox.cam
 firefox.zip
 firefuelseoagency.com
@@ -95072,7 +95034,6 @@ forest-arrow-play.online
 forest-reach-agree-snow.xyz
 forest-schools.com
 forestages.com
-forestar.edu
 forestbeekeeping.com
 forestcrab.com
 forestemissions.org
@@ -95175,7 +95136,6 @@ forkastta4503.a.lofteone.ru
 forkbolt.net
 forkbot.cloud
 forkd.app
-forklift.edu
 forkshape.com
 forksmedia.com
 forkswa.com
@@ -95606,7 +95566,6 @@ foxnew.info
 foxnewsradio.com
 foxo.me
 foxroids.com
-foxschool.edu
 foxsentry.maskmy.id
 foxspizzadiberville.com
 foxspizzanorthhuntingdon.com
@@ -100542,7 +100501,6 @@ gejemail.igg.biz
 gejo5msspv.mailbo.store
 gek.laste.ml
 gekhom.cd
-gekk.edu
 gekkogames.org
 gekme.com
 gekokerpde.tk
@@ -105326,7 +105284,6 @@ gooclnzodd.mailbo.store
 good-autoskup.pl
 good-college.ru
 good-digitalcamera.info
-good-electronicals.edu
 good-ladies.com
 good-life-center.com
 good-little.space
@@ -106358,7 +106315,6 @@ gracesingles.com
 gracetvglobal.com
 gracia.bheckintocash-here.com
 graciovfvh.space
-grad.bryant.edu
 grade-quick-cell-actually.xyz
 gradecare.com
 gradeweb.com
@@ -106617,7 +106573,6 @@ grateful.family
 grateful.fitness
 grateful.fun
 grateful.gallery
-grateful.health
 grateful.host
 grateful.jewelry
 grateful.llc
@@ -110145,7 +110100,6 @@ handradar.ru
 handrfabrics.com
 handrik.com
 hands2f.tk
-handsanitizer.health
 handscuts.com
 handsetcloud.com
 handsfreetelephone.ru
@@ -110543,7 +110497,6 @@ hardrockcasinosiouxcity.com
 hardseo.store
 hardstylex.com
 hardtkeinc.com
-hardvard.edu
 hardvecgeme.tk
 hardwarecloseout.com
 hardwaregurus.net
@@ -110729,7 +110682,6 @@ harumhic.biz.id
 haruto.fun
 haruto1710.masashi95.dev256.xyz
 harvard-ac-uk.tk
-harvard.ac.uk
 harvard.gq
 harvenkiori.com
 harvenkiori.uk
@@ -111637,7 +111589,6 @@ health-puzzle.com
 health-ua.com
 health.8shield.net
 health.cd
-health.edu
 health.mailbo.store
 healthaccessories.exposed
 healthaidofohio.com
@@ -111672,7 +111623,6 @@ healthcheckmate.co.nz
 healthchoicemaryland.info
 healthcoachali.press
 healthcoachpractitioner.com
-healthcorp.edu
 healthcureview.com
 healthdata.ru
 healthdaysllc.com
@@ -111854,7 +111804,6 @@ heartratemonitorstoday.com
 heartsandelephants.com
 heartstargreetings.com
 heartter.tk
-hearttoheart.edu
 heartuae.com
 heartvistanow.com
 heartwi.com
@@ -114235,9 +114184,6 @@ hkrmxr.fun
 hkrpg.xyz
 hkrrkf.capcutprem.xyz
 hkru.site
-hks11.harvard.edu
-hks12.harvard.edu
-hks17.harvard.edu
 hksa2333.33mail.com
 hksmnm.fun
 hkstar.com
@@ -115802,7 +115748,6 @@ hostedemail.org
 hostedplayout.com
 hostega.eu
 hostelness.com
-hostelschool.edu
 hostely.biz
 hosterproxse.gq
 hostfrost.site
@@ -117903,7 +117848,6 @@ hustlenflowlogistics.org
 hustlepr.com
 hustler.africa
 hustletussle.com
-huston.edu
 hustq7tbd6v2xov.cf
 hustq7tbd6v2xov.ga
 hustq7tbd6v2xov.gq
@@ -123708,7 +123652,6 @@ inspiremelabs.agency
 inspireofficeglobal.com
 inspireplanet.com
 inspirepulse.com
-inspiringfreedom.health
 inspirofmus.ru
 inspiroweb.com
 inst.gsss.org
@@ -123946,7 +123889,6 @@ intaso.gq
 intaso.ml
 intaso.tk
 intblrnet.ru
-intdesign.edu
 intech-24.pl
 intecink.ru
 intecoo.com
@@ -126000,7 +125942,6 @@ itaspanishautoinsuranceone.live
 itaspanishautoinsurancerun.live
 itaspanishautoinsurancetop.live
 itatac.tk
-itatti.harvard.edu
 itbeput7571.lofteone.ru
 itbfvhsuff.mailbo.store
 itbg1relpg.mailbo.store
@@ -137849,7 +137790,6 @@ knowinggames.com
 knowitallbrand.com
 knowledge-from-0.com
 knowledge.mailbo.store
-knowledgecreator.edu
 knowledgeforsuccessnetwork.com
 knowledgemd.com
 knowledgepioneerhub.com
@@ -139325,7 +139265,6 @@ ksfkxs6290.mailbo.store
 ksframem.com
 ksfy1iame6.mailbo.store
 ksg.luk2.com
-ksg08.harvard.edu
 ksgfu.live
 ksgh0vzbm1.mailbo.store
 ksgmac.com
@@ -142216,7 +142155,6 @@ lavpabopa.com
 lavrix.site
 law-plus.ru
 law.mailbo.store
-law.nihon-u.ac.jp
 law2lawyer.com
 lawaa317.xyz
 lawaifu.pro
@@ -145960,13 +145898,11 @@ live.hk
 live.jubileehq.click
 live.lu
 live.mailbo.store
-live.mdx.ac.uk
 live.msdc.co
 live.mx.com.mx
 live.nl.com
 live.ph
 live.vo.uk
-live.vu.edu.au
 live.xo.uk
 live1994.com
 live2.icu
@@ -145983,7 +145919,6 @@ liveandlearnchilddevelopment.com
 liveandwrecked.com
 livebet75.com
 livebigcoaching.com
-livecam.edu
 livecam24.cc
 livecamsexshow.com
 livecamsexvideo.com
@@ -146490,7 +146425,6 @@ llls.com
 llm.archi
 llm.mailer.me
 llm1.dung2tb.io.vn
-llm21.law.harvard.edu
 llmakh83py.mailbo.store
 llmetalurgica.com
 llmuxetaw.gq
@@ -151613,7 +151547,6 @@ mail.bayxs.com
 mail.bbexcite.jp
 mail.bccto.com
 mail.bccto.me
-mail.bcu.ac.uk
 mail.be
 mail.beautifulblessingsbeyondborders.org
 mail.beeplush.com
@@ -155509,7 +155442,6 @@ manapuram.com
 manaq.site
 manaritiplumbing.com
 manastirbodrum.com
-manateepao.gov
 manatelugupaatalu.com
 manatialagua.com.mx
 manatialxm.com.mx
@@ -159619,7 +159551,6 @@ merhabalarsx55996.ml
 merhabalarsx55996.tk
 merhabalarsx65295.ga
 merhabalarsx94707.ga
-meriam.edu
 mericant.xyz
 merid.ru
 meridensoccerclub.com
@@ -161296,7 +161227,6 @@ mimxibest7760.a.lofteone.ru
 min-group.club
 min-postkasse.dk
 min.burningfish.net
-min.edu.gov
 min.eml.monster
 mina.com
 minacci.leatherdocumentbags.com
@@ -165687,7 +165617,6 @@ msn-mail-free-9998.dynv6.net
 msn.co.com
 msn.co.uk
 msn.com.se
-msn.edu
 msn.org
 msn.st
 msnai.com
@@ -166521,7 +166450,6 @@ musicoterapiaitalia.com
 musicothmail.com
 musicportfestival.com
 musicproducersi.com
-musicresearch.edu
 musicscene.org
 musicsdating.info
 musicsoap.com
@@ -169063,7 +168991,6 @@ mywoolie.ru
 mywordpresswebsiteisrunningslow.cf
 myworkhelper.com
 myworkturk.online
-myworld.edu
 myworldfame.com
 myworldfame.digital
 myworldfame.online
@@ -170832,7 +170759,6 @@ nc6mayruth.com
 nc7i1levll.mailbo.store
 nc7zpig7.luksarcenter.ru
 nca.dropmail.me
-nca.x.gsi.gov.uk
 ncaaomg.com
 ncaccenture.com
 ncaek1dvh8.mailbo.store
@@ -172496,15 +172422,12 @@ news-whiz.com
 news.edu.kg
 news.getcinnalab.com
 news.giststack.com
-news.hackney.gov.uk
 news.mailbo.store
 news.mamode-amoi.fr
 news.sowhy.de5.net
-news.uhd.edu
 news.vdanceclub.com
 news21.top
 news24-focus.site
-news3.edu
 news4jax.com
 newsaa318.xyz
 newsagencybound.online
@@ -175210,7 +175133,6 @@ noorsaifi.website
 noorwesam1.website
 nooshop.ru
 noosty.com
-nootopics.tulane.edu
 nootrolovers.shop
 nootrolovers.site
 nootrolovers.space
@@ -175260,7 +175182,6 @@ norazeelie.com
 norbal.org
 norbbbed.cloud
 norbukingdom.online
-norcalenergy.edu
 norcalmasterblasters.com
 norcalsecurityca.com
 norcalweather.com
@@ -176719,7 +176640,6 @@ nurularifin.art
 nurulhidayat.com
 nurumassager.com
 nuruvi.com
-nus.edu.sg
 nus85tipeg.mailbo.store
 nusaas.com
 nusabet.info
@@ -179238,7 +179158,6 @@ ohyesjysuis.fr
 ohyesohyes.igg.biz
 ohym.com
 ohywlk5plm.mailbo.store
-ohzora.ac.jp
 oi.com.br
 oi.hopto.org
 oi.mailings.live
@@ -184133,7 +184052,6 @@ oxfo.edu.pl
 oxfor.edu.pl
 oxford-edu.cf
 oxford-edu.university
-oxford.gov
 oxfordedu.cf
 oxfordnewstoday.com
 oxfordrockwell.com
@@ -188075,7 +187993,6 @@ perksanitaria.com
 perkypoll.com
 perkypoll.net
 perkypoll.org
-perl.mil
 perlajenny.com
 perlededed.online
 perlei.co
@@ -188314,7 +188231,6 @@ pestalokl.ru
 pestalozmail.com
 pestshielders.com
 pet-care.com
-pet.cam.ac.uk
 pet.emlhub.com
 petabyte.download
 petadigital.net
@@ -190735,7 +190651,6 @@ planiwpreap.tk
 plankperishscree.site
 planmy.menu
 planned-parenthood.org
-plannedparenthood.health
 plannedparenthoodasegurate.com
 plannerbot.online
 planningapplicationmaps.com
@@ -191261,7 +191176,6 @@ ploganphd.com
 plok.com.br
 ploki.fr
 plokpgmeo2.com
-plollpy.edu
 plombierleblancmesnil.com
 ploncy.com
 plonecheck.xyz
@@ -201008,7 +200922,6 @@ qzrzkwfbxi.mailbo.store
 qzs6rysoha.mailbo.store
 qzsn.freeml.net
 qzsxj59t0h.mailbo.store
-qztc.edu
 qztkiojn5a.mailbo.store
 qztri.click
 qzueos.com
@@ -205821,7 +205734,6 @@ reviewsgames.net
 reviewsmr.com
 reviewsofhandbags.com
 reviewsofpsychics.com
-reviewtable.gov
 revions.com
 revistaagora.top
 revistaanabel.com
@@ -214057,7 +213969,6 @@ scitechivity.com
 scitechivity.org
 scities.pro
 scizee.com
-scj.edu
 scjtzy.com
 scjvr0lxcp.mailbo.store
 sckuer.com
@@ -215846,7 +215757,6 @@ seoarticlepowa.com
 seoasshole.com
 seoautomationpro.com
 seoautomationpro.online
-seobacklinks.edu
 seobest.website
 seobich.ru
 seoblasters.com
@@ -215864,7 +215774,6 @@ seobuzzvine.com
 seocdn.ru
 seocdvig.ru
 seocliques.com
-seocompany.edu
 seocu.gen.tr
 seocy.us
 seodanismanlikhizmeti.com.tr
@@ -220067,7 +219976,6 @@ skjold.simplelogin.com
 skjpoakj.33mail.com
 skk0kc9ox3.mailbo.store
 skkf.com
-skkk.edu.my
 skkxfclfim.mailbo.store
 sklad.progonrumarket.ru
 skladchina.pro
@@ -221232,7 +221140,6 @@ smithlabs.me
 smithschevron.net
 smithswood.com
 smithtownnewsdaily.com
-smithwright.edu
 smitsgroveslaw.com
 smjilicasino.com
 smjilicasino.info
@@ -222767,7 +222674,6 @@ som0.dung2tb.io.vn
 soma-agentur.com
 soma.edu.pl
 somacolorado.com
-somaderm.health
 somadethcdk.site
 somafitusa.com
 somail.store
@@ -228578,7 +228484,6 @@ suppk.site
 suppl.site
 supplemango.com
 supplement-analysis.com
-supplements.gov
 supplementsdiary.com
 supplementwiki.org
 supplyap.com
@@ -232596,7 +232501,6 @@ tech-mail.xyz
 tech-repair-centre.co.uk
 tech-suit.org
 tech.524446913.xyz
-tech.edu
 tech.gent
 tech.joburg
 tech123.ga
@@ -232926,7 +232830,6 @@ teewars.org
 teewhole.com
 teezinou.online
 teezy1huoa.mailbo.store
-tefer.gov
 teffire.cf
 teffire.gq
 teffire.ml
@@ -234090,7 +233993,6 @@ terneve8592.a.lofteone.ru
 tero.sh
 terokops.press
 teronamay.tk
-terpalum.umd.edu
 terpbelpha8564.a.lofteone.ru
 terpchildi5019.a.lofteone.ru
 terpesrus.com
@@ -243248,7 +243150,6 @@ tuljaenak.com
 tulnl.xyz
 tulria.com
 tulrniidd4.mailbo.store
-tulsa.gov
 tulsabud.delivery
 tulsacannabisdoctor.com
 tulsalaw.org
@@ -245383,7 +245284,6 @@ ucka.ccpro.click
 ucku.cceayacp526.biz.id
 ucky.com
 uclacbam.com
-ucles.cam.ac.uk
 uclfinds.org
 uclinics.com
 uclq.com
@@ -245480,7 +245380,6 @@ uddj.10mail.xyz
 uddyjfow2x.mailbo.store
 uddyokta.com
 ude-ise3d.com
-udec.edu
 udee.autokey247.com
 udef.patok.online
 udegeivnau.mailbo.store
@@ -245534,7 +245433,6 @@ udrotu.site
 udrpattorney.net
 udruzenjejez.info
 uds5l0tvw2.mailbo.store
-udsc.edu
 udshrgp6en.mailbo.store
 udsinimura.online
 udsinlaotk.mailbo.store
@@ -246563,7 +246461,6 @@ ulm-dsl.de
 ulmail.web.id
 ulmdc0id3e.mailbo.store
 ulmerso.com
-ulmich.edu
 ulmo.dropmail.me
 ulnox.keintam.shop
 ulnpxmvjz7.mailbo.store
@@ -247483,7 +247380,6 @@ university.cloudns.ph
 university.unibiz.edu.pl
 universityecotesbenin.com
 universityincanada.info
-universityla.edu
 universityprof.com
 universjob.com
 universmyu.ru
@@ -259821,7 +259717,6 @@ whiskeyalpha.webmailious.top
 whiskeygolf.wollomail.top
 whiskeyiota.webmailious.top
 whiskeynotes.com
-whiskonzin.edu
 whiskygame.com
 whislmilsfar.cf
 whislmilsfar.ga
@@ -259875,7 +259770,6 @@ whitehall-dress.ru
 whitehall-solutions.com
 whitehat.markets
 whiteheadglass.co.uk
-whitehouse.gov
 whitehousecalculator.com
 whitehousemeats.com
 whitehvacrepair.xyz
@@ -263935,7 +263829,6 @@ x-fails.com
 x-fuck.info
 x-grave.com
 x-inc.site
-x-instruments.edu
 x-izvestiya.ru
 x-lab.net
 x-mail.cf
@@ -266041,7 +265934,6 @@ xmadristps.mailbo.store
 xmage.live
 xmail.cam
 xmail.com
-xmail.edu
 xmail.edu.pl
 xmail.gw.to
 xmail.my.id
@@ -271165,7 +271057,6 @@ ymail.com.tw
 ymail.com.ve
 ymail.de
 ymail.dudeporn69.com
-ymail.edu
 ymail.eu
 ymail.fr
 ymail.gr

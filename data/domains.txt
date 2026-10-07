@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-10-06T22:22:03.276Z
+# Aggregated blacklist generated on 2026-10-07T04:28:18.854Z
  
 0-00.usa.cc
 0-30-24.com
@@ -44139,6 +44139,7 @@ bj4jcvpdvo.mailbo.store
 bj4oq.anonbox.net
 bj57z.anonbox.net
 bj7dd.anonbox.net
+bj7kx.anonbox.net
 bj7z7.anonbox.net
 bj888login.com
 bj88casino.net
@@ -60985,6 +60986,7 @@ co-nowego-na-wybiegu.pw
 co-nowego.pw
 co-op.com
 co-uk-online.xyz
+co-uk.lat
 co.cc
 co.eau-claire.wi.us
 co.mailboxxx.net
@@ -148274,6 +148276,7 @@ loveplanetx.com
 loveprezzies.com
 lovepulse.lat
 lover-boy.com
+lover.lat
 lover2.com
 loverfella.com
 loverfsa8153.lofteone.ru
@@ -191849,6 +191852,7 @@ pointguardsbms.com
 pointklick.com
 pointklick.net
 pointmade.pro
+pointnexus.org
 pointnumber.us
 pointofmercy.org
 pointofsalessupport.com

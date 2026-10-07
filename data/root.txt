@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-10-06T22:22:03.276Z
+# Aggregated blacklist generated on 2026-10-07T04:28:18.854Z
  
 0-30-24.com
 0-attorney.com
@@ -46039,6 +46039,7 @@ co-nowego-na-wybiegu.pw
 co-nowego.pw
 co-op.com
 co-uk-online.xyz
+co-uk.lat
 co.au
 co.cc
 co.co.com
@@ -115734,6 +115735,7 @@ loveplanetx.com
 loveprezzies.com
 lovepulse.lat
 lover-boy.com
+lover.lat
 lover2.com
 loverfella.com
 loverlake.site
@@ -150110,6 +150112,7 @@ pointguardsbms.com
 pointklick.com
 pointklick.net
 pointmade.pro
+pointnexus.org
 pointnumber.us
 pointofmercy.org
 pointofsalessupport.com

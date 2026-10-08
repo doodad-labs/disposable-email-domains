@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-10-08T00:01:16.239Z
+# Aggregated blacklist generated on 2026-10-08T08:26:59.256Z
  
 0-00.usa.cc
 0-30-24.com
@@ -41547,6 +41547,7 @@ betboss38.com
 betboyclub.com
 betbusapp.net
 betcashafrica.com
+betcdn.org
 betchan22.com
 betchidocasino.com
 betcity-app.ru
@@ -42237,6 +42238,7 @@ bfiq5.anonbox.net
 bfirstmail.com
 bfitcpupt.pl
 bfivg7vuwu.mailbo.store
+bfj7q.anonbox.net
 bfje.com
 bfk7x.anonbox.net
 bfkuccu3f9.mailbo.store
@@ -124454,6 +124456,7 @@ invopeo.org
 invql.com
 invsetpo.cf
 invsetpo.tk
+invtepznlkx2.denqoz230.biz.id
 invtribe01.xyz
 invtribe02.xyz
 invtribe03.xyz
@@ -148322,6 +148325,7 @@ lowcountrybasement.com
 lowcountryrainharvesting.com
 lowcypromocji.com.pl
 lowdh.com
+lowdn.com
 lowendjunk.com
 lowendx.com
 lowenergybook.com
@@ -175638,6 +175642,7 @@ novaprime.vip
 novartismails.com
 novasagres.com
 novashere.site
+novaspherelabs.store
 novastark.ru
 novastreams661.xyz
 novasub.click
@@ -193129,6 +193134,7 @@ poundsinsurance.com
 poundskids.us
 pounduni.us
 poundwise.app
+pour.ruimz.com
 pourforme.com
 pourhousepa.com
 pourover.dev
@@ -238301,6 +238307,7 @@ tk9v.tieumuoishop.io.vn
 tkaniny.com
 tkaninymaxwell.pl
 tkaz4fdgiv.mailbo.store
+tkazu4y5gxw8.denqoz230.biz.id
 tkbmwr.fun
 tkbnw.info
 tkc2yxc5yr.mailbo.store
@@ -241069,6 +241076,7 @@ trailtoppest.com
 trailwor.xyz
 trailworl.xyz
 train.aleeas.com
+train.lat
 trainbowshop.accountsite.me
 traincompetedominate.com
 trainease.fr
@@ -275341,6 +275349,7 @@ ziebhagil.ga
 ziebhagil.ml
 ziebhagil.tk
 zielecki.net
+ziell.my.id
 ziellpremium.store
 zielonadioda.com
 zielonyjeczmiennaodchudzanie.xyz

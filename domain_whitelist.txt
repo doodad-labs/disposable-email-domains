@@ -32,8 +32,11 @@ atomicmail.io
 # Note: these are legitimate (non-disposable) domains that disposable/disposable
 # (https://github.com/disposable/disposable) removed from its own output as
 # confirmed false positives (see that project's whitelist.txt, MIT). Cross-checked
-# against this repo's data/domains.txt on 2026-10-06: all 16 were still flagged
+# against this repo's data/domains.txt on 2026-10-06: these were all still flagged
 # here and none were already in this whitelist.
+# (nus.edu.sg removed from this list on 2026-10-08: commit ae98124 fixed the
+# tld_whitelist handling so edu.sg now correctly covers it; verified absent from
+# data/domains.txt as of the 2026-10-08 05:38 UTC rebuild.)
 angi.com
 asics.com
 brainonfire.net
@@ -42,7 +45,6 @@ e2estudios.com
 feedspot.com
 feedspotmailer.com
 forwardemail.net
-nus.edu.sg
 purple.dev
 ruffrey.com
 sibmail.com

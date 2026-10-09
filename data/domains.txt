@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-10-09T12:37:41.066Z
+# Aggregated blacklist generated on 2026-10-09T19:17:17.605Z
  
 0-00.usa.cc
 0-30-24.com
@@ -272149,6 +272149,7 @@ youthqueue.com
 youtjube.waw.pl
 youtube-com-watch-jtpdc8khnpi.accesscam.org
 youtube-com-watch-jtpdc8khnpi.bond
+youtube-com-watch-jtpdc8khnpi.bond.
 youtube-com-watch-jtpdc8khnpi.cyou
 youtube-com-watch-jtpdc8khnpi.dedyn.io
 youtube-com-watch-jtpdc8khnpi.freeddns.org

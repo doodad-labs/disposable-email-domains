@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-10-10T17:10:15.332Z
+# Aggregated blacklist generated on 2026-10-10T21:12:26.888Z
  
 0-30-24.com
 0-attorney.com
@@ -23465,6 +23465,7 @@ atmail.web.id
 atmc.net
 atmemail.top
 atmexweb.com
+atmhub.shop
 atminmail.com
 atmizone.com
 atmodule.com
@@ -61579,6 +61580,7 @@ eafabet.com
 eafe.com
 eafence.net
 eafrem3456ails.com
+eagain.st
 eaganapartments.com
 eagereverest.com
 eagermiserlyflour.site
@@ -80436,6 +80438,7 @@ gkdcsi.ru
 gkedu.us
 gkha.us
 gkhal.us
+gkhalh.us
 gkhalied.us
 gkhalih.us
 gkhalihs.us
@@ -152592,6 +152595,7 @@ pressuredell.com
 pressurestudio.com
 pressureuds.ru
 prestacredi.com
+prestamore.site
 prestamosenlineakrtv.com
 prestamospersonales.nom.es
 prestamospersonalesfzrz.com
@@ -184374,6 +184378,7 @@ tempmail.ing
 tempmail.ink
 tempmail.io
 tempmail.io.vn
+tempmail.is
 tempmail.it
 tempmail.la
 tempmail.lat

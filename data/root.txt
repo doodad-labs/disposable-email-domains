@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-10-11T08:19:17.146Z
+# Aggregated blacklist generated on 2026-10-11T16:09:17.157Z
  
 0-30-24.com
 0-attorney.com
@@ -12853,6 +12853,7 @@ accordwood.top
 account-3dverify.ga
 account-restore.ru
 account.ac
+account.edu.pl
 account3423usffe.site
 accountabilitycalendar.com
 accountablebookkeepingla.com
@@ -15403,6 +15404,7 @@ ahsapsandalyem.com
 ahsb.de
 ahsd.com
 ahsd.us
+ahsi.com
 ahsozph.tm.pl
 ahtigames.se
 ahtnacontractors.com
@@ -24992,6 +24994,7 @@ axionintellex.shop
 axis-com.com
 axisbank.co
 axischurchbend.com
+axiscinder.com
 axiscosmic.com
 axiskernel.com
 axisnet.com
@@ -30582,6 +30585,7 @@ bfdsfgrg8bnvce.monster
 bfdwam.us
 bfdyn.com
 bffdwgrg.shop
+bffftyhnj.webredirect.org
 bffmflhhfl.ga
 bfg1yh.best
 bfgasdsd.site
@@ -35132,6 +35136,7 @@ bradan.space
 bradblackwell.com
 bradburntownhomes.com
 braddock-riskmanagement.com
+brade.lat
 bradfordchad.online
 bradingtowntrust.co.uk
 bradleedental.info
@@ -47120,6 +47125,7 @@ combcub.com
 combicheria.com
 combinamail.com
 combinamails.ru
+combinationmail.ru
 combinatojmail.ru
 combindjqy.space
 combine-online.com
@@ -50042,6 +50048,7 @@ croweteam.com
 crowfiles.shop
 crowity.com
 crowland.us
+crowmail.sbs
 crownbet.com.au
 crowncasinomacau.com
 crowncasinoonline.org
@@ -57134,6 +57141,7 @@ disposableemailaddresses.com
 disposableinbox.com
 disposableinbox.xyz
 disposablemail.com
+disposablemail.dev
 disposablemail.net
 disposablemail.pro
 disposablemail.space
@@ -58775,6 +58783,7 @@ dontsleep404.com
 dontsmtp.me
 dontsp.am
 dontspammy.email
+dontsteal.my.id
 dontstress.online
 donumart.com
 donusumekatil.com
@@ -66372,6 +66381,7 @@ eriakis.org
 eric-bml.info
 eric591.ga
 ericabrooks.com
+ericasfinejewelry.com
 ericashairdesignandsalon.com
 ericasuzannefultz.com
 ericdeston.com
@@ -69397,6 +69407,7 @@ faketagheuer.top
 faketemp.email
 fakewings.com
 fakher.dev
+fakhita.xyz
 fakima.com
 fakiralio.ga
 fakiralio.ml
@@ -82142,6 +82153,7 @@ golokablantoncdy.site
 golokait.com
 golottowinner.com
 golpeavisa.com
+golpo24.com
 golviagens.com
 golviagenxs.com
 golzarbonab.com
@@ -93425,6 +93437,7 @@ iauhscqw.site
 iautostabilbetsnup.xyz
 iauu.it
 iawgendchilddetention.org
+iaxaim.com
 iayanashop.com
 iaynqjcrz.pl
 iazhy.com
@@ -116375,6 +116388,7 @@ lthaltha.shop
 lthz1v.us
 ltiempo.es
 ltiosmjo.shop
+ltkemail.com
 ltkuib.us
 ltlseguridad.com
 ltnclaudeproxy.shop
@@ -117549,6 +117563,7 @@ maccares.xyz
 maccholnee.cf
 maccholnee.ga
 maccholnee.tk
+macco.uk
 macdell.com
 macdermidperformancesolutions.info
 macdowell-law.com
@@ -119479,6 +119494,7 @@ mailgov.info
 mailgrave.de
 mailgrupobancolombia.online
 mailgtf.com
+mailgu.ru
 mailguard.me
 mailguardianpro.online
 mailgui.pw
@@ -125251,6 +125267,7 @@ mezaist.com
 mezanaz.buzz
 mezartemizligi.xyz
 mezattesbih2.com
+mezawro.xyz
 mezcalmalacara.com
 mezczyzna-na-miare-oczekiwan.pw
 mezczyzni-i-moda.pw
@@ -129602,6 +129619,7 @@ mrlb.com.au
 mrmagicshow.net
 mrmail.info
 mrmail.online
+mrmailin.com
 mrmal.ru
 mrmanager.ru
 mrmanie.com
@@ -130775,6 +130793,7 @@ mvmusic.top
 mvo.pl
 mvoa.site
 mvodaro428.biz.id
+mvokelo414.biz.id
 mvoudzz34rn.cf
 mvoudzz34rn.ga
 mvoudzz34rn.gq
@@ -133969,6 +133988,7 @@ neighborlytango.site
 neighbour.co.uk
 neighbour.expert
 neighbouringrights.ru
+neighbours.sh
 neih.me
 neilanderson.net
 neilgoodlaw.com
@@ -136116,6 +136136,7 @@ niluferevleri.xyz
 nilyazilim.com
 nilynaje.com
 nimadir.com
+nimail.cn
 nimail.web.id
 nimajalali.info
 nimapinfotech.net
@@ -138454,6 +138475,7 @@ nvntv.us
 nvnvideo.net
 nvnvideo.us
 nvodaro428.biz.id
+nvokelo414.biz.id
 nvpcpa.com
 nvpdq3.site
 nvproductionz.com
@@ -143826,6 +143848,7 @@ ovobri.com
 ovocykuvypan.pro
 ovogmail.com
 ovoh.com
+ovokelo414.biz.id
 ovomail.co
 ovooovo.com
 ovorowo.com
@@ -155058,6 +155081,7 @@ pvmail.pw
 pvmails.com
 pvnmax.space
 pvo-korf.ru
+pvokelo414.biz.id
 pvokhu.shop
 pvoqwm.com
 pvqotb.com
@@ -157004,6 +157028,7 @@ qvlqkeywvv.ga
 qvmao.com
 qvmassage.com
 qvo6jm.us
+qvokelo414.biz.id
 qvpod.xyz
 qvttclass.us
 qvvcuk.com
@@ -157228,6 +157253,7 @@ qzjts.com
 qzlfalleno.com
 qzlxstone.com
 qzmk.ru
+qzoehar413.biz.id
 qzoreteam.ru
 qzpdzwzhud.ga
 qztri.click
@@ -167943,6 +167969,7 @@ scleraxmwa.space
 sclerodmail.com
 sclerokeramail.ru
 sclgdetbm.shop
+sclie.lat
 sclp.my.id
 sclub88vip.com
 sclwu7.com
@@ -168481,6 +168508,7 @@ searchtermmatchdomain.com
 searchtermsmatch.com
 searchtheweb.xyz
 searchtraffic.online
+searchwize.com
 searience.site
 searmail.com
 searocketadventures.com
@@ -181523,6 +181551,7 @@ szkola-projektowania.pw
 szkolapolicealna.com
 szledxh.com
 szn.us
+szoehar413.biz.id
 szotv.com
 szpic-czy-karo.pw
 szponki.pl
@@ -184282,6 +184311,7 @@ tempemaill.com
 tempemailo.org
 tempemailpro.com
 tempemails.io
+tempemails.site
 tempemal.com
 tempembus.buzz
 tempemil.com
@@ -205443,6 +205473,7 @@ wikilibhub.ru
 wikilimpieza.com
 wikimastery.net
 wikimediane.org
+wikimedical.org
 wikinime.com
 wikinoir.com
 wikipedi.biz
@@ -207505,6 +207536,7 @@ wu8vx48hyxst.tk
 wuaze.com
 wucaitang.com
 wudet.men
+wudeumx.my.id
 wudiai.shop
 wudiart.com
 wudmis.com
@@ -213013,6 +213045,7 @@ ynbzona.online
 yncyjs.com
 yndeex.ru
 yndeks.ru
+yndekx.ru
 yndexs.ru
 yndrinks.com
 yndx.online

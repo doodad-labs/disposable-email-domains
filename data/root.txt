@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-10-10T21:12:26.888Z
+# Aggregated blacklist generated on 2026-10-11T00:41:31.362Z
  
 0-30-24.com
 0-attorney.com
@@ -79768,6 +79768,7 @@ ghsf.com
 ghsh.us
 ghst.us
 ghsu.us
+ghsus.us
 ghte4tt.shop
 ghths.us
 ghtk.us
@@ -104094,6 +104095,7 @@ k9wc559.pl
 k9x5q2m7a3r8z1c.io.vn
 ka.eu
 ka.us.com
+ka1o1.lat
 ka1ovm.com
 ka1ovm.net
 ka8.nl
@@ -114500,6 +114502,7 @@ lm1.de
 lm360.us
 lm4dk6.com
 lmaa.com
+lmail.lat
 lmail.solutions
 lmail.space
 lmail.today

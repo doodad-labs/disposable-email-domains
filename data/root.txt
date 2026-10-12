@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-10-12T08:39:10.780Z
+# Aggregated blacklist generated on 2026-10-12T19:38:19.638Z
  
 0-30-24.com
 0-attorney.com
@@ -136017,6 +136017,7 @@ nightaw.xyz
 nightclubpointofsale.com
 nightdream-moth.com
 nightfood.studio
+nightgirls.site
 nightmedia.cf
 nighton.net
 nightorb.com
@@ -153358,6 +153359,7 @@ productfeedmanagement.com
 producti-online-pro.com
 production4you.ru
 productiondrywall.com
+productme.pro
 productmm.shop
 productosamygo.com
 productosesotericos.cl

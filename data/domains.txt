@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-10-12T08:39:10.780Z
+# Aggregated blacklist generated on 2026-10-12T19:38:19.638Z
  
 0-00.usa.cc
 0-30-24.com
@@ -53231,6 +53231,7 @@ capcut.gurita.my.id
 capcut.mom
 capcut.my.id
 capcut.pp.ua
+capcut.productme.pro
 capcut.pw
 capcut.sbs
 capcut.site
@@ -174148,6 +174149,7 @@ nightclubpointofsale.com
 nightdream-moth.com
 nightfood.studio
 nightfunmore.online.ctu.edu.gr
+nightgirls.site
 nightmedia.cf
 nightmist.maskmy.id
 nighton.net
@@ -236428,6 +236430,7 @@ thekillingscreens.com
 thekimagency.biz
 thekindredcompany.co
 theking.id
+theking.id.
 theking.servep2p.com
 thekingcasino.shop
 thekingcrab.org

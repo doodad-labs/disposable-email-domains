@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-10-12T01:00:38.248Z
+# Aggregated blacklist generated on 2026-10-12T08:39:10.780Z
  
 0-30-24.com
 0-attorney.com
@@ -2656,6 +2656,7 @@
 1xbet-download-es.com
 1xbet-web-cm.net
 1xbet.media
+1xbetcomapp.com
 1xbetngapp.ng
 1xbets-bk-onlines.ru
 1xbetstyle.online
@@ -9154,6 +9155,7 @@
 78jxs.com
 78sforsale.com
 78ttbet.info
+78wim.info
 78winvip.com
 78zjx.com
 78zjxs.com
@@ -16789,6 +16791,7 @@ alekseymalyamov.ru
 alekseyzaharenko.ru
 aleksracing.com
 alekzandor.com
+alelvisoftware.com
 alemalakra.com
 alemaureen164.ga
 alembic.ltd
@@ -22966,6 +22969,7 @@ assezslim.com
 assfetish.com
 assfire.online
 assi-azur.com
+assi-ti.ch
 assi.news
 assiduousntmail.ru
 assimiired.space
@@ -73330,6 +73334,7 @@ fluffyoctopus.ch
 fluffysamoyedgarden.us
 flufimail.com
 fluggez.xyz
+fluglaermhalleost.de
 fluidcampaign.com
 fluidensity.com
 fluidensity.info
@@ -78818,6 +78823,7 @@ gerrypastaplus.my.id
 gers-phyto.com
 gertenisembul.xyz
 gerties.com.au
+gertpolli.com
 gertyni.xyz
 gerv.app
 gervc.com
@@ -89846,6 +89852,7 @@ hobbywe.recipes
 hobimalzemecisi.com
 hobiseru.com
 hobitogelapps.com
+hobl-gmbh.at
 hobmail.com
 hoboc.com
 hobocolo.info
@@ -99468,6 +99475,7 @@ iway24.de
 iwdal.com
 iwebtm.com
 iwerxdesign.com
+iwhisky.cz
 iwi.net
 iwin.ga
 iwinedu.com
@@ -101757,6 +101765,7 @@ jirafatrafa.website
 jirato.online
 jirehc.com
 jirehpintura.com
+jirinajiraskova.cz
 jirlagun.com
 jiroir.biz.id
 jiroir.my.id
@@ -106174,6 +106183,7 @@ khjadv.site
 khjanfdxd.cloud
 khlawoffices.com
 khlbws.online
+khlis.us
 khlsch.us
 khmail.web.id
 khmarketinguk.com
@@ -113175,6 +113185,7 @@ likedog.sbs
 likelongan.com
 likelystory.net
 likemail.co.uk
+likemail.site
 likemaxcare.com
 likeme252.com
 likememes23.com
@@ -127460,6 +127471,7 @@ mmuhg9.site
 mmukmedia.net
 mmuniz.net
 mmvcplc.com
+mmvip8880.com
 mmvl.com
 mmxx.ru
 mmyahoo.com
@@ -136479,6 +136491,7 @@ nl-201.xyz
 nl-205.xyz
 nl.com
 nl.edu.pl
+nl8.eu
 nladsgiare.shop
 nlan.com
 nlatv.site
@@ -187667,6 +187680,7 @@ thumbset.net
 thumbsupparty.com
 thumbthingshiny.net
 thumoi.com
+thun-west.ch
 thund.cf
 thund.ga
 thund.gq
@@ -195007,6 +195021,7 @@ ukpowernetworks.co
 ukqw.com
 ukr-nedv.ru
 ukr.co.com
+ukraina.at
 ukraina.net
 ukraine-gox.ru
 ukraine-onli.com
@@ -201103,6 +201118,7 @@ vnhz88.net
 vnhz88app.com
 vnindexid.edu.vn
 vnitsolution.com
+vniwinbet.net
 vnjpny.site
 vnkadsgame.com
 vnkbet.com

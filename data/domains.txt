@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-10-13T17:22:18.770Z
+# Aggregated blacklist generated on 2026-10-13T22:18:48.593Z
  
 0-00.usa.cc
 0-30-24.com
@@ -23835,6 +23835,7 @@ agent.ploooop.com
 agent.poisedtoshrike.com
 agent.run.place
 agent.warboardplace.com
+agent160theatre.co.uk
 agent388a-casinoonline.org
 agent47.tech
 agent747ph.com
@@ -26478,6 +26479,7 @@ alightmotion.id.
 alightmotion.top
 alightmotion.website
 aligmli.site
+aligrafix.co.uk
 aligreen.top
 aligroup.uk
 alihanlab.com
@@ -31265,6 +31267,7 @@ archgoodfiles.site
 archgoodlib.site
 archgoodtext.site
 archi-fa.com
+archibalds-coffee.co.uk
 archicubator.com
 archididmalis.com
 archiepiscopaml.com
@@ -39668,6 +39671,7 @@ bdzf.cse445.com
 bdzj.laste.ml
 bdzu2.anonbox.net
 be-a-dentalimplants-inone.live
+be-a-fashionista.co.uk
 be-a-savingsaccountwow.live
 be-a-suvhub.live
 be-a-trucksfab.live
@@ -43935,6 +43939,7 @@ bistrodizoe.com
 bistroottawa.net
 bistrosignatures.net
 bistum.com
+bistumsarchiv-chur.ch
 bisuteriaesmaltada.es
 bisuteriazaiwill.com
 bisxk.anonbox.net
@@ -54240,6 +54245,7 @@ casinolariviera.info
 casinolavida.com
 casinoleaks.info
 casinolebull.com
+casinoles.fun
 casinolinksmarket.com
 casinollo.com
 casinoloco777.com
@@ -69221,6 +69227,7 @@ datastrip.com
 datasurvey.org
 datatap.com
 datauoso.com
+datavision.cz
 dataworldclub.com
 datawurld.com
 datax.expert
@@ -108487,6 +108494,7 @@ gumglue.app
 gummail.store
 gummosity.xyz
 gummymail.info
+gumoy.site
 gumrukkayip.com
 gumstaymd.com
 gun.kr
@@ -210934,7 +210942,10 @@ rv.luk2.com
 rv.storage
 rv0do5a7.olexa.sbs
 rv1791873056.wopdaz230.biz.id
+rv30lapw.world.gogles.sbs
+rv3nlaoi.olexa.sbs
 rv3nqnzdu5.mailbo.store
+rv3ov8i7.world.gogles.sbs
 rv58nwkcut.mailbo.store
 rv59hpul.zwyta.keiptonaka.shop
 rv5ue4mb.zuy.bixluro230.biz.id
@@ -210943,8 +210954,11 @@ rv6f7qmt.zzel.aroukhza.web.id
 rv6ydjbp.zuy.qetaro230.biz.id
 rv7dbvyh5s.mailbo.store
 rv7udntp.world.gogles.sbs
+rv7xwejz.bjork.top
 rv8edbax.zufo.relone28.buzz
 rv94ryx2lh.mailbo.store
+rv9bt80q.olexa.sbs
+rv9rmbwg.gogles.sbs
 rv9rvxbt.zwls.bokydkjz.my.id
 rvaffiliatereviews.com
 rvarb.eu5.net
@@ -210967,11 +210981,13 @@ rvf6obcr.wopdaz230.biz.id
 rvf9wfik62.mailbo.store
 rvfa0dr.cse445.com
 rvfufn94.olexa.sbs
+rvfuv1th.pentikso.cfd
 rvgxx0em4r.mailbo.store
 rvh0xxsz.zuft.wpdptx.my.id
 rvhnqeg3.zmpv.bmzzuimu.biz.id
 rvhtv.site
 rvhx.hair
+rvhyc0ls.world.gogles.sbs
 rvif7mrfqt.mailbo.store
 rviixj.us
 rvin.mooo.com
@@ -210984,6 +211000,7 @@ rvjtudarhs.gq
 rvjtudarhs.ml
 rvjtudarhs.tk
 rvjyytdkci.mailbo.store
+rvjz94ut.keinama.buzz
 rvkazino.com
 rvkc.com
 rvl0ym4w.zejch.linama.asia
@@ -210995,9 +211012,11 @@ rvmxj3enjv.mailbo.store
 rvmy9nez.olexa.sbs
 rvneous.com
 rvngz5hwvx.mailbo.store
+rvo4ee22.world.gogles.sbs
 rvoj.luk2.com
 rvone.click
 rvoqkdnkpn.mailbo.store
+rvpil40r.zetsu.shop
 rvqs9ivo.vivid.olexa.sbs
 rvqttbg9.olexa.sbs
 rvrecruitment.com
@@ -211020,6 +211039,7 @@ rvtiaqwf.shop
 rvto3ndhq3.mailbo.store
 rvufma6rpu.mailbo.store
 rvug.dung2tb.io.vn
+rvurklev.zae.asia
 rvv1lw8y.zktqy.zee.asia
 rvv6b8.saucent.online
 rvv7cvbb.olexa.sbs

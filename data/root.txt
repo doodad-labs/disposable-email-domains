@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-10-12T19:38:19.638Z
+# Aggregated blacklist generated on 2026-10-13T01:49:54.958Z
  
 0-30-24.com
 0-attorney.com
@@ -37852,6 +37852,7 @@ bycy.xyz
 byd686.com
 bydanielgilley.com
 bydenyingh.icu
+bydey.lat
 bydfi.com
 byebyemail.com
 byedacetin.net
@@ -59536,6 +59537,7 @@ draviero.info
 draviero.pw
 dravil.net
 dravizor.ru
+dravox.lat
 drawblock.com
 drawfixer.com
 drawify.art
@@ -102087,6 +102089,7 @@ jm9797.com
 jmail.best
 jmail.biz.id
 jmail.com
+jmail.lat
 jmail.ovh
 jmail.ro
 jmail7.com
@@ -126409,6 +126412,7 @@ minhduc.shop
 minhduc188bet.ga
 minhducnow.xyz
 minhlun.com
+minhminclone.click
 minhminclone.io.vn
 minhne.me
 minhngocmb.com

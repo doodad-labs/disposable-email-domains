@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-10-13T08:58:37.373Z
+# Aggregated blacklist generated on 2026-10-13T17:22:18.770Z
  
 0-30-24.com
 0-attorney.com
@@ -13407,6 +13407,7 @@ actuneupuae.xyz
 actupontech.com
 actyvate.org
 acuarun.com
+acucmc.com
 acucre.com
 acufwy.com
 acuitywe.us
@@ -14388,6 +14389,7 @@ aenwy.icu
 aeo6px.us
 aeobr.com
 aeof.com
+aeolus.cyou
 aeon.tk
 aeonbookstore.com
 aeonpsi.com
@@ -16299,6 +16301,7 @@ akinsoftsivas.com
 akira4d.info
 akirapowered.com
 akirbs.cloud
+akirhsi.com
 akishi.com
 akissaboe.us
 akitaxe.eu
@@ -25868,6 +25871,7 @@ babettelapresse.xyz
 babevape.xyz
 babexxx.net
 babezprivate.com
+babguf.com
 babi8x.com
 babimost.co.pl
 babinski.info
@@ -26490,6 +26494,7 @@ bajihouppalle.shop
 bajyma.ru
 bak.la
 baka123.com
+bakabukki.shop
 bakacloud.com
 bakagame.com
 bakamail.info
@@ -29936,6 +29941,7 @@ betasusgiris1.com
 betatensor.com
 betatomail.com
 betauer.com
+betavertex.com
 betayun.com
 betbalnew.xyz
 betbarg1.org
@@ -41110,6 +41116,7 @@ cclend.website
 ccloudinnovations.com
 ccm8klz.camdvr.org
 ccmail.men
+ccmail.pics
 ccmail.uk
 ccmails.xyz
 ccmgweb.com
@@ -42540,6 +42547,7 @@ chateauxvip.com
 chatech.site
 chater.com
 chaterba.com
+chaterra.cyou
 chatfap.info
 chatflh.net
 chatfreeporn.com
@@ -44022,6 +44030,7 @@ chuckdsm.site
 chuckhowe.com
 chucksfamilybuffet.com
 chuckstrucks.com
+chuckydns.com
 chuconet.com
 chucwopi.cf
 chucwopi.ga
@@ -45577,6 +45586,7 @@ clonetop1.shop
 clonetrauvl.space
 clonetrust.com
 clonevietmail.click
+clonevip.click
 clonevippro.site
 cloneviptmc1.club
 clonevn.com
@@ -54313,6 +54323,7 @@ delta8.community
 delta8cartridge.com
 deltabox.cfd
 deltacharliecommunity.com
+deltacloak.com
 deltacplus.info
 deltaember.com
 deltafuturemali.com
@@ -57951,6 +57962,7 @@ doameyux.com
 doanart.com
 doanhnhanfacebook.com
 doanhnhanviet.info.vn
+doanle.click
 doanlp.com
 doantotnghiep.com
 doapalestina.my.id
@@ -68794,6 +68806,7 @@ ezsi.email
 ezsj.hair
 ezskoolz.com
 ezsmail.com
+ezsmurf.cyou
 ezsmurf.top
 ezstest.com
 eztam.xyz
@@ -69738,6 +69751,7 @@ faraden.site
 farah.rip
 farahmeuthia.art
 farang.net
+faranis.dev
 faraon-cazino.online
 faraon.biz.pl
 farbar.site
@@ -72601,6 +72615,7 @@ fixdream.ru
 fixedfor.com
 fixee.net
 fixethernet.com
+fixhepc.com
 fixifu.info
 fixitdip.xyz
 fixitpress.com
@@ -76429,6 +76444,7 @@ fusixgasvv1gbjrbc.ml
 fusixgasvv1gbjrbc.tk
 fusmail.com
 fusobactymail.com
+fusomail.online
 fussball-bundesli.ga
 fussi.ru
 fussilblld.site
@@ -80643,6 +80659,7 @@ glbarlow.com
 glcpaints-iq.com
 glcspp.top
 gldavmah.xyz
+gldeagle.com
 gldywn.dev
 gle.best
 gleamlaau.space
@@ -86689,6 +86706,7 @@ hasanmail.ml
 hasansahin.info
 hasanz.kiwi
 hasark.site
+hasbidomain.my.id
 hasbullavip.com
 haseebapp.com
 hasegawa.cf
@@ -87878,6 +87896,7 @@ hellocheese.online
 hellococonono.site
 hellococonono.website
 hellococonono.xyz
+hellocoupons.org
 hellocreativecopy.com
 hellodns.site
 hellodream.mobi
@@ -95417,6 +95436,7 @@ imperialwesternbeercompany.com
 imperiamail.com
 imperiamails.ru
 imperimail.ru
+imperiomgmt.com
 imperionsucesso.com
 imperiumoffice.com
 imperiumstrategies.com
@@ -96983,6 +97003,7 @@ insidecondoclub.com
 insidegpus.com
 insidejobboard.org
 insideoffer.site
+insideout.be
 insidepcgames.com
 insiderbinarybot.xyz
 insiderbundles.com
@@ -101090,6 +101111,7 @@ jerseysv.com
 jerseysyoulikestore.com
 jerseyzone4u.com
 jersto.com
+jertom.com
 jertroskinscsgo.fun
 jeruknipis.buzz
 jerusalem-dublin2.com
@@ -107214,6 +107236,7 @@ kkredyt.pl
 kkredyttonline.pl
 kkrmcj.fun
 kksahsap.com
+kksk.uk
 kksm.be
 kkspeak.online
 kkss33.com
@@ -109987,6 +110010,7 @@ laerrtytmx.ga
 laerthon30.shop
 laerwrtmx.ga
 laescuela.com
+laetotohoki.com
 laevoromails.ru
 laewe.com
 laexecsearch.com
@@ -115179,6 +115203,7 @@ lokkju.com
 lokmynghf.com
 loko.casino
 loko777casino.com
+lokoiat.top
 lokote.com
 loksopha.com
 lokum.nu
@@ -115563,6 +115588,7 @@ lorober.com
 lorotzeliothavershcha.info
 lorraineeliseraye.com
 lorrainerasmussen.com
+lorran52.shop
 lorranaccs.shop
 lorslufmea.cf
 lorslufmea.ga
@@ -116078,6 +116104,7 @@ lovenest.co.uk
 lovenf.top
 loveofthai.com
 loveorangeplanet.com
+loveorfootball.com
 lovepdfmanuales.xyz
 lovepet.vip
 lovepettoys.shop
@@ -119552,6 +119579,7 @@ mailhost.top
 mailhost.win
 mailhost12.net
 mailhotserver.space
+mailhotvippro.com
 mailhound.com
 mailhq.club
 mailhq.online
@@ -120461,6 +120489,7 @@ mailyro.com
 mailyuk.com
 mailz.com.br
 mailz.info
+mailzap.store
 mailzeep.space
 mailzen.win
 mailzhi.com
@@ -121138,6 +121167,7 @@ mangea.xyz
 mangfjst.online
 manghinsu.com
 mangiamediterraneo.club
+manglgih.com
 manglon.xyz
 mango777casino.com
 mangocostarica.com
@@ -126414,8 +126444,10 @@ minhduc.shop
 minhduc188bet.ga
 minhducnow.xyz
 minhlun.com
+minhmin.click
 minhminclone.click
 minhminclone.io.vn
+minhminpro.click
 minhne.me
 minhngocmb.com
 minhphan.tech
@@ -133587,6 +133619,7 @@ nbvojcesai5vtzkontf.cf
 nbvrluhsh.top
 nbvuiwerqwe.ga
 nbvwtibt.shop
+nbxd.cn
 nbxtou.info
 nbyongheng.com
 nbzmr.com
@@ -134151,6 +134184,7 @@ neonexchange.company
 neontogel.com
 neontogel.org
 neontology.xyz
+neonwarden.com
 neonwolf.info
 neopetcheats.org
 neoplasmail.com
@@ -136172,6 +136206,7 @@ nimbponmi.gq
 nimbponmi.ml
 nimbponmi.tk
 nimbusigma.com
+nimbusmono.com
 nimbusreach.info
 nimfa.info
 nimiety.xyz
@@ -136235,6 +136270,7 @@ ninjacat.dev
 ninjachibi.finance
 ninjadoll.international
 ninjadoll.org
+ninjaember.com
 ninjaenterprises.com
 ninjafav.net
 ninjaget.net
@@ -138366,6 +138402,7 @@ nutaart.ru
 nutala.online
 nutala2.online
 nutala2.ru
+nutemail.com
 nuthub.org
 nutimaintegrative.com
 nutimaintegrativehealth.com
@@ -138830,6 +138867,7 @@ nzntdc4dkdp.ga
 nzntdc4dkdp.gq
 nzntdc4dkdp.ml
 nzntdc4dkdp.tk
+nzoehar413.biz.id
 nzrmedia.com
 nzsxihtxjpi.net
 nztiea.site
@@ -144186,6 +144224,7 @@ oznmail.com
 oznmtwkng.pl
 ozo88.host
 ozo88.xyz
+ozoehar413.biz.id
 ozogaming.com
 ozon-sale.promo
 ozon888.net
@@ -154119,6 +154158,7 @@ proxymail.cc
 proxymail.eu
 proxymerchant.com
 proxyparking.com
+proxypilot.sbs
 proxysite.rocks
 proxysitelist.net
 proyectoser.org
@@ -155343,6 +155383,7 @@ pzhpckj.com
 pzikteam.tk
 pzklt.com
 pzlhjgbud.shop
+pzoehar413.biz.id
 pzpitjxi.shop
 pzu.bz
 pzuilop.de
@@ -155776,6 +155817,7 @@ qgym.com
 qh88vips.com
 qh99casino.com
 qhaihn.info
+qhapaq.lat
 qhb092.com
 qhdpyzm.com
 qhesnwv.com
@@ -155828,6 +155870,7 @@ qifnsklfo0w.com
 qifunue.space
 qightyuhed.pro
 qiglqgzg.shop
+qigmail.icu
 qigongglobalhub.com
 qigongglobalwisdom.com
 qihceoils.shop
@@ -156577,6 +156620,7 @@ quartmail.com
 quartz-co.ru
 quartziron.com
 quartzmail.org
+quartzmeta.com
 quarvex.cfd
 quasdmail.com
 quasimagnam.my.id
@@ -156901,6 +156945,7 @@ quintania.top
 quintasystems.com
 quintessentialextracts.com
 quintessentiallyspirits.com
+quintix.cfd
 quintuqzwv.club
 quinz.click
 quinz.me
@@ -157056,6 +157101,7 @@ qvmassage.com
 qvo6jm.us
 qvokelo414.biz.id
 qvpod.xyz
+qvrf.cn
 qvttclass.us
 qvvcuk.com
 qvvnregdyh.ga
@@ -159801,6 +159847,7 @@ redviet.com
 redvinum.com
 redvwap.fun
 redwanraed.com
+redwhiteandbluediet.com
 redwinegoblet.info
 redwinelady.com
 redwinelady.net
@@ -161255,6 +161302,7 @@ retapps.biz
 retapps.cloud
 retarusblog.com
 reteculturalevirginia.net
+reteme.online
 retep.com.au
 retexbit.com
 retgoetbej.ga
@@ -164086,6 +164134,7 @@ rrragz5.best
 rrrcat.com
 rrrepresentacao.com
 rrrr-rrrr.com
+rrt10.cn
 rrti.com
 rrunua.xyz
 rrwbltw.xyz
@@ -165273,6 +165322,7 @@ rzn.host
 rzn.services
 rznf6v.us
 rznsco.shop
+rzoehar413.biz.id
 rzuduuuaxbqt.cf
 rzuduuuaxbqt.ga
 rzuduuuaxbqt.gq
@@ -165837,6 +165887,7 @@ safebanking.biz
 safebolt.xyz
 safebusinessway.net
 safec0.com
+safecaliforniafood.org
 safecash.online
 safecash.site
 safecash.store
@@ -168165,6 +168216,7 @@ scriblehow.com
 scribo.pl
 script.click
 scripteditor.net
+scriptforge.cfd
 scriptscdn.pro
 scriptspef.com
 scriptureboard.com
@@ -168686,6 +168738,7 @@ secretmovie.online
 secretmystic.ru
 secretplans.net
 secretreview.net
+secretroc2.shop
 secrets.name
 secretsaiyan.xyz
 secretsdepeou.com
@@ -172419,6 +172472,7 @@ simplesocialmedia.solutions
 simplesolutionsinc.com
 simplesport.ru
 simpletextmarketing.com
+simplevega.com
 simpleverification.com
 simpleverni.icu
 simplexion.pm
@@ -174363,6 +174417,7 @@ smuggroup.com
 smuguk.com
 smuktliv.com
 smulevip.com
+smurfhub.in
 smuse.me
 smuvaj.com
 smvault.xyz
@@ -176652,6 +176707,7 @@ splitpubcrawl.net
 splitpubcrawls.com
 splitsl.icu
 splitstuf.us
+splitworks.xyz
 splitzauayy.email
 sploekwf.xyz
 sploitai.com
@@ -176920,6 +176976,7 @@ springboard.co.in
 springbokcasino.co.za
 springcitychronicle.com
 springdalenewsdaily.com
+springdiamond.com
 springfactoring.com
 springfield.clinic
 springfieldmail.com
@@ -182796,6 +182853,7 @@ task-list.ru
 taskboard.app
 taskfl.ru
 taskforcetech.com
+taskify.sbs
 taskninja.mobi
 taskpath.icu
 taskreasoning.ru
@@ -183128,6 +183186,7 @@ tcafe.shop
 tcai.com
 tcain.com
 tcases.com
+tcb69.store
 tcb69.us
 tcbarkwares.com
 tcbbk.com
@@ -183139,6 +183198,7 @@ tccw.org
 tcd9.asia
 tcd9.us
 tcdatacenter.com
+tceayacp526.biz.id
 tceweb.com
 tcflive.net
 tcfr2ulcl9cs.cf
@@ -184257,6 +184317,7 @@ temp-mail.world
 temp-mailbox.net
 temp-mailer.dynv6.net
 temp-mailfb.shop
+temp-mailgo.com
 temp-mailing.com
 temp-maill.org
 temp-mails.co
@@ -184302,6 +184363,7 @@ tempboxmail.com
 tempboxmail.partners
 tempcloud.in
 tempcloud.info
+tempdelete.com
 tempdukviet.click
 tempdukviet.site
 tempe-mail.com
@@ -187939,6 +188001,7 @@ tighmarta.ml
 tightcuts.com
 tightmail.com
 tigigo.site
+tigmail.cam
 tigmon.club
 tignee.com
 tignovate.com
@@ -187948,6 +188011,7 @@ tigong.space
 tigpe.com
 tigriscontent.com
 tigrisstem.org
+tigrtn.com
 tiguanreview.com
 tihamaglobal.com
 tiicotranslators.com
@@ -188594,6 +188658,7 @@ tivowxl7nohtdkoza.gq
 tivowxl7nohtdkoza.ml
 tivowxl7nohtdkoza.tk
 tivqa.xyz
+tivra.me
 tivro.xyz
 tix.onl
 tixanovski.com
@@ -194056,6 +194121,7 @@ tzlxlwp008.site
 tzlxlwp009.site
 tznlulmxe.shop
 tznohv.shop
+tzoehar413.biz.id
 tzqmirpz0ifacncarg.cf
 tzqmirpz0ifacncarg.gq
 tzqmirpz0ifacncarg.tk
@@ -196672,6 +196738,7 @@ url-s.top
 url.bio.br
 url.gen.in
 url31xx.com
+url32x.pro
 urlaubswelt-lanzarote.com
 urlcat.tech
 urlclose.online
@@ -207226,6 +207293,7 @@ wpdtemporibusx.my.id
 wpeopwfp099.tk
 wperts.com
 wperumpdx.my.id
+wperumptx.my.id
 wpflsp.xyz
 wpfoo.com
 wpg.im
@@ -215279,6 +215347,7 @@ zellimarketing.com
 zellio.yachts
 zelmi.click
 zelnro.com
+zelon.tech
 zelooemail.ru
 zelras.ru
 zeltool.xyz
@@ -215640,6 +215709,7 @@ zfmail.ip-ddns.com
 zfobo.com
 zfs4ug.us
 zfshqt.online
+zftcn.com
 zfudejgmsh.ga
 zfvip75.com
 zfvip78.com

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-10-14T03:39:15.301Z
+# Aggregated blacklist generated on 2026-10-14T09:17:55.976Z
  
 0-30-24.com
 0-attorney.com
@@ -94790,6 +94790,7 @@ ij3zvea4ctirtmr2.gq
 ij3zvea4ctirtmr2.ml
 ij3zvea4ctirtmr2.tk
 ijamail.com
+ijazahjokowi.biz.id
 ijdigital.com
 ijfl.com
 ijgk9e.us
@@ -148782,6 +148783,7 @@ pidouno.com
 pidox.org
 piebombing.com
 piececoun.icu
+pieceion.com
 piecemoderatosaber.site
 piecerang.email
 piecerange.email

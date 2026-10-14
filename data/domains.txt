@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-10-14T14:53:44.065Z
+# Aggregated blacklist generated on 2026-10-14T19:59:02.003Z
  
 0-00.usa.cc
 0-30-24.com
@@ -60251,6 +60251,7 @@ client.pointbuysys.com
 client.popautomated.com
 client.toddard.com
 client.trytrip.click
+client.virginvoyageshubs.click
 clientacceleratoracademy.com
 clientemails.biz.id
 clientesftp55.info
@@ -101067,6 +101068,7 @@ general-electric.ml
 general-motors.tk
 general.abbavoyage.click
 general.beachboys.click
+general.billieholidayhub.click
 general.blatnet.com
 general.caperapp.click
 general.cruiseapp.click

@@ -60238,6 +60238,7 @@ client.pointbuysys.com
 client.popautomated.com
 client.toddard.com
 client.trytrip.click
+client.virginvoyageshubs.click
 clientacceleratoracademy.com
 clientemails.biz.id
 clientesftp55.info
@@ -101054,6 +101055,7 @@ general-electric.ml
 general-motors.tk
 general.abbavoyage.click
 general.beachboys.click
+general.billieholidayhub.click
 general.blatnet.com
 general.caperapp.click
 general.cruiseapp.click

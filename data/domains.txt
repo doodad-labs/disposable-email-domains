@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-10-14T09:17:55.976Z
+# Aggregated blacklist generated on 2026-10-14T14:53:44.065Z
  
 0-00.usa.cc
 0-30-24.com
@@ -3692,6 +3692,7 @@
 1iylijghol.mailbo.store
 1izc2dn4j5.mailbo.store
 1izzujxbj2.mailbo.store
+1j.pointnexus.org
 1j0eko5znw.mailbo.store
 1j0k7jdv.luksarcenter.ru
 1j0m.dung2tb.io.vn
@@ -17898,6 +17899,7 @@
 913jg913jjrbh2h4.space
 913qs.com
 914258.ga
+91523872.xyz
 9154.fun
 9162oum47f.mailbo.store
 916gmail.com
@@ -18738,6 +18740,7 @@
 9awrr.site
 9azfosk6le.mailbo.store
 9azw9lpz.emlhub.com
+9b.pointnexus.org
 9b0prcfptb.mailbo.store
 9b1mtkq3ow.mailbo.store
 9b2r.cse445.com
@@ -20308,6 +20311,7 @@ aam69zl.cse445.com
 aamail.buzz
 aamail.co
 aamail.com
+aamail.net
 aamanah.cf
 aambtuxqkc.mailbo.store
 aamk.link
@@ -26494,6 +26498,7 @@ alightmotion.id.
 alightmotion.top
 alightmotion.website
 aligmli.site
+aligolav.shop
 aligrafix.co.uk
 aligreen.top
 aligroup.uk
@@ -29453,6 +29458,7 @@ anonymstermail.com
 anopylin.tech
 anoreml.ru
 anorexiasupport.net
+anoriko422.biz.id
 anorling.com
 anoshtar.tech
 anotel.net
@@ -32698,6 +32704,7 @@ asia-hq.jo3.org
 asia-mail.com
 asia-me.review
 asia-pasifikacces.com
+asia.banglatip.com
 asia.dnsabr.com
 asia303.club
 asia303.space
@@ -36649,6 +36656,7 @@ b47.saucent.online
 b47r.adela12569.io.vn
 b49hlgjcty.mailbo.store
 b4bhw.anonbox.net
+b4c0.delhinightqueen.com
 b4dr2u.com
 b4e93b95ba2d.anonbox.net
 b4ekh.anonbox.net
@@ -38364,6 +38372,7 @@ baodaoxp.com
 baodentanxuong.site
 baodoisongphunu.com
 baoduonglocnuoc.com
+baofajj.com
 baofipjghi.mailbo.store
 baojianxue.com
 baoloc.city
@@ -48945,6 +48954,7 @@ brunswick.apartments
 brupe.lat
 brus-dom-spb.ru
 bruse.be
+brush.ioswed.com
 brushabiemail.ru
 brushandtools.com
 brushcros.icu
@@ -50385,6 +50395,7 @@ buy4me.store
 buy6more2.info
 buyad.ru
 buyairjordan.com
+buyaitools.site
 buyalli.site
 buyallopurinol.website
 buyalpileantoday.shop
@@ -52694,6 +52705,7 @@ cambridge-satchel.com
 cambridge.ga
 cambridgeapartments.info
 cambridgechina.org
+cambridgeesolchina.org
 cambridgeheat.ca
 cambridgepropertylisting.com
 cambridgetowel.com
@@ -64748,6 +64760,7 @@ cqef.cse445.com
 cqfx.com
 cqgfli2y5z.mailbo.store
 cqhboos2uz.mailbo.store
+cqib.anoriko422.biz.id
 cqipzsktrl.mailbo.store
 cqj1ht.site
 cqjda.com
@@ -66406,6 +66419,7 @@ cuentemelo.com
 cuentemelotodo.com
 cuentenos.com
 cuentosblanditos.com
+cueonce.com
 cuerohosp.org
 cuervosenamerica.com
 cueslumpbuy.website
@@ -75442,6 +75456,7 @@ docinsider.com
 docj.site
 dock.city
 dock.direct
+dockcosmic.com
 docker-news.com
 docker-news.org
 dockerbike.com
@@ -80126,6 +80141,7 @@ earthman54.cheap3ddigitalcameras.com
 earthonline.net
 earthorbit.net
 earthorbit.org
+earthquake.monster
 earthrockies.xyz
 earthsbestessentialoils.com
 earthstonesoap.com
@@ -86877,6 +86893,7 @@ etabox.info
 etachkila.com
 etaetae46gaf.ga
 etagirf.best
+etaina.net
 etakappa.nu
 etaksa.com
 etalase1.com
@@ -101930,6 +101947,7 @@ gettangent.com
 getteam.click
 getteams.click
 gettempmail.com
+gettempmail.net
 gettempmail.site
 getthebounce.ru
 getthemp3.com
@@ -104104,6 +104122,7 @@ gmaiil.top
 gmaiil.us
 gmaiil.web.id
 gmaiilku.id
+gmaiillh.com
 gmaiilll.cf
 gmaiilll.gq
 gmaiils.club
@@ -106350,6 +106369,7 @@ gowolves.com
 gowp.pl
 gowqwz7e3g.mailbo.store
 gowt.mimimail.me
+gox.inoriko422.biz.id
 gox2lfyi3z9.ga
 gox2lfyi3z9.gq
 gox2lfyi3z9.ml
@@ -109272,6 +109292,7 @@ gzhdbqsewj.mailbo.store
 gzhenghua112.com
 gzhgp6v9ut.mailbo.store
 gzhxpctr2j.mailbo.store
+gzip-proxy.ru
 gzj1k1gc36.mailbo.store
 gzjdph.com
 gzjgnjvt3a.mailbo.store
@@ -114446,6 +114467,7 @@ hizli.email
 hizliemail.com
 hizliemail.net
 hizlieticaret.com
+hizlimail.edu.pl
 hizliodegec.com
 hizliodevegec.com
 hizmails.xyz
@@ -116834,6 +116856,7 @@ house-cleaner-nyc.com
 house-sauna.online
 house.addy.io
 house.aleeas.com
+house.ioswed.com
 house.mailbo.store
 houseaircon.xyz
 housebeautiful.se
@@ -117934,6 +117957,7 @@ hugesale.in
 huggedmail.com
 huggiestester.com
 hugging.10mail.org
+huggsfeld.store
 hughcorner.com
 hughes.net
 hughett1.junkcarsfloridamiami.com
@@ -123938,6 +123962,7 @@ inoperabfml.com
 inoperfmail.ru
 inopermails.ru
 inorbit.com
+inoriko422.biz.id
 inorming.com
 inosat-turkey.com
 inosatglobal.com
@@ -138295,6 +138320,7 @@ knolselder.gq
 knolselder.ml
 knolselder.tk
 knonyafbgb.mailbo.store
+knoriko422.biz.id
 knorp.xyz
 knotdictionary.com
 knotencyclopedia.com
@@ -154856,6 +154882,7 @@ mailphu.com
 mailpick.biz
 mailpile.co
 mailpingback.com
+mailpixx.online
 mailpk.info
 mailpk.site
 mailpkc.com
@@ -159437,6 +159464,7 @@ megamail.pl
 megamail.pt
 megamailhost.com
 megamall.co.nz
+megamyx.win
 megan.com
 meganmanzi.com
 meganscott.xyz
@@ -166147,6 +166175,7 @@ msk-cool.ru
 msk-farm.ru
 msk-intim-dosug.ru
 msk-pharm.ru
+msk-prokat.ru
 msk-zaim.ru
 mskes.online
 mskey.co
@@ -175736,6 +175765,7 @@ nonhommalu.ru
 nonicamy.com
 nonimisemail.com
 noninflrsmail.ru
+noninoi.us
 noninstitulity.ru
 noninstitumail.ru
 nonise.com
@@ -183908,6 +183938,7 @@ oultook.com
 oultook.fr
 oumayla.com
 oumqx3bnnj.mailbo.store
+oun.ru
 ouncil.info
 ounex.click
 oungsaie.com
@@ -187447,6 +187478,7 @@ paytesacard.app
 paytesacard.com
 paytonpropertymanagement.com
 paytopay.xyz
+paytrust.cc
 paytv.rent
 paytvgratis.net
 paytvgratis.online
@@ -200593,6 +200625,7 @@ quaracta.cf
 quaracta.gq
 quarentinetips.com
 quarida.com
+quarkcloak.com
 quarkember.com
 quarkernel.com
 quarl.xyz
@@ -200732,6 +200765,7 @@ quepedi.cf
 quepedi.gq
 quepedi.tk
 quepizzamassanassa.com
+quepromo.mx
 quequeremos.com
 quereb.icu
 querl.xyz
@@ -203795,6 +203829,7 @@ rdlocksmith.com
 rdlt0hi.mywire.org
 rdluxe.com
 rdlvm.com
+rdm.knoriko422.biz.id
 rdmail.online
 rdme.slmail.me
 rdmsc.com
@@ -203895,6 +203930,7 @@ reachwheat.us
 reacsoca.cf
 react-mail.com
 react.cyou
+react.ioswed.com
 reactbooks.com
 reactfrin.ru
 reactimok.com
@@ -203905,6 +203941,7 @@ reactripostesinew.site
 reactsmail.com
 read-ebooks.club
 read-wordld.website
+read.ioswed.com
 read.mailbo.store
 reada.site
 readanybook.best
@@ -209198,6 +209235,7 @@ roro4.cf
 roroki.cn
 roromanten.igg.biz
 roronoaz.me
+rorot11.cn
 rorsprackningumea.se
 rortsk04m4.mailbo.store
 rory279.store
@@ -210737,6 +210775,7 @@ run600.net
 runafter.yomail.info
 runalone.uni.me
 runandgunvideography.com
+runatk.site
 runball.us
 runballrally.us
 runbhumi.club
@@ -214119,6 +214158,7 @@ saupecmay.cf
 saupecmay.ga
 saupecmay.gq
 saupecmay.ml
+saurianmail.ru
 saurik.com
 sausen.com
 sausetihenne.shop
@@ -214128,6 +214168,7 @@ sautcuso.com
 sauto.me
 sauxdmvkcr.mailbo.store
 sauyh.com
+sav.ru
 savade.co
 savaforu.com
 savage69.com
@@ -216270,6 +216311,7 @@ seltwtd.cse445.com
 seluang.com
 selumnkdnkf68373.ml
 selumnkdnkf68373.tk
+selvano.de5.net
 selved.site
 selvestgroup.net
 selvorx.com
@@ -218788,6 +218830,7 @@ shop.winestains.org
 shop2021.club
 shop2021.online
 shop247.top
+shop345.com
 shop349forus.com
 shop4dream.info
 shop4mail.net
@@ -226123,6 +226166,7 @@ stabilitybettingsnapp.xyz
 stabilpro.online
 stablebot.ru
 stablecoininterest.com
+stablediffusionai.fun
 stablemail.igg.biz
 stablic.site
 staceymail.ga
@@ -230020,6 +230064,7 @@ svzhp3z48r.mailbo.store
 sw-autodetailing.com
 sw-counseling.org
 sw-mg.com
+sw.rr.com
 sw.spymail.one
 sw1maqia7s.mailbo.store
 sw2244.com
@@ -234813,6 +234858,7 @@ tensmetconc.tk
 tensony.com
 tensordelta.net
 tensormono.com
+tensorveil.com
 tentang.store
 tentazionisiciliane.com
 tentcessnen5386.lofteone.ru
@@ -238149,6 +238195,7 @@ ti-sale.online
 ti.igg.biz
 ti.jailbreakeverything.com
 ti.laste.ml
+ti.lowdn.com
 ti.pigeonprotocol.com
 ti1vzcahvd.mailbo.store
 ti2fww3r7l.mailbo.store
@@ -248305,6 +248352,7 @@ unisexjewelry.org
 unismtp.com
 unisondesign.eu
 unisystem.store
+unit.ioswed.com
 unit.mailbo.store
 unit.one.compasnac.com
 unit48.online
@@ -252101,6 +252149,7 @@ vecnadoesntlie.com
 veco.site
 vecom.ltd
 vecoss.cloud
+vecroniyt.com
 vecrose.com
 vect.org
 vectic.lol
@@ -257521,6 +257570,7 @@ w5q7vl.tmpmail.org
 w5q9.cse445.com
 w5qlnn2v8k.mailbo.store
 w5qz.cashbenties.com
+w5ra.suitebeatae.my.id
 w5t.ru
 w5tggzqvdn.mailbo.store
 w5u4l.anonbox.net
@@ -261289,6 +261339,7 @@ wikiserie.website
 wikisite.co
 wikiswearia.info
 wikitec.vn
+wikithinkers.org
 wikitunner.com
 wikizs.com
 wiklundkurucuk.com
@@ -262831,6 +262882,7 @@ worcesterbaseballclub.com
 worcesterpartnership.com
 word-literature.xyz
 word-online.eu.org
+word.ioswed.com
 word.mailbo.store
 word.monster
 wordey.net
@@ -270414,6 +270466,7 @@ yahooo.xyz
 yahooproduct.com
 yahooproduct.net
 yahoor.com
+yahoos.nl
 yahoosportstab.com
 yahoot.it
 yahoots.com
@@ -271383,6 +271436,7 @@ yesmail.online
 yesmail.site
 yesmail.solutions
 yesmail.store
+yesnap.top
 yesnauk.com
 yesnews.info
 yesnocasino.com

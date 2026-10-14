@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-10-13T22:18:48.593Z
+# Aggregated blacklist generated on 2026-10-14T03:39:15.301Z
  
 0-30-24.com
 0-attorney.com
@@ -4125,6 +4125,7 @@
 2way2win.info
 2wc.info
 2web.com.pl
+2welve.co.uk
 2wjxak4a4te.cf
 2wjxak4a4te.ga
 2wjxak4a4te.gq
@@ -5012,6 +5013,7 @@
 3cdigitalmarketing.net
 3ce5jbjog.pl
 3chefsoriginal.com
+3chordsfestival.co.uk
 3cky.biz
 3cn.store
 3colormaster.site
@@ -5765,6 +5767,7 @@
 460gmail.com
 4636552.com
 463bv.space
+4648895.com
 465279.com
 465betcasino.com
 465gmail.com
@@ -10342,6 +10345,7 @@
 895971.com
 8959837.com
 8959b2.club
+896898.com
 897116.com
 897152.com
 897629.com
@@ -10988,6 +10992,7 @@
 9659837.com
 9661by.com
 9666z.com
+966944.net
 9669837.com
 966r.org
 966red.org
@@ -11447,6 +11452,7 @@
 9h35j903vhh13h.online
 9h35j903vhh13h.space
 9h3ucx.us
+9h9m.com
 9hh03.com
 9hh30.com
 9hjrw90hj1t0.online
@@ -12208,6 +12214,7 @@ abbavoyage.click
 abbelt.com
 abbevimals.ru
 abbeygate-portugal.com
+abbeyinnderby.co.uk
 abbeyroadlondon.co.uk
 abbeyrose.info
 abbieandtheroses.com
@@ -12324,6 +12331,7 @@ abendkleidergunstig.net
 abendschoen.com
 abenzymes.us
 aberandre.de
+abercothi.co.uk
 abercrombieepascheresyffr.info
 abercrombiefitch-shop.com
 abercrombiefitch-store.com
@@ -12697,6 +12705,7 @@ academiammnpro.online
 academic.edu.rs
 academiccommunity.com
 academicpillar.org
+academiededanseclassique.com
 academix-eg.com
 academmail.info
 academybankmw.com
@@ -13140,6 +13149,7 @@ acklewinet.store
 acklink.com
 acknowledges.site
 aclaros.com
+aclassoperacruise.com
 acline.biz
 aclinic24.ru
 aclnm.com
@@ -13366,6 +13376,7 @@ activelywell.com
 activemix.ru
 activemonologues.com
 activeonlineshoppers.info
+activepawsfitness.co.uk
 activerays.com
 activesniper.com
 activestore.xyz
@@ -13619,6 +13630,7 @@ add3000.pp.ua
 add6site.tk
 adda52pokerdownload.com
 addadsasd.icu
+addax-electronique.com
 addcharlotte.com
 addcious.com
 addcom.de
@@ -13842,6 +13854,7 @@ adkecochecking.com
 adkinspumpsusa.com
 adko.com
 adlamail.com
+adlardsinthecountry.co.uk
 adldentallab.com
 adleep.org
 adlibexeclodge.com
@@ -13901,6 +13914,7 @@ admiral1.best
 admiral4.best
 admiral5.best
 admiralcazino777.com
+admiralfitzroy.co.uk
 admiralwe.us
 admiralx-777-spin.beauty
 admiralx-casino-uz8.ru
@@ -17588,6 +17602,7 @@ allthewp.com
 allthingsbloodpressure.com
 allthingscelebrity.com
 allthingsfunko.com
+allthingspembrokeshire.co.uk
 allthingsprogress.com
 allthingswoodworking.com
 allthreefitness.com
@@ -17823,6 +17838,7 @@ alphahomesinteriors.com
 alphaluxmusclenow.com
 alphamails.co
 alphamails.net
+alphamediapro.click
 alphanaltan.com
 alphaneutron.com
 alphanummail.ru
@@ -18964,6 +18980,7 @@ analogekameras.com
 analogimpulse.net
 analogsemail.com
 analogsky.com
+analogueproductions.co.uk
 analogwe.us
 analplug.co.uk
 analsexporn.xyz
@@ -19065,6 +19082,7 @@ ancewa.com
 anchieta.com
 ancholdings.com
 anchor-autoglass.com
+anchor-pub.co.uk
 anchorageheroinrehab.com
 anchoragequote.com
 anchorandthread.net
@@ -19256,6 +19274,7 @@ andwe.site
 andweightlosshelpsok.live
 andwl.us
 andy1mail.host
+andybaddeley.co.uk
 andychris.us
 andyes.net
 andylizi.net
@@ -20514,6 +20533,7 @@ apcm29te8vgxwrcqq.gq
 apcm29te8vgxwrcqq.ml
 apcm29te8vgxwrcqq.tk
 apcode.com
+apcomgroup.com
 apcvpc.com
 apdiv.com
 apdoro.biz.id
@@ -21713,6 +21733,7 @@ arkada-wittyrumble.quest
 arkada-wittyrumble.website
 arkadacasinopay.ru
 arkadacasinowin.ru
+arkadash.co.uk
 arkadaslots-deposit.top
 arkafort.app
 arkafort.org
@@ -22132,6 +22153,7 @@ artistryinbloom.net
 artistrystrategic.com
 artistsfortrauma.com
 artistsignal.com
+artistsrecordingcompany.co.uk
 artiviodesign.com
 artix.ga
 artleoncommunications.com
@@ -22492,6 +22514,7 @@ asenfor.com
 asenterprises.store
 asepticsurescientific.com
 aseq.com
+aserbianfilm.co.uk
 aserbo.ga
 aserbo.gq
 aserbo.tk
@@ -22655,6 +22678,7 @@ asianpartsmarket.com
 asianpkr88.info
 asianpublicnude.com
 asianrelease.website
+asianrichlist.co.uk
 asiansasians.com
 asiansonly.net
 asiantakeout.com
@@ -23226,6 +23250,7 @@ asyabahis777.com
 asyabahis888.com
 asyabahis9.com
 asyabahisgiris.xyz
+asylum-arts.co.uk
 asylumdata.com
 asylvan.com
 asymailer.live
@@ -23284,6 +23309,7 @@ atarivcs.net
 atarivideocomputersystem.com
 atasehirsuit.com
 atasibotak.shop
+atasteofitalybypompeo.co.uk
 atastynutrition.com
 atatteve.website
 ataudes.online
@@ -23818,6 +23844,7 @@ aumentatusclientes.com
 aumento-de-mama.es
 aunmail.com
 aunmodon.com
+auntiesteashop.co.uk
 auntshop.xyz
 auoi53la.ga
 auoie.com
@@ -24408,6 +24435,7 @@ aveelectric.com
 avelani.com
 avelec.ru
 avelharleiblum.tk
+aveling-adventure.co.uk
 avemarket.my.id
 avengersfanboygirlongirl.com
 avengerx.wiki
@@ -25871,6 +25899,7 @@ babelbistro.com
 babelsrevenge.com
 babesstore.com
 babettelapresse.xyz
+babettesmith.com
 babevape.xyz
 babexxx.net
 babezprivate.com
@@ -26021,6 +26050,7 @@ backilnge.com
 backity.com
 backlesslady.com
 backlesslady.net
+backlink.vn
 backlinkaufbauservice.de
 backlinkbuilder.biz
 backlinkcity.info
@@ -26955,6 +26985,7 @@ banhdato.com
 banhga.cf
 banhga.ga
 banhga.ml
+banhmilienhoa1987.com
 banho.club
 banistersdirect.com
 banit.club
@@ -27270,6 +27301,7 @@ barrill.org
 barrindia.com
 barrio69.com
 barryandsons.com
+barryhymer.co.uk
 barrymail.xyz
 barryogorman.com
 barrypov.com
@@ -28229,6 +28261,7 @@ bear.cd
 bearan.online
 bearbullnyc.com
 bearcreekauto.com
+bearcreekwineryalaska.com
 beardcatcreamery.com
 beardedcollie.pl
 beardfirst.com
@@ -28551,6 +28584,7 @@ beervape.com
 beeservices.shop
 beetlecan.com
 beetlejuices.xyz
+beetspulseandthyme.co.uk
 beeveedigital.com
 beeviee.cf
 beeviee.ga
@@ -28740,6 +28774,7 @@ belengendwin.com
 belettersmail.com
 belezabydayse.com
 belf.ru
+belfastairportadvertising.co.uk
 belfastdistilleryco.com
 belfastultimate.org
 belfieldcorp.net
@@ -29602,6 +29637,7 @@ bestn4box.ru
 bestnamepro.site
 bestnecklacessale.info
 bestnerfblaster.com
+bestnetwork.click
 bestneuropathytreatment.com
 bestnewbook.site
 bestnewbooks.site
@@ -30510,6 +30546,7 @@ beveragedictionary.com
 beverageglossary.com
 beveragesoffers.work
 beveragesshop.life
+beverleynielsen.co.uk
 beverlyharing55places.com
 beverlyhillstelecom.com
 beverlytx.com
@@ -31530,6 +31567,7 @@ bingbus.com
 binge.com
 bingevault.online
 binghuodao.com
+bingizafoundation.com
 bingo-bets.com
 bingo-game-set.com
 bingo101apk.net
@@ -41194,6 +41232,7 @@ cdactvm.in
 cdaeastlands.com
 cdaixin.com
 cdash.space
+cdaxtt.com
 cdbook.club
 cdc.com
 cdcbkidsdentist.com
@@ -45959,6 +45998,7 @@ cm4s.com
 cm69.club
 cm6slv.us
 cm88bet.info
+cma-morbihan.fr
 cma4x3.com
 cmael.com
 cmag88.site
@@ -56179,6 +56219,7 @@ difficilemail.com
 diffusibgmail.ru
 diffusifmk.com
 diffusmail.ru
+diffuzorss.ws
 diflucan4all.top
 diflucanrxmeds.com
 diflucanst.com
@@ -67120,6 +67161,7 @@ esupermail.ru
 esupport-j.com
 esured.org
 esveneckern.site
+esweew.com
 eswobd.info
 eswseswo.shop
 esx.com
@@ -68016,6 +68058,7 @@ ewwq.eu
 ewxvrbhl.shop
 ex-mail.co.pl
 ex-you.com
+ex3ndr.com
 exablaze.store
 exact-black.com
 exactaccare.xyz
@@ -77878,6 +77921,7 @@ gatewaytube.com
 gath.cd
 gatherenmedia.com
 gathhs.us
+gathigh.us
 gathkhal.us
 gati.tech
 gatide.sbs
@@ -80277,6 +80321,7 @@ girlsdate.online
 girlsexy.sbs
 girlsforfun.tk
 girlsindetention.com
+girlsinuae.com
 girlsjustwannahavefun.co.uk
 girlsnakedvideos.com
 girlsroom.biz.ua
@@ -84171,6 +84216,7 @@ gsasearchenginerankersocialser.com
 gsasearchenginerankervps.com
 gsaseoemail.com
 gsaser.world
+gsaserbuilder.store
 gsaserbuilder.xyz
 gsaverifiedlist.download
 gsavps.xyz
@@ -88894,6 +88940,7 @@ hidezzdnc.com
 hidheadlightconversion.com
 hidingmail.com
 hidingmail.net
+hidingpost.com
 hidjuhxanx9ga6afdia.cf
 hidjuhxanx9ga6afdia.ga
 hidjuhxanx9ga6afdia.gq
@@ -92217,6 +92264,7 @@ huguniverse.com
 huhen.de
 huhen.me
 huhmail.bid
+huhu8686.us
 huihuangbeiye.com
 huihuitu.club
 huikao.online
@@ -106141,6 +106189,7 @@ khalekfaker.site
 khalhs.us
 khali.us
 khaliban.com
+khaliedu.us
 khalifahallah.com
 khalih.us
 khalihi.us
@@ -108877,6 +108926,7 @@ ksqpmcw8ucm.tk
 kss.pl
 kssskkk.online
 kstater.press
+ksteqzfbaj.com
 kstnu4.info
 kstrong.info
 kstyleworld.com
@@ -113467,6 +113517,7 @@ lingeriedeclo.com
 lingeriegroup.com
 lingerieluna.com
 lingeriemaid.com
+lingeringp.com
 linggangmelapeh.com
 linging.org
 lingmarbi.cf
@@ -125226,6 +125277,7 @@ meu2526.com
 meubelocorpo.com
 meubrasillivre.com
 meubusinessconexao.com
+meucelular.online
 meucoach.page
 meuemail.com.br
 meuemail.ml
@@ -127567,6 +127619,7 @@ mnbvcxz6.info
 mnbvcxz8.info
 mnbvxvbuerrqwe.ga
 mnchealth.com
+mncmail.com
 mncrafting.com
 mne.co
 mnemonicedu.com
@@ -138005,6 +138058,7 @@ nsr009.com
 nsroussi.ovh
 nsrtrading.com
 nsserver.org
+nssreox.com
 nst-customer.com
 nstarbank.com
 nstation.space
@@ -139399,6 +139453,7 @@ ocnegib.ga
 ocnegib.tk
 ococvmail.com
 ocoeezipz.com
+oconf.lat
 ocotbukanmain.club
 ocouponcode.com
 ocourts.org
@@ -150351,6 +150406,7 @@ pmledyanoy.site
 pmlep.de
 pmllr.dev
 pmlw.com
+pmmax.de
 pmmgladanorak.site
 pmmgrafavenec.site
 pmmkernstylyy.site
@@ -150494,6 +150550,7 @@ pochtaserver.com
 pochtaserver.ru
 pochtocom.top
 pochwilowke.com.pl
+pocketadmin.tech
 pocketino.digital
 pocketmortyreceipes.org
 pocketpleaser.com
@@ -156107,6 +156164,7 @@ qmj38.us
 qmlw.com
 qmny.com
 qmoil.com
+qmoveq.lat
 qmperehpsthiu9j91c.ga
 qmperehpsthiu9j91c.ml
 qmperehpsthiu9j91c.tk
@@ -158798,6 +158856,7 @@ rbezwx.com
 rbfxecclw.pl
 rbgvlaw.com
 rbgwmlrt.shop
+rbihus.com
 rbitz.net
 rbiwc.com
 rbjkoko.com
@@ -164932,6 +164991,7 @@ rushu.online
 rushwarsgames.ru
 rusiall.casa
 rusiang.site
+rusinfo77.ru
 rusita.ru
 ruskaiw.pw
 ruskasino.info
@@ -173360,6 +173420,7 @@ skoubi.com
 skovebros.com
 skovlyset.info
 skowarz.club
+skpermatangraja.com
 skphotografy.com
 skpwlaw.com
 skqmph.fun
@@ -173483,6 +173544,7 @@ skylapetersen.com
 skylarchic.shop
 skylarkmusic.online
 skylighthomedecor.com
+skylinenextday.com
 skylinescity.com
 skylinesco.com
 skylinkdistribution.com
@@ -173968,6 +174030,7 @@ smakipomorza.pl
 smakit.rest
 smakit.vn
 smakiwirok.com
+smakomail.com
 smalkaa.site
 small-world-media.com
 small680.online
@@ -174096,6 +174159,7 @@ smartfirepits.com
 smartfixgulf.xyz
 smartfunasia.com
 smartfuture.space
+smartgoodwin.com
 smartgrasspools.tech
 smartgrid.com
 smartgrp.com
@@ -182777,6 +182841,7 @@ targetmapper.com
 targetmutual.com
 targetmw.com
 targettmail.com
+targo.lat
 targoo3.site
 tariffenet.it
 tarifmanya.com
@@ -185128,6 +185193,7 @@ test-78929.dedyn.io
 test-acs.com
 test-google-a.com
 test-intl.biz
+test-off.cloud
 test-reservation-link.com
 test-test.cc
 test.com
@@ -192922,6 +192988,7 @@ tudouindex.com
 tudxico.icu
 tue02.bar
 tueha.com
+tuehazki.com
 tuembarazoymas.com
 tuescutcheon.com
 tuesdayfi.com
@@ -203611,6 +203678,7 @@ wb-master.ru
 wb24.de
 wbb3.de
 wbbmail.me
+wbc-24.pl
 wbdev.tech
 wbdymzon.shop
 wbflora.pl
@@ -215477,6 +215545,7 @@ zep-hyr.com
 zepco.ru
 zepexo.com
 zephrmail.info
+zephyr.lat
 zephyracpro.xyz
 zephyrairconpro.xyz
 zephyramcpro.xyz

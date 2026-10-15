@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-10-15T19:42:37.779Z
+# Aggregated blacklist generated on 2026-10-15T22:54:19.166Z
  
 0-00.usa.cc
 0-30-24.com
@@ -200832,6 +200832,7 @@ query.hikely.click
 query.meettravel.click
 query.meettravellersrest.click
 query.meetturnon.click
+query.meetwisetransfer.click
 query.ninjatransfers.click
 query.quickreply.click
 query.scamperly.click
@@ -209331,6 +209332,7 @@ roselism.com
 rosella.my.id
 roselug.org
 rosemarrty.online
+rosemarrty.shop
 rosendalerapids.com
 rosendalerapids.net
 rosenrealty.com

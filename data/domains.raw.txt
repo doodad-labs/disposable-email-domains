@@ -200819,6 +200819,7 @@ query.hikely.click
 query.meettravel.click
 query.meettravellersrest.click
 query.meetturnon.click
+query.meetwisetransfer.click
 query.ninjatransfers.click
 query.quickreply.click
 query.scamperly.click
@@ -209318,6 +209319,7 @@ roselism.com
 rosella.my.id
 roselug.org
 rosemarrty.online
+rosemarrty.shop
 rosendalerapids.com
 rosendalerapids.net
 rosenrealty.com

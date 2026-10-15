@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-10-15T03:19:44.744Z
+# Aggregated blacklist generated on 2026-10-15T08:52:58.168Z
  
 0-00.usa.cc
 0-30-24.com
@@ -47475,6 +47475,7 @@ boulderback.com
 bouldercycles.com
 bouldermac.com
 boulderproblems.com
+boulkfout.lol
 boulonnerie-des-quatre-coins.com
 boun.cr
 bounce.net
@@ -85102,6 +85103,7 @@ ensotv.net
 enspara.energy
 enspinner.com
 enspiral.mobi
+ensproxy.com
 ensquaredaired.com
 enssycofa.com
 ensudgesef.com
@@ -105502,6 +105504,7 @@ goldker.com
 goldlabletech.com
 goldleafjewelry.com
 goldleaftobacconist.com
+goldlicai.com
 goldline.money
 goldmail.com.br
 goldmail.site
@@ -164981,6 +164984,7 @@ moratecnm.com
 moratymail.com
 moravekinternational.info
 moraveli.live
+moravita.com
 morawski.instambox.com
 morbolatino.com
 morcagumd.cf

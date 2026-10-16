@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-10-16T19:19:52.953Z
+# Aggregated blacklist generated on 2026-10-16T22:33:16.631Z
  
 0-30-24.com
 0-attorney.com
@@ -350,6 +350,7 @@
 04ocdi.us
 04rexell.website
 04t687ck855wd6u.xyz
+0500betvip.com
 050506.com
 05088.xyz
 050gmail.com
@@ -1369,6 +1370,7 @@
 123hummer.com
 123india.com
 123info.ru
+123jiliapp.ph
 123kid.club
 123kissanime.net
 123mail.cl
@@ -1975,6 +1977,7 @@
 18e95e9.xyz
 18g.eu
 18gmail.com
+18jililogin.ph
 18jllogin.net
 18jlslotcasino.com
 18kin.jp
@@ -4110,6 +4113,7 @@
 2ursxg0dbka.ml
 2ursxg0dbka.tk
 2utahhome.com
+2uuu88viplogin.net
 2v3vjqapd6itot8g4z.cf
 2v3vjqapd6itot8g4z.ga
 2v3vjqapd6itot8g4z.gq
@@ -7042,6 +7046,7 @@
 567map.xyz
 567slotsbetbet.com
 567win1.net
+567winappdownloadapk.net
 568ac.com
 568gmail.com
 5699casino.info
@@ -7499,6 +7504,7 @@
 60-minuten-mail.de
 600061.xyz
 600betlucky.net
+600betluckydragon.com
 600br88.com
 600da.ga
 600pro.com
@@ -9046,6 +9052,7 @@
 777xpgame.info
 777xpgameonline.com
 777xpgamepk.com
+777xzgame.com
 777y.buzz
 777y.monster
 778789.com
@@ -9163,6 +9170,7 @@
 78sforsale.com
 78ttbet.info
 78wim.info
+78winplataforma.net
 78winvip.com
 78zjx.com
 78zjxs.com
@@ -11058,6 +11066,7 @@
 975gmail.com
 977.dog
 977206.com
+9777bdtgame.net
 9777casino.com
 977gmail.com
 979.dog
@@ -18298,6 +18307,7 @@ amalia.biz.id
 amaliatranslations.com
 amalinvest.com
 amalur.icu
+aman788login.net
 aman788slot.net
 amanda-uroda.pl
 amandabeatrice.com
@@ -25873,6 +25883,7 @@ ba616o8hwee96yl.site
 ba62.net
 ba666casino.com
 ba971a8.club
+ba999betapplogin.com
 baacloud7.com
 baalg.com
 baalism.info
@@ -26688,6 +26699,7 @@ balilandexplorer.com
 balimeloveyoulongtime.com
 balincs.com
 balipropertybuilder.com
+balivegasslot.info
 balivilladirectory.com
 baliweddingphotograph.com
 balk783ke.online
@@ -27984,6 +27996,7 @@ bd51tf.com
 bd66zzcasino.com
 bd777casino.com
 bd7867bd.com
+bd7r7777.com
 bd87777bed.net
 bd9777dbt.net
 bd9b6555.club
@@ -28141,6 +28154,7 @@ bdjola.com
 bdkey.xyz
 bdkirkiriya.com
 bdl89.net
+bdl8992.com
 bdm.ovh
 bdmail.site
 bdmelbetdownload.com
@@ -31302,6 +31316,7 @@ bigsizetrend.com
 bigskelmmir.net
 bigskiff.com
 bigskyregioni.org
+bigslot288login.net
 bigsmiles.info
 bigsnacent.tk
 bigsocalfestival.info
@@ -35863,6 +35878,7 @@ brlconsulting.com.br
 brliffebody.host
 brliffebody.online
 brlogin.net
+brlwin365.net
 brmailing.com
 brme.com
 brmstrgr.ga
@@ -38209,6 +38225,7 @@ c0sau0gpflgqv0uw2sg.ml
 c0sau0gpflgqv0uw2sg.tk
 c1101.club
 c14.mobi
+c168avip.com
 c1775.com
 c17d.club
 c19coalition.net
@@ -45582,6 +45599,7 @@ clkuludag.com.tr
 cllatamwincasino.com
 clm-blog.pl
 clmatty.com
+clmbce.us
 clmbs.us
 clmbus.us
 clmcaythenhi.site
@@ -87924,6 +87942,7 @@ heisawofa.com
 heise-network.com
 heisei.be
 heisenburger.biz.id
+heismail.xyz
 heisserreifen.com
 heistnukes.com
 heixs.com
@@ -102201,6 +102220,7 @@ jljl1casinologin.com
 jljl1com.info
 jljl333casino.com
 jljl777legit.com
+jljl7login.ph
 jljl90casinologin.com
 jljl90login.com
 jljl99app.info
@@ -108677,6 +108697,7 @@ kraytek.ru
 krazydad.com
 krazymail.com
 krb.asia
+krbwinners.net
 krclip.com
 krd.ag
 kre8ivelance.com
@@ -112412,6 +112433,7 @@ letterfew.online
 letterflat.com
 letterguard.net
 letterhaven.net
+letterio.info
 lettermania.site
 letterprotect.com
 letterprotect.net
@@ -131087,6 +131109,7 @@ mx.com.mx
 mx1.site
 mx10xbet.mx
 mx326casino.com
+mx33x499bu.xyz
 mx37casino.com
 mx40bu.com
 mx444casino.com
@@ -140400,6 +140423,7 @@ ok9989.info
 ok9aacom.info
 ok9betvn.com
 okabashidonerkebabmadrid.com
+okadaplayonline.com
 okadk.pro
 okakambe.com
 okakmail.com
@@ -148082,6 +148106,7 @@ ph-shop.pro
 ph0jt.us
 ph11comapp.com
 ph123casino.info
+ph143downloadapk.com
 ph17jili.ph
 ph200jili.ph
 ph222casino.com
@@ -148105,9 +148130,11 @@ ph44login.com
 ph567casino.net
 ph62slot.com
 ph678casino.net
+ph6899jili.ph
 ph6xhw.us
 ph7777ph.ph
 ph777casinoapp.com
+ph877jili.ph
 ph88game.org
 ph8k8app.ph
 ph947casino.net
@@ -148377,6 +148404,7 @@ phinvitation.com
 phisbe.site
 phitheon.com
 phitsanulokfc.com
+phjili168com.ph
 phjili31.ph
 phjili49.ph
 phjilibee.ph
@@ -148580,6 +148608,7 @@ phototypesfkml.ru
 photozzz.com
 php-figurines.com
 php3.ru
+phpanalo777.com
 phparkvip.info
 phpbrasil.org
 phpcode.website
@@ -148625,6 +148654,7 @@ phswertecasino.info
 phtayalogin.com.ph
 phtayaonlinecasino.com
 phteverse.com
+phtp999.com
 phtunneler.cf
 phtunneler.com
 phtunneler.ga
@@ -148681,6 +148711,7 @@ phwin88viplogin.com
 phwincasino.ph
 phwwcasino.net
 phx.ac
+phx777ee.ph
 phxwindowtint.com
 phyco.org
 phylactfml.com
@@ -149677,6 +149708,7 @@ pk777casino.info
 pk88betvn.com
 pk98game.com
 pkapp.fr
+pkbajiapplogin.com
 pkbmdq.fun
 pkbmmx.fun
 pkcabyr.cf
@@ -149963,6 +149995,7 @@ platacrunch.com
 plataforma2uuu.com
 plataforma95r.com
 plataforma987bet.com
+plataformaboxwin.net
 platconst.com
 plateapanama.com
 platedeph.cf
@@ -150415,6 +150448,7 @@ plus-size-promdresses.com
 plus553.com
 plus777apk.com.ph
 plus777asia.com.ph
+plus777asiasignup.com
 plus777casino.org
 plus777comlink.net
 plus777download.com
@@ -157715,6 +157749,7 @@ ra540.buzz
 ra5qke.us
 ra72a3.online
 ra777login.net
+ra88slot.org
 raagevents.com
 raajjetimes.org
 raanank.com
@@ -174814,6 +174849,7 @@ snipe-mail.bid
 snipemail4u.bid
 snipemail4u.men
 snipemail4u.website
+sniper-dynadot.xyz
 snips.tech
 snipsandiego.org
 snkaddr.com
@@ -179450,6 +179486,7 @@ studioartdesigners.com
 studioascc.com
 studioaslka.email
 studioata.net
+studiobet78login.net
 studiobolide.com
 studiocardellini.com
 studiocarollo.it
@@ -182526,6 +182563,7 @@ talent.dk
 talentai-tec.com
 talentasolutions.org
 talentblog.com
+talentflowagency.cc
 talentfortep.com
 talentpartners.us
 talentpen.com
@@ -195344,6 +195382,7 @@ uksnapbackcap.com
 uksnapbackcaps.com
 uksnapbackhat.com
 uksnapbacks.com
+uksteroidstore.com
 uksurveyors.org
 ukswingersmeet.com
 uktaxrefund.info
@@ -201433,6 +201472,7 @@ vnmtc66.com
 vnnohu00.com
 vnnohu60.com
 vnnohu64.com
+vnnohu77.com
 vnnohu94.com
 vnotua.xyz
 vnpayment.org
@@ -208507,6 +208547,7 @@ x5wcbd.us
 x5wila.us
 x6-bmw.biz.ua
 x6666gamelogin.com
+x666lcd.com
 x6dqh5d5u.pl
 x6z72z.com
 x77.club
@@ -211346,6 +211387,7 @@ xx18269.com
 xx44.xyz
 xx57822.com
 xx6699.com
+xx777casino.info
 xx88com.net
 xx9094.com
 xxat.com
@@ -215327,6 +215369,7 @@ zazeto.xyz
 zaztraz.ml
 zaztraz.tk
 zazzerz.com
+zb777login.com
 zb8bpo.com
 zbapaly.store
 zbarman.com
@@ -216452,6 +216495,7 @@ zjxiaosheng.com
 zjxylcar.com
 zk0r8a.com
 zk2578.com
+zk888game.com
 zk9sdg.online
 zkb.su
 zkcckwvt5j.cf
@@ -217449,6 +217493,7 @@ zz75.net
 zz7665.com
 zz77.com
 zz777br1.com
+zz88bcom.com
 zza.biz
 zzag.com
 zzaidah.cloud

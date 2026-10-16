@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-10-16T03:15:26.090Z
+# Aggregated blacklist generated on 2026-10-16T08:46:09.448Z
  
 0-00.usa.cc
 0-30-24.com
@@ -136371,6 +136371,7 @@ kfoiwnps.com
 kfr.spymail.one
 kfrdvgswoo.mailbo.store
 kfrkc9ok8x.mailbo.store
+kfrl61.moakt.co
 kfs8ngkvyc.mailbo.store
 kfs92.space
 kfscr.ru

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-10-16T22:33:16.631Z
+# Aggregated blacklist generated on 2026-10-17T03:06:33.505Z
  
 0-00.usa.cc
 0-30-24.com
@@ -148531,6 +148531,7 @@ lotto-thanks.xyz
 lotto-vip.click
 lotto-vip.shop
 lotto-wizard.net
+lotto.lat
 lotto191.com
 lotto2555.com
 lotto4winner.com
@@ -176651,6 +176652,7 @@ npfbw.info
 npfd.de
 npfd.gq
 npfx.dung2tb.io.vn
+npfz6.anonbox.net
 npg.laste.ml
 npg1ijxc5j.mailbo.store
 npghas6onb.mailbo.store

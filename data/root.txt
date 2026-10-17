@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-10-17T03:06:33.505Z
+# Aggregated blacklist generated on 2026-10-17T08:16:50.458Z
  
 0-30-24.com
 0-attorney.com
@@ -38251,6 +38251,7 @@ c21service.com
 c23media.com
 c28.mobi
 c2ayq83dk.pl
+c2cap.xyz
 c2ccams.com
 c2clover.info
 c2csoft.com
@@ -105021,6 +105022,7 @@ kashi-sale.com
 kashikoi.net
 kashimeihin.xyz
 kashmirindian.com
+kashre.com
 kasian.ru
 kasiatee.com
 kasidate.me
@@ -116720,6 +116722,7 @@ luckgift.ru
 luckindustry.ru
 luckjob.pw
 luckmail.us
+lucktaro.com
 lucktoc.com
 lucky-gambler.com
 lucky-giveaways.com
@@ -211715,6 +211718,7 @@ xzbags.com
 xzcameras.com
 xzcloth2.online
 xzcn.me
+xzcoot.com
 xzcsrv41.life
 xzcsrv44.life
 xzcsrv45.life

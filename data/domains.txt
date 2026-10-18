@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-10-18T03:08:41.619Z
+# Aggregated blacklist generated on 2026-10-18T08:34:13.773Z
  
 0-00.usa.cc
 0-30-24.com
@@ -164815,6 +164815,7 @@ monosubsmail.com
 monosyllabli.com
 monosynmail.com
 monot.xyz
+monotensor.com
 monotheimail.ru
 monotheimails.ru
 monotheisfmail.com
@@ -172318,6 +172319,7 @@ neonbees.info
 neone.fr
 neonet.ac.nz
 neonexchange.company
+neonorbitx.com
 neonstars.simplelogin.com
 neontogel.com
 neontogel.org
@@ -187472,6 +187474,7 @@ pawxie.biz.id
 pawygu.info
 pax.afati.my.id
 paxdealsy.info
+paxeluni.com
 paxheal.com
 paxiq.click
 paxlys.com

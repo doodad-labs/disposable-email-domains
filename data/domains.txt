@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-10-18T20:08:44.123Z
+# Aggregated blacklist generated on 2026-10-18T23:55:44.684Z
  
 0-00.usa.cc
 0-30-24.com
@@ -102850,6 +102850,7 @@ giapham.org
 giapratescon.tk
 giare.fun
 giare.store
+giarevcl.click
 giaswptrcf.mailbo.store
 giat1.igg.biz
 giat2.igg.biz

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-10-19T03:22:33.687Z
+# Aggregated blacklist generated on 2026-10-19T09:37:00.626Z
  
 0-00.usa.cc
 0-30-24.com
@@ -26565,6 +26565,7 @@ alimoh.cloud
 alimunjaya.xyz
 alin.cc.cd
 alin.eu.cc
+alin241.ccwu.cc
 alina-schiesser.ch
 alinalinn.com
 alinavits.icu
@@ -34801,6 +34802,7 @@ aveling-adventure.co.uk
 avemarket.my.id
 avengersfanboygirlongirl.com
 avengerx.wiki
+avengremail.com
 avenidapr.com
 avenir-biz.com
 avenirshoes.ru
@@ -39416,6 +39418,8 @@ bcmmail.com
 bcmw2wwhd1.mailbo.store
 bcn0i5x.cse445.com
 bcn67o4t.luksarcenter.ru
+bcnet.store
+bcnetlite.xyz
 bcng.email
 bcnsc.online
 bcnu33d2bb.mailbo.store
@@ -45088,6 +45092,7 @@ block-node.org
 block-this-for-gambling.cloud-ip.cc
 block.bdea.cc
 block521.com
+blockare.site
 blockbet.gg
 blockblocks.bid
 blockblocks.party
@@ -61643,6 +61648,7 @@ codenovation.tech
 codenow.com
 codenwinxpire.com
 codeo.site
+codeofpower.com
 codeorbecoded.com
 codependientes.com
 codeq.site
@@ -64591,6 +64597,7 @@ cowck.com
 cowerkn.com
 cowgirljules.com
 cowhosting.net
+cowinglobal.com
 cowisdom.com
 cowk.ll47.net
 cowmail.fun
@@ -65243,6 +65250,7 @@ creativityandwomen.com
 creativo.pl
 creatmail.com
 creatomgroup.com
+creatorsagi.site
 creatorsfresh.biz.id
 creatorzweeks.shop
 creavibe.biz.id
@@ -76030,6 +76038,7 @@ domailnew.com
 domain-99k.com
 domain-grow.xyz
 domain.com
+domain12.33mail.com
 domain1423xjuccnnogjb.yug.dayatan.host
 domain1dolar.com
 domainables.biz
@@ -79347,6 +79356,7 @@ dynohoxa.com
 dynqtu.site
 dyo.luk2.com
 dyoeii.com
+dyoxo.com
 dypri.shop
 dyqbmail.com
 dyre.site
@@ -80893,6 +80903,7 @@ ecodark.com
 ecodecouverte.com
 ecodezcentr.ru
 ecodom75.ru
+ecodry.lat
 ecoe.de
 ecoearthessentialz.com
 ecoenergy-consultnig.com
@@ -83751,6 +83762,7 @@ email84.com
 email86.igg.biz
 email9.me
 email960.com
+emailab.xyz
 emailabox.pro
 emailage.cf
 emailage.ga
@@ -84261,6 +84273,7 @@ emeraldcityarms.com
 emeraldcluster.com
 emeraldisle.com
 emeraldsocietynews.club
+emeraldvalley-towing.com
 emeraldvalleyhouse.com
 emeraldvapor.com
 emeraldwebmail.com
@@ -88248,6 +88261,7 @@ excommmail.ru
 excommunicmfri.com
 excommunifmail.ru
 excommunimail.ru
+excoryiot.com
 excursions-peche-corse.com
 excursionshop.ru
 exdav4hq2q.mailbo.store
@@ -89888,6 +89902,7 @@ fajeras.design
 fajnadomena.pl
 fajrsystem.com
 fajskdlh.top
+faka.grok-mail.co
 fake-box.com
 fake-email.com
 fake-email.isorada.com
@@ -92989,6 +93004,7 @@ filomesh.ru
 filomoplace.ru
 filoppy.net
 filoppy.org
+filorosso.shop
 filozofija.info
 filpc.com
 filpljl4cb.mailbo.store
@@ -94310,6 +94326,7 @@ flickette.buzz
 flickette.xyz
 flickquest.online
 flickshot.id
+flickstongue.com
 flicksurge.online
 flicktide.online
 flidel.xyz
@@ -106112,6 +106129,7 @@ gooseneckwines.com
 goosenetwork.org
 gooses.design
 goosfactor.life
+gootsijs.com
 goowork.solutions
 gooxd.com
 gopacers.net
@@ -108698,6 +108716,7 @@ gunlakecasino.com
 gunlukhavadurumu.net
 gunma.com
 gunmail.store
+guns.lat
 gunscutlo.cf
 gunscutlo.ml
 gunscutlo.tk
@@ -130344,6 +130363,7 @@ jiliwinbet.net
 jiliwinlogin.com
 jiljadid.com
 jiljadid.info
+jillandjulie.com
 jillashcraft.com
 jillgormley.com
 jilliangiardullomemorialfund.com
@@ -131006,6 +131026,7 @@ jmh3eppqes.mailbo.store
 jmhoqka6nh.mailbo.store
 jmhpetfood.com
 jmhprinting.com
+jmhuangcha.com
 jmil.com
 jmjasiorski.eu
 jmjhomeservices.com
@@ -137512,6 +137533,7 @@ kirchdicka.gq
 kirchdicka.ml
 kirchdicka.tk
 kirchgatters.com
+kirich74.xyz
 kirifurian.com
 kirikiyacasino.com
 kirikkaleanadolulisesi.xyz
@@ -140601,6 +140623,7 @@ kurubands.info
 kurumama.org
 kurumibnb.dog
 kurupee.com
+kuruptd.ink
 kurusia.xyz
 kuruyuk.com
 kurwa.de
@@ -156417,6 +156440,7 @@ manitobatex.org
 manitou.aleeas.com
 manitowc.com
 manivsem.ru
+manjario.space
 manjirouu.com
 manju.lflinkup.com
 manjushreeinfotech.com
@@ -164300,6 +164324,7 @@ mohanatakeaway.com
 mohanbm.com
 mohanje.site
 moharramgroup.com
+mohawkhomescapes.com
 mohcine.ml
 mohdt6f9hw.mailbo.store
 moheadne.gq
@@ -169071,6 +169096,7 @@ mygod55.com
 mygoldenmail.co
 mygoldenmail.com
 mygoldenmail.online
+mygoo.vip
 mygooyoo.com
 mygoslka.fun
 mygourmetcoffee.net
@@ -170716,6 +170742,7 @@ nak-nordhorn.de
 naka.edu.pl
 nakaan.com
 nakachat.com
+nakaikemi.com
 nakam.xyz
 nakammoleb.xyz
 nakapitel.ru
@@ -182259,6 +182286,7 @@ oohvirtual.com
 oohwin.com
 ooi0pxansx.mailbo.store
 ooikfjeojg.com
+ooioo.tech
 ooj7ryp8ar.mailbo.store
 oojfjpqlae.mailbo.store
 oojkh7wdn5.mailbo.store
@@ -184107,6 +184135,7 @@ oughlmail.com
 oughtdetailrabbi.site
 ougiuukekc.mailbo.store
 ougj.com
+ougoods.com
 ouhihu.cf
 ouhihu.ga
 ouhihu.gq
@@ -191409,6 +191438,7 @@ pk087.shop
 pk088.shop
 pk091.shop
 pk092.shop
+pk1960.work.gd
 pk2s.com
 pk2win.info
 pk3000.club
@@ -195822,6 +195852,7 @@ pro.m8sbeingm8s.com
 pro.marksypark.com
 pro.poisedtoshrike.com
 pro.yoshisad.com
+pro1.indevs.in
 pro10.streamtv.biz.id
 pro100girl.ru
 pro100magazine.ru
@@ -205396,6 +205427,7 @@ registry.godaddy
 regitord.co.uk
 regitord.uk
 regitsrzao.xyz
+regityc.com
 regivx.com
 regli.xyz
 regmail.kategoriblog.com
@@ -205651,6 +205683,7 @@ relaxforyou.space
 relaxgame.win
 relaxgamesan.ru
 relaxing-retreat.com
+relaxingthaimassage.com
 relaxingvapes.com
 relaxiro.site
 relaxirony.site
@@ -205722,6 +205755,7 @@ reliablespell.xyz
 reliabsmail.com
 reliabt.com
 reliahome.com
+reliance-broadband.net
 reliancecleaning.net
 relianceday.com
 relianceretail.tech
@@ -212762,6 +212796,7 @@ safeguard-international.com
 safehappyhouses.com
 safehomesystems.net
 safehosting.top
+safehouse.quest
 safehubsa.com
 safehut.shop
 safehut.site
@@ -217661,6 +217696,7 @@ sevkiakdemir.xyz
 sevminurcayman.tk
 sevopay.com
 sevra.lol
+sevril.win
 sevsotreasure.com
 sevun.online
 sew8dfnnkm.mailbo.store
@@ -221126,6 +221162,7 @@ skipopiasc.info
 skiprnet.com
 skipspot.eu
 skipvault.com
+skirts-men.com
 skishop24.de
 skite.com
 skittlrrcd.space
@@ -224120,6 +224157,7 @@ sopho.blog
 sophtrends.com
 sopian.me
 sopingi.my.id
+sopkya230.biz.id
 soplsqtyur.cf
 soplsqtyur.ga
 soplsqtyur.gq
@@ -232413,6 +232451,7 @@ tangozap.com
 tangozulutactical.com
 tangramshow.ru
 tangstorunelir.space
+tangtheodoi.net
 tangvlog.com
 tanhanfo.info
 tani-japanese-takeaway.com
@@ -233953,6 +233992,7 @@ tecmur2.org
 tecnaparc.com
 tecniblend.net
 tecnicasdecorativas.com
+tecnicoembalagem.com
 tecninja.xyz
 tecnisolltda.net
 tecnoleds.net
@@ -244154,6 +244194,7 @@ ttrcasinoblog.ru
 ttrcoa.com
 ttrimbai.site
 ttrinet.site
+ttrk.de
 ttrulanea.site
 ttrzgbpu9t6drgdus.cf
 ttrzgbpu9t6drgdus.ga
@@ -248235,6 +248276,7 @@ uncletha.us
 uncletr.icu
 unclick.ru
 unclilongwe.org
+uncmail.org
 uncoma.cf
 uncoma.ga
 uncoma.gq
@@ -249168,6 +249210,7 @@ updatehyper.com
 updateinfodev.net
 updates9z.com
 updatesafe.com
+updatesecurities.com
 updateusermob.xyz
 updating.page
 updazestudio.com
@@ -253946,6 +253989,7 @@ videoxx-francais.fr
 videoxxl.info
 videyt.online
 vidhosters.org
+vidian.lat
 vidify.biz.id
 vidihi.com
 viditag.com
@@ -260664,6 +260708,7 @@ wewk1bh3og.mailbo.store
 weworkweplay.org
 wewtmail.com
 wexcc.com
+wexdano.org
 wexdh.info
 wexdh.ooo
 wexford.net
@@ -266627,6 +266672,7 @@ xi9kledcl1.mailbo.store
 xiacorilop.icu
 xiaixue.club
 xiajspof.eu.cc
+xiakdi.com
 xiangjiaodaohang.live
 xiangshan.eu.cc
 xians.su
@@ -271628,6 +271674,7 @@ yenphandinhe.com
 yentzscholarship.xyz
 yenwe.com
 yeod.site
+yeonjun.xyz
 yeonn.anonbox.net
 yeoq.site
 yeot.site
@@ -273623,6 +273670,7 @@ yq6iki8l5xa.ml
 yq6iki8l5xa.tk
 yq7j7zu2q1.mailbo.store
 yqak.com
+yqandex.ru
 yqau.com
 yqb.luk2.com
 yqb2hgfhjo.mailbo.store
@@ -274610,6 +274658,7 @@ yyds-mail-04.cc.cd
 yyds-mail-05.cc.cd
 yyds.729406.xyz
 yyds.lkberich.online
+yyds.lovie.me
 yyds.mail.13140905.xyz
 yyds.mcmdo.com
 yyds12.eu.cc
@@ -275393,6 +275442,7 @@ zapovedniki.com
 zapqq.com
 zaproty.com
 zapstibliri.xyz
+zapuuo.com
 zapviral.com
 zapzap.army
 zapzap.band
@@ -278554,6 +278604,7 @@ zuya.portalespro.online
 zuyc.com
 zuye.bldaefnu.my.id
 zuye.sadbor.club
+zuz.sopkya230.biz.id
 zuz.tavqen230.biz.id
 zuza.se
 zuzana.asia

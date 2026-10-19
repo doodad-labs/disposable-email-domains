@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-10-18T23:55:44.684Z
+# Aggregated blacklist generated on 2026-10-19T03:22:33.687Z
  
 0-00.usa.cc
 0-30-24.com
@@ -18116,6 +18116,7 @@
 9404445.com
 940qs.com
 941.anonaddy.com
+9411ehcsztin.mw
 941233.xyz
 9414.fun
 9414445.com
@@ -105074,6 +105075,7 @@ gnujhmmogf.mailbo.store
 gnumail.com
 gnutrinsump5378.lofteone.ru
 gnvh.com
+gnwm3.anonbox.net
 gnwpwkha.pl
 gnwzqaz.shop
 gnyfba5drl.mailbo.store

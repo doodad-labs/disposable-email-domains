@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-10-19T22:01:17.359Z
+# Aggregated blacklist generated on 2026-10-20T03:31:45.985Z
  
 0-00.usa.cc
 0-30-24.com
@@ -33644,6 +33644,7 @@ aticoau.com
 aticspace.com
 atigra1115.lofteone.ru
 atihatim.shop
+atiko.lat
 atiku.website
 atilyhdepd.mailbo.store
 atimp.com
@@ -68146,6 +68147,7 @@ d7twmpnbz0.mailbo.store
 d7wdtqzqpz.mailbo.store
 d7wn0ir0k8.mailbo.store
 d7ykunv2me.mailbo.store
+d7zz5.anonbox.net
 d81nz0rq.saucent.online
 d82jhxwhlv.mailbo.store
 d850mhel.luksarcenter.ru

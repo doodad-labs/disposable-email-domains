@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-10-20T03:31:45.985Z
+# Aggregated blacklist generated on 2026-10-20T09:08:33.094Z
  
 0-00.usa.cc
 0-30-24.com
@@ -202675,6 +202675,7 @@ radiowhite.net
 radiozeeland.com
 radirsmail.ru
 radishlighting.com
+raditmarket.my.id
 raditya.club
 raditya.website
 radius-patio.com

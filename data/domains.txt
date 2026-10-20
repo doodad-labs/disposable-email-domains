@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-10-20T09:08:33.094Z
+# Aggregated blacklist generated on 2026-10-20T14:41:36.589Z
  
 0-00.usa.cc
 0-30-24.com
@@ -92,6 +92,7 @@
 00168.asia
 001680.xyz
 001690.xyz
+001913.com
 001916.xyz
 0019k7.com
 001gmail.com
@@ -19974,6 +19975,7 @@ a738faeb.buzz
 a740nrmc.buzz
 a741ktzi.buzz
 a742ygyz.buzz
+a747.shop
 a747uq.tmails.net
 a757shvb.buzz
 a7665.com
@@ -38986,6 +38988,7 @@ bauvb.anonbox.net
 bauweduygk.mailbo.store
 bauwerke-online.com
 bauzajewelry.com
+bavaim.com
 bavcwwpwsc.mailbo.store
 baver.com
 bavtof.capcud.com
@@ -39413,6 +39416,7 @@ bcjm4.icu
 bcle.de
 bcm.edu.pl
 bcma.freeml.net
+bcmadvdx.web.id
 bcmail.pro
 bcmapd4fbm.mailbo.store
 bcml1y6tml.mailbo.store
@@ -50530,6 +50534,7 @@ buydiabloaccounts.com
 buydiablogear.com
 buydiabloitem.com
 buydiamox.info
+buydie.com
 buydispensary.icu
 buydubaimarinaproperty.com
 buyedoewllc.com
@@ -54772,6 +54777,7 @@ catnicebook.site
 catnicetext.site
 catnipcat.net
 catorpnd.club
+catpost.site
 catrarebooks.site
 catreena.ga
 catretainerbug.website
@@ -54865,6 +54871,7 @@ cawxrsgbo.pl
 cax-converge.com
 cax.net
 caxa.site
+caxaim.com
 caxuf3wfuk.mailbo.store
 cayahoo.com
 caybrac.com
@@ -55396,6 +55403,7 @@ ccrpyramid.com
 ccrzj2gzqp.mailbo.store
 ccs.emlhub.com
 ccsa1g2bm0.mailbo.store
+ccsaku.shop
 ccsastunt.com
 ccsch.us
 ccsemc.com
@@ -66401,6 +66409,7 @@ cuaicloud.space
 cuaina.com
 cuaks.fun
 cuan.email
+cuanbareng.my.id
 cuanbeb.my.id
 cuanbersama.live
 cuanbrothers.com
@@ -67111,6 +67120,7 @@ cvnsr6fu0x.mailbo.store
 cvnz.autokey247.com
 cvo55.ru
 cvo9ym.us
+cvodaro428.biz.id
 cvoh.com
 cvokelo414.biz.id
 cvolui.xyz
@@ -67601,6 +67611,7 @@ cypher.onl
 cyphername.net
 cyphershop.net
 cyphrune.com
+cyphycon.com
 cypi.fr
 cypp.com
 cypressbayou.casino
@@ -70204,6 +70215,7 @@ ddukbam03.com
 ddukcafe2.com
 ddumwuhcpl.mailbo.store
 ddwfzp.com
+ddwlcgwg.biz.id
 ddx0ihbanq.mailbo.store
 ddxsoftware.com
 ddxt.xyz
@@ -81070,6 +81082,7 @@ ecunflec.tk
 ecunk1xjqt.mailbo.store
 ecur.es
 ecur5.yawahid.host
+ecuspares.com
 ecuwmyp.pl
 ecv.yomail.info
 ecvbom2hof.mailbo.store
@@ -83558,6 +83571,7 @@ emai.co.com
 emai.cz
 emai.eee.u.emlhub.com
 emai.emlhub.com
+emai.ru
 emaiden.com
 emaigops.ga
 emaii.io.vn
@@ -89587,6 +89601,7 @@ fabo.zaena.site
 fabonata.website
 fabook.com
 fabrelation.site
+fabri.lat
 fabrication.in
 fabricnflower.com
 fabricoak.com
@@ -94332,6 +94347,7 @@ flickshot.id
 flickstongue.com
 flicksurge.online
 flicktide.online
+flicktribe.net
 flidel.xyz
 fliegender.fish
 flier345xr.online
@@ -102672,6 +102688,7 @@ ghiscarbices.tk
 ghislain239.store
 ghizhdxr.saucent.online
 ghizzonimoto.com
+ghj.ru
 ghjaxynyyj.mailbo.store
 ghjcdfhdryhxdf.igg.biz
 ghjeb.live
@@ -102785,6 +102802,7 @@ ghsu9yedlo.mailbo.store
 ghsus.us
 ghte4tt.shop
 ghtfyryryryr1254.igg.biz
+ghthost.top
 ghths.us
 ghtk.us
 ghtkhali.us
@@ -103712,6 +103730,7 @@ gladdelivery.com
 gladehome.com
 gladgym.com
 gladiator.org
+gladies.com
 gladimail.com
 gladis.org
 gladishouse.co
@@ -108372,6 +108391,7 @@ gudanglowongan.com
 gudarcasino.com
 gudd.com
 guddu.live
+guddu.pro
 gudedit.com
 gudfret723.igg.biz
 gudilika.fun
@@ -108973,6 +108993,7 @@ gvn.10mail.org
 gvn4fg.info
 gvnuclear.com
 gvoceo50mc.mailbo.store
+gvodaro428.biz.id
 gvokelo414.biz.id
 gvozdvkedah.fun
 gvpaxpswa9.mailbo.store
@@ -133148,6 +133169,7 @@ justzeus.com
 jutapintarfood.com
 juto.8shield.net
 juts.us
+juunix.store
 juusbaa.com
 juusecamenerdarbun.com
 juuw1plz0d.mailbo.store
@@ -147576,6 +147598,7 @@ lobs.emltmp.com
 lobschrisev3750.a.lofteone.ru
 lobstercop.com
 lobumisan.gq
+loc.cc
 loc123.com
 locabet67.com
 locabet68.com
@@ -154745,6 +154768,7 @@ mailing.serveblog.net
 mailing.web.id
 mailingbox.us
 mailingclip.com
+mailingdragon.com
 mailingforever.biz
 mailinghouse.ru
 mailingmail.net
@@ -159116,6 +159140,7 @@ mebelapex.ru
 mebeldomoi.com
 mebeldomosed-sev.store
 mebelgrafika.ru
+mebelkitay.com
 mebellstore.ru
 mebelnu.info
 mebelwest.ru
@@ -160301,6 +160326,7 @@ meowc.at
 meowfilms.com
 meowfurniture.com
 meowing.cf
+meowmail.website
 meowper.team
 meowush.site
 meox.com
@@ -173592,6 +173618,7 @@ nexlab.pro
 nexlight.be
 nexmaila.xyz
 nexmanti.net
+nexocore.cfd
 nexofinance.us
 nexondigi.com
 nexorabio.pro.vn
@@ -182109,6 +182136,7 @@ onsalemall.top
 onsensmail.com
 onsetingamed.rest
 onsfxs6x3r.mailbo.store
+onsho.us
 onshop5.com
 onshoreteam.com
 onsibmail.com
@@ -191008,6 +191036,7 @@ pipetka.fun
 pipf.10mail.org
 piphxyg1ez.mailbo.store
 pipi.net
+pipiblog.com
 pipikitchen.com
 pipim.net
 pipinbos.host
@@ -214169,6 +214198,7 @@ sarkariyojana.xyz
 sarkisozudeposu.com
 sarkodie.africa
 sarlosi.online
+sarmale.site
 sarme.site
 sarnivo.io.vn
 sarofimcapital.com
@@ -222130,6 +222160,7 @@ smart.hellohappy2.com
 smart.lakemneadows.com
 smart.oldoutnewin.com
 smart.scarbour.com
+smarta4.com
 smartaccare.xyz
 smartafricangreyparrotfarm.net
 smartagi.dpdns.org
@@ -225410,6 +225441,7 @@ splenomeml.ru
 spliceworld.com
 spliffandspleef.com
 splindor.com
+splinkit.com
 splintergroup.com
 splio.nu
 splishsplash.ru
@@ -231205,6 +231237,7 @@ szlrfztjda.mailbo.store
 szmzhwzinn.mailbo.store
 szn.us
 szndm12r0c.mailbo.store
+sznj.cvodaro428.biz.id
 sznm8gz9vt.mailbo.store
 szo3muhjf2.mailbo.store
 szoal9mljv.mailbo.store
@@ -234490,6 +234523,7 @@ temp-mail-generator.com
 temp-mail-go.info
 temp-mail-pro.com
 temp-mail.africa
+temp-mail.app
 temp-mail.asia
 temp-mail.best
 temp-mail.buzz
@@ -243491,6 +243525,7 @@ trrwny5z55.mailbo.store
 trry.com
 trsdfyim.boats
 trservis.host
+trsp.gvodaro428.biz.id
 trsrrtire.com
 trssdgajw.pl
 trssodplnc.ga
@@ -265461,6 +265496,7 @@ x33-funnymonney.website
 x33-funnymonney.xyz
 x33567.com
 x3551.com
+x35g7r3.qizana.asia
 x360x.33mail.com
 x36zbn5rlq.mailbo.store
 x37-megacashsait.host
@@ -266264,6 +266300,7 @@ xek.me
 xekeshop.site
 xel7bora.web.id
 xelacade.site
+xelehkb.zaq.asia
 xelevirtyl.shop
 xelio.sbs
 xelix.biz.id
@@ -270919,6 +270956,7 @@ yandec.ru
 yandedex.ru
 yandeex.com
 yandeex.ru
+yandeh.ru
 yandeix.com
 yander.ru
 yandere.cu.cc
@@ -277555,6 +277593,7 @@ znjhssiqpx.mailbo.store
 znji.capcud.shop
 znjjbhr9fu.mailbo.store
 znjt8pkt5r.mailbo.store
+znkix.com
 znkrt7hxfz.mailbo.store
 znkzhidpasdp32423.info
 znl.luk2.com
@@ -277915,6 +277954,7 @@ zorg.fr.nf
 zorgkaartzeeland.com
 zorin.icu
 zorlo.com
+zornrax.cfd
 zoroasterdomain.com
 zoroasterplace.com
 zoroastersite.com
@@ -278688,6 +278728,7 @@ zvxxu.9474.mymail24.xyz
 zvyta.mezanaz.buzz
 zvyv.luk2.com
 zvyxqscirr.mailbo.store
+zvzmfx.cuanbareng.my.id
 zw1qpp.tmpbox.net
 zw55qxhew9.mailbo.store
 zw5pkjm.camdvr.org
@@ -278763,6 +278804,7 @@ zwydx.niukana.sbs
 zwyf.dteeswgs.web.id
 zwyta.keiptonaka.shop
 zwz6kbxnpm.mailbo.store
+zwza.ddwlcgwg.biz.id
 zwzafhjqoe.mailbo.store
 zwzi.com
 zwzlya6xsy.mailbo.store
@@ -279087,6 +279129,7 @@ zzis.cjzxdunw.web.id
 zzj15om.cse445.com
 zzjbfwqi.shop
 zzje.tieumuoishop.io.vn
+zzji.bcmadvdx.web.id
 zzjp.azwowtaq.biz.id
 zzk.b7sn3xrm.my.id
 zzkbbavvxp.mailbo.store

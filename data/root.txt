@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-10-20T09:08:33.094Z
+# Aggregated blacklist generated on 2026-10-20T14:41:36.589Z
  
 0-30-24.com
 0-attorney.com
@@ -73,6 +73,7 @@
 00168.asia
 001680.xyz
 001690.xyz
+001913.com
 001916.xyz
 0019k7.com
 001gmail.com
@@ -11864,6 +11865,7 @@ a738faeb.buzz
 a740nrmc.buzz
 a741ktzi.buzz
 a742ygyz.buzz
+a747.shop
 a757shvb.buzz
 a7665.com
 a777casino.net
@@ -27654,6 +27656,7 @@ bauty.online
 bauwerke-online.com
 bauza-it.de
 bauzajewelry.com
+bavaim.com
 baver.com
 bawangbodas.online
 bawsny.com
@@ -27948,6 +27951,7 @@ bcisites.com
 bcjm4.icu
 bcle.de
 bcm.edu.pl
+bcmadvdx.web.id
 bcmail.pro
 bcmmail.com
 bcnet.store
@@ -37415,6 +37419,7 @@ buydiabloaccounts.com
 buydiablogear.com
 buydiabloitem.com
 buydiamox.info
+buydie.com
 buydispensary.icu
 buydubaimarinaproperty.com
 buyedoewllc.com
@@ -40854,6 +40859,7 @@ catnicebook.site
 catnicetext.site
 catnipcat.net
 catorpnd.club
+catpost.site
 catrarebooks.site
 catreena.ga
 catretainerbug.website
@@ -40933,6 +40939,7 @@ cawxrsgbo.pl
 cax-converge.com
 cax.net
 caxa.site
+caxaim.com
 cayahoo.com
 caybrac.com
 caycebalara.com
@@ -41265,6 +41272,7 @@ ccrenew.club
 ccreweb.com
 ccrpyramid.com
 ccs.pl
+ccsaku.shop
 ccsastunt.com
 ccsch.us
 ccsemc.com
@@ -50785,6 +50793,7 @@ cuaicloud.space
 cuaina.com
 cuaks.fun
 cuan.email
+cuanbareng.my.id
 cuanbeb.my.id
 cuanbersama.live
 cuanbrothers.com
@@ -51344,6 +51353,7 @@ cvndr.com
 cvngtn.org
 cvo55.ru
 cvo9ym.us
+cvodaro428.biz.id
 cvoh.com
 cvokelo414.biz.id
 cvolui.xyz
@@ -51694,6 +51704,7 @@ cypher.onl
 cyphername.net
 cyphershop.net
 cyphrune.com
+cyphycon.com
 cypi.fr
 cypp.com
 cypressbayou.casino
@@ -53679,6 +53690,7 @@ ddukbam03.com
 ddukcafe2.com
 dduran.io
 ddwfzp.com
+ddwlcgwg.biz.id
 ddxsoftware.com
 ddxt.xyz
 ddymp.com
@@ -62586,6 +62598,7 @@ ecunflec.gq
 ecunflec.ml
 ecunflec.tk
 ecur.es
+ecuspares.com
 ecuwmyp.pl
 ecvcreatevalue.com
 ecvd.info
@@ -64440,6 +64453,7 @@ emagrecimentoagil.com
 emagrecimentodiadia.com
 emai.co.com
 emai.cz
+emai.ru
 emaiden.com
 emaigops.ga
 emaii.io.vn
@@ -69216,6 +69230,7 @@ fabnicalsa.tk
 fabonata.website
 fabook.com
 fabrelation.site
+fabri.lat
 fabrication.in
 fabricnflower.com
 fabricoak.com
@@ -73167,6 +73182,7 @@ flickshot.id
 flickstongue.com
 flicksurge.online
 flicktide.online
+flicktribe.net
 flidel.xyz
 fliegender.fish
 flier345xr.online
@@ -79887,6 +79903,7 @@ ghime.co.com
 ghiscarbices.tk
 ghislain239.store
 ghizzonimoto.com
+ghj.ru
 ghjeb.live
 ghjfgh.online
 ghjtv.site
@@ -79976,6 +79993,7 @@ ghst.us
 ghsu.us
 ghsus.us
 ghte4tt.shop
+ghthost.top
 ghths.us
 ghtk.us
 ghtkhali.us
@@ -80738,6 +80756,7 @@ gladdelivery.com
 gladehome.com
 gladgym.com
 gladiator.org
+gladies.com
 gladimail.com
 gladis.org
 gladishouse.co
@@ -84614,6 +84633,7 @@ gudanglowongan.com
 gudarcasino.com
 gudd.com
 guddu.live
+guddu.pro
 gudedit.com
 gudilika.fun
 gudodaj-sie.pl
@@ -85101,6 +85121,7 @@ gviagrasales.com
 gviy.com
 gvn4fg.info
 gvnuclear.com
+gvodaro428.biz.id
 gvokelo414.biz.id
 gvozdvkedah.fun
 gvpersons.com
@@ -104015,6 +104036,7 @@ justxxx.site
 justzeus.com
 jutapintarfood.com
 juts.us
+juunix.store
 juusbaa.com
 juusecamenerdarbun.com
 juvanta.cfd
@@ -119896,6 +119918,7 @@ mailing.serveblog.net
 mailing.web.id
 mailingbox.us
 mailingclip.com
+mailingdragon.com
 mailingforever.biz
 mailinghouse.ru
 mailingmail.net
@@ -123846,6 +123869,7 @@ mebelapex.ru
 mebeldomoi.com
 mebeldomosed-sev.store
 mebelgrafika.ru
+mebelkitay.com
 mebellstore.ru
 mebelnovation.ru
 mebelnu.info
@@ -124951,6 +124975,7 @@ meowc.at
 meowfilms.com
 meowfurniture.com
 meowing.cf
+meowmail.website
 meowper.team
 meowush.site
 meox.com
@@ -135582,6 +135607,7 @@ nexlab.pro
 nexlight.be
 nexmaila.xyz
 nexmanti.net
+nexocore.cfd
 nexofinance.us
 nexondigi.com
 nexorabio.pro.vn
@@ -141997,6 +142023,7 @@ onsaleadult.com
 onsalemall.top
 onsensmail.com
 onsetingamed.rest
+onsho.us
 onshop5.com
 onshoreteam.com
 onsibmail.com
@@ -149432,6 +149459,7 @@ pipenny.com
 pipersconsulting.com
 pipetka.fun
 pipi.net
+pipiblog.com
 pipikitchen.com
 pipim.net
 pipinbos.host
@@ -167531,6 +167559,7 @@ sarkariyojana.xyz
 sarkisozudeposu.com
 sarkodie.africa
 sarlosi.online
+sarmale.site
 sarme.site
 sarnivo.io.vn
 sarofimcapital.com
@@ -174397,6 +174426,7 @@ smart-slip.ru
 smart-thailand.com
 smart-tomorrow.com
 smart.com
+smarta4.com
 smartaccare.xyz
 smartafricangreyparrotfarm.net
 smartamccare.xyz
@@ -177036,6 +177066,7 @@ splenomeml.ru
 spliceworld.com
 spliffandspleef.com
 splindor.com
+splinkit.com
 splintergroup.com
 splio.nu
 splishsplash.ru
@@ -184626,6 +184657,7 @@ temp-mail-generator.com
 temp-mail-go.info
 temp-mail-pro.com
 temp-mail.africa
+temp-mail.app
 temp-mail.asia
 temp-mail.best
 temp-mail.buzz
@@ -212440,6 +212472,7 @@ yandec.ru
 yandedex.ru
 yandeex.com
 yandeex.ru
+yandeh.ru
 yandeix.com
 yander.ru
 yandere.site
@@ -216788,6 +216821,7 @@ zni1d2bs6fx4lp.ga
 zni1d2bs6fx4lp.gq
 zni1d2bs6fx4lp.ml
 zni1d2bs6fx4lp.tk
+znkix.com
 znkzhidpasdp32423.info
 znnix.com
 znnxguest.com
@@ -217051,6 +217085,7 @@ zordeo.com
 zorgkaartzeeland.com
 zorin.icu
 zorlo.com
+zornrax.cfd
 zoroasterdomain.com
 zoroasterplace.com
 zoroastersite.com

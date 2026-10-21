@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-10-21T09:08:20.198Z
+# Aggregated blacklist generated on 2026-10-21T14:52:22.518Z
  
 0-30-24.com
 0-attorney.com
@@ -19197,6 +19197,7 @@ andraskovacs.net
 andrc.my.id
 andre-chiang.art
 andre.cx
+andrea2512.online
 andreaauerbach.com
 andreagilardi.me
 andreamatt.biz
@@ -21772,6 +21773,7 @@ arkafortdatacenter.com
 arkafortvc.com
 arkafortvoiceconsole.com
 arkaliv.com
+arkana.lat
 arkana.one
 arkangelsarmy.com
 arkangelventures.com
@@ -22872,6 +22874,7 @@ askozy.com
 askpirate.com
 askshopin.xyz
 asktheselfstorageexperts.com
+askyfy.com
 askyouth.com
 askyouth.org
 askyr.eu
@@ -24602,6 +24605,7 @@ avocadosoft.co
 avocaestatemanagement.com
 avocasino-service.com
 avocasino.com
+avodaro428.biz.id
 avofcb.com
 avohmail.com
 avoidyourforeclosuretexas.com
@@ -72992,6 +72996,7 @@ flashdelivery.com
 flashdis.email
 flashdiskanggit.io
 flashearcelulares.com
+flashebox.com
 flashemail.co.uk
 flashemail.site
 flashgh.icu
@@ -75929,6 +75934,7 @@ froza.click
 frozen.com
 frozenfoodbandung.com
 frozenfund.com
+frp.ru
 frpascherbottes.com
 frpinventory.info
 frpinventory.org
@@ -76759,6 +76765,7 @@ fvlj.com
 fvmaily.com
 fvmpt7.club
 fvnkyasia.net
+fvodaro428.biz.id
 fvokelo414.biz.id
 fvqpejsutbhtm0ldssl.ga
 fvqpejsutbhtm0ldssl.ml
@@ -81638,6 +81645,7 @@ gmsol.com
 gmssail.com
 gmsul.com
 gmtclinic.ru
+gmthost.top
 gmtv8.com
 gmual.com
 gmuils.com
@@ -92782,6 +92790,7 @@ huyentrangfb.site
 huyf.com
 huyhoangg.fun
 huymail.com
+huynguyensolution.com
 huynhangiang.store
 huynhlongxuyen.store
 huynhlx.shop
@@ -99602,6 +99611,7 @@ ivamobilecornar.com
 ivan-topor.ru
 ivan0v.tk
 ivankasuwandi.art
+ivanramos.mx
 ivans.me
 ivantiselfheal.com
 ivb2aa.us
@@ -104089,6 +104099,7 @@ jvlicenses.com
 jvllabs.com
 jvnrtbgthjj.freeddns.org
 jvo5iw.us
+jvodaro428.biz.id
 jvokelo414.biz.id
 jvoqotvi.tech
 jvptechnology.com
@@ -109650,6 +109661,7 @@ kvhrw.com
 kvitanolimited.com
 kvkailashahar.in
 kvl.ink
+kvodaro428.biz.id
 kvokelo414.biz.id
 kvouthmnu.shop
 kvplogistics.net
@@ -117111,6 +117123,7 @@ lunor.cfd
 lunqer.online
 lunsbt.xyz
 lunserc.buzz
+lunvira.pro
 lunvli.icu
 lunxen.com
 lunyingge.com
@@ -118500,6 +118513,7 @@ mail.by
 mail.com
 mail.com.tr
 mail.com.vc
+mail.cx
 mail.cz
 mail.dk
 mail.gen.tr
@@ -122422,6 +122436,7 @@ martyroml.ru
 martysparadox.net
 martystahl.com
 martyvole.ml
+marui.my.id
 marukushino.co.jp
 marumaru.live
 marun.edu.tr
@@ -127887,6 +127902,7 @@ mnswp.website
 mntb.my.id
 mntechcare.com
 mntest0527newdomain.com
+mnthost.top
 mntwincitieshomeloans.com
 mnv4u8zitnxlhpo.xyz
 mnvl.com
@@ -135599,6 +135615,7 @@ nexgenwebsite.biz
 nexgo.com
 nexhibit.com
 nexhost.nl
+nexialmail.com
 nexio.sbs
 nexio.us
 nexiram.com
@@ -135894,6 +135911,7 @@ ngohaisapatv.icu
 ngoisaohoa.com
 ngolearning.info
 ngollchersolutions.com
+ngominhkhue.me
 ngonike.dev
 ngontol.com
 ngontuyetvoi.online
@@ -144218,6 +144236,7 @@ ovo188s.com
 ovo365.xyz
 ovobri.com
 ovocykuvypan.pro
+ovodaro428.biz.id
 ovogmail.com
 ovoh.com
 ovokelo414.biz.id
@@ -151897,6 +151916,7 @@ posmotretonline.ru
 posnwu.online
 posobie-01.site
 posov.info
+pospro.lat
 possiblehappy-year.com
 possystemsguide.com
 post-bot.ru
@@ -165421,6 +165441,7 @@ rvlatinamerica.com
 rvmail.xyz
 rvmarinesupply.com
 rvneous.com
+rvodaro428.biz.id
 rvone.click
 rvrecruitment.com
 rvrentalsatlanta.org
@@ -185074,6 +185095,7 @@ temporaryemail.net
 temporaryemail.org
 temporaryemail.site
 temporaryemail.us
+temporaryemailbox.com
 temporaryforwarding.com
 temporaryinbox.com
 temporarymail.com
@@ -186961,6 +186983,7 @@ themailredirector.info
 themails.co.uk
 themailserver.top
 themailservice.ink
+themailtemp.online
 themailworld.info
 themakeme.com
 themalonegrp.com
@@ -189561,6 +189584,7 @@ tmxmarketing.com.br
 tmxnet.com
 tmxttvmail.com
 tmylesenterprisesinc.com
+tmz.ng
 tmzh8pcp.agro.pl
 tmzkvqam.shop
 tn-phone.com
@@ -203486,6 +203510,7 @@ wapenshaw.xyz
 wapgad.com
 wapgwh.site
 waphonezip.com
+wapium.com
 wapixdev.com
 wapl.ga
 wapliuhe.net
@@ -217503,6 +217528,7 @@ zxc.pm
 zxcc.lol
 zxcdse.cloud
 zxchem.com.cn
+zxcmail.site
 zxcnvgj2-privnbmgt.press
 zxcnvgj2-privnbmgt.xyz
 zxcowus.com

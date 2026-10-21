@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-10-21T09:08:20.198Z
+# Aggregated blacklist generated on 2026-10-21T14:52:22.518Z
  
 0-00.usa.cc
 0-30-24.com
@@ -17024,6 +17024,7 @@
 8bukesad6u.mailbo.store
 8byjrn.info
 8bzg68ggsi.mailbo.store
+8c.paxeluni.com
 8c03a46b.xyz
 8c3mdbu6zm.mailbo.store
 8c8.club
@@ -28770,6 +28771,7 @@ andraskovacs.net
 andrc.my.id
 andre-chiang.art
 andre.cx
+andrea2512.online
 andreaauerbach.com
 andreagilardi.me
 andreamatt.biz
@@ -31711,6 +31713,7 @@ arkafortdatacenter.com
 arkafortvc.com
 arkafortvoiceconsole.com
 arkaliv.com
+arkana.lat
 arkana.one
 arkangelsarmy.com
 arkangelventures.com
@@ -32948,6 +32951,7 @@ askpirate.com
 askshopin.xyz
 askskksksks.usa.cc
 asktheselfstorageexperts.com
+askyfy.com
 askyouth.com
 askyouth.org
 askyr.eu
@@ -34951,6 +34955,7 @@ avocadosoft.co
 avocaestatemanagement.com
 avocasino-service.com
 avocasino.com
+avodaro428.biz.id
 avofcb.com
 avohmail.com
 avoi.emltmp.com
@@ -77064,6 +77069,7 @@ dpzbwp8byz.mailbo.store
 dpzrzj.icu
 dq.chessgameland.com
 dq.emlhub.com
+dq.fvodaro428.biz.id
 dq0copl4ji.mailbo.store
 dq2uwcs6r1.mailbo.store
 dq4bfrdiiw.mailbo.store
@@ -92377,6 +92383,7 @@ fgywvb.tokyo
 fgz.pl
 fgzc7e6hlb.mailbo.store
 fgzifmbzin.mailbo.store
+fh.avodaro428.biz.id
 fh.luk2.com
 fh0ranxcp9.mailbo.store
 fh16555555.com
@@ -94134,6 +94141,7 @@ flashdelivery.com
 flashdis.email
 flashdiskanggit.io
 flashearcelulares.com
+flashebox.com
 flashemail.co.uk
 flashemail.site
 flashgh.icu
@@ -97525,6 +97533,7 @@ frozen.com
 frozenfoodbandung.com
 frozenfund.com
 frozensum.anonaddy.me
+frp.ru
 frpascherbottes.com
 frpinventory.info
 frpinventory.org
@@ -98571,6 +98580,7 @@ fvmaily.com
 fvmexayiyv.mailbo.store
 fvmpt7.club
 fvnkyasia.net
+fvodaro428.biz.id
 fvokelo414.biz.id
 fvq6cxdp2p.mailbo.store
 fvqbs9waod.mailbo.store
@@ -104913,6 +104923,7 @@ gmsol.com
 gmssail.com
 gmsul.com
 gmtclinic.ru
+gmthost.top
 gmtv8.com
 gmual.com
 gmudszayv7.mailbo.store
@@ -117110,6 +117121,7 @@ houtlook.es
 houtlook.fr
 houtlook.xyz
 houtlouk.fr
+houw.ovodaro428.biz.id
 houyiyy.com
 houzzilla.com
 hov4kc8iwf.mailbo.store
@@ -118563,6 +118575,7 @@ huyentrangfb.site
 huyf.com
 huyhoangg.fun
 huymail.com
+huynguyensolution.com
 huynhangiang.store
 huynhlongxuyen.store
 huynhlx.shop
@@ -127102,6 +127115,7 @@ ivamobilecornar.com
 ivan-topor.ru
 ivan0v.tk
 ivankasuwandi.art
+ivanramos.mx
 ivans.me
 ivantiselfheal.com
 ivasi.mailer.me
@@ -128969,6 +128983,7 @@ jbmail.space
 jbmbet.info
 jbmbet.online
 jbmg4uxr2z.mailbo.store
+jbmm.jvodaro428.biz.id
 jbmnoi.com
 jbmorris.io
 jbn3n6qewu.mailbo.store
@@ -133270,6 +133285,7 @@ jvnv.dung2tb.io.vn
 jvo4kediub.mailbo.store
 jvo5iw.us
 jvocxvwdhb.mailbo.store
+jvodaro428.biz.id
 jvokelo414.biz.id
 jvoqotvi.tech
 jvpby1nnwp.mailbo.store
@@ -140809,6 +140825,7 @@ kvkxmqrj6d.mailbo.store
 kvl.ink
 kvlhc5culy.mailbo.store
 kvmubmjl4y.mailbo.store
+kvodaro428.biz.id
 kvodrbnbbs.mailbo.store
 kvokelo414.biz.id
 kvouthmnu.shop
@@ -141028,6 +141045,7 @@ ky8onxbcab.mailbo.store
 kyaffshop.store
 kyal.pl
 kyatrackersadecv.com
+kyb.rvodaro428.biz.id
 kybden0hl0.mailbo.store
 kyberkafe.com
 kybqnrczfh.mailbo.store
@@ -150086,6 +150104,7 @@ lunor.cfd
 lunqer.online
 lunsbt.xyz
 lunserc.buzz
+lunvira.pro
 lunvli.icu
 lunxen.com
 lunyingge.com
@@ -152498,6 +152517,7 @@ mail.cumzle.com
 mail.curvml.ru
 mail.cutsup.com
 mail.cutxsew.com
+mail.cx
 mail.cymru.dev
 mail.cz
 mail.dabeixin.com
@@ -157463,6 +157483,7 @@ martyroml.ru
 martysparadox.net
 martystahl.com
 martyvole.ml
+marui.my.id
 marukushino.co.jp
 marumaru.live
 marun.edu.tr
@@ -163798,6 +163819,7 @@ mnswp.website
 mntd3owxj7.mailbo.store
 mntechcare.com
 mntest0527newdomain.com
+mnthost.top
 mnthxdovxz.mailbo.store
 mntoet24qp.mailbo.store
 mntrvvhiex.mailbo.store
@@ -170162,6 +170184,7 @@ n1xjjbzmkh.mailbo.store
 n1xscj1ecf.mailbo.store
 n1yrlv5sbu.mailbo.store
 n2.gipo.me
+n2.xzcoot.com
 n21jl.com
 n22gr9hzwj.mailbo.store
 n22m1lunnz.mailbo.store
@@ -173611,6 +173634,7 @@ nexgenwebsite.biz
 nexgo.com
 nexhibit.com
 nexhost.nl
+nexialmail.com
 nexio.sbs
 nexio.us
 nexiram.com
@@ -173984,6 +174008,7 @@ ngohaisapatv.icu
 ngoisaohoa.com
 ngolearning.info
 ngollchersolutions.com
+ngominhkhue.me
 ngonike.dev
 ngontol.com
 ngontuyetvoi.online
@@ -184829,6 +184854,7 @@ ovo188s.com
 ovo365.xyz
 ovobri.com
 ovocykuvypan.pro
+ovodaro428.biz.id
 ovogmail.com
 ovoh.com
 ovojrbp1nd.mailbo.store
@@ -192278,6 +192304,7 @@ plt0yzzjg5.mailbo.store
 pltxbs8.cse445.com
 pluccb.xyz
 pluckywelltodo.site
+pluffy.site
 pluffy.uno
 plufix.net
 pluflex.com
@@ -193888,6 +193915,7 @@ posnwu.online
 poso.igg.biz
 posobie-01.site
 posov.info
+pospro.lat
 posraguab9984.lofteone.ru
 possible.mailbo.store
 possiblehappy-year.com
@@ -199343,6 +199371,7 @@ qfbiqubqep.mailbo.store
 qfbpkew7rz.mailbo.store
 qfd.anonaddy.com
 qfd.luk2.com
+qfem.kvodaro428.biz.id
 qfeqw9wjdg.mailbo.store
 qfh0otmdpp.mailbo.store
 qfh6ibgojv.mailbo.store
@@ -211415,6 +211444,7 @@ rvmy9nez.olexa.sbs
 rvneous.com
 rvngz5hwvx.mailbo.store
 rvo4ee22.world.gogles.sbs
+rvodaro428.biz.id
 rvoj.luk2.com
 rvone.click
 rvoqkdnkpn.mailbo.store
@@ -212143,6 +212173,7 @@ s2f14n.best
 s2gkkypfml.mailbo.store
 s2globe.com
 s2hdjoblnt.mailbo.store
+s2k.bot.cd
 s2klleym3v.mailbo.store
 s2l81xddwx.mailbo.store
 s2ndgbd5e0.mailbo.store
@@ -234992,6 +235023,7 @@ temporaryemail.net
 temporaryemail.org
 temporaryemail.site
 temporaryemail.us
+temporaryemailbox.com
 temporaryforwarding.com
 temporaryinbox.com
 temporarymail.com
@@ -237135,6 +237167,7 @@ themailredirector.info
 themails.co.uk
 themailserver.top
 themailservice.ink
+themailtemp.online
 themailworld.info
 themakeme.com
 themalonegrp.com
@@ -240220,6 +240253,7 @@ tmxttvmail.com
 tmy.teamnewmexico.org
 tmyh.yomail.info
 tmylesenterprisesinc.com
+tmz.ng
 tmz71cvmtl.mailbo.store
 tmzh8pcp.agro.pl
 tmzkvqam.shop
@@ -258556,6 +258590,7 @@ wapenshaw.xyz
 wapgad.com
 wapgwh.site
 waphonezip.com
+wapium.com
 wapixdev.com
 wapl.ga
 wapliuhe.net
@@ -278843,6 +278878,7 @@ zxcc.lol
 zxcdse.cloud
 zxcg.bmahprgg.biz.id
 zxchem.com.cn
+zxcmail.site
 zxcnvgj2-privnbmgt.press
 zxcnvgj2-privnbmgt.xyz
 zxcowus.com

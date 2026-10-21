@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-10-20T22:56:27.833Z
+# Aggregated blacklist generated on 2026-10-21T03:25:39.540Z
  
 0-00.usa.cc
 0-30-24.com
@@ -8538,6 +8538,7 @@
 3vcdrnipuf.mailbo.store
 3veyy.anonbox.net
 3vg.underseagolf.com
+3vhiq.anonbox.net
 3vmf.dung2tb.io.vn
 3vmnve5aps.mailbo.store
 3vmq8ojh4.xyz
@@ -86681,6 +86682,7 @@ esidin.gq
 esidin.ml
 esidin.tk
 esieve.net
+esign.lat
 esiihvikbn.mailbo.store
 esiiil.addy.io
 esiix.com
@@ -243425,6 +243427,7 @@ trollingforgamers.com
 trollm8.xyz
 trollphysicscomic.com
 trollproject.com
+trolls.lat
 trollyshrimp.site
 tromba.best
 trombonetube.com
@@ -260131,6 +260134,7 @@ weeping-willow.shop
 weepingdragon.net
 weepm.com
 weer.de
+weerol.com
 weerworld.site
 weestudy.life
 weexfit.ru

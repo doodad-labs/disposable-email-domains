@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-10-22T14:52:49.942Z
+# Aggregated blacklist generated on 2026-10-22T19:45:10.406Z
  
 0-30-24.com
 0-attorney.com
@@ -14895,6 +14895,7 @@ ag95.tk
 agabg.bond
 agabor.buzz
 agad.com
+agaexpress.com
 agafera2015.cd
 agafx.com
 agagamand.biz
@@ -89668,6 +89669,7 @@ hiresawmill.com
 hirestack.cfd
 hirikajagani.com
 hiringup.net
+hiringview.com
 hirodesu.club
 hiroshima.com
 hirschsaeure.info
@@ -128402,6 +128404,7 @@ mobj.site
 mobk.site
 mobleies.shop
 mobler.org
+moblha.com
 moblibrary.com
 mobm.site
 mobn.site
@@ -189930,6 +189933,7 @@ tmpeml.com
 tmpeml.info
 tmpfixzy.app
 tmpjr.me
+tmpkit.com
 tmpmail.co
 tmpmail.com
 tmpmail.net

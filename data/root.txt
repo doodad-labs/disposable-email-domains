@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-10-21T23:01:50.874Z
+# Aggregated blacklist generated on 2026-10-22T03:25:02.524Z
  
 0-30-24.com
 0-attorney.com
@@ -136886,6 +136886,7 @@ nm777.net
 nma-ict.nl
 nmagazinec.com
 nmail.cf
+nmail.lat
 nmail.ru
 nmail.site
 nmailtop.ga
@@ -148519,6 +148520,7 @@ philslotsonline.net
 philthevirtualizer.com
 philuent.com
 philwentworth.com
+phim-nhanh.com
 phim.best
 phim.icu
 phim247.org
@@ -172152,6 +172154,7 @@ shoulderlengthhairstyles.biz
 shouldermobilityflow.com
 shouldmail.xyz
 shouldpjr.com
+shouong.com
 shouterbeem.online
 shoutgreen.cf
 shoutissu.site

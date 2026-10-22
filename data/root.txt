@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-10-22T03:25:02.524Z
+# Aggregated blacklist generated on 2026-10-22T09:10:22.225Z
  
 0-30-24.com
 0-attorney.com
@@ -22458,6 +22458,7 @@ asdasd.nl
 asdasd.ru
 asdasd1231.info
 asdasdadshdasd2.ga
+asdasdasd.cfd
 asdasdasd.com
 asdasdasd5.site
 asdasdasd7.site
@@ -85628,6 +85629,7 @@ ha1dq.us
 ha4xwq.info
 ha7d2.stream
 ha92.store
+haadishah.co.uk
 haagsekillerclan.tk
 haaih.com
 haajawafqo.ga
@@ -93289,6 +93291,7 @@ hypoxiuqch.space
 hypoyo.xyz
 hyprhost.com
 hyprost.buzz
+hyproxy.lol
 hyprsmail.ru
 hypsiceph.com
 hypsistenoceli.com

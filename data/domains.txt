@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-10-23T09:07:15.811Z
+# Aggregated blacklist generated on 2026-10-23T14:40:42.374Z
  
 0-00.usa.cc
 0-30-24.com
@@ -23448,6 +23448,7 @@ afcgroup40.com
 afckvhvrfe.mailbo.store
 afcxw.us
 afd.capcud.shop
+afd.ru
 afdg.com
 afdhzfvl1n.mailbo.store
 afdzj1.site
@@ -26331,6 +26332,7 @@ alexhero.com
 alexhost.site
 alexida.com
 alexilawless.com
+alexinbox.site
 alexiphamails.ru
 alexis4d.xyz
 alexisalo.ru
@@ -41488,6 +41490,7 @@ bestmoon1.xyz
 bestmovieslist.net
 bestmovietop.ru
 bestn4box.ru
+bestnamegenerator.com
 bestnamepro.site
 bestnecklacessale.info
 bestnerfblaster.com
@@ -44627,6 +44630,7 @@ bkbxr.anonbox.net
 bkbyj.anonbox.net
 bkckc.com
 bkcpainohio.com
+bkcxcaws.web.id
 bkdh82ema0.mailbo.store
 bkdmaral.pl
 bkdmll.fun
@@ -47602,6 +47606,7 @@ botseo.ru
 botsoko.com
 botsproduction.com
 botswana-finlife.com
+bottele.app
 bottenberg.me
 bottesuggds.com
 bottinifuels.com
@@ -47800,6 +47805,7 @@ boxnavi.com
 boxnetmail.my
 boxnetmail.my.
 boxnexa.com
+boxnguyenlieumeta.com
 boxo.trade
 boxofficevideo.com
 boxomail.live
@@ -51724,6 +51730,7 @@ bzrgc1gp0g.mailbo.store
 bzrqg.anonbox.net
 bzru7o4j8i.mailbo.store
 bzrvq.anonbox.net
+bzrx.mertaq231.biz.id
 bzs.luk2.com
 bzs6.minhaishop.click
 bztf1kqptryfudz.cf
@@ -58924,6 +58931,7 @@ churchgrowth.info
 churchhousemanaton.co.uk
 churchinsouthampton.org.uk
 churchmember.org
+churchmints.com
 churchofo.com
 churchofsaints.com
 churchsociety.net
@@ -63397,6 +63405,7 @@ constitutionfmail.com
 constitutionsmail.com
 constitutmal.com
 constright.ru
+construalmail.ru
 construcoes-faustino.net
 construction-rep.ru
 constructionandesign.xyz
@@ -64030,6 +64039,7 @@ copperemail.com
 copperfieldimages.com
 coppersmithfamily.com
 copperstream.club
+coppersurfer.site
 coppertreeanalytics.mobi
 coppicsjqv.space
 copriit.xyz
@@ -64131,6 +64141,7 @@ coreletter.com
 corelia.cfd
 corelife.biz
 coreligsemail.com
+corely.sbs
 coremail.ru
 corenels.xyz
 coreno.site
@@ -67142,6 +67153,7 @@ cuteteam.club
 cutevi.us
 cutie.com
 cutiemporium.site
+cutisproject.org
 cutivnpt.biz
 cutivnpt.com
 cutivnpt.info
@@ -85517,6 +85529,7 @@ entrupy.net
 entrybl.xyz
 entrylunc.us
 entrynotice.pro
+entrynow.sbs
 entsm.com
 entutku.igg.biz
 entutku01.igg.biz
@@ -85871,6 +85884,7 @@ epistemolmal.com
 epistemophile.co
 epistmail.com
 epit.info
+epitaxymail.ru
 epitdmail.com
 epithafml.com
 epithalaml.com
@@ -86801,6 +86815,7 @@ eschaton.pl
 eschaumail.com
 escher-feynman.art
 escherfeynman.organic
+eschmann.ru
 escholcreations.com
 escholgroup.com.au
 eschooltopia.net
@@ -89314,6 +89329,7 @@ ezsj.hair
 ezskoolz.com
 ezsmail.com
 ezsmurf.cyou
+ezsmurf.icu
 ezsmurf.top
 ezstest.com
 ezswoljrj4.mailbo.store
@@ -90691,6 +90707,7 @@ farmisa.info
 farmmonitor.org
 farmoaks.com
 farmphuel.com
+farmstartlab.com
 farmsteadwines.com
 farmtoday.us
 farmzasia.com
@@ -93911,6 +93928,7 @@ fishtailjoinery.com
 fishtankbubbler.com
 fishtankfish.com
 fishtropic.com
+fishx.sbs
 fishybiznessfishing.com
 fishyes.info
 fisiolar.pt
@@ -95070,6 +95088,7 @@ flyfff.cloudns.org
 flyfrv.tk
 flyglobalflight.com
 flyhack.com
+flyhie.sbs
 flyhubs.top
 flyingbundle.com
 flyingfakir.com
@@ -95386,6 +95405,7 @@ fnzhg4eblk.mailbo.store
 fnzm.net
 fnzrv74bqr.mailbo.store
 fo-sale.online
+fo.kashre.com
 fo.luk2.com
 fo0ycb.moakt.cc
 fo48wzqdpi.mailbo.store
@@ -111994,6 +112014,7 @@ haydegidelim.com
 haydenjennings.buzz
 haydidi.com
 haydigiy.com
+haydonschool.com
 haydoo.com
 haydplamz.shop
 hayirlieller.ong
@@ -115418,6 +115439,7 @@ hmwork.shop
 hmx.at
 hmx3vubqpu.mailbo.store
 hmxa.luk2.com
+hmxkx.mailngon.top
 hmxmizjcs.pl
 hmxoor5w7q.mailbo.store
 hmxqz6ezzs.mailbo.store
@@ -116199,6 +116221,7 @@ homexpressway.net
 homeyou.org
 homeyrealestate.com
 homgrouprealty.com
+homiaranha.shop
 homienotes.com
 homierr.com
 homil.com
@@ -117626,6 +117649,7 @@ hoxderpy.shop
 hoxds.com
 hoxgsznqvn.mailbo.store
 hoxie.net
+hoxruni231.biz.id
 hoxtoberfest.com
 hoxtr.cfd
 hoy777casino.net
@@ -118477,6 +118501,7 @@ huhu8686.us
 hui.frankhealeyfoundation.org
 huihuangbeiye.com
 huihuitu.club
+huijinwiremesh.com
 huikao.online
 huiledargane.com
 huimainbeauty.com
@@ -120300,6 +120325,7 @@ iataa.org
 iatarget.com
 iataservice.org
 iatcoaching.com
+iatk.hoxruni231.biz.id
 iatrochemail.com
 iatromal.com
 iatromathemafml.com
@@ -123873,6 +123899,7 @@ infinityhealthva.com
 infinitysafe.com.br
 infinityvapelab.com
 infinitywarfull.org
+infinstor.com
 infis.net.ru
 infissipuddu.com
 infitter.ru
@@ -136964,6 +136991,7 @@ kgew.com
 kgf3.in
 kgfu.makeup
 kggrp.com
+kggs.us.ci
 kghf.de
 kghfmqzke.pl
 kghjpp.us
@@ -139811,6 +139839,7 @@ koyco.fun
 koyeegz.com
 koymail.com
 koyocah.ml
+koyomomo.com
 koyone.biz.id
 koypeyniri.online
 koyqlbbyx1.mailbo.store
@@ -160484,6 +160513,7 @@ memapp.com
 memati.simplelogin.com
 membaindustries.com
 membed.xyz
+member.lat
 member.mailbo.store
 memberblog.com
 memberdadu.com
@@ -160993,6 +161023,7 @@ mersinorganize.com
 mersinrentals.online
 mersinrentals.xyz
 mersinwebmaster.com
+mertaq231.biz.id
 mertolinaperoti.xyz
 meruado.uk
 merulae.org
@@ -162734,6 +162765,7 @@ minerworth.email
 minesox.info
 minestream.com
 minet.disbox.org
+minetmail.com
 minetopiaworld.online
 minews.biz
 minex-coin.com
@@ -180045,6 +180077,7 @@ oeju.10mail.org
 oejzqb4zn4.mailbo.store
 oejzrz5fxp.mailbo.store
 oekakies.com
+oekakiman.com
 oekrwpu7dv.mailbo.store
 oelmjo.com
 oeltzl.site
@@ -180215,6 +180248,7 @@ offices.freshbreadcrumbs.com
 officespacemohanestate.com
 officesupport.fun
 officesupportonline.com
+officesurvive.com
 officeteamorangecounty.com
 officetechno.ru
 officeworks.store
@@ -188714,6 +188748,7 @@ pdu68cv.cse445.com
 pdukg.cse445.com
 pduluo.us
 pdvcn.com
+pdvs.top
 pdw.web.id
 pdwmu1oifm.mailbo.store
 pdwxo88wu9.mailbo.store
@@ -202171,6 +202206,7 @@ qvmassage.com
 qvn6n28cwd.mailbo.store
 qvo0jv4vzf.mailbo.store
 qvo6jm.us
+qvodaro428.biz.id
 qvokelo414.biz.id
 qvozt.anonbox.net
 qvpfujxgmi.mailbo.store
@@ -203149,6 +203185,7 @@ racingwire.info
 racioumail.com
 racitous.com
 rackabzar.com
+rackdipirate.com
 rackemrecords.com
 racketity.com
 racksandlockers.com
@@ -222300,6 +222337,7 @@ slehibot.xyz
 sleigh8.softtoiletpaper.com
 sleij.host
 slekepeth78njir.ga
+slende.sbs
 slendex.co
 slepetlapet.my.id
 slepikas.com
@@ -222636,6 +222674,7 @@ sm66bet.info
 sm6redegok.mailbo.store
 sm78q7g4fq.mailbo.store
 sm9hycf6dj.mailbo.store
+sma.balajar.id
 sma.center
 smaalex09.store
 smaau.com
@@ -247710,6 +247749,7 @@ ufa-nedv.ru
 ufa090.info
 ufa090s.com
 ufa279s.com
+ufa6788.com
 ufa8989.info
 ufa9898.info
 ufaa.10mail.xyz
@@ -248163,6 +248203,7 @@ uiy.laste.ml
 uiy7ob.info
 uiycgjhb.com
 uiydb4tn66.mailbo.store
+uiyf.qvodaro428.biz.id
 uj.emlpro.com
 uj0sx.info
 uj2xvavy3b.mailbo.store
@@ -264494,6 +264535,7 @@ wpbinaq3w7zj5b0.cf
 wpbinaq3w7zj5b0.ga
 wpbinaq3w7zj5b0.ml
 wpbinaq3w7zj5b0.tk
+wpbirototo1.com
 wpblogbuilders.com
 wpbpyuyegz.mailbo.store
 wpbqmrs.cse445.com
@@ -279742,6 +279784,7 @@ zxre.emlpro.com
 zxrey.club
 zxrspiw.shop
 zxrspiwv2.shop
+zxrx.bkcxcaws.web.id
 zxsrdwlzyf.mailbo.store
 zxtm4pmvgy.mailbo.store
 zxuctaviaperze.info

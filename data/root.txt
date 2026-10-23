@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-10-23T19:47:50.250Z
+# Aggregated blacklist generated on 2026-10-23T22:54:32.002Z
  
 0-30-24.com
 0-attorney.com
@@ -4970,6 +4970,7 @@
 399betapp.net
 399betcasino.net
 399betlogin.info
+399pakgame.net
 39bio.net
 39d78.club
 39degreesnorth.tv
@@ -15705,6 +15706,7 @@ ainsinet.com
 ainumedia.xyz
 aiodown.net
 aioloss.my.id
+aionda.com
 aioneclick.com
 aionline.xyz
 aioseoblog.store
@@ -16672,6 +16674,7 @@ alazhs.org
 alazinst.org
 alazs.us
 alazsch.org
+alazsem.org
 alazsh.com
 alazsh.org
 alazsk.com
@@ -22996,6 +22999,7 @@ asperorotutmail.com
 aspfitting.com
 asphyxifml.com
 aspinallcars.com
+aspirateur-info.com
 aspiredoge.com
 aspirefinancialservice.com
 aspirelifecoaching.net
@@ -23940,6 +23944,7 @@ aur0vk.us
 aura-mebel.ru
 aurace96.net
 auraence.com
+aurahokidaftar.net
 auraity.com
 auralace.shop
 auralfix.com
@@ -23962,6 +23967,7 @@ aureliasaxophonequartet.com
 aureliawilliam.biz.id
 aureliosot.website
 aurelstyle.ru
+auremontfo.com
 aurenics.com
 aures-autoparts.com
 auresormi7m002.xyz
@@ -26829,6 +26835,7 @@ balsameoiw.ru
 balsasquerida.com
 baltcoalert.com
 baltdollart.com
+balterran.com
 baltey.com
 baltik-hollyday.ru
 baltimore-archive.com
@@ -27167,6 +27174,7 @@ bantisik.com
 bantler.com
 bantoken247.net
 bantuangazaku.my.id
+bantulo.com
 banubadaeraceva.com
 banyakfollowers.my.id
 banyakhadiah.xyz
@@ -28216,8 +28224,10 @@ bdjb.xyz
 bdjd.com
 bdjlapp.org
 bdjola.com
+bdk777game.com
 bdkey.xyz
 bdkirkiriya.com
+bdku9i.com
 bdl89.net
 bdl8992.com
 bdm.ovh
@@ -28920,6 +28930,7 @@ bellacheveuxhairstudio.com
 bellair.com
 bellair.net
 bellaitaliavalencia.com
+bellaluxurylimo.com
 bellamakeupartistry.com
 bellandbear.net
 bellandyoung.com
@@ -30999,6 +31010,7 @@ bia29939022.xyz
 bia29953894.xyz
 bia2baazi.com
 biackrussia.ru
+biadocdb.com
 bialode.com
 bialyjelonek.pl
 bialystokkabury.pl
@@ -33521,6 +33533,7 @@ blurmail.net
 blurme.net
 blurp.tk
 blurpemailgun.bid
+blurred.pro
 blushmail.com
 bluskaimarketing.com
 blutig.me
@@ -35285,6 +35298,7 @@ br-plat.com
 br-top.com
 br0te.com
 br109bet.com
+br136bet4.com
 br14win.com
 br3365bet.net
 br41nmail.com
@@ -35666,6 +35680,7 @@ breethase.cf
 breetiwe.cf
 breeze.eu.org
 breezeamcfix.xyz
+breezeattic9.cloud
 breezehvacmaintenance.xyz
 breezesportshub.com
 breezetoc.com
@@ -41515,6 +41530,7 @@ cedarknightcontainers.com
 cedarled.hk
 cedarloghomestn.biz
 cedarmillfirearms.com
+cedarpaper.net
 cedarrapidsairductcleaning.us
 cedarrapidschimneysweep.us
 cedarrapidsdryerventcleaning.us
@@ -41704,6 +41720,7 @@ cellurl.com
 celocopac.fun
 celonglaw.com
 celov.fun
+celsemoa.fr
 celsiuscapitalinc.com
 celsiuscasino.com
 celsiusmedspa.com
@@ -45579,6 +45596,7 @@ clicktrack.xyz
 clicku.pro
 clickwowm.pro
 clienexion.com
+client-centr.ru
 client-side.ru
 clientacceleratoracademy.com
 clientemails.biz.id
@@ -47265,6 +47283,7 @@ colsedu.us
 coltonattorneys.com
 coltonpower.com
 coltprint.com
+coluce.us
 coluckiacasino.com
 colud.us
 columbcasino.ru
@@ -48733,6 +48752,7 @@ copones.ml
 copones.tk
 copot.info
 coppellfamilydentist.com
+copper-point.org
 copper.lighting
 copper.net
 copperandbark.com
@@ -56339,6 +56359,7 @@ die-genossen.de
 die-optimisten.de
 die-optimisten.net
 die.life
+die4me.net
 dieboldnixdorf.it.com
 diecastsuperstore.com
 diecasttruckstop.com
@@ -59689,6 +59710,7 @@ dracaras.tk
 dracc.me
 draces.com
 dracmagalicia.com
+draco-studio.com
 dracofire.life
 draconites.xyz
 draconnia.com
@@ -62595,6 +62617,7 @@ ecojaa.net
 ecoji.xyz
 ecokrasota-kz.ru
 ecolaundrysystems.com
+ecolb.us
 ecole-nedjma.com
 ecole-post-bac.org
 ecolecatholique.com
@@ -62773,6 +62796,7 @@ edbnu.com
 edcar-sacz.pl
 edceco.us
 edcol.us
+edcolb.us
 edcols.us
 edcolum.us
 edcolumb.us
@@ -65366,6 +65390,7 @@ emphasysav.com
 empik-music.com
 empik.photo
 empikmuzyka.com
+empire-eventport.com
 empire-report.com
 empire-subtleagility.com
 empire-unchained.com
@@ -66086,6 +66111,7 @@ eny.kr
 eny.pl
 enyashan.cfd
 enypoh.us
+enzo-west33.ca
 enzomail.tk
 enzon.site
 enzon.space
@@ -74865,6 +74891,7 @@ foxfactory.pl
 foxfix.online
 foxfox.pp.ua
 foxgamebet.com
+foxgloveworks.website
 foxgroups.xyz
 foxhaq.site
 foxhawks.com
@@ -76103,6 +76130,7 @@ frostmail.site
 frostnet.us
 frostsplit.xyz
 frosttopia.online
+frostvale90.info
 frostycoolservice.xyz
 frostyfixit.xyz
 frostygrass.net
@@ -82536,6 +82564,7 @@ golfas.com
 golfblogjapan.com
 golfcam.info
 golfcloud.app
+golfclub-neumarkt.de
 golfcountryusa.com
 golfgs.com
 golfilla.info
@@ -83855,6 +83884,7 @@ gravedag.ga
 gravedag.ml
 gravedag.tk
 graveljirn.com
+graventuragroup.com
 gravexia.cfd
 graviat.com
 gravit-e.dev
@@ -86367,6 +86397,7 @@ halongmedia.com
 halopere.shop
 halopets.net
 haloqq.info
+halor3.world
 halosauridae.ml
 halqaran.org
 halsbrandburp.website
@@ -87468,6 +87499,7 @@ hazardousatmosphere.ru
 hazayuno.com
 hazdigi.com
 hazecobill.com
+hazelbrookco.site
 hazelcottage.top
 hazelhazel.com
 hazellhouse.co
@@ -92266,6 +92298,7 @@ hrtgre4.ga
 hrtgre4.gq
 hrtgre4.ml
 hrtgre4.tk
+hrummsspot.site
 hrustalnye-shtory.ru
 hruwcwooq.pl
 hrvatski.cloud
@@ -94591,6 +94624,7 @@ idlapak.com
 idlefriends.com
 idlemailbox.com
 idlestormlaze.website
+idlotusdewa.com
 idm77casino.com
 idmabok88.com
 idmail.com
@@ -94624,6 +94658,7 @@ idnpoker33.info
 idnqvtvlkq.ga
 idns7v8.ooguy.com
 idns889.net
+idnscore88.info
 idntimes.xyz
 idobrestrony.pl
 idoc.com
@@ -100347,6 +100382,7 @@ jackpire.com
 jackpot-forex332.ru
 jackpot-info.ru
 jackpot-slot-online.com
+jackpot108pro.com
 jackpot777br.com
 jackpotbetonline.com
 jackpotcitycasino.info
@@ -107785,6 +107821,7 @@ klasa33.pl
 klasbrative.com
 klasdoseme.online
 klasepin.xyz
+klassa-edutech.com
 klasse-artikel.com
 klassmaster.com
 klassmaster.net
@@ -109056,8 +109093,10 @@ kraytek.ru
 krazydad.com
 krazymail.com
 krb.asia
+krbetkrw11.com
 krbwinners.net
 krclip.com
+krcm.ar
 krd.ag
 kre8ivelance.com
 kreabaka.site
@@ -124120,6 +124159,7 @@ me88onlinecasino.net
 meachi.site
 meachlekorskicks.com
 meadiamonds.com
+meadow-moss.fr
 meadow-street.org
 meadowbrookgolfri.com
 meadowbrooklubbock.com
@@ -124649,6 +124689,7 @@ mega389a.net
 mega77.xyz
 mega777casino.info
 mega777casino.net
+mega888apkdownload.org
 megaa.host
 megaarcadegames.net
 megabitcard.net
@@ -131573,6 +131614,7 @@ mx7kcasino.com
 mx8168.net
 mxao.com
 mxapp.info
+mxbetbuscasino.com
 mxbetcasino.net
 mxbetlifecasino.com
 mxbin.net
@@ -132379,6 +132421,7 @@ myluvever.com
 myluxurybeijing.com
 mymacaulay.org
 mymadhwa.com
+mymagnum888.com
 mymaiils.xyz
 mymail-in.net
 mymail.hopto.org
@@ -138487,6 +138530,7 @@ npc.edu.kg
 npcisthere.monster
 npdprofi.ru
 npenergyfoundation.org
+npevo33.com
 npfbw.info
 npfd.de
 npfd.gq
@@ -146444,6 +146488,7 @@ pasco.store
 pascoasagrada.online
 pascoding.com
 pascyprus.com
+pasdemail.com
 pasdemail.fr
 paseacuba.com
 pasechnyk.ru
@@ -148920,6 +148965,7 @@ phjilii.ph
 phjilikkk.ph
 phjilimine.ph
 phjiliuno.ph
+phjiliuu.ph
 phjlactivety.com
 phjmsrc.ml
 phjouoznu.shop
@@ -149114,6 +149160,7 @@ phototypesfkml.ru
 photozzz.com
 php-figurines.com
 php3.ru
+phpaldopanalo.com
 phpanalo777.com
 phparkvip.info
 phpbrasil.org
@@ -149209,6 +149256,7 @@ phvip777club.com
 phvipcasino.com
 phvipjili.ph
 phviplogin.com
+phvipphfun.ph
 phvirtualtours.com
 phwin51login.org
 phwin777.info
@@ -149266,6 +149314,7 @@ phytosociolymail.com
 phytosoudp.com
 phytosuccmalis.com
 phytosumail.ru
+phyyph.com
 pi-ka.ru
 pi-note.online
 pi-note.xyz
@@ -153158,6 +153207,8 @@ prednisone-20mg-pills.com
 prednisonecy.com
 prednisonest.com
 predolenta.ru
+predprinimatel-proekt.ru
+predprinimatelstvo-pro.ru
 predstalicinforofficial.ru
 prefdunuttelsless.tk
 preferentialwer.store
@@ -153471,6 +153522,7 @@ pretesor.tk
 prethlah907huir.cf
 pretiumsystems.com
 pretnzsostavit.xyz
+pretoct.com
 pretoriuskoprestcamp.com
 pretreer.com
 prettey.shop
@@ -155479,6 +155531,7 @@ pulaubali.net
 pulautidore.online
 pulawski.biz
 pulcrofilms.com
+pulexpro.com
 pulfex.click
 pulibetyenigiris.xyz
 pulivetv17.com
@@ -156300,6 +156353,7 @@ qavexo.online
 qavexo.site
 qaviroxlenp.io.vn
 qavix.cfd
+qavlino.io.vn
 qavol.shop
 qavonilermpxza.io.vn
 qaws.com
@@ -168291,6 +168345,7 @@ savip168.com
 savip1688.com
 savitar.network
 savitargroup.com
+savmaella.uk
 savmail.online
 savmask.com
 savondemarseille.info
@@ -172237,6 +172292,7 @@ shomean.world
 shomean.xyz
 shomeimprovementz.com
 shomergroup.com
+shomman.com
 shonecool.club
 shonecool.online
 shonecool.site
@@ -179146,6 +179202,7 @@ sterminshotel.co.uk
 sterndeutung.li
 sternocleidommail.com
 steroidi-anaboli.org
+steroidi.pro
 steroidogmail.com
 sterowce.net
 stethogo.com
@@ -179655,6 +179712,7 @@ storysta.xyz
 storytimewithkiki.com
 storywat.xyz
 storyyear.us
+stosan.com
 stouderhomes.com
 stovepartes1.com
 stowawaygingerbeer.com
@@ -190892,6 +190950,7 @@ topessaywritingbase.com
 topessaywritinglist.com
 topeuropenews.com
 topeventcenter.com
+topexample.com
 topexecutivegreetings.com
 topfast-supernet.fun
 topfishapp.com
@@ -191194,6 +191253,7 @@ torg-06.ru
 torgersonauctions.com
 torgorama.com
 torgoviy-dom.com
+torgoviy-posrednik.ru
 torgovyicenter.ru
 tori.ru
 torickcryp.gq
@@ -194144,6 +194204,7 @@ turnonly.click
 turnosrapidos.com
 turnpinsystems.com
 turnpokeronline.com
+turnproxy.com
 turntenpe.cf
 turntenpe.ga
 turntenpe.gq
@@ -198218,6 +198279,7 @@ utilizan.com
 utilized659gg.online
 utilqr.com
 utilsans.ru
+utiluan.com
 utimail.com
 utimatebuilder.com
 utimatesports.com
@@ -198817,6 +198879,7 @@ vakumbastian.com
 valanides.com
 valaqua.es
 valareeavery.site
+valavi67.app
 valcmedia.com
 valdezmail.men
 valdisttul.ga
@@ -203996,6 +204059,7 @@ wanxing-yl.com
 wanzgpt.my.id
 wanzstoreofc.my.id
 waose.com
+waosoe.com
 waosu.com
 waotao.com
 wap-facebook.ml
@@ -206924,6 +206988,7 @@ winixx.net
 wink-scrubs.com
 wink-versicherung.de
 winkconstruction.com
+winkey-online.online
 winkeyewear.com
 winkslab.com
 winkuniformscrubs.com
@@ -207122,6 +207187,7 @@ wirenblad.se
 wirepark.us
 wireps.com
 wirese.com
+wiresummit.com
 wirkel.site
 wirkelantikored.site
 wirkoennenjaauchgleichmckinseyanheuernwennssoweitergeht.vision
@@ -208323,6 +208389,7 @@ wracked.space
 wraf.pro
 wralawfirm.com
 wrangler-sale.com
+wrapence.com
 wrappedinit.com
 wrappedstudio.com
 wrayauto.com

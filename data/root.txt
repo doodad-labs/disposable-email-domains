@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-10-22T22:58:24.440Z
+# Aggregated blacklist generated on 2026-10-23T03:29:51.434Z
  
 0-30-24.com
 0-attorney.com
@@ -4858,6 +4858,7 @@
 37jlcom.info
 37jlph.info
 37s.io
+37xiao.com
 38.net.ua
 380064.com
 3804445.com
@@ -30857,6 +30858,7 @@ bharatyuva.com
 bharti-axagi.co.in
 bharticollege.co
 bhartsock.com
+bhaskoro.biz.id
 bhasvic.uk.com
 bhata.my.id
 bhatu.my.id
@@ -35871,6 +35873,7 @@ brillob.com
 brilo.fun
 brilov.com
 brimoo.net
+brindesmarcelodoism.shop
 bring-luck.pw
 bringluck.pw
 bringmea.org.ua
@@ -82477,6 +82480,7 @@ goldtip.shop
 goldtoolbox.com
 goldtopia.online
 goldtube.site
+goldvester.com
 goldvid.site
 goldvote.org
 goldwarez.org
@@ -91022,6 +91026,7 @@ hopeence.com
 hopeeyesa.info
 hopefly24.xyz
 hopefulservices.com
+hopefunder.com
 hopeite.com
 hopejar.com
 hopelcqcxmj.email

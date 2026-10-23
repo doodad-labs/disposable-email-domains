@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-10-23T03:29:51.434Z
+# Aggregated blacklist generated on 2026-10-23T09:07:15.811Z
  
 0-00.usa.cc
 0-30-24.com
@@ -31654,6 +31654,7 @@ ariepulsa.biz.id
 ariescc.site
 ariesqq.com
 arietesale.site
+arifachmad.com
 arifcanv2.ga
 arifcanv2.ml
 arifcanv2.tk
@@ -123927,6 +123928,7 @@ info.fiestahq.click
 info.happyholidays.click
 info.holidays2017.click
 info.jeannetripplehorn.click
+info.meetwisetransfer.click
 info.openturnon.click
 info.oppositehq.click
 info.org

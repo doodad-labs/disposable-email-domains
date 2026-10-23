@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-10-23T14:40:42.374Z
+# Aggregated blacklist generated on 2026-10-23T19:47:50.250Z
  
 0-30-24.com
 0-attorney.com
@@ -148495,6 +148495,7 @@ pfgaoq.shop
 pfgvreg.com
 pfiizer.com
 pfilvmxkhe.ga
+pfinbox.com
 pfingstfest.info
 pfiter.com
 pfju.com
@@ -185322,6 +185323,7 @@ tempmail.ai
 tempmail.al
 tempmail.asia
 tempmail.at
+tempmail.au
 tempmail.best
 tempmail.biz.id
 tempmail.ca
@@ -185453,6 +185455,7 @@ tempmailmaster.io
 tempmailn.com
 tempmailnator.com
 tempmailninja.com
+tempmailnow.io
 tempmailnow.org
 tempmailo.com
 tempmailo.io

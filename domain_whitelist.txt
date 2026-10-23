@@ -269,6 +269,9 @@ spamgourmet.net
 spamgourmet.org
 speedpost.net
 
+# ========== Swisscom ===========
+bluewin.ch
+
 # ======== Tuta ========
 keemail.me
 tuta.com

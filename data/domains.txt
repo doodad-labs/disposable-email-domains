@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-10-24T13:50:37.815Z
+# Aggregated blacklist generated on 2026-10-24T17:13:11.857Z
  
 0-00.usa.cc
 0-30-24.com
@@ -266333,6 +266333,7 @@ x.westcast-systems.com
 x.work.gd
 x.xxi2.com
 x.yeastinfectionnomorenow.com
+x.zejch.linama.asia
 x0.rf.gd
 x004scur.buzz
 x006nfta.buzz

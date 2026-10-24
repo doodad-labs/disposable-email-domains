@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-10-24T08:40:34.657Z
+# Aggregated blacklist generated on 2026-10-24T13:50:37.815Z
  
 0-30-24.com
 0-attorney.com
@@ -13923,6 +13923,7 @@ admin-jg.com
 admin-panels.xyz
 admin-pt.com
 admin-ru.ru
+admin.edu.pl
 admin4cloud.net
 adminalsoonline.club
 adminator.ru
@@ -16569,6 +16570,7 @@ aladincash.org
 alaeditions.com
 alaeditions.net
 alafabrique.com
+alagen.site
 alahahmohafard.online
 alahs.us
 alaimogroup.us
@@ -22945,6 +22947,7 @@ asmail.com
 asmail.store
 asmailproject.info
 asmailz1.pl
+asmalay.com
 asmallview.co.uk
 asmartclinic.com
 asmclinical.com
@@ -23972,6 +23975,7 @@ aureliosot.website
 aurelstyle.ru
 auremontfo.com
 aurenics.com
+aurensess.com
 aures-autoparts.com
 auresormi7m002.xyz
 aurevoirmail.com
@@ -28521,6 +28525,7 @@ beautyvibesmag.com
 beautywelldress.com
 beautywelldress.org
 beauxgadgets.com
+beavensmartialarts.com
 beaverboob.info
 beaverbreast.info
 beaverhooters.info
@@ -36798,6 +36803,7 @@ bugmenot.com
 bugmenot.ml
 bugrebrowsers.online
 bugs.su
+bugsto.com
 bugzappersok.net
 bugznbubbacreations.com
 buhf95r.ddnsfree.com
@@ -43103,6 +43109,7 @@ cheapraybanswayfarersunglassesoutlet.com
 cheapraybanukoutlett.com
 cheaprbsunglasses.website
 cheapreps.org
+cheaprsgolds.icu
 cheaps5.com
 cheapscreenprinting.website
 cheapscript.net
@@ -45838,6 +45845,7 @@ clonevnn.net
 clonezu.fun
 clonidine.website
 cloningclass.com
+clonix.lat
 clonix.pp.ua
 clonliffeharriers.com
 clonmel.com
@@ -46979,6 +46987,7 @@ coin-one.com
 coin.wf
 coin888.host
 coina.biz
+coinad.store
 coinalgotrader.com
 coinbearer.com
 coinbearer.net
@@ -59873,6 +59882,7 @@ drawme.site
 drawmeans.com
 drawmedia.org
 drawquest.net
+draxono.xyz
 draxu.cfd
 draxu.shop
 draxum.cfd
@@ -80003,6 +80013,7 @@ ggmmails.com
 ggmo.com
 ggmob-us.fun
 ggmpower.com
+ggmsil.com
 ggmul.site
 ggo.one
 ggobu.net
@@ -82949,6 +82960,7 @@ googole.com.pl
 googoolshop.xyz
 googxs.com
 goohle.co.ua
+goohost.top
 gooks.lat
 goolag.net
 goolemail.com
@@ -91285,6 +91297,7 @@ host77.ru
 hostable.me
 hostb.xyz
 hostballball.com
+hostblog.net
 hostbymax.com
 hostbyt.com
 hostcalls.com
@@ -98383,6 +98396,7 @@ iobcasino.com
 iobox.com
 iobox.fi
 iocb.info
+iocium.net
 iocloud.su
 iocpk.com
 iodi.se
@@ -106766,6 +106780,7 @@ khbfzlhayttg.gq
 khbfzlhayttg.ml
 khbfzlhayttg.tk
 khbikemart.com
+khdigistore.shop
 khea.info
 khedgeydesigns.com
 kheex.xyz
@@ -120552,6 +120567,7 @@ mailni.club
 mailniu.com
 mailno1.net
 mailnode.online
+mailnode.top
 mailnode360.click
 mailnoop.store
 mailnorms.com
@@ -133772,6 +133788,7 @@ nanshan-yule.com
 nanshanys.info
 nansyiiah.xyz
 nantmeur.com
+nanver.com
 nanyang.news
 nanyangpost.net
 nanzi.sbs
@@ -157259,6 +157276,7 @@ qsfzvamuzk.ga
 qsg9ne.us
 qsjs998.com
 qskg.us
+qskkk.cn
 qsky.com
 qsl.ro
 qsn.com
@@ -169874,6 +169892,7 @@ seepacs.com
 seepublic.nl
 seer-rx.com
 seesaw.cf
+seesdrd.com
 seesli.com
 seetarycr.com
 seetrx.ga
@@ -175344,6 +175363,7 @@ smuguk.com
 smuktliv.com
 smulevip.com
 smurfhub.in
+smurfland.cyou
 smuse.me
 smuvaj.com
 smvault.xyz
@@ -179914,6 +179934,7 @@ streampornsites.com
 streams-web.site
 streamsentiment.net
 streamsofedendesign.com
+streamsuboperation.cfd
 streamtv.biz.id
 streamtv2pc.com
 streamup.ru
@@ -181881,6 +181902,7 @@ svmpc.com
 svndemo.com
 svnhaus.my
 svobodnayapressa.ru
+svodaro428.biz.id
 svoedingen.club
 svoffshore.com
 svogerslev.com
@@ -184474,6 +184496,7 @@ teammlb.xyz
 teamnewmexico.org
 teamobi.net
 teamopros.com
+teampappu.com
 teampromotedge.com
 teamrejo.my.id
 teamrnd.win
@@ -185322,6 +185345,7 @@ tempail.shop
 tempail.site
 tempalias.com
 tempamailbox.info
+tempamails.com
 tempat-main-poker.xyz
 tempathiburan.com
 tempathiburan.net
@@ -186360,6 +186384,7 @@ textmedude.tk
 textoverip.com
 textprayer.com
 textpro.site
+textpulse.store
 textrelaxs.info
 textrepeater.site
 textriot.com
@@ -198097,6 +198122,7 @@ useplace.ru
 usepulsegrid.co
 user-dashboard.com
 user-report.site
+user.edu.pl
 user.school
 userbot.site
 usercoupon.com
@@ -200251,6 +200277,7 @@ vesa.pw
 vesdev01.shop
 vesicovme.ru
 vesiculokl.ru
+vesinh24h.net
 vesinhnhattam.com
 vesiquvece.website
 veska.pl
@@ -202506,6 +202533,7 @@ volkswagen-ag.ml
 volkswagen-ag.tk
 volkswagenamenageoccasion.fr
 volku.org
+volkz.bond
 vollbio.de
 vollfertig.vision
 volloeko.de
@@ -204281,6 +204309,7 @@ waronrent.org
 warp2p.com
 warplavua.space
 warpmail.top
+warpmailer.com
 warpscene.com
 warpsender.com
 warpsharp.com

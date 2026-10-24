@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-10-24T08:40:34.657Z
+# Aggregated blacklist generated on 2026-10-24T13:50:37.815Z
  
 0-00.usa.cc
 0-30-24.com
@@ -22594,6 +22594,7 @@ admin-panels.xyz
 admin-pt.com
 admin-ru.ru
 admin.dropmail.me
+admin.edu.pl
 admin.i5wed.com
 admin.thanhori.click
 admin4cloud.net
@@ -25885,6 +25886,7 @@ alae.ll47.net
 alaeditions.com
 alaeditions.net
 alafabrique.com
+alagen.site
 alahahmohafard.online
 alahs.us
 alaimogroup.us
@@ -29866,6 +29868,7 @@ antoinegaslais.com
 anton.zone
 anton252.store
 antondennard.com
+antonelli.usa.cc
 antonietta1818.site
 antonija.com
 antoniofernandezweb.es
@@ -33050,6 +33053,7 @@ asmail.com
 asmail.store
 asmailproject.info
 asmailz1.pl
+asmalay.com
 asmallview.co.uk
 asmartclinic.com
 asmclinical.com
@@ -34265,6 +34269,7 @@ aureliosot.website
 aurelstyle.ru
 auremontfo.com
 aurenics.com
+aurensess.com
 aures-autoparts.com
 auresormi7m002.xyz
 aurevoirmail.com
@@ -40147,6 +40152,7 @@ beautyvibesmag.com
 beautywelldress.com
 beautywelldress.org
 beauxgadgets.com
+beavensmartialarts.com
 beaverboob.info
 beaverbreast.info
 beaverhooters.info
@@ -49872,6 +49878,7 @@ bugmenot.com
 bugmenot.ml
 bugrebrowsers.online
 bugs.su
+bugsto.com
 bugzappersok.net
 bugznbubbacreations.com
 buhf95r.ddnsfree.com
@@ -57683,6 +57690,7 @@ cheapraybanswayfarersunglassesoutlet.com
 cheapraybanukoutlett.com
 cheaprbsunglasses.website
 cheapreps.org
+cheaprsgolds.icu
 cheaps5.com
 cheapscingre5227.lofteone.ru
 cheapscreenprinting.website
@@ -60760,6 +60768,7 @@ clonevnn.net
 clonezu.fun
 clonidine.website
 cloningclass.com
+clonix.lat
 clonix.pp.ua
 clonliffeharriers.com
 clonmel.com
@@ -62085,6 +62094,7 @@ coin.wf
 coin.wf.
 coin888.host
 coina.biz
+coinad.store
 coinalgotrader.com
 coinbearer.com
 coinbearer.net
@@ -74877,6 +74887,7 @@ dixg25arxm.mailbo.store
 dixieland.slmail.me
 dixiser.com
 dixman.xyz
+dixon-fitzpatrick.textpulse.store
 dixonpilotshop.com
 dixz.net
 dixz.org
@@ -77552,6 +77563,7 @@ drawme.site
 drawmeans.com
 drawmedia.org
 drawquest.net
+draxono.xyz
 draxu.cfd
 draxu.shop
 draxum.cfd
@@ -102853,6 +102865,7 @@ ggmo.com
 ggmob-us.fun
 ggmpower.com
 ggmqtrlrbq.mailbo.store
+ggmsil.com
 ggmul.site
 ggn07i04bo.mailbo.store
 ggnbljqhvk.mailbo.store
@@ -106494,6 +106507,7 @@ googole.com.pl
 googoolshop.xyz
 googxs.com
 goohle.co.ua
+goohost.top
 gooks.lat
 goolag.net
 goole.gmail.com.www.dtac.co.th.thumoi.com
@@ -116802,6 +116816,7 @@ host77.ru
 hostable.me
 hostb.xyz
 hostballball.com
+hostblog.net
 hostbymax.com
 hostbyt.com
 hostcalls.com
@@ -146929,6 +146944,7 @@ listenulled.xyz
 listimi.ga
 listimi.gq
 listimi.tk
+listing-example.example.iocium.net
 listingleadsforyou.biz
 listingsbluesky.site
 listingsnob.com
@@ -151509,6 +151525,7 @@ m.itspm.cc
 m.jcxldn.net
 m.johner.li
 m.kasberger.net
+m.khdigistore.shop
 m.kkh-rinteln.de
 m.kkokc.com
 m.kohler-sutter.ch
@@ -153471,6 +153488,7 @@ mail.mrgamin.ml
 mail.msarra.com
 mail.mxvia.com
 mail.myde.ml
+mail.mygoo.vip
 mail.mymoe.qzz.io
 mail.myserv.info
 mail.mz247.com
@@ -155582,6 +155600,7 @@ mailni.club
 mailniu.com
 mailno1.net
 mailnode.online
+mailnode.top
 mailnode360.click
 mailnoop.store
 mailnorms.com
@@ -160994,6 +161013,7 @@ merda.flu.cc
 merda.ga
 merda.gq
 merda.ml
+merda.usa.cc
 merecgp.com
 meredit.rf.gd
 meredithmanor.info
@@ -166471,6 +166491,7 @@ mpd6zhoraq.mailbo.store
 mpdacrylics.com
 mpdf.site
 mpdnzwmsav.mailbo.store
+mpdy.svodaro428.biz.id
 mpe.emlpro.com
 mpedjvquvs.mailbo.store
 mpegsuite.com
@@ -171622,6 +171643,7 @@ nanshan-yule.com
 nanshanys.info
 nansyiiah.xyz
 nantmeur.com
+nanver.com
 nanvz8qh9x.mailbo.store
 nanyang.news
 nanyangpost.net
@@ -198781,6 +198803,7 @@ pw.mysafe.ml
 pw.nut.cc
 pw.r4.dns-cloud.net
 pw.rs6.igg.biz
+pw.rs6.usa.cc
 pw.shitt.igg.biz
 pw0esp.igg.biz
 pw0prdqzix.mailbo.store
@@ -201354,6 +201377,7 @@ qsint.8shield.net
 qsiyrcu25n.mailbo.store
 qsjs998.com
 qskg.us
+qskkk.cn
 qsky.com
 qsl.ro
 qslbp4aqqh.mailbo.store
@@ -202778,6 +202802,7 @@ qzxomhbdix.mailbo.store
 qzyiq7l0ol.mailbo.store
 qzyurbhspy.mailbo.store
 qzzwwxmuvq.mailbo.store
+r-6.usa.cc
 r-66y.com
 r-e.ru
 r-ga.com
@@ -217044,6 +217069,7 @@ seepacs.com
 seepublic.nl
 seer-rx.com
 seesaw.cf
+seesdrd.com
 seesli.com
 seestbadil.mailbo.store
 seetarycr.com
@@ -223638,6 +223664,7 @@ smuguk.com
 smuktliv.com
 smulevip.com
 smurfhub.in
+smurfland.cyou
 smuse.me
 smuvaj.com
 smuxigrdym.mailbo.store
@@ -228836,6 +228863,7 @@ streampornsites.com
 streams-web.site
 streamsentiment.net
 streamsofedendesign.com
+streamsuboperation.cfd
 streamtv.biz.id
 streamtv2pc.com
 streamup.ru
@@ -231124,6 +231152,7 @@ svnoboat.8shield.net
 svnpwsr2hm.mailbo.store
 svnx7e55ll.mailbo.store
 svobodnayapressa.ru
+svodaro428.biz.id
 svoedingen.club
 svoffshore.com
 svogerslev.com
@@ -233588,6 +233617,7 @@ tarvids.com
 tarviona.com
 tarvox.online
 taryn.kaylyn.101livemail.top
+tarzan.usa.cc
 tarzanmail.cf
 tarzanmail.ml
 tarzinaslibu.xyz
@@ -234505,6 +234535,7 @@ teammlb.xyz
 teamnewmexico.org
 teamobi.net
 teamopros.com
+teampappu.com
 teampromotedge.com
 teamrejo.my.id
 teamrnd.win
@@ -235437,6 +235468,7 @@ tempail.shop
 tempail.site
 tempalias.com
 tempamailbox.info
+tempamails.com
 tempat-main-poker.xyz
 tempathiburan.com
 tempathiburan.net
@@ -251028,6 +251060,7 @@ usepulsegrid.co
 user-dashboard.com
 user-report.site
 user.bottesuggds.com
+user.edu.pl
 user.peoplesocialspace.com
 user.school
 user.teml.net
@@ -254077,6 +254110,7 @@ vese.luk2.com
 veshh14zqu.mailbo.store
 vesicovme.ru
 vesiculokl.ru
+vesinh24h.net
 vesinhnhattam.com
 vesiquvece.website
 veska.pl
@@ -256924,6 +256958,7 @@ volkswagen-ag.ml
 volkswagen-ag.tk
 volkswagenamenageoccasion.fr
 volku.org
+volkz.bond
 vollbio.de
 vollfertig.vision
 volloeko.de
@@ -259607,6 +259642,7 @@ waronrent.org
 warp2p.com
 warplavua.space
 warpmail.top
+warpmailer.com
 warpscene.com
 warpsender.com
 warpsharp.com
@@ -262937,6 +262973,7 @@ windowsmembership.com
 windowsofheavennj.com
 windowsresellerwebhostinginindia.com
 windowsunlimitedwebhosting.com
+windowsvista.usa.cc
 windowtintingbusinesses.xyz
 windrawidyastika.my.id
 windri001.igg.biz
@@ -280218,6 +280255,7 @@ zzzzcasino.net
 zzzzquangveo36789top5.shop
 zzzzzz.com
 zzzzzzzzzzzzz.com
+zzzzzzzzzzzzz.com0-00.usa.cc
 zzzzzzzzzzzzzz-1090.dynv6.net
 zzzzzzzzzzzzzz-2092.dynv6.net
 zzzzzzzzzzzzzz-277.dynv6.net

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-10-23T22:54:32.002Z
+# Aggregated blacklist generated on 2026-10-24T03:24:35.225Z
  
 0-30-24.com
 0-attorney.com
@@ -3039,6 +3039,7 @@
 20daysof.com
 20email.eu
 20email.it
+20esports.org
 20german.online
 20gmail.co.com
 20hsolutions.com
@@ -24387,6 +24388,7 @@ autrementstore.com
 autryassoc.com
 auttt.xyz
 autu11n.lol
+autumn-clouds.com
 autumnfalls.site
 autumnlab.fun
 autumnnetworks.com
@@ -42237,6 +42239,7 @@ cfskrxfnsuqck.ml
 cfskrxfnsuqck.tk
 cftcmaf.com
 cfte.com
+cftest.lat
 cftest123.cam
 cftrextriey-manage1.com
 cfvgftv.in
@@ -49191,6 +49194,7 @@ cottagenet.ru
 cottageoakpropertie.com
 cottageonthefarm.com
 cottay.org
+cotton.lat
 cottonandallen.com
 cottonconversions.com
 cottongods.net
@@ -93834,6 +93838,7 @@ i966r.org
 i9827.com
 i9rkgm.us
 i9startup.com
+ia-bot.lat
 ia04fx.us
 ia4stypglismiks.cf
 ia4stypglismiks.ga
@@ -112059,6 +112064,7 @@ leatherseatcovers.net
 leaucoproductions.com
 leavale.net
 leave-notes.com
+leaveness.com
 leavenow.online
 leavenstee.com
 leavenworthbicycleclub.com
@@ -176086,6 +176092,7 @@ solextrad.com
 soleymari.es
 soliaflatirons.in
 soliahairstyling.in
+soliano.cc
 solicitar.credit
 solid-hamster.skin
 solidairconpro.xyz
@@ -184605,6 +184612,7 @@ technet.mobi
 technetinfosoft.com
 technetva.com
 technewsultra.com
+technical-relianta.top
 technicalaemail.com
 technicalchartalerts.com
 technicalgrade.ru

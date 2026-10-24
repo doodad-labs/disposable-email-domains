@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-10-23T22:54:32.002Z
+# Aggregated blacklist generated on 2026-10-24T03:24:35.225Z
  
 0-00.usa.cc
 0-30-24.com
@@ -4835,6 +4835,7 @@
 20daysof.com
 20email.eu
 20email.it
+20esports.org
 20fv5j5sxb.mailbo.store
 20german.online
 20gmail.co.com
@@ -34694,6 +34695,7 @@ autrementstore.com
 autryassoc.com
 auttt.xyz
 autu11n.lol
+autumn-clouds.com
 autumnfalls.site
 autumnlab.fun
 autumnnetworks.com
@@ -42653,6 +42655,7 @@ bg4llrhznrom.gq
 bg4llrhznrom.ml
 bg4llrhznrom.tk
 bg4ovgznpv.mailbo.store
+bg5ld.anonbox.net
 bg613.top
 bg632.anonbox.net
 bg66bet.com
@@ -56714,6 +56717,7 @@ cfsv5kmmpn.mailbo.store
 cft6ypqlfd.mailbo.store
 cftcmaf.com
 cfte.com
+cftest.lat
 cftest123.cam
 cftrextriey-manage1.com
 cfu.spymail.one
@@ -64546,6 +64550,7 @@ cottagenet.ru
 cottageoakpropertie.com
 cottageonthefarm.com
 cottay.org
+cotton.lat
 cottonandallen.com
 cottonconversions.com
 cottongods.net
@@ -120218,6 +120223,7 @@ i9ujqmzzhd.mailbo.store
 i9vscku1rx.mailbo.store
 i9wzmw7ugy.mailbo.store
 i9zh.dung2tb.io.vn
+ia-bot.lat
 ia04fx.us
 ia0yvybqyh.mailbo.store
 ia11c5elxh.mailbo.store
@@ -144122,6 +144128,7 @@ leaucoproductions.com
 leavale.net
 leave-notes.com
 leave.mailbo.store
+leaveness.com
 leavenow.online
 leavenstee.com
 leavenworthbicycleclub.com
@@ -224487,6 +224494,7 @@ solextrad.com
 soleymari.es
 soliaflatirons.in
 soliahairstyling.in
+soliano.cc
 solicitar.credit
 solid-hamster.skin
 solidairconpro.xyz
@@ -234650,6 +234658,7 @@ technet.mobi
 technetinfosoft.com
 technetva.com
 technewsultra.com
+technical-relianta.top
 technicalaemail.com
 technicalchartalerts.com
 technicalgrade.ru

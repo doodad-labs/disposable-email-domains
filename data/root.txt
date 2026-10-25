@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-10-24T20:16:43.977Z
+# Aggregated blacklist generated on 2026-10-25T00:00:40.351Z
  
 0-30-24.com
 0-attorney.com
@@ -149977,6 +149977,7 @@ pipiska6879.ga
 pipiska6879.gq
 pipiska6879.ml
 pipiska6879.tk
+pipitos.pp.ua
 pipkos.com
 pipmmotube.store
 pipocapix.store
@@ -181401,6 +181402,7 @@ supj.site
 supk.site
 suplemento.club
 suples.pl
+supliss.online
 supmail.xyz
 supn.site
 supo.site

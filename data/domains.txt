@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-10-25T00:00:40.351Z
+# Aggregated blacklist generated on 2026-10-25T04:28:05.540Z
  
 0-00.usa.cc
 0-30-24.com
@@ -37946,6 +37946,7 @@ bakertaylor.com
 bakertilly.com
 bakesmy.shop
 bakhaus.ru
+bakhr.anonbox.net
 bakingandfoodconnections.net
 bakingonstone.com
 bakixh9yud.mailbo.store
@@ -234881,6 +234882,7 @@ tecoconstruction.com
 tecorix.com
 tecperote.com
 tecsat.com.br
+tecso.lat
 tectronica.com
 tecxydpo30.mailbo.store
 tecybbzlxs.mailbo.store

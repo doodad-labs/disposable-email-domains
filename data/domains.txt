@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-10-25T15:35:53.338Z
+# Aggregated blacklist generated on 2026-10-25T18:44:19.390Z
  
 0-00.usa.cc
 0-30-24.com
@@ -77291,6 +77291,7 @@ dpsk12.com
 dpsols.com
 dpsrs.org
 dpstele.net
+dpswlz.disbox.org
 dpt3omuzod.mailbo.store
 dptfdwlez7.mailbo.store
 dpttd.com
@@ -209245,6 +209246,7 @@ rm7d3rzx.xyz
 rm7mputy4n.mailbo.store
 rm88.edu.bz
 rm8cum0vsp.mailbo.store
+rm9357.tmpmail.org
 rm9f8gai.mailosaur.net
 rm9ub62vm2.mailbo.store
 rm9uxillf2.mailbo.store
@@ -210873,6 +210875,7 @@ rqm3ccdzgg.mailbo.store
 rqmail.xyz
 rqmtg.com
 rqn806kos1.mailbo.store
+rqn8r0.moakt.cc
 rqnxtypkj4.mailbo.store
 rqozbgzm4r.mailbo.store
 rqpl.yomail.info

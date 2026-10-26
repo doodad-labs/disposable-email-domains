@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-10-25T22:18:41.790Z
+# Aggregated blacklist generated on 2026-10-26T03:21:37.505Z
  
 0-00.usa.cc
 0-30-24.com
@@ -21320,6 +21320,7 @@ acatali.com
 acatamal.com
 acatamatmail.com
 acatofadifferentcolor.com
+acax.site
 acb1918.xyz
 acbhwoewta.ga
 acbiyfbur.store
@@ -32440,6 +32441,7 @@ as8218.net
 as9ge8ynoq.mailbo.store
 asa-dea.com
 asa-electronics.com
+asa.it
 asa6p0nvyu.mailbo.store
 asaafo333.shop
 asaama.shop
@@ -45232,6 +45234,7 @@ blockblocks.party
 blockbudg.xyz
 blockbusterhits.info
 blockbusterkiosk.com
+blockchain-development-company.site
 blockchain-development-company.xyz
 blockchain-wallet.live
 blockchainalternativeinvestment.com
@@ -117230,6 +117233,7 @@ hotmailnet.simplelogin.com
 hotmailo.com
 hotmailo.fr
 hotmailpro.info
+hotmailpro.io.vn
 hotmailproduct.com
 hotmailregclsr.xyz
 hotmails.club
@@ -206610,6 +206614,7 @@ relom.online
 relone28.buzz
 relopment.site
 relrb.com
+relrd.com
 relscience.us
 reludexo.site
 relumidyne.com
@@ -247144,6 +247149,7 @@ u778.tieumuoishop.io.vn
 u78qwpure1.mailbo.store
 u78y.dung2tb.io.vn
 u793762lgo.mailbo.store
+u7btp.anonbox.net
 u7cjl8.xorg.pl
 u7fq0.mimimail.me
 u7fwxuazel.mailbo.store
@@ -254801,6 +254807,7 @@ vidaneh.org
 vidarica.me
 vidasole.com
 vidawater.xyz
+viday.lat
 vidayestilohn.com
 vidchart.com
 viddly.online

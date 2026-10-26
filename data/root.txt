@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-10-25T22:18:41.790Z
+# Aggregated blacklist generated on 2026-10-26T03:21:37.505Z
  
 0-30-24.com
 0-attorney.com
@@ -12772,6 +12772,7 @@ acatali.com
 acatamal.com
 acatamatmail.com
 acatofadifferentcolor.com
+acax.site
 acayay.my.id
 acb1918.xyz
 acbhwoewta.ga
@@ -22403,6 +22404,7 @@ as8218.net
 as93.net
 asa-dea.com
 asa-electronics.com
+asa.it
 asaafo333.shop
 asaama.shop
 asab.com
@@ -32928,6 +32930,7 @@ blockblocks.party
 blockbudg.xyz
 blockbusterhits.info
 blockbusterkiosk.com
+blockchain-development-company.site
 blockchain-development-company.xyz
 blockchain-wallet.live
 blockchainalternativeinvestment.com
@@ -91679,6 +91682,7 @@ hotmailm.com
 hotmailo.com
 hotmailo.fr
 hotmailpro.info
+hotmailpro.io.vn
 hotmailproduct.com
 hotmailregclsr.xyz
 hotmails.club
@@ -161403,6 +161407,7 @@ relom.online
 relone28.buzz
 relopment.site
 relrb.com
+relrd.com
 relscience.us
 relucius.com
 reludexo.site
@@ -200763,6 +200768,7 @@ vidaneh.org
 vidarica.me
 vidasole.com
 vidawater.xyz
+viday.lat
 vidayestilohn.com
 vidchart.com
 viddly.online

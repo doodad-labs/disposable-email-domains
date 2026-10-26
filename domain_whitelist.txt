@@ -269,6 +269,10 @@ spamgourmet.net
 spamgourmet.org
 speedpost.net
 
+# ======== NordPass ========
+# Note: These domains are technically disposable however they are used for anti-spam purposes and may not be appropriate to block in all contexts.
+eagereverest.com
+
 # ========== Swisscom ===========
 bluewin.ch
 

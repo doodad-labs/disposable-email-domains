@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-10-27T03:49:31.358Z
+# Aggregated blacklist generated on 2026-10-27T09:37:36.229Z
  
 0-30-24.com
 0-attorney.com
@@ -50838,6 +50838,7 @@ csuzetas.com
 csvcialis.com
 csvclubs.org
 csvf.com
+csvlark.me
 csvpubblicita.com
 csvrxviagra.com
 csweihua.com
@@ -58254,6 +58255,7 @@ dnsink.com
 dnslog.tech
 dnsmail.me
 dnsowl.com
+dnsprism.me
 dnspublick.com
 dnsrd.com
 dnsx.xyz
@@ -63124,6 +63126,7 @@ edud.site
 edudc.org
 edudigy.cc
 edudingy.cfd
+eduemail.me
 eduenterprise.net
 eduf.us
 eduf0.us
@@ -70033,6 +70036,7 @@ fanebet.com
 fanemone.com
 fanera-kupit11.ru
 fanera365.ru
+fanfanhenkuai.xyz
 fanfic-world.com
 fanficforum.com
 fanformed.com
@@ -103783,6 +103787,7 @@ json-check.best
 json.cm
 json24.com
 jsoniz.com
+jsonmender.me
 jsonp.ro
 jsonsinnovations.net
 jspm.me
@@ -111108,6 +111113,7 @@ lanorthface.com
 lanquiplod.gq
 lanquiplod.ml
 lanquiplod.tk
+lanstudio.top
 lantai6.org
 lantderdi.cf
 lantderdi.ga
@@ -133681,6 +133687,8 @@ nambuco.com
 namche.org
 namconbo.com
 namde.net
+namdev-mail-01.bond
+namdev-mail-01.cyou
 namdong.site
 name-shirts.shop
 nameaaa.myddns.rocks
@@ -147413,6 +147421,7 @@ pdfsx.site
 pdfsy.site
 pdfsz.site
 pdft.site
+pdftinker.me
 pdfu.site
 pdfv.site
 pdfw.site
@@ -157278,6 +157287,7 @@ qrc1t.us
 qreciclas.com
 qrezkqqen.shop
 qrmacabahis.com
+qrmason.me
 qrmta.works
 qrmte1.site
 qrno1i.info
@@ -168837,6 +168847,7 @@ schdpst.com
 scheduleer.com
 schema.report
 schemaseofactory.com
+schemastash.me
 schematizatomail.com
 schemeza.com
 schi-zo.de
@@ -178395,6 +178406,7 @@ ssl9mail.xyz
 sslclaims.com
 ssldigitalcertificate.com
 sslgen.org
+sslglance.me
 sslglobalnetwork.com
 sslgsms.ru
 sslip.io
@@ -181926,6 +181938,7 @@ svff.com
 svg.la
 svgcrazy.shop
 svgcube.com
+svgmend.me
 svgstack.com
 svhu5u.us
 svi.space
@@ -186437,6 +186450,7 @@ textmedude.gq
 textmedude.ml
 textmedude.tk
 textoverip.com
+textpivot.me
 textprayer.com
 textpro.site
 textpulse.store
@@ -212549,6 +212563,7 @@ xxxy.website
 xxxz.online
 xxxz.site
 xxxz.space
+xxymail.me
 xxyxi.com
 xxzyr.com
 xy-78.com

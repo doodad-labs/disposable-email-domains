@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-10-26T22:19:30.800Z
+# Aggregated blacklist generated on 2026-10-27T03:49:31.358Z
  
 0-30-24.com
 0-attorney.com
@@ -88318,6 +88318,7 @@ heisenburger.biz.id
 heismail.xyz
 heisserreifen.com
 heistnukes.com
+heiuse.com
 heixs.com
 hejomail.com
 hejs.com

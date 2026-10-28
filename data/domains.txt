@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-10-28T00:58:55.772Z
+# Aggregated blacklist generated on 2026-10-28T07:56:30.286Z
  
 0-00.usa.cc
 0-30-24.com
@@ -19020,6 +19020,7 @@
 9j6sg4kd.luksarcenter.ru
 9j82j4fgge.mailbo.store
 9jaapp.com
+9jc.ultrpro.store
 9jcjgyolqy.mailbo.store
 9jcu.tieumuoishop.io.vn
 9jersey.com
@@ -27715,6 +27716,7 @@ alvesyn.com
 alvinje.cf
 alvinje.ga
 alvinje.ml
+alvinkamara56.com
 alvinleemail.com
 alvinneo.com
 alvinsi.com
@@ -39850,6 +39852,7 @@ bdsvietnam24h.com
 bdsyakima.com
 bdt2222bd.com
 bdt222apsapp.com
+bdtbaji.org
 bdtf4.anonbox.net
 bdtq777.com
 bdttp.anonbox.net
@@ -62447,6 +62450,7 @@ colscho.us
 colschoo.us
 colschs.us
 colsec.us
+colsed.us
 colsedu.us
 colt.ll47.net
 coltonattorneys.com
@@ -62455,6 +62459,7 @@ coltprint.com
 coluce.us
 coluckiacasino.com
 colud.us
+colues.us
 columbcasino.ru
 columbce.us
 columbed.us
@@ -71735,6 +71740,7 @@ departamentoparanaonline.com
 department.com
 depas.ovh
 depco-chp.com
+depde.com
 depdfmanuales.xyz
 depdocla.net
 depelicula.com
@@ -83468,6 +83474,7 @@ elite-jibbo.com
 elite-paints.com
 elite-seo-marketing.com
 elite-wikiwriters.com
+elite.akcayda.com
 elite.gold.edu.pl
 elite12.mygbiz.com
 elite21miners.site
@@ -84418,6 +84425,7 @@ emailspot.org
 emailspro.com
 emailsquick.com
 emailss.com
+emailstechmail.in
 emailsteel.com
 emailstip.info
 emailsupply.space
@@ -98733,6 +98741,7 @@ furaz.com
 furbestneg6039.lofteone.ru
 fureverafteradopt.org
 furh7sjvjl.mailbo.store
+furhog.com
 furieus.com
 furious.anonaddy.com
 furiousangel.com
@@ -100617,6 +100626,7 @@ garetplay.com
 garfieldsurvival.info
 garg.cse445.com
 garglob.com
+garia602.info
 garibomail2893.biz
 gariepgliding.com
 garillias22.net
@@ -110558,6 +110568,7 @@ hadisnabavi.com
 hadits.app
 hadits9imam.com
 haditspilihan.com
+hadjoy.com
 hadley.de
 hadmail.online
 hadmail.shop
@@ -162091,6 +162102,7 @@ mic3eggekteqil8.ga
 mic3eggekteqil8.gq
 mic3eggekteqil8.ml
 mic3eggekteqil8.tk
+mica-compliance.online
 mica-compliance.today
 micado.ai
 micalmo.com
@@ -173020,6 +173032,7 @@ nelriona.gq
 nelsonboring.com
 nelsonenterprises.ca
 nelsontvip.site
+neltadiera.ca
 neltaxip.com
 nem.emlhub.com
 nem.vc
@@ -192326,6 +192339,7 @@ pklucky79.com
 pkluckyday.com
 pklwsg.us
 pkmail.site
+pkmj77.com
 pknmcf.fun
 pko.ru
 pko8ubqy52.mailbo.store
@@ -196032,6 +196046,7 @@ prestamospersonales.nom.es
 prestamospersonalesfzrz.com
 prestamosurgente.com
 prestashopcheck.xyz
+prestasiglobal.id
 prestativo.pro
 prestawebexperts.com
 presteg.com
@@ -203271,6 +203286,7 @@ r8w4w9w4e4.mailbo.store
 r8y0tgcrjo.mailbo.store
 r8zlbcprgs.mailbo.store
 r8zneyv8iv.mailbo.store
+r9-bms.ru
 r9094.com
 r9227.com
 r93k.us
@@ -212738,6 +212754,7 @@ rzbt8u-mail.xyz
 rzcarretnfag90.com
 rzcbqdmj.shop
 rzcmzvxeee.mailbo.store
+rzcvcomre5h4.com
 rzdtevvriv.mailbo.store
 rzdxpnzipvpgdjwo.cf
 rzdxpnzipvpgdjwo.ga
@@ -214746,6 +214763,7 @@ sandwichfmail.com
 sandwish.club
 sandwish.space
 sandwish.website
+sandworthhouse.com
 sandy.mozmail.com
 sandypil767676.store
 sandyretro.shop
@@ -218084,6 +218102,7 @@ ser2201b.buzz
 sera.com
 seraji.info
 seralopaserberas.store
+seranta1.xyz
 serapoker.com
 serarf.site
 serasa-com.sytes.net
@@ -220983,6 +221002,7 @@ silvergolds.shop
 silverimpressions.ca
 silverisland-esyoga.com
 silverleafgroup.net
+silverletter.cloud
 silverlinecap.com
 silverlineplumbers.ca
 silverlinesites.com
@@ -223024,6 +223044,7 @@ smapfree24.de
 smapfree24.eu
 smapfree24.info
 smapfree24.org
+smaqty.com
 smardebtra.ga
 smardebtra.gq
 smardebtra.ml
@@ -231395,6 +231416,7 @@ sweepercasino.com
 sweepser.com
 sweepstakes956zh.online
 sweepstakesforme.com
+sweet-bonanza-tr.sbs
 sweet-ro.com
 sweet-space.ru
 sweet3d.com
@@ -235133,6 +235155,7 @@ tegr2.anonbox.net
 tegut.es
 teh8yinwmg.mailbo.store
 tehachapichimneysweep.us
+tehbo.my.id
 tehbt3uelm.mailbo.store
 tehdini.cf
 tehdini.ga
@@ -253878,6 +253901,7 @@ ventgelteo.ga
 ventgelteo.gq
 ventgelteo.ml
 ventgelteo.tk
+ventninio.com
 ventolin-inhaler.info
 ventrovia.cfd
 venttanip.cf

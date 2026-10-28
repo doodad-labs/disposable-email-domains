@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-10-28T14:53:45.871Z
+# Aggregated blacklist generated on 2026-10-28T20:48:04.955Z
  
 0-30-24.com
 0-attorney.com
@@ -111155,6 +111155,7 @@ lanvos.com
 lanxi8.com
 lanyard.plus
 lanydar.site
+lanza.my.id
 lanzadigital.my.id
 laocaishen.cc
 laoctarine.store

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-10-28T20:48:04.955Z
+# Aggregated blacklist generated on 2026-10-29T01:33:50.302Z
  
 0-00.usa.cc
 0-30-24.com
@@ -39197,6 +39197,7 @@ bazigra.ru
 bazmool.com
 bazoocam.co
 bazookagoldtrap.com
+bazq3.anonbox.net
 bazreno.com
 bazrssjtum.mailbo.store
 bazw.cse445.com
@@ -94600,6 +94601,7 @@ flavaco.shop
 flavejmi.cf
 flavejmi.gq
 flavejmi.tk
+flavia.lat
 flaviacadime.com
 flavin90.fashionwomenaccessories.com
 flavio.com.br
@@ -96161,6 +96163,7 @@ fornattodental.com
 fornece.energy
 fornecedor.com
 fornow.eu
+forogise.com
 foronebuy.com
 foronenight.best
 forore.ru
@@ -171153,6 +171156,7 @@ n95xchw.saucent.online
 n978.tieumuoishop.io.vn
 n9ebjuqdi0.mailbo.store
 n9fjzj8t.xyz
+n9hp3w.tmails.net
 n9ijibpmd0.mailbo.store
 n9jtuu2p7u.mailbo.store
 n9ndonvjoo.mailbo.store
@@ -259491,6 +259495,7 @@ walnuttree.com
 walopodes.shop
 walotu.site
 walrage.com
+walrus.lat
 walshpoems.com
 walshun.com
 walsinghamsociety.org

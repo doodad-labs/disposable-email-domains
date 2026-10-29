@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-10-28T20:48:04.955Z
+# Aggregated blacklist generated on 2026-10-29T01:33:50.302Z
  
 0-30-24.com
 0-attorney.com
@@ -73329,6 +73329,7 @@ flavaco.shop
 flavejmi.cf
 flavejmi.gq
 flavejmi.tk
+flavia.lat
 flaviacadime.com
 flavio.com.br
 flavor.market
@@ -74654,6 +74655,7 @@ fornattodental.com
 fornece.energy
 fornecedor.com
 fornow.eu
+forogise.com
 foronebuy.com
 foronenight.best
 forore.ru
@@ -204148,6 +204150,7 @@ walnuttree.com
 walopodes.shop
 walotu.site
 walrage.com
+walrus.lat
 walshpoems.com
 walshun.com
 walsinghamsociety.org

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-10-29T16:37:24.775Z
+# Aggregated blacklist generated on 2026-10-29T22:28:06.518Z
  
 0-30-24.com
 0-attorney.com
@@ -27489,6 +27489,7 @@ bascherini.eu
 bascope.icu
 basculas.online
 base-all.ru
+base-jump.at
 base-weight.com
 base.com.br
 base101.com
@@ -40350,6 +40351,7 @@ cascaisnetradio.com
 cascavel.me
 cascina47.com
 cascinaverdeventi.com
+casco-feuerwehrhelm.de
 case4pads.com
 casecab.com
 caseedu.tk
@@ -145336,6 +145338,7 @@ paans.me
 paaob.com
 paapitech.com
 paating.com
+pab-helme.de
 pabbbiiilloo.club
 pabbloobbbt.club
 pabiyy.club
@@ -194250,6 +194253,7 @@ tuoilon08.online
 tuoiteen.asia
 tuoitre.email
 tuoitrevn.site
+tuojiemachinery.com
 tuongtactot.tk
 tuongxanh.net
 tuopzyzc.shop

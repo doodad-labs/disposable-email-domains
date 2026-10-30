@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-10-30T12:11:34.752Z
+# Aggregated blacklist generated on 2026-10-30T19:00:05.628Z
  
 0-30-24.com
 0-attorney.com
@@ -15123,6 +15123,7 @@ agoalz.com
 agocj.us
 agoda.lk
 agogbag.website
+agogmail.com
 agogogames.com
 agogotogel.com
 agomail.online
@@ -26317,6 +26318,7 @@ badmili.com
 badmintonshop.life
 badnewsol.com
 badochka.ru
+badoet.web.id
 badonz.site
 badoo.live
 badoop.com
@@ -214816,6 +214818,7 @@ yoqtedbre.shop
 yordanmail.cf
 yorecountryhome.com
 yorfan.com
+yoricoffeshop.web.id
 yorikoangeline.art
 yorkandchapelpromo.com
 yorkbet100.com

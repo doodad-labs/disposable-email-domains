@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-10-30T12:11:34.752Z
+# Aggregated blacklist generated on 2026-10-30T19:00:05.628Z
  
 0-00.usa.cc
 0-30-24.com
@@ -15582,6 +15582,7 @@
 7pr2.cse445.com
 7ptnby0jab.mailbo.store
 7puiqknljn.mailbo.store
+7pwqtz9mv.disbox.org
 7pxsplrml1.mailbo.store
 7pzo.cse445.com
 7q1gcs7jjz.mailbo.store
@@ -24052,6 +24053,7 @@ agoalz.com
 agocj.us
 agoda.lk
 agogbag.website
+agogmail.com
 agogogames.com
 agogotogel.com
 agomail.online
@@ -37557,6 +37559,7 @@ badmili.com
 badmintonshop.life
 badnewsol.com
 badochka.ru
+badoet.web.id
 badonz.site
 badoo.live
 badoop.com
@@ -274386,6 +274389,7 @@ yordanmail.cf
 yorecountryhome.com
 yorfan.com
 yorha.maskmy.id
+yoricoffeshop.web.id
 yorikoangeline.art
 yoripzofmi.mailbo.store
 york6116.igg.biz

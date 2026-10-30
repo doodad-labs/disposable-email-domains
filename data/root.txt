@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-10-29T22:28:06.518Z
+# Aggregated blacklist generated on 2026-10-30T04:30:28.930Z
  
 0-30-24.com
 0-attorney.com
@@ -16684,6 +16684,7 @@ alazhs.org
 alazinst.org
 alazs.us
 alazsch.org
+alazsec.org
 alazsem.org
 alazsh.com
 alazsh.org
@@ -35754,6 +35755,7 @@ bresanclin.ml
 bresanclin.tk
 bresnen.net
 bresslertech.com
+brest.lat
 brettsburger.com
 breumd.icu
 brevardgaragedoors.com
@@ -41486,6 +41488,7 @@ cdtm.com
 cdtwb1.site
 cdu.pl
 cdujpn.com
+cdus.us
 cdv.my.id
 cdvaldagno.it
 cdvig.com
@@ -50049,6 +50052,7 @@ credyx.info
 creechnapkin.website
 creedcreatives.org
 creekbottomfarm.com
+creekmuseum.cloud
 creekwooddesoto.com
 creekwoodforestry.com
 creem.me
@@ -52416,6 +52420,7 @@ daileyrunning.shop
 daileyrunningz.shop
 daileytours.shop
 daileytrendz.shop
+dailodanhvong.net
 daily-cash.info
 daily-dirt.com
 daily-email.com
@@ -103059,6 +103064,7 @@ johner.li
 johnfriedrich.com
 johnftocci.net
 johngallant.com
+johnhay.es
 johnhaymond.net
 johnhaymondlawfirm.net
 johnhenrytransport.com
@@ -111929,6 +111935,7 @@ ldaholce.com
 ldbassist.com
 ldbet.net
 ldbwebdev.com
+ldcit.it
 ldcvip.com
 lddz.com
 ldebaat9jp8x3xd6.cf
@@ -163686,6 +163693,7 @@ rlcraig.org
 rlggydcj.xyz
 rlginc.com
 rlgzk.live
+rlivede.com
 rljewellery.com
 rlkwud.us
 rlodvh.us
@@ -171646,6 +171654,7 @@ sgphoki.com
 sgraf.ru
 sgrddentalalumni.org
 sgrege.space
+sgrlogistics.us
 sgsda.com
 sgsf5y.us
 sgsgg.com
@@ -172646,6 +172655,7 @@ shopmmovn.com
 shopmoza.com
 shopmp3.org
 shopmulberryonline.com
+shopmuop.vn
 shopmystore.org
 shopmyway.xyz
 shopn2017.com
@@ -178046,6 +178056,7 @@ sprfifijcn.ga
 sprhs.org
 sprin.tf
 spring-o-pedia.com
+springattic.uk
 springblss.uno
 springboard.co.in
 springbokcasino.co.za
@@ -197814,6 +197825,7 @@ uranomail.es
 uranosc.ru
 uranostaphmail.com
 uraplive.com
+uraussiemate.com
 urawakademi.com
 urbaeaaemail.ru
 urban-greater.webredirect.org
@@ -202408,6 +202420,7 @@ vnkbet.com
 vnkey.shop
 vnklkbqyme.ga
 vnkrgjt10-privmderj.space
+vnku3393.com
 vnlcasino.com
 vnlikegiare.io.vn
 vnllevn.com

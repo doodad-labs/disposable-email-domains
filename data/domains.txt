@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-10-30T23:28:22.087Z
+# Aggregated blacklist generated on 2026-10-31T04:12:23.216Z
  
 0-00.usa.cc
 0-30-24.com
@@ -21840,6 +21840,7 @@ acneproductions.com
 acnerd.com
 acneremovr.com
 acninc.net
+acno-gmail.web.id
 acnonline.com
 acnrnidnrd.ga
 acofecnglt.mailbo.store
@@ -37825,6 +37826,7 @@ bahtiar.id
 bahubalipro.com
 bahulsrtu9.mailbo.store
 bahv5.anonbox.net
+bahzv.anonbox.net
 bai.pm
 bai201.com
 bai47.com
@@ -48593,6 +48595,7 @@ brelixomorvexan.website
 breltafal3160.a.lofteone.ru
 bremet.net
 brencio.com
+brenda-gmail.my.id
 brendl.xyz
 brendonweston.info
 brenlova.com
@@ -65134,6 +65137,7 @@ cqj1ht.site
 cqjda.com
 cqjzyyhlgu.mailbo.store
 cqkah1mrrc.mailbo.store
+cqkl.web.id
 cqkmyu8kla.mailbo.store
 cqkzwkfav2.mailbo.store
 cqm.spymail.one
@@ -76711,6 +76715,7 @@ donotconvert.com
 donotmind.me
 donotpetme.com
 donotrackplus.com
+donp.web.id
 donrem.ru
 donreri1643.a.lofteone.ru
 dons.com
@@ -84230,6 +84235,7 @@ emaildor.com
 emaildrop.io
 emaildrop.space
 emaildublog.com
+emaile.my.id
 emailed.com
 emailedu.tk
 emaileedot.igg.biz
@@ -93399,6 +93405,7 @@ fillari.net
 fillersmedals.top
 fillingmolar.com
 fillnoo.com
+fillselo.web.id
 fillyflair.info
 film-blog.biz
 film-hit.xyz
@@ -101891,6 +101898,7 @@ genx-training.com
 genxwyoixf.mailbo.store
 genyfix.com
 genys.best
+genz.web.id
 genzaiichi.com
 genzmaile.com
 genznet.me
@@ -102094,6 +102102,7 @@ geronra.com
 gerovarnlo.com
 gerrymaneomail.ru
 gerrypastaplus.my.id
+gerrypastaplus.web.id
 gers-phyto.com
 gertenisembul.xyz
 gerties.com.au
@@ -103620,6 +103629,7 @@ giln2.anonbox.net
 gilo.ml
 gilray.net
 gima.my.id
+gimaels.web.id
 gimaik.com
 gimail.cloud
 gimail.com
@@ -119133,6 +119143,7 @@ huyendaitu.com
 huyendieu.tech
 huyentrangfb.site
 huyf.com
+huyhdcim.web.id
 huyhoangg.fun
 huymail.com
 huynguyensolution.com
@@ -134982,6 +134993,7 @@ kabuwinner.com
 kabzwcndyx.mailbo.store
 kac5kijpi0.mailbo.store
 kacakbudalngaji.com
+kacau.web.id
 kacbkno3ae.mailbo.store
 kacer.store
 kaceyahouse.co
@@ -138276,6 +138288,7 @@ kisbetonpumpa.com
 kiscords.biz
 kiscover.com
 kises.biz.id
+kises.web.id
 kishahui.shop
 kishen.dev
 kishopbags.club
@@ -139830,6 +139843,7 @@ kopipahit.ga
 kopipapua.biz
 kopir-ka.ru
 kopisaturasa.com
+kopit.web.id
 kopitiam.cd
 kopleff.com
 koplexcat.ru
@@ -148867,6 +148881,7 @@ lolokakedoiy.com
 lolollololo.shop
 lololo.igg.biz
 lolonababba5lo.site
+lolortishop.web.id
 lolosmasukptn.com
 lolp.dung2tb.io.vn
 lolposters.com
@@ -152204,6 +152219,7 @@ macangarong.buzz
 macaniuo235.cf
 macankumbang.com
 macanshop.biz.id
+macanshop.web.id
 macanta.quest
 macantutul.igg.biz
 macaoguojihui.com
@@ -152328,6 +152344,7 @@ macts.org
 macviro.com
 macwarp.com
 macwish.com
+macxy.web.id
 macys-secure-login.com
 mad1h.cse445.com
 mad4youhostel.onthewifi.com
@@ -156553,6 +156570,7 @@ majedagroup.com
 majedqassem.online
 majedqassem.site
 majeeddigital.com
+majema.org
 majestic-ink.com
 majfk.com
 majiango.com
@@ -180031,6 +180049,7 @@ oceanfree.net
 oceangardenvillashoa.com
 oceani.fr
 oceanicmail.gdn
+oceanicwavel.com
 oceanlifeforever.info
 oceanlog.xyz
 oceanmining.ru
@@ -198795,6 +198814,7 @@ purp.com
 purple.amsterdam
 purple.flu.cc
 purple.igg.biz
+purple.lat
 purple.nut.cc
 purple.usa.cc
 purple.viola.gq

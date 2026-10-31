@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-10-31T11:43:31.764Z
+# Aggregated blacklist generated on 2026-10-31T16:51:54.474Z
  
 0-30-24.com
 0-attorney.com
@@ -26236,6 +26236,7 @@ backyardbff.com
 backyardduty.com
 backyardfood.com
 backyardgardenblog.com
+backyardorbit.me
 backyr.com
 bacninhmail.us
 baco-israil-escort.sa.com
@@ -45896,6 +45897,7 @@ cloneotp.com
 clonequick.com
 clonere.net
 cloneroad.com
+cloneshop24h.com
 clonetop1.shop
 clonetrauvl.space
 clonetrust.com
@@ -146902,6 +146904,7 @@ pastbook.us
 pastbox.net
 pastcave.com
 pastcraze.xyz
+pastcrumbs.me
 pastebinn.com
 pastebitch.com
 pastefulasd.com
@@ -150832,6 +150835,7 @@ plantnove.press
 planto.net
 plantoneplant.com
 plantpolish.com
+plantporch.me
 plantpork.com
 plantproteinshake.com
 plantsalmon.com
@@ -158040,6 +158044,7 @@ quieroparis.com
 quieropromo.com
 quiet-branch.com
 quietcre.us
+quietdetour.me
 quietharborgroup.com
 quietpost.net
 quietsender.com
@@ -161052,6 +161057,7 @@ reegasubs.tk
 reel-innovation.com
 reelduckz.com
 reelmoneys.com
+reelpicnic.me
 reelsgyptio.cf
 reelsgyptio.ga
 reelsgyptio.gq
@@ -162795,6 +162801,7 @@ rezato.com
 rezaz.live
 rezendeco.com
 rezepi.info
+rezeptegesunde.com
 rezgan.com
 rezistyle.com
 rezkavideo.ru
@@ -205789,6 +205796,7 @@ weehy.com
 weekendcarnival.com
 weekendcopines.com
 weekendemail.com
+weekendwok.me
 weekfly.com
 weeklion.com
 weeklydozen.today
@@ -210500,6 +210508,7 @@ xiaoche.ggff.net
 xiaofan.cloudns.org
 xiaoguaishou.icu
 xiaojifang.com
+xiaokong.site
 xiaolajiao.de
 xiaolajiao.dedyn.io
 xiaolajiao.tech

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-10-31T04:12:23.216Z
+# Aggregated blacklist generated on 2026-10-31T11:43:31.764Z
  
 0-30-24.com
 0-attorney.com
@@ -8436,6 +8436,7 @@
 6ox.com
 6papa.ooo
 6paq.com
+6po.net
 6pzukk.host
 6q70sdpgjzm2irltn.cf
 6q70sdpgjzm2irltn.ga
@@ -21217,6 +21218,7 @@ aquas.live
 aquashieldroofingcorporate.com
 aquaspa34.com
 aquastonecoasters.com
+aquatech.com.tr
 aquatherm-koenigsberg.ru
 aquavante.com
 aquazilla.ca
@@ -24247,6 +24249,7 @@ autoclubcar.com
 autocompany.com.br
 autoconcorp.com
 autocoverage.ru
+autodealersdigital.com
 autodidactic.best
 autodienstleistungen.de
 autodiler.net
@@ -26006,6 +26009,7 @@ babau.mywire.org
 babay.web.id
 babayigithukuk.xyz
 babayproject.my.id
+babayshop.id
 babbakids.com
 babbien.com
 babblehorde.site
@@ -27305,6 +27309,7 @@ barbecueliquidators.com
 barbees.net
 barberia.com
 barberinhills.info
+barbet.lat
 barbiedreamhouse.club
 barbieoyungamesoyna.com
 barbodae.com
@@ -27749,6 +27754,7 @@ bawangbodas.online
 bawsny.com
 bawue.com
 bax0599.com
+baxaim.com
 baxidy.com
 baxima.com
 baxterco.com
@@ -36144,6 +36150,7 @@ brooklyngaragedoorrepair.us
 brooklynparkapartments.com
 brooklynskyway.com
 brooklynweddingphotography.com
+brookmoor.one
 brookmount.com
 brookpp.com
 brooks.com
@@ -39066,6 +39073,7 @@ cambiadorparabebe.com
 cambiardeseguro.com
 cambiium.com
 cambodiaheritage.net
+cambodiaindex.com
 cambridge-chimneysweep.us
 cambridge-satchel.com
 cambridge.ga
@@ -43155,6 +43163,7 @@ cheapraybanswayfarersunglassesoutlet.com
 cheapraybanukoutlett.com
 cheaprbsunglasses.website
 cheapreps.org
+cheaprsgolds.cyou
 cheaprsgolds.icu
 cheaps5.com
 cheapscreenprinting.website
@@ -55487,6 +55496,7 @@ detektywenigma.pl
 deterally.xyz
 deterioraml.com
 determail.ru
+determinammc.com
 determined2.net
 determing.website
 determiomail.com
@@ -55897,6 +55907,7 @@ dezend.shop
 dezenfekteurunlerim.xyz
 dezignmart.co.uk
 dezitouch.com
+dezmembrarisipieseauto.ro
 dezuan.top
 dezzire.ru
 df-re.com
@@ -56208,6 +56219,7 @@ diagnosisdoublecheck.com
 diagnosistreatmentprograms.com
 diagnostic-kit.com
 diagnostikaavtov.ru
+diagonalgrp.com
 diagonalli.com
 diagonli.com
 diagonml.com
@@ -56763,6 +56775,7 @@ digitex.gq
 digitisebd.xyz
 digitlolo.web.id
 digitnet.com.br
+digitoolku.web.id
 digitora.my.id
 digitrillion.com
 digiuoso.com
@@ -57552,6 +57565,7 @@ disposablemail.space
 disposablemail.top
 disposablemails.com
 disposablemovies.xyz
+dispose-email.org
 dispose.it
 disposeamail.com
 disposely.xyz
@@ -57969,6 +57983,7 @@ dks97.space
 dksjscfjfgnd.xyz
 dksmnm.fun
 dksureveggie.com
+dksywdia.my.id
 dkt1.com
 dkt24.de
 dkthervr.shop
@@ -59461,6 +59476,7 @@ dotzi.net
 dotzq.com
 dou-ulybka.ru
 dou.pt
+double-email.online
 double-needle.com
 double-weighted.info
 doublebellybuster.com
@@ -69003,6 +69019,7 @@ extrachromfmail.ru
 extracoloorfull.com
 extraconstiinf.com
 extraconstimail.com
+extraconstitammc.com
 extracorpmail.ru
 extracorpomail.com
 extractbags.com
@@ -73418,6 +73435,7 @@ flcp934.com
 fldatacenter.com
 fldecnbvz.ga
 fldetoxcenters.com
+fldubai.com
 fleabitesinfo.com
 fleamarketcloseouts.com
 fleckens.hu
@@ -76074,6 +76092,7 @@ friendstotravel.info
 friendtownz.site
 friessen.pics
 frightnight.org
+frigo.lat
 frik.mx
 fringmail.com
 frinned.com
@@ -77929,6 +77948,7 @@ gameroommasters.com
 gamers-like-us.com
 gamersbrand.com
 gamersdady.com
+gamerservice.org
 gamershubcloud.com
 gamersland.club
 gamersnest.top
@@ -81861,6 +81881,7 @@ gmal.cm
 gmal.co
 gmal.co.com
 gmal.com
+gmal.ru
 gmalay.site
 gmali.com
 gmali.info
@@ -83771,6 +83792,7 @@ graficagutenberg.com
 graficasmaracena.com
 grafikaly.mg
 grafisch.works
+grafity.my.id
 grafixmaven.com
 grafluent.site
 grafpro.com
@@ -84165,6 +84187,7 @@ greecealive.com
 greeceinvestorguide.online
 greedy.fund
 greedy.link
+greek-coins.net
 greekbag.website
 greekcampus.org
 greekcarpets.com
@@ -84640,6 +84663,7 @@ grthost.top
 grtmusic.com
 grtr.com
 gru.company
+gruas.lat
 grubbyhub.org
 grubsnapper.com
 gruby.xyz
@@ -86543,6 +86567,7 @@ halogeterer.monster
 halohobi.xyz
 halonews.us
 halongmedia.com
+halonusantaraku.my.id
 halopere.shop
 halopets.net
 haloqq.info
@@ -86714,6 +86739,7 @@ handcountry.biz
 handcrafted.market
 handcrafters.shop
 handdecting.cf
+hande.ru
 handelarchitectsr.com
 handelo.com.pl
 handgling.website
@@ -92092,6 +92118,7 @@ houstonetire.com
 houstoninsurancems.com
 houstonlawyerscriminallaw.com
 houstonlocksmithpro.com
+houstonmethidist.org
 houstonocdprogram.com
 houstonquote.com
 houstonrealtyexperts.com
@@ -94682,6 +94709,7 @@ ideamarts.net
 ideamax.com
 ideamill19.com
 ideanet.net.id
+ideapint.com
 ideareality.com
 idearia.org
 ideascapitales.com
@@ -95655,6 +95683,7 @@ ilovejesus.com
 iloveloveland.com
 ilovemail.fr
 ilovemodels.cc
+ilovemyemail.net
 ilovemygf.xyz
 ilovemyniggers.club
 ilovemywaterbed.com
@@ -97429,6 +97458,7 @@ inmisli.ga
 inmisli.gq
 inmisli.ml
 inmisli.tk
+inmobiliariaferrer.net
 inmolaryx.es
 inmolilla.biz
 inmonorsk.com
@@ -98086,6 +98116,7 @@ interent.xyz
 interestedfit.com
 interesteds.com
 interestgrove.bond
+interestingfacts.net
 interestsurgical.com
 interex.money
 interexchange.ong
@@ -106650,6 +106681,7 @@ keydcatvi.ga
 keydcatvi.ml
 keydcatvi.tk
 keyemail.com
+keyepin.com
 keyes-electric.com
 keyesrealtors.tk
 keyfood-lb.net
@@ -107724,6 +107756,7 @@ kitabisacup.my.id
 kitacobadulu.mom
 kitamail.com
 kitanroipl.tk
+kitanusantara.my.id
 kitap.az
 kitapidea.com
 kitasspace.com
@@ -125035,6 +125068,7 @@ mehmetaktif.shop
 mehmetbilir.xyz
 mehmetdassak.cf
 mehmetdassak.tk
+mehmetler.com
 mehmetsargin.com
 mehmetsirac.cfd
 mehome.best
@@ -126402,6 +126436,7 @@ mhs-tradersbd.com
 mhs78.space
 mhsanlucarinmobiliaria.com
 mhschool.info
+mhtemail.com
 mhtqq.icu
 mhwlttd.com
 mhwolf.net
@@ -126497,6 +126532,7 @@ mic3eggekteqil8.ml
 mic3eggekteqil8.tk
 mica-compliance.online
 mica-compliance.shop
+mica-compliance.solutions
 mica-compliance.today
 micado.ai
 micalmo.com
@@ -127679,6 +127715,7 @@ misiry.info
 misitionline.com
 misiz.com
 misjudgments473zr.online
+misket.net
 miskolc.club
 mislochesekosi.gq
 mismails.ru
@@ -133197,6 +133234,7 @@ myvisionpractice.com
 myvtools.com
 mywallets.ru
 mywarnernet.net
+mywatergallery.com
 myway.co.uk
 mywayzs.com
 mywdn2.us
@@ -133879,6 +133917,7 @@ namikaze.co.uk
 namilu.com
 namina.com
 namirapp.com
+namkhanh61.net
 namkr.com
 namlaks.com
 namloongjewellery.com
@@ -138946,6 +138985,7 @@ nslpck.us
 nslrw.info
 nsmail.site
 nsmjj.tech
+nsn-tech.com
 nsn22.com
 nsngc.org
 nsnvrpuxx.cf
@@ -151468,6 +151508,7 @@ pnmxb1.site
 pnmyc.us
 pnn79.com
 pnnp.pl
+pnoriko422.biz.id
 pnovecube.com
 pnpaxl.site
 pnpbiz.com
@@ -152655,6 +152696,7 @@ postbenua.ru
 postbox.cyou
 postbox.ie
 postboxr.com
+postbw.com
 postbx.ru
 postbx.store
 postcard.delivery
@@ -156844,6 +156886,7 @@ qexdb6.us
 qextracts.com
 qextytravels.buzz
 qexvhz.com
+qezlim232.biz.id
 qf1tqu1x124p4tlxkq.cf
 qf1tqu1x124p4tlxkq.ga
 qf1tqu1x124p4tlxkq.gq
@@ -157412,6 +157455,7 @@ qqfdgerfee.xyz
 qqfullbet.club
 qqgenk.com
 qqgerbangemas.space
+qqglassltd.com
 qqhokibola.xyz
 qqhokipoker.org
 qqhow.com
@@ -159967,6 +160011,7 @@ rccgmanifestinghisglory.co.uk
 rccrd.de
 rcd.ai
 rcdom.org.uk
+rceayacp526.biz.id
 rcedu.team
 rcee.gq
 rcelectricalcontractorsltd.com
@@ -162427,6 +162472,7 @@ retake.fr
 retapps.biz
 retapps.cloud
 retarusblog.com
+retech.lat
 reteculturalevirginia.net
 reteme.online
 retep.com.au
@@ -166071,6 +166117,7 @@ rushotel24.ru
 rushpa.com
 rushranch.blog
 rushu.online
+rushvera.com
 rushwarsgames.ru
 rusiall.casa
 rusiang.site
@@ -170107,6 +170154,7 @@ seek4wap.com
 seekapps.com
 seekbeacon.com
 seekbusinessblog.club
+seekersdigest.org
 seekfindask.com
 seekincentives.com
 seeking-arrangements.review
@@ -170620,6 +170668,7 @@ sendtextback.com
 sendthe.email
 sendthemails.com
 sendto.cf
+sendtooo.com
 senduvu.com
 senegal-nedv.ru
 senegalove.com
@@ -171554,6 +171603,7 @@ sexfrance.me
 sexfrancecute.lol
 sexfrancecute.tattoo
 sexfrancecute.xyz
+sexgmail.com
 sexical.com
 sexini.com
 sexinlive.xyz
@@ -173231,6 +173281,7 @@ siegeshin.us
 siegesteam.buzz
 siejieriau.info
 siejieriau.org
+siekarmi.live
 siemans.com
 siembrahotel.com
 siemems.com
@@ -173521,6 +173572,7 @@ silvergolddepositories.com
 silvergoldloans.com
 silvergolds.online
 silvergolds.shop
+silverhillcircle.yachts
 silverimpressions.ca
 silverisland-esyoga.com
 silverleafgroup.net
@@ -175011,6 +175063,7 @@ slotbesarslot.com
 slotbet24.bet
 slotergun.fun
 slotes.ru
+slotforgelab.com
 slotgacor4.live
 slotgacor777.click
 slotgames.casino
@@ -181024,6 +181077,7 @@ sukasukasuka.me
 sukatobrud.cloud
 sukcam.org
 suke2.us
+sukemail.com
 sukemshop.com
 sukenjp.com
 sukhnashi.shop
@@ -182517,6 +182571,7 @@ sxbrtohdkk.ga
 sxbsfz.info
 sxbta.com
 sxccwwswedrt.space
+sxcsd.com
 sxfkln.com
 sxge.tk
 sxh-auto.com
@@ -185726,6 +185781,7 @@ templify.my.id
 temploop.net
 templr.com.br
 temply.click
+templyinbox.com
 tempm.cf
 tempm.com
 tempm.ga
@@ -185934,6 +185990,7 @@ tempomail.fr
 tempomail.id
 tempomail.org
 tempomailo.site
+tempomailusa.com
 tempomailzone.xyz
 tempor.site
 temporagourmet.com
@@ -191149,6 +191206,7 @@ toomail.biz
 toomail.net
 toomail.online
 toomail.store
+toomaill.com
 toomeeting.com
 toomtam.com
 toon.ml
@@ -198437,6 +198495,7 @@ userology.com
 userontrack.com
 userpdf.net
 userprediction.com
+userrain.com
 userseo.ga
 userwfargoupdate.com
 userwfnewdev.com
@@ -199036,6 +199095,7 @@ v27hb4zrfc.gq
 v27hb4zrfc.ml
 v27hb4zrfc.tk
 v2fly.xyz
+v2mail.lol
 v2oekh.us
 v2poker.org
 v2raysts.tk
@@ -200693,6 +200753,7 @@ vexdren.org
 vexem.xyz
 vexi.my
 vexint.com
+vexisync.cfd
 vexkon.com
 vexkon.com.tr
 vexkon.info
@@ -200772,6 +200833,7 @@ vghip.com
 vgipr.com
 vglasses.com
 vglobalnews.asia
+vgmale.com
 vgmlnw.com
 vgo-roulette.com
 vgo-roulette.net
@@ -202854,6 +202916,7 @@ voltaer.com
 voltalin.site
 voltanord.org
 voltarana.shop
+voltax.cfd
 volthdas.gq
 voltix.my.id
 voltr.click
@@ -213479,6 +213542,7 @@ yamiyule88.com
 yammoe.yoga
 yammydog.com
 yammyshop.com
+yamndex.ru
 yamoa.shop
 yamoomail.co.pl
 yamory.shop
@@ -214148,6 +214212,7 @@ yetereveoturupkaldim.ga
 yetereveoturupkaldim.tk
 yetgo.site
 yetipay.cd
+yetiscabin.com
 yetmail.net
 yetmail.store
 yetonvata.com
@@ -215527,6 +215592,7 @@ yt-google.com
 yt2.club
 yt6erya4646yf.gq
 yta1965.com
+ytandex.ru
 ytb14a.us
 ytbmc.tk
 ytchanneltips.com
@@ -217036,6 +217102,7 @@ zetabh.com
 zetaecommerce.com
 zetafoto.pl
 zetagames.club
+zetaiklimlendirme.com
 zetalabz.com
 zetap.travel
 zetapool.cloud
@@ -217323,6 +217390,7 @@ zhongchengtz.com
 zhongsongtaitu.com
 zhongvinnr.my.id
 zhongy.in
+zhongziip.com
 zhorachu.com
 zhousj.eu.org
 zhu.nom.za

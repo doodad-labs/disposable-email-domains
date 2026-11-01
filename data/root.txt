@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-11-01T08:44:46.506Z
+# Aggregated blacklist generated on 2026-11-01T16:35:15.522Z
  
 0-30-24.com
 0-attorney.com
@@ -12474,6 +12474,7 @@ abnemd.site
 abnermontessori.org
 abnovel.com
 abnscripts.com
+abnuri.biz.id
 aboba.com
 abobrain.mobi
 abodemaldives.com
@@ -14021,6 +14022,7 @@ adobee.space
 adobesignaturemoments.com
 adog.us
 adolas.eu
+adoleh.biz.id
 adolescenteatingdisorderplan.com
 adolescenteatingdisorderprogram.com
 adolescenteatingdisorderprogramreviews.com
@@ -14883,6 +14885,7 @@ afun777casino.com
 afunthingtodo.com
 afuture.date
 afuy.com
+afuyo.com
 afwira.cf
 afwira.ml
 afwira.tk
@@ -15326,6 +15329,7 @@ ahhtee.com
 ahhw.com
 ahhyaa.com
 ahieh.com
+ahifig.my.id
 ahihi.site
 ahihi2112.site
 ahihimail.com
@@ -15763,6 +15767,7 @@ aiptyyilan.shop
 aipuma.com
 aiqisp.com
 aiqoe.com
+aiqseo.com
 air-blog.com
 air-bubble.bedzin.pl
 air-games.icu
@@ -19015,6 +19020,7 @@ anaf.com
 anafentos.com
 anaffidensa.tk
 anafresetubal.com
+anagenesiscounseling.com
 anaglyph.xyz
 anagoomail.ru
 anagotulsa.net
@@ -19226,6 +19232,7 @@ andhani.ml
 andhra2america.com
 andia.services
 andiamoainnovare.eu
+andie.biz.id
 andinafarma.com
 andinamotors.co
 andindoc.com
@@ -21654,6 +21661,7 @@ areyouthere.org
 arfamed.com
 arfgroup.com.tr
 arflirhu.tk
+arfoslpp.web.id
 arg.edu.pl
 argame.name
 argand.nl
@@ -21763,6 +21771,7 @@ ariproch.gq
 ariproch.ml
 ariproch.tk
 arirex.email
+arisan6.web.id
 arisecreation.com
 arisenet.com
 arisgans.xyz
@@ -22960,6 +22969,7 @@ aslibayar.com
 aslibayar.org
 aslihansekeroglu.cfd
 aslldsa.site
+asloavjm.web.id
 asls.ml
 aslsen.com
 asltizffe.ml
@@ -25343,6 +25353,7 @@ ayulaksmi.art
 ayumail.com
 ayumas.store
 ayunen.my.id
+ayunun.web.id
 ayupiranti.com
 ayurveda-lakshmi.nl
 ayurvedablog.com
@@ -25453,6 +25464,7 @@ azhsec.org
 azhsek.org
 azhsk.org
 azhstud.org
+azhvino.web.id
 aziamail.com
 azie.fun
 azim.one
@@ -25534,6 +25546,7 @@ azqas.com
 azqtbv.info
 azra.net
 azreproperties.com
+azriltakutnye.biz.id
 azrmail.com
 azrogo.net
 azrooh.ru
@@ -27080,6 +27093,7 @@ bangdieukhien.net
 bangeer-55sw.xyz
 bangemji.my.id
 bangers.app
+bangfang.biz.id
 banggiaxecu.net
 bangilan.ga
 bangilan.ml
@@ -29015,6 +29029,7 @@ bellmofac.ga
 bellnet.ca
 bellohogarnc.com
 bellouth.net
+bellsgrove.biz.id
 bellshoalsanimalhospitalofbrandon.com
 bellshoalsvet.com
 bellsoith.net
@@ -30739,6 +30754,7 @@ bewleysnorthamerica.com
 bewleysusa.com
 bewumarkets.site
 bex.ro
+bexanu.my.id
 bexlom.click
 bexnxx.giize.com
 bexnxx.xyz
@@ -31910,6 +31926,7 @@ biorezonans-warszawa.com.pl
 biorocketblasttry.com
 biorosen1981.ru
 biorsmail.ru
+bios.web.id
 bioscelta.com
 bioschwartz.ru
 bioscience-proofreaders.com
@@ -32902,6 +32919,7 @@ blindparrot.info
 blindshouston.com
 blindy.me
 bling.com
+blinkdl.my.id
 blinkinbox.com
 blinklaunch.click
 blinkmage.com
@@ -42198,6 +42216,7 @@ cessmonre.ga
 cessmonre.gq
 cessmonre.ml
 cessmonre.tk
+cestanobre.app
 cestdudigital.info
 cestocon.ga
 cestocon.gq
@@ -57579,6 +57598,7 @@ disposablemail.space
 disposablemail.top
 disposablemails.com
 disposablemovies.xyz
+disposalmail.com
 dispose-email.org
 dispose.it
 disposeamail.com
@@ -60453,6 +60473,7 @@ dropfam.com
 dropfresh.net
 dropinboxes.com
 dropjar.com
+dropkickmail.com
 droplar.com
 droplister.com
 dropmail.cc
@@ -63276,6 +63297,7 @@ edupolska.edu.pl
 edupost.pl
 eduq3.us
 edur2.us
+edurao.com
 eduread.press
 edurealistic.ru
 edurojaiye.net
@@ -73349,6 +73371,7 @@ flash-mail.xyz
 flash-sale.icu
 flashablephotos.com
 flashbjgsp.site
+flashbox.my.id
 flashcipher.com
 flashclassified.com
 flashcongo.cd
@@ -75285,6 +75308,7 @@ francistan.com
 francistaxes.com
 francisxkelly.com
 franck-helin.com
+franckmail.com
 franco.com
 francoiseroux.com
 frandin.com
@@ -82537,6 +82561,7 @@ goinglownow.com
 gojackpot88login.com
 gojek303.info
 gojinkatakeaway.com
+gojoak.biz.id
 gojomi.com
 gok.kr
 gokan.cf
@@ -89362,6 +89387,7 @@ hhgg33.com
 hhgytobdbf.ga
 hhh.sytes.net
 hhha.net
+hhhcc.online
 hhhh9927.com
 hhhhb.com
 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh.info
@@ -94440,6 +94466,7 @@ ichibata.online
 ichichich.faith
 ichics.com
 ichier.biz.id
+ichier.my.id
 ichigo.me
 ichigoop.me
 ichimail.com
@@ -94513,6 +94540,7 @@ iclouh.com
 icloulb.com
 icloulb.kr
 iclound.com
+iclourd.com
 iclouud.com
 iclpud.co
 iclpud.com
@@ -99475,6 +99503,7 @@ isoallml.ru
 isoamail.ru
 isobaseball.com
 isobelcarter.buzz
+isocar.ru
 isoceemail.ru
 isocelomail.com
 isochor.site
@@ -100883,6 +100912,7 @@ jamesbradystewart.com
 jamesbrooke.net
 jamesdenselow.com
 jamesejoneslovevader.com
+jamesek.biz.id
 jamesfabiebailbonds.com
 jamesgooch.com
 jamesgoodwin.com
@@ -101060,6 +101090,7 @@ janusoffical.com
 janvan.gent
 janverschuuren.com
 janwar.info
+janz.web.id
 janza.site
 jaobk.com
 jaohuay.com
@@ -103314,6 +103345,7 @@ jokerbetcasino.xyz
 jokerbetgiris.info
 jokerbolalink.net
 jokerdd.com
+jokermarketing.my.id
 jokerofalltrades.org
 jokerpoker.best
 jokerpython.tech
@@ -106121,6 +106153,7 @@ kecgii.tokyo
 ked6f9.us
 kedaipulsa.online
 kedaiqq.com
+kededep.biz.id
 kedeni.shop
 kedikumu.net
 kedipansiyonu.net
@@ -107162,6 +107195,7 @@ kidohalgeyo.com
 kids-zuerich.ch
 kids316.com
 kids4adventure.com
+kids77.icu
 kidsarella.ru
 kidsbirmingham.com
 kidscy.com
@@ -107869,6 +107903,7 @@ kiwivault.com
 kiwiwave.com
 kiwkiw.shop
 kiwlo.com
+kiwof.com
 kiworegony.com
 kiwsz.com
 kixb.com
@@ -109810,6 +109845,7 @@ kucingarong.gq
 kucingarong.ml
 kucinge.site
 kuciro.biz.id
+kuciwa.web.id
 kucix.com
 kucoba.ml
 kucoin.one
@@ -112106,6 +112142,7 @@ lds.li
 ldssharingtable.com
 ldtp.com
 ldtr808.com
+ldtzy.xyz
 ldua.com
 lduj.com
 ldwdkj.com
@@ -114776,6 +114813,7 @@ litec.site
 liteclubsds.com
 litecos.com
 lited.site
+litedl.com
 litedrop.com
 litee.site
 liteenvelope.online
@@ -115151,6 +115189,7 @@ livewellforlife.net
 livewellwithcara.com
 livewildlyinspired.com
 liveyahoo.com
+liveyoutube.my.id
 livfdr.tech
 liviahotel.net
 livie.cfd
@@ -117540,6 +117579,7 @@ luftcinbull.tk
 lufyalp.best
 luggageandbag.com
 luggagetravelling.info
+lugiz.com
 lugmail.com
 lugubr.com
 luhec.com
@@ -118124,6 +118164,7 @@ lyjnhkmpe1no.ml
 lyjnhkmpe1no.tk
 lyjtjgjy.xyz
 lykaon.com
+lyl-sinoamigo.com
 lylilupuzy.pl
 lylnav.com
 lymaza.info
@@ -118182,6 +118223,7 @@ lys48fgq.cn
 lyspacemail.shop
 lysszy.com
 lystig.dk
+lyta.my.id
 lytchett.com
 lytchi.com
 lyticallymail.com
@@ -120127,6 +120169,7 @@ mailcc.ml
 mailcc.tk
 mailccconsequatur.my.id
 mailccmaiores.my.id
+mailcctemporibus.my.id
 mailcdn.ml
 mailch.buzz
 mailch.com
@@ -123121,6 +123164,7 @@ marywesley.com
 mas1red.pro
 mas90help.com
 masaa42.shop
+masaas.biz.id
 masadvertisinginc.com
 masafatmarathon.com
 masafiagrofood.com
@@ -129694,6 +129738,7 @@ monwho.org
 monyal.fun
 monyal.sbs
 monyal.shop
+monz.web.id
 mooandpierre.com
 mooblan.ml
 moodarttekstil.xyz
@@ -137216,6 +137261,7 @@ nimbponmi.ga
 nimbponmi.gq
 nimbponmi.ml
 nimbponmi.tk
+nimbusgiga.com
 nimbusigma.com
 nimbusmono.com
 nimbusreach.info
@@ -139409,6 +139455,7 @@ nusabet.info
 nusaena.best
 nusaena.web.id
 nusahomeinteriors.com
+nusamail.my.id
 nusamail.web.id
 nusamart.site
 nusantara-news-indonesia.my.id
@@ -139421,6 +139468,7 @@ nusjhetd.xyz
 nusoe.xyz
 nusparkling.com
 nusportsacademy.com
+nusr.biz.id
 nussc.com
 nust.org
 nustarcasinoapk.club
@@ -140686,6 +140734,7 @@ ofabio.com.br
 ofacchecking.com
 ofacer.com
 ofags.com
+ofakad.biz.id
 ofanda.com
 ofansclub.com
 ofansifbet2.com
@@ -140935,6 +140984,7 @@ og7nz.us
 oga.bet
 ogabet.casino
 ogabriel.xyz
+ogaliy.biz.id
 oganijuana.com
 ogblh.com
 ogbrandy.com
@@ -140942,6 +140992,7 @@ ogbstudios.com
 ogcdhkvdw.shop
 ogchecker.com
 ogclone.com
+ogcover.com
 ogdencondos.com
 ogemail.com
 oggology.com
@@ -142669,6 +142720,7 @@ onlyhaededor.com
 onlyjame9.com
 onlykills.xyz
 onlylibraries.com
+onlylicensedcasinos.com
 onlymarlon.my.id
 onlyme.pl
 onlymyshop.ru
@@ -148429,6 +148481,7 @@ perichonebml.ru
 pericolgmail.ru
 perigymail.com
 perihepamail.com
+peril.my.id
 perila-ufa.ru
 perillorollsroyce.com
 perilpeeperrower.site
@@ -151915,6 +151968,7 @@ pokr-str.ru
 pokr.com
 pokraska1.ru
 pokrowcede.pl
+poks66.icu
 poksieal.com
 poksmail.com
 pokupai-mili.ru
@@ -155190,6 +155244,7 @@ protectyourhealthandwealth.com
 protein-krasnodar.ru
 proteintopper.com
 protelpeca.ru
+protempid.my.id
 protempmail.com
 protestly.com
 protestore.co
@@ -157392,6 +157447,7 @@ qp22222.net
 qp4.bet
 qp87fb.us
 qpalong.com
+qpalzm.shop
 qpapa.ooo
 qpaud9wq.com
 qpdishwhd.buzz
@@ -161897,6 +161953,7 @@ rendrone.online
 rendrone.xyz
 rendymail.com
 reneeelyse.com
+reneeen.biz.id
 reneemak.com
 reneemonroe.com
 reneewfitness.com
@@ -161927,6 +161984,8 @@ rennieexpress.delivery
 renno.email
 rennoverahuset.nu
 reno6.space
+renoar.web.id
+renoat.biz.id
 renobussines.com
 renocemail.ru
 renodepot.net
@@ -163395,6 +163454,7 @@ rikpol.site
 rikputs.space
 rikrod.com
 riks1337.site
+rikuuk.my.id
 rilholding.net
 rilholding.org
 rilingna.cf
@@ -163432,6 +163492,7 @@ rims.rocks
 rimshacooking.site
 rimupaloripu.tk
 rin71.space
+rinaas.web.id
 rinaddresmo.com
 rinadiana.art
 rinaldistore.site
@@ -164776,6 +164837,7 @@ roomplumeroutine.lol
 roomrapat.my.id
 roomserve.ir
 roomservicemassage.com
+roomsranked.com
 roomsystem.us
 roomszum.my.id
 roomy-hostel.ru
@@ -166897,6 +166959,7 @@ sabdestore.xyz
 sabeelahussain.com
 sabeeshbala.com
 sabelpr.com
+saber007.biz.id
 saberastro.space
 sabersi.io
 sabesmail.com
@@ -167059,6 +167122,7 @@ sadfsdfdds3er.tk
 sadfsdfds3er.tk
 sadhak.info
 sadim.site
+sadinah.web.id
 sadleraccountants.co.uk
 sadmail.store
 sadnap.eu.org
@@ -174926,6 +174990,7 @@ sleeck.website
 sleekdirectory.com
 sleektronic.com
 sleepary.com
+sleepaudit.io
 sleepauraluxe.com
 sleepcheaptoday.com
 sleepeasy.club
@@ -183558,6 +183623,7 @@ tajmahalterrassa.com
 tajneprorostva.com
 tajwork.com
 takaconnect.com
+takaen.biz.id
 takaphis.cf
 takaphis.ga
 takaphis.ml
@@ -184164,6 +184230,7 @@ tarnox232.biz.id
 tarocena.com
 tarochips.com
 tarogad.online
+taroot.web.id
 tarosorge.com
 tarot-rc.ru
 tarotllc.com
@@ -184830,6 +184897,7 @@ tealeafsolution.com
 tealeavesone.com
 teallvbs.xyz
 team-affinity.com
+team.biz.id
 team110.biz.id
 team30.live
 teamails.net
@@ -185800,6 +185868,7 @@ tempfwd.com
 tempgbox.net
 tempgmail.co
 tempgmail.ga
+tempify.my.id
 tempikpenyu.xyz
 tempimail.org
 tempimbox.com
@@ -187415,6 +187484,7 @@ thecircleexperience.com
 thecisco.xyz
 thecitiescafe.com
 thecity.biz
+thecitylife.app
 thecitymd.org
 thecitypress.biz
 theclairebarkerband.com
@@ -188944,6 +189014,7 @@ thokcasino.net
 tholo.energy
 thomas-henon.fr
 thomasasaro.com
+thomasat.biz.id
 thomasballard.uk
 thomasblackerby.org.uk
 thomascoleman.buzz
@@ -190198,6 +190269,7 @@ tko.co.kr
 tko.kr
 tkone.com
 tkonu.com
+tkp.edu.rs
 tkpard90.com
 tkpgy.live
 tkpmxt.fun
@@ -195517,6 +195589,7 @@ tysonemanuel.com
 tysonsdivorce.party
 tysu.site
 tytfhcghb.ga
+tytgg.com.cn
 tytydrinka.com
 tytyr.pl
 tyu.com
@@ -195770,6 +195843,7 @@ ubdc.com
 ubdeexu2ozqnoykoqn8.ml
 ubdeexu2ozqnoykoqn8.tk
 ubehalilac.ga
+ubekir.biz.id
 ubemail.com
 uber-mail.com
 uber333.com
@@ -196151,6 +196225,7 @@ ufgqgrid.xyz
 ufhuheduf.com
 ufi9tsftk3a.pl
 ufibmail.com
+ufinug.biz.id
 ufismail.com
 ufiwmslou.shop
 ufjf.br.com
@@ -206182,6 +206257,7 @@ werkbike.com
 werkenbij.nl
 werkprocessen.app
 werkr.com
+werkstatt-weber.com
 werkuldino.buzz
 werkzoeken.com
 wermicorp.site
@@ -212233,6 +212309,7 @@ xposeu.com
 xposible.info
 xpouch.com
 xprem.my.id
+xpremium-mail.online
 xpremium.pro
 xpresiku.com
 xpressbattery.com
@@ -218744,6 +218821,7 @@ zxqzin.cn
 zxrey.club
 zxrspiw.shop
 zxrspiwv2.shop
+zxuann.my.id
 zxuctaviaperze.info
 zxuinf.us
 zxusnkn0ahscvuk0v.cf
@@ -218816,6 +218894,8 @@ zysystechnologies.com
 zyte.site
 zytrzz.com
 zyvenix.cfd
+zyvo.my.id
+zyvo.web.id
 zyyberrys.com
 zyyu6mute9qn.cf
 zyyu6mute9qn.ga

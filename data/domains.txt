@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-11-01T08:44:46.506Z
+# Aggregated blacklist generated on 2026-11-01T16:35:15.522Z
  
 0-00.usa.cc
 0-30-24.com
@@ -11527,6 +11527,7 @@
 5bfywo4voa.mailbo.store
 5bgdvtd9ot.mailbo.store
 5bibcl3244.mailbo.store
+5bio0m.sadinah.web.id
 5biya2otdnpkd7llam.cf
 5biya2otdnpkd7llam.ga
 5biya2otdnpkd7llam.gq
@@ -20965,6 +20966,7 @@ abnemd.site
 abnermontessori.org
 abnovel.com
 abnscripts.com
+abnuri.biz.id
 abo-free.fr.nf
 aboba.com
 abobrain.mobi
@@ -23747,6 +23749,7 @@ afun777casino.com
 afunthingtodo.com
 afuture.date
 afuy.com
+afuyo.com
 afvrt1jad5.mailbo.store
 afvz70j8ak.mailbo.store
 afw.fr.nf
@@ -24840,6 +24843,7 @@ aipuma.com
 aiqbiyroj2.mailbo.store
 aiqisp.com
 aiqoe.com
+aiqseo.com
 air-blog.com
 air-bubble.bedzin.pl
 air-games.icu
@@ -28592,6 +28596,7 @@ anaf.com
 anafentos.com
 anaffidensa.tk
 anafresetubal.com
+anagenesiscounseling.com
 anaglyph.xyz
 anagoomail.ru
 anagotulsa.net
@@ -28824,6 +28829,7 @@ andhra2america.com
 andi7wou4s.mailbo.store
 andia.services
 andiamoainnovare.eu
+andie.biz.id
 andinafarma.com
 andinamotors.co
 andindoc.com
@@ -29452,6 +29458,7 @@ annmariewilke.com
 annmccoy4hisd.com
 annnek.dpdns.org
 annnekkk.com
+annnekkk.dpdns.org
 anno-game.online
 anno.ll47.net
 anno90.nl
@@ -31610,6 +31617,7 @@ areyouthere.org
 arfamed.com
 arfgroup.com.tr
 arflirhu.tk
+arfoslpp.web.id
 arg.edu.pl
 arg.luk2.com
 argame.name
@@ -31729,6 +31737,7 @@ ariproch.ml
 ariproch.tk
 arire.blasis.io.vn
 arirex.email
+arisan6.web.id
 arisecreation.com
 arisenet.com
 arises3642.a.lofteone.ru
@@ -33070,6 +33079,7 @@ aslibayar.org
 aslihansekeroglu.cfd
 asll.cse445.com
 aslldsa.site
+asloavjm.web.id
 asls.ml
 aslsen.com
 asltizffe.ml
@@ -36077,6 +36087,7 @@ azhsec.org
 azhsek.org
 azhsk.org
 azhstud.org
+azhvino.web.id
 aziamail.com
 azie.fun
 azim.autokey247.com
@@ -36173,6 +36184,7 @@ azqgnnymhm.mailbo.store
 azqtbv.info
 azra.net
 azreproperties.com
+azriltakutnye.biz.id
 azrmail.com
 azrogo.net
 azrooh.ru
@@ -40700,6 +40712,7 @@ bellmofac.ga
 bellnet.ca
 bellohogarnc.com
 bellouth.net
+bellsgrove.biz.id
 bellshoalsanimalhospitalofbrandon.com
 bellshoalsvet.com
 bellsoith.net
@@ -42515,6 +42528,7 @@ bewleysnorthamerica.com
 bewleysusa.com
 bewumarkets.site
 bewvk.anonbox.net
+bexanu.my.id
 bexfs.anonbox.net
 bexj.tieumuoishop.io.vn
 bexlom.click
@@ -45204,6 +45218,7 @@ blindshouston.com
 blindspot.addy.io
 blindy.me
 bling.com
+blinkdl.my.id
 blinkinbox.com
 blinklaunch.click
 blinkmage.com
@@ -49333,6 +49348,7 @@ bscglobal.net
 bschhirdavatcilik.site
 bschost.com
 bscse.okcx.edu.rs
+bscse.tkp.edu.rs
 bsctalias.com
 bsctoolkit.com
 bsctv.cd
@@ -49344,6 +49360,7 @@ bsdu32.buzz
 bsece.anonbox.net
 bsecure.ir
 bseee.okcx.edu.rs
+bseee.tkp.edu.rs
 bselek.website
 bsem1xy7u6.mailbo.store
 bsenmail.com
@@ -55615,6 +55632,7 @@ ccp.10mail.org
 ccp.luk2.com
 ccparx.net
 ccpduts.my.id
+ccpro.click
 ccpro.xyz
 ccpt.lol
 ccpt.org.zw
@@ -56633,6 +56651,7 @@ cessmonre.ga
 cessmonre.gq
 cessmonre.ml
 cessmonre.tk
+cestanobre.app
 cestdudigital.info
 cestocon.ga
 cestocon.gq
@@ -74753,6 +74772,7 @@ disposablemail.space
 disposablemail.top
 disposablemails.com
 disposablemovies.xyz
+disposalmail.com
 dispose-email.org
 dispose.it
 disposeamail.com
@@ -78190,6 +78210,7 @@ dropfam.com
 dropfresh.net
 dropinboxes.com
 dropjar.com
+dropkickmail.com
 droplar.com
 droplister.com
 dropmail.cc
@@ -82025,6 +82046,7 @@ edupolska.edu.pl
 edupost.pl
 eduq3.us
 edur2.us
+edurao.com
 eduread.press
 edurealistic.ru
 edurojaiye.net
@@ -94628,6 +94650,7 @@ flash.aleeas.com
 flash.caldwell.ninja
 flashbjgsp.site
 flashbox.5july.org
+flashbox.my.id
 flashcipher.com
 flashclassified.com
 flashcongo.cd
@@ -95483,6 +95506,7 @@ fmovies-to.best
 fmox6s69.luksarcenter.ru
 fmpromagazine.com
 fmproworld.com
+fmpt.mailcctemporibus.my.id
 fmptestuje.pl
 fmqpwzhz9a.mailbo.store
 fmqynswulg.mailbo.store
@@ -96964,6 +96988,7 @@ francistan.com
 francistaxes.com
 francisxkelly.com
 franck-helin.com
+franckmail.com
 franco.com
 francoiseroux.com
 frandin.com
@@ -114377,6 +114402,7 @@ hhgg33.com
 hhgytobdbf.ga
 hhh.sytes.net
 hhha.net
+hhhcc.online
 hhhh9927.com
 hhhhb.com
 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh.info
@@ -121058,6 +121084,7 @@ iclouh.com
 icloulb.com
 icloulb.kr
 iclound.com
+iclourd.com
 iclouud.com
 iclpud.co
 iclpud.com
@@ -126999,6 +127026,7 @@ isoallml.ru
 isoamail.ru
 isobaseball.com
 isobelcarter.buzz
+isocar.ru
 isoceemail.ru
 isocelomail.com
 isochor.site
@@ -132296,6 +132324,7 @@ jokerbetcasino.xyz
 jokerbetgiris.info
 jokerbolalink.net
 jokerdd.com
+jokermarketing.my.id
 jokerofalltrades.org
 jokerpoker.best
 jokerpython.tech
@@ -136440,6 +136469,7 @@ keda.luk2.com
 kedaipulsa.online
 kedaiqq.com
 kedd.igg.biz
+kededep.biz.id
 kedeni.shop
 kedikumu.net
 kedipansiyonu.net
@@ -138483,6 +138513,7 @@ kiwivault.com
 kiwiwave.com
 kiwkiw.shop
 kiwlo.com
+kiwof.com
 kiworegony.com
 kiwsz.com
 kixb.com
@@ -147231,6 +147262,7 @@ litec.site
 liteclubsds.com
 litecos.com
 lited.site
+litedl.com
 litedrop.com
 litee.site
 liteenvelope.online
@@ -147627,6 +147659,7 @@ livewellforlife.net
 livewellwithcara.com
 livewildlyinspired.com
 liveyahoo.com
+liveyoutube.my.id
 livfdr.tech
 liviahotel.net
 livie.cfd
@@ -150677,6 +150710,7 @@ luftcinbull.tk
 lufyalp.best
 luggageandbag.com
 luggagetravelling.info
+lugiz.com
 lugmail.com
 lugubr.com
 luhamhs8bv.mailbo.store
@@ -151514,6 +151548,7 @@ lyjtjgjy.xyz
 lyk2mukxhc.mailbo.store
 lykaon.com
 lykiaimxip.mailbo.store
+lyl-sinoamigo.com
 lylilupuzy.pl
 lylnav.com
 lymaza.info
@@ -173919,6 +173954,7 @@ nevca.giize.com
 neveahwellness.com
 nevears.info
 nevenio.com
+never-mind.edurao.com
 never.ga
 never.mailbo.store
 never7.cloudns.be
@@ -175652,6 +175688,7 @@ nimbponmi.ga
 nimbponmi.gq
 nimbponmi.ml
 nimbponmi.tk
+nimbusgiga.com
 nimbusigma.com
 nimbusmono.com
 nimbusreach.info
@@ -178577,6 +178614,7 @@ nusabet.info
 nusaena.best
 nusaena.web.id
 nusahomeinteriors.com
+nusamail.my.id
 nusamail.web.id
 nusamart.site
 nusantaraku.my.id
@@ -178589,6 +178627,7 @@ nusjhetd.xyz
 nusoe.xyz
 nusparkling.com
 nusportsacademy.com
+nusr.biz.id
 nussba.achiefdoms.com
 nussc.com
 nustarcasinoapk.club
@@ -180897,6 +180936,7 @@ ogcdhkvdw.shop
 ogchecker.com
 ogcl.mimimail.me
 ogclone.com
+ogcover.com
 ogcya7xkoz.mailbo.store
 ogde4xeiha.mailbo.store
 ogdencondos.com
@@ -183003,6 +183043,7 @@ onlyhaededor.com
 onlyjame9.com
 onlykills.xyz
 onlylibraries.com
+onlylicensedcasinos.com
 onlymarlon.my.id
 onlyme.pl
 onlymyshop.ru
@@ -197764,6 +197805,7 @@ protectyourhealthandwealth.com
 protein-krasnodar.ru
 proteintopper.com
 protelpeca.ru
+protempid.my.id
 protempmail.com
 protestly.com
 protestore.co
@@ -201346,6 +201388,7 @@ qp8aeeyfpe.mailbo.store
 qp9y.cse445.com
 qpalong.com
 qpalqnztn2.mailbo.store
+qpalzm.shop
 qpapa.ooo
 qpaud9wq.com
 qpbb.dung2tb.io.vn
@@ -210603,6 +210646,7 @@ roomplumeroutine.lol
 roomrapat.my.id
 roomserve.ir
 roomservicemassage.com
+roomsranked.com
 roomsystem.us
 roomszum.my.id
 roomy-hostel.ru
@@ -213686,6 +213730,7 @@ sabeelahussain.com
 sabeeshbala.com
 sabelpr.com
 saber.9amail.top
+saber007.biz.id
 saberastro.space
 sabersi.io
 sabertooth.anonaddy.me
@@ -222856,6 +222901,7 @@ sleeck.website
 sleekdirectory.com
 sleektronic.com
 sleepary.com
+sleepaudit.io
 sleepauraluxe.com
 sleepcheaptoday.com
 sleepeasy.club
@@ -226687,6 +226733,7 @@ spns.org
 spo.bjork.asia
 spo.bjork.run
 spo.jtstore.id
+spo.ldtzy.xyz
 spo.rpdodo.com
 spo777.com
 spoasta.me
@@ -235865,6 +235912,7 @@ temp.landrypf.com
 temp.looper13.dpdns.org
 temp.looper13.xyz
 temp.ly
+temp.lyta.my.id
 temp.mail.y59.jp
 temp.mailtemps.com
 temp.matthancock.me
@@ -235973,6 +236021,7 @@ tempfwd.com
 tempgbox.net
 tempgmail.co
 tempgmail.ga
+tempify.my.id
 tempii.igg.biz
 tempikpenyu.xyz
 tempimail.org
@@ -237849,6 +237898,7 @@ thecircleexperience.com
 thecisco.xyz
 thecitiescafe.com
 thecity.biz
+thecitylife.app
 thecitymd.org
 thecitypress.biz
 theclairebarkerband.com
@@ -247176,6 +247226,7 @@ tyswbppx5g.mailbo.store
 tyt2tr9jqf.mailbo.store
 tytdgdkfsn.mailbo.store
 tytfhcghb.ga
+tytgg.com.cn
 tytydrinka.com
 tytyr.pl
 tyu.com
@@ -261926,6 +261977,7 @@ werkbike.com
 werkenbij.nl
 werkprocessen.app
 werkr.com
+werkstatt-weber.com
 werkuldino.buzz
 werkzoeken.com
 wermicorp.site
@@ -266780,6 +266832,8 @@ x.beervape.com
 x.bigpurses.org
 x.boscage.net
 x.coloncleanse.club
+x.com.lento.asia
+x.com.thumoi.com
 x.crazymail.website
 x.emailfake.ml
 x.fackme.gq
@@ -270273,6 +270327,7 @@ xpq.emlpro.com
 xpqj.autokey247.com
 xpr6i0ftyf.mailbo.store
 xprem.my.id
+xpremium-mail.online
 xpremium.pro
 xpresiku.com
 xpressbattery.com
@@ -276379,6 +276434,7 @@ z-zap.ru
 z.6.electricistaurgente.net
 z.beervape.com
 z.io
+z.lucktaro.com
 z.luk2.com
 z.polosburberry.com
 z.thepinkbee.com
@@ -279197,6 +279253,7 @@ zod.edu.pl
 zodekb.ru
 zodiac.maskmy.id
 zodjbzyb.xyz
+zodo.ufinug.biz.id
 zodru.shop
 zoe.eskulkulkratos.biz.id
 zoe6te7pyu.mailbo.store
@@ -279256,7 +279313,10 @@ zojx.spymail.one
 zojxizlaz8.mailbo.store
 zojyta.xyz
 zojzrlucdk.mailbo.store
+zok.afati.my.id
+zok.ahifig.my.id
 zok.kse.skin
+zok.peril.my.id
 zok5e014s2.mailbo.store
 zokajst.cse445.com
 zokaweb.xyz
@@ -279459,6 +279519,7 @@ zoparel.com
 zopeqsa.space
 zopkeli231.biz.id
 zopwkvgqzo.mailbo.store
+zoqi.ofakad.biz.id
 zoqq.luk2.com
 zoqqa.com
 zoqqa.luk2.com
@@ -279527,10 +279588,14 @@ zowpy3psi3.mailbo.store
 zowrxkkau0.mailbo.store
 zowtaguz.shop
 zowuto.info
+zoxa.ichier.my.id
 zoxcp.online
+zoxe.masaas.biz.id
 zoxg.com
 zoxms.fun
 zoxo.app
+zoye.takaen.biz.id
+zoyo.renoat.biz.id
 zoyt.wumikari.tech
 zozaco.com
 zozimail.com
@@ -279763,6 +279828,7 @@ zrp07mwjld.mailbo.store
 zrpfv.blasis.io.vn
 zrpu.hair
 zrpurhxql.pl
+zrq28h.poks66.icu
 zrq896p3lr.mailbo.store
 zrqeqmtj9s.mailbo.store
 zrqlejfyt.shop
@@ -279833,6 +279899,7 @@ zsgnx.cyberspire.shop
 zsgo45.com
 zsguo.com
 zshaiwa.com
+zsi.janz.web.id
 zsi.lotz.web.id
 zsi1alfxnr.mailbo.store
 zsi7e72fp6.mailbo.store
@@ -279938,6 +280005,7 @@ ztpggxiy5s.mailbo.store
 ztpw.cse445.com
 ztrackz.tk
 ztrgdmno3x.mailbo.store
+zts.monz.web.id
 zts3smd0n6.mailbo.store
 ztsecurity.org
 ztslc1myga.mailbo.store
@@ -279948,6 +280016,7 @@ ztu.capcuter.cloud
 ztunneler.com
 ztunnelersik.com
 ztuu.com
+ztv.bios.web.id
 ztva.minhaishop.click
 ztvg.bjorwi.lat
 ztvn.442.giessdorf.eu.org
@@ -279956,6 +280025,7 @@ ztwvbl6nft.mailbo.store
 ztww.emltmp.com
 ztxf.freeml.net
 ztxn.autokey247.com
+ztyeuc.thomasat.biz.id
 ztymm.com
 ztzj.luk2.com
 ztzl1ift94.mailbo.store
@@ -279995,8 +280065,13 @@ zuc.emlpro.com
 zucan.click
 zucc.com
 zucconi-dublin.com
+zuce.adoleh.biz.id
 zuchakoo.club
+zuci.team.biz.id
 zuckberg.biz.id
+zuco.rinaas.web.id
+zucu.rikuuk.my.id
+zucu.ubekir.biz.id
 zud99opa8r.mailbo.store
 zuddruuyx9.mailbo.store
 zude.avlnch.store
@@ -280043,6 +280118,7 @@ zuj.me
 zuj0etnds4.mailbo.store
 zujb.com
 zujdg1.site
+zujo.gojoak.biz.id
 zujrn4.us
 zuju.avnsaaeu.my.id
 zujy.com
@@ -280108,6 +280184,7 @@ zuov.emlhub.com
 zuovbq6ryn.mailbo.store
 zuperar.com
 zuperholo.com
+zupi.jamesek.biz.id
 zupka.anglik.org
 zupload.xyz
 zupper.ml
@@ -280128,6 +280205,7 @@ zurabhsan.tk
 zurbdj.us
 zurbex.com
 zure.simadep.web.id
+zuri.renoar.web.id
 zuribeauty.com
 zurigigg12.com
 zuriyatfoods.com
@@ -280161,6 +280239,7 @@ zuu.10mail.xyz
 zuuel.com
 zuujedyn3f.mailbo.store
 zuunim.teml.net
+zuvi.bangfang.biz.id
 zuvio.com
 zuw8hrfeej.mailbo.store
 zuwi.ntp.homes
@@ -280168,6 +280247,9 @@ zuworiqhrp.mailbo.store
 zux.denqoz230.biz.id
 zux.premiuw.top
 zuxa.ichias.biz.id
+zuxe.ogaliy.biz.id
+zuxe.reneeen.biz.id
+zuxe.taroot.web.id
 zuxi.site
 zuxine.com
 zuxuhanuvunu.pro
@@ -280184,6 +280266,7 @@ zuye.bldaefnu.my.id
 zuye.sadbor.club
 zuz.sopkya230.biz.id
 zuz.tavqen230.biz.id
+zuza.ayunun.web.id
 zuza.se
 zuzana.asia
 zuzi.com
@@ -280448,6 +280531,7 @@ zxonkcw91bjdojkn.tk
 zxonlpi.saucent.online
 zxoo.ddljdyho.biz.id
 zxow.dung2tb.io.vn
+zxp.kuciwa.web.id
 zxpasystems.com
 zxpi.my.id
 zxpjbk2wki.mailbo.store
@@ -280465,6 +280549,7 @@ zxrspiwv2.shop
 zxrx.bkcxcaws.web.id
 zxsrdwlzyf.mailbo.store
 zxtm4pmvgy.mailbo.store
+zxuann.my.id
 zxuctaviaperze.info
 zxuinf.us
 zxujliovtu.mailbo.store
@@ -280565,10 +280650,12 @@ zyntramail.com
 zynwghbeyo.mailbo.store
 zyoh.bjorwi.site
 zyok.freeml.net
+zyoo.arfoslpp.web.id
 zyoppjuctr.mailbo.store
 zyoxry.site
 zyp.emltmp.com
 zypaymgbar.mailbo.store
+zypc2b.kids77.icu
 zypdi.com
 zypherin.cfd
 zypu.site
@@ -280597,6 +280684,8 @@ zyuegvm2ra.mailbo.store
 zyv47ejewo.mailbo.store
 zyvauuturt.mailbo.store
 zyvenix.cfd
+zyvo.my.id
+zyvo.web.id
 zywgprfjbs.mailbo.store
 zyxe.axamtama.web.id
 zyyberrys.com
@@ -280656,6 +280745,7 @@ zzd.emlpro.com
 zzdccww.dpdns.org
 zzdszzv.usa.cc
 zzel.aroukhza.web.id
+zzem.asloavjm.web.id
 zzeu.us
 zzezwhc9ok.mailbo.store
 zzg.luk2.com

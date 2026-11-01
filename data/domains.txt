@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-11-01T16:35:15.522Z
+# Aggregated blacklist generated on 2026-11-01T21:43:51.746Z
  
 0-00.usa.cc
 0-30-24.com
@@ -19837,6 +19837,7 @@ a3ho7tlmfjxxgy4.ml
 a3ho7tlmfjxxgy4.tk
 a3hqwxp0le.mailbo.store
 a3ir.dung2tb.io.vn
+a3k9x5q2m7r8z1c.io.vn
 a3kd.kadaotym.click
 a3lwugzq1s.mailbo.store
 a3occc7oln.mailbo.store
@@ -60955,6 +60956,7 @@ cloud47photography.xyz
 cloud47shop.xyz
 cloud49online.xyz
 cloud49plus.xyz
+cloud888999.io.vn
 cloud99.pro
 cloud99.top
 cloud9martini.com
@@ -77991,6 +77993,7 @@ drillroad.ru
 drilq.cfd
 drilux.cfd
 drimex.cfd
+drimexo.io.vn
 drimnaghtakeaway.com
 drinala.com
 drinka.org
@@ -82057,6 +82060,7 @@ edusamail.net
 edusath.com
 edusch.id
 edusch.site
+edusco.us
 edushort.me
 edusimulators.com
 edusmart.website
@@ -89990,6 +89994,7 @@ f8lkfkgdxq.mailbo.store
 f8lqht4g3a.mailbo.store
 f8maw07mlo.mailbo.store
 f8mp35tejn.mailbo.store
+f8novalink44.io.vn
 f8odmzmm6s.mailbo.store
 f8oh50c4v6.mailbo.store
 f8ojnol.cse445.com
@@ -146680,6 +146685,7 @@ lindbarsand.tk
 linde-welding.cd
 linden.com
 lindenbaumjapan.com
+lindencornerbridge.fr
 lindendaleridge.com
 lindendentists.com
 lindenhurstleemyles.com
@@ -166305,6 +166311,7 @@ morulemgirls.org
 moruyxl9rp.mailbo.store
 moruzza.com
 morvei-solutions.at
+morvexaliqp.io.vn
 morviana.com
 morvo.slmail.me
 morwyn.online
@@ -173266,6 +173273,7 @@ nelsonboring.com
 nelsonenterprises.ca
 nelsontvip.site
 neltadiera.ca
+neltasaico55.net
 neltaxip.com
 nem.emlhub.com
 nem.vc
@@ -188869,6 +188877,7 @@ pbs83c.us
 pbsan.com
 pbsq.com
 pbsrwa2q.mailosaur.net
+pbst.com
 pbstwkyw0m.mailbo.store
 pbt.freeml.net
 pbtower.com
@@ -213606,6 +213615,7 @@ s9cfuj6hoi.mailbo.store
 s9gamelogin.com
 s9iymgvkwo.mailbo.store
 s9izy4yrl1.mailbo.store
+s9link24.io.vn
 s9mu.dung2tb.io.vn
 s9q0hwahp4.mailbo.store
 s9qswbzlce.mailbo.store
@@ -231130,6 +231140,7 @@ support90.helpsapp.click
 supportain.site
 supportapp.click
 supportbox.xyz
+supporter.website
 supportfmail.com
 supportgm.com
 supporthpprinters.com
@@ -235903,6 +235914,7 @@ temp.contentvibee.com
 temp.drmail.in
 temp.edu.pl
 temp.emeraldwebmail.com
+temp.emsyarief.my.id
 temp.gptstore.dpdns.org
 temp.headstrong.de
 temp.ig96.net
@@ -242914,6 +242926,7 @@ torres.wriwebsites.com
 torres2.wriwebsites.com
 torresink.com
 torressecuritygroup.com
+torreus.com
 torrhost.com
 torrid.ga
 torridcard.com.co
@@ -279339,6 +279352,7 @@ zoliva.lol
 zolkmana.tk
 zolman.org
 zolmi.click
+zolmira.io.vn
 zolmiu.cfd
 zolon.store
 zoltio.xyz
@@ -279360,6 +279374,7 @@ zombo.igg.biz
 zombo.nut.cc
 zomg.info
 zomoo00.com
+zomtrix.io.vn
 zona-kita.com
 zona.best
 zona.enjela.xyz
@@ -280171,6 +280186,7 @@ zunbk.click
 zundee.com
 zunemasters.com
 zunet.xyz
+zunexa.io.vn
 zungku.com
 zunigersa.site
 zunlix230.biz.id

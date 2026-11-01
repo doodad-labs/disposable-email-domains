@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-10-31T21:00:52.958Z
+# Aggregated blacklist generated on 2026-11-01T00:42:34.391Z
  
 0-00.usa.cc
 0-30-24.com
@@ -5986,6 +5986,7 @@
 2fix.tech
 2fly.xyz
 2fmm5.anonbox.net
+2fmng.anonbox.net
 2fnvbjidys.mailbo.store
 2folddoor.com
 2folefwxyp.mailbo.store
@@ -23837,6 +23838,7 @@ agaseo.com
 agasj.com
 agasolicitors.org
 agasolution.me
+agatha.lat
 agathaaa.top
 agatho.info
 agathokamail.com
@@ -33996,6 +33998,7 @@ attention.mailbo.store
 attention.support
 attentv.com
 attfreak.cloud
+attgency.com
 atthecentre.com
 atthefront.com
 atticforg.icu

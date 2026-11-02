@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-11-01T21:43:51.746Z
+# Aggregated blacklist generated on 2026-11-02T01:17:48.928Z
  
 0-30-24.com
 0-attorney.com
@@ -197347,6 +197347,7 @@ unicreatures.com
 unicredi.com
 unicredit.tk
 unicsite.com
+unidas.lat
 unidata-me.com
 unidentic.com
 unidiremail.com

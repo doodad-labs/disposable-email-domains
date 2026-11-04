@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-11-04T08:39:27.004Z
+# Aggregated blacklist generated on 2026-11-04T17:46:10.523Z
  
 0-30-24.com
 0-attorney.com
@@ -12242,6 +12242,7 @@ abbakimevi.com
 abbassahabad.cfd
 abbassalameh.website
 abbavoyage.click
+abbellerfani.co.uk
 abbelt.com
 abbevimals.ru
 abbeygate-portugal.com
@@ -27486,6 +27487,7 @@ barsmerco.tk
 bartdevos.be
 bartedwardsmd.com
 bartendersreference.com
+barter.lat
 barterboards.com
 barterboards.net
 bartholemy.space
@@ -42086,6 +42088,7 @@ cepo63.eu.org
 cepwslow.works
 ceramiccoffecups.com
 ceramicdinos.com
+ceramicdrift.me
 ceramicsbensu.com
 ceramicsouvenirs.com
 ceramictile-outlet.com
@@ -43485,6 +43488,7 @@ chessgameland.com
 chessgamingworld.com
 chessjs.org
 chessliquidators.com
+chessmeadow.me
 chessplayer.com
 chesstr.com
 chestcloudx.com
@@ -48983,6 +48987,7 @@ coreef.uk
 coreff.uk
 corefficiency.net
 corefitrun.com
+coregamer.ru
 coregamingzone.cfd
 coregridx.website
 corehabcenters.com
@@ -49434,6 +49439,7 @@ couponhouse.info
 couponm.net
 couponmoz.org
 couponoff.com
+couponrook.me
 couponsdisco.com
 couponsgod.in
 couponslauncher.info
@@ -56868,6 +56874,7 @@ dikitin.com
 dikixty.gr
 diklo.website
 dikop.ru
+dikovics.com
 dikriemangasu.cf
 dikriemangasu.ga
 dikriemangasu.gq
@@ -57029,6 +57036,7 @@ dinlaan.site
 dinlaan.uk
 dinly.icu
 dinmail.store
+dinnerdrape.me
 dinneriies.ru
 dinnernorthconway.com
 dinnersbydiane.com
@@ -70917,6 +70925,7 @@ fayrozaa.shop
 fazamail.com
 fazdnetc.com
 faze.biz
+faze.casa
 fazeclan.space
 fazendabrasil1.com
 fazendabrasil2.com
@@ -74975,6 +74984,7 @@ fosse776nr.online
 fossettcpa.com
 fossiliemail.ru
 fossilmail.com
+fossilwharf.me
 fossimaila.info
 fossimailb.info
 fossimailh.info
@@ -76128,6 +76138,7 @@ friedmansfinder.com
 friedrice.click
 frienced.com
 frienda.site
+friendfete.me
 friendlyanarchists.org
 friendlyhollow.sbs
 friendlyhomesales.com
@@ -87384,6 +87395,7 @@ harvestingharlow.com
 harvestmendoza.icu
 harvesttmaster.com
 harvesttraders.com
+harveymustache.com
 harveynaylor.buzz
 harysetiabudi.site
 has.dating
@@ -89300,6 +89312,7 @@ hfpd.net
 hfq09.space
 hfrump.monster
 hfskf.de
+hfssj.com
 hfsym.com
 hftd.com
 hfuwierhwqeqw.ga
@@ -92479,6 +92492,7 @@ hqv8grv8dxdkt1b.tk
 hqworkdept.com
 hqypdokcv.pl
 hqzx6.com
+hr-analitika.ru
 hr-bsg.ru
 hr3xkssvn8ek1ex.xyz
 hr7gsn.site
@@ -93130,6 +93144,7 @@ hungchanyu.com
 hungclone.xyz
 hungclonefb.io.vn
 hungeral.com
+hungfb.com
 hunghair.com
 hunght1890.com
 hunght1890.site
@@ -107380,6 +107395,7 @@ kimfetsnx.com
 kimfetspa.com
 kimfetstx.com
 kimgmail.com
+kimgmail.online
 kimhiiida.com
 kimhui.online
 kimia.my.id
@@ -107844,6 +107860,7 @@ kita-noni.de
 kitabangkit.mom
 kitabisacup.my.id
 kitacobadulu.mom
+kitagerindra.my.id
 kitamail.com
 kitanroipl.tk
 kitanusantara.my.id
@@ -108122,6 +108139,7 @@ kkyd.com
 kkydplgcwl.ga
 kkyf1.site
 kkymgx.fun
+kl.ru
 kl99.xyz
 klabuk.pl
 klaky.net
@@ -109829,6 +109847,7 @@ ku777kubet.com
 kuai909.com
 kuaifuli.club
 kuaijenwan.com
+kuailesidiwen.top
 kuaizhufang.com
 kualalumpurtravel.network
 kualapuucharterschool.com
@@ -118895,6 +118914,7 @@ magicaiguru.com
 magicaitoday.com
 magicalcasino.info
 magicaljellyfish.com
+magicalmushroommeadow.site
 magicalsys.site
 magicandtheatre.com
 magicbeep.com
@@ -125549,6 +125569,7 @@ mendoanmail.club
 mendocountrylife.com
 mendoo.com
 mendots.com
+mendpetal.me
 mendung.cloud
 mendycady.com
 menealacola.com
@@ -129190,6 +129211,7 @@ mohsenfb.com
 mohsonjooj.site
 moi-bank.com
 moice.click
+moidea.net
 moidolgi.org
 moienerbew.com
 moienge.space
@@ -147924,6 +147946,7 @@ pece-krby.sk
 pecerwell.gq
 pecerwell.ml
 pecerwell.tk
+pechkin.ru
 pechkin1.com
 pechkin69.com
 pecinan.com
@@ -149210,6 +149233,7 @@ pharmaexcipients.org
 pharmaexcipientwiki.com
 pharmafactsforum.com
 pharmaingredient.com
+pharmalinkcare.com
 pharmamails.ru
 pharmasiana.com
 pharmatiq.com
@@ -152295,6 +152319,7 @@ ponatcyrr.tk
 ponbey.com
 ponce.works
 poncedeleon.com
+pondmosaic.me
 pondsbydesign.com
 poneclubcasino.ph
 ponenes.info
@@ -157425,6 +157450,7 @@ qnlburied.com
 qnlk.com
 qnmails.com
 qnorfolkx.com
+qnoriko422.biz.id
 qntrvx.xyz
 qnuqgrfujukl2e8kh3o.cf
 qnuqgrfujukl2e8kh3o.ga
@@ -169227,6 +169253,7 @@ scenpucu.ga
 scenpucu.gq
 scentathome-dublin.com
 scentedipity.com
+scentlilt.me
 sceptic.cc
 scerpio.com
 scfastoffers.com
@@ -173533,6 +173560,7 @@ sighzove.ga
 sighzove.gq
 sighzove.tk
 sigismail.com
+sigma-eng.ru
 sigma.kozow.com
 sigmabestshop.online
 sigmachaos.com
@@ -176649,6 +176677,7 @@ solemates.me
 soleme.info
 solenodomail.ru
 solenox.cfd
+soleoddity.me
 solerbe.net
 solextrad.com
 soleymari.es
@@ -186230,6 +186259,7 @@ temporommail.com
 temporopmail.com
 tempos.email
 tempos21.es
+tempp-mail.org
 tempp-mails.com
 temppostal.com
 temppppo.store
@@ -192266,6 +192296,7 @@ toy68n55b5o8neze.ga
 toy68n55b5o8neze.gq
 toy68n55b5o8neze.ml
 toy68n55b5o8neze.tk
+toyafterglow.me
 toyama.com
 toyamail.com
 toyebet196.com
@@ -196531,6 +196562,7 @@ uisdrones.com
 uish6.info
 uitblijf.ml
 uiu.us
+uivm.top
 uivvn.net
 uix.store
 uixone.com
@@ -213460,6 +213492,7 @@ yaho.com.hk
 yaho.gr
 yaho.my.id
 yaho.no
+yaho.pk
 yaho9o.com
 yahoa.top
 yahoail.com

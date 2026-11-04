@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-11-04T17:46:10.523Z
+# Aggregated blacklist generated on 2026-11-04T23:14:39.883Z
  
 0-00.usa.cc
 0-30-24.com
@@ -7520,6 +7520,7 @@
 36h.saucent.online
 36mboh2ycl.mailbo.store
 36poker.ru
+36qv67.tmpbox.net
 36ru.com
 36rzd.ru
 36vtabc06z.mailbo.store
@@ -24363,6 +24364,7 @@ ahmadidik.ga
 ahmadidik.gq
 ahmadidik.ml
 ahmadizhar.net
+ahmadizhar.net.
 ahmadmod.cloud
 ahmadmohsen.shop
 ahmadmohsen2.shop

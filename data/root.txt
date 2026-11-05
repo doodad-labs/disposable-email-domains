@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-11-05T14:02:01.870Z
+# Aggregated blacklist generated on 2026-11-05T21:46:47.962Z
  
 0-30-24.com
 0-attorney.com
@@ -11204,6 +11204,7 @@
 98hg.app
 98hg.bet
 98hgv.app
+98inla602.io.vn
 98mail.xyz
 98tpbet.com
 98usd.com
@@ -11909,6 +11910,7 @@ a888bet.info
 a88i.fit
 a8cycle.website
 a8i.cz
+a8v3n6p2z0.io.vn
 a90906.com
 a90907.com
 a90908.com
@@ -16832,6 +16834,7 @@ aldeanvynes.cloud
 aldemimea.xyz
 aldenhauk.com
 aldephia.net
+alder-loom.online
 alderpointco.bond
 alderworthhouse.com
 aldeyaa.ae
@@ -25292,6 +25295,7 @@ ayecapta.in
 ayemail.store
 ayercorpor.com
 ayeshageneralservices.com
+ayeshaschool.edu.pl
 ayfoto.com
 aygg888.com
 ayhoo.com.br
@@ -29367,6 +29371,7 @@ berkah-herbal.com
 berkahfb.com
 berkahjaran.xyz
 berkahjayashope.com
+berkahjayashope.online
 berkahmediajayagroup.online
 berkatrb.com
 berkeley-realtor.info
@@ -33382,6 +33387,7 @@ blop.bid
 blop.cloud
 bloq.ro
 bloqstock.com
+blorixa.io.vn
 blosell.xyz
 bloszone.com
 blotterartemporium.com
@@ -36018,6 +36024,7 @@ brisbanelivemusic.com
 brisbanelogistics.com
 brisbanephotobooth.com
 brisbanevetservices.com
+briskparcel76.best
 bristlebrush.us
 bristlebrushes.biz
 bristlebrushes.us
@@ -36065,6 +36072,7 @@ brittneywerthcouseling.com
 brittsbelts.com
 britzandpieces.com
 brivian.link
+brixal.io.vn
 brixmail.info
 brixozu.com
 brizart.es
@@ -40522,6 +40530,7 @@ cashvpn.com
 cashwm.com
 cashxl.com
 casibombonuskodu.com
+casiida.xyz
 casimero.com
 casino-119.com
 casino-admiral10.com
@@ -41595,6 +41604,7 @@ cebong.ml
 cebong.tk
 cebrq.icu
 cebus.us
+cebusc.us
 cecb.us
 ceced.us
 cecedu.us
@@ -45864,6 +45874,7 @@ cllatamwincasino.com
 clm-blog.pl
 clmatty.com
 clmbce.us
+clmbedu.us
 clmbs.us
 clmbus.us
 clmcaythenhi.site
@@ -47450,6 +47461,7 @@ columbusrr.com
 columbusschoolhn.org
 columbustaps.com
 columbuswellnessmedicine.com
+columed.us
 columedu.us
 colums.us
 columsch.us
@@ -48904,6 +48916,7 @@ copper.net
 copperandbark.com
 copperascoveapartments.com
 copperbacksplash.us
+copperbowl.info
 coppercounter.us
 copperemail.com
 copperfieldimages.com
@@ -59618,6 +59631,7 @@ dov86hacn9vxau.ml
 dov86hacn9vxau.tk
 dovantu.click
 doveify.com
+dovelia.io.vn
 dovequando.info
 dovereducationlink.com
 doverlocals.co.uk
@@ -63272,6 +63286,7 @@ educolbs.us
 educolum.us
 educourse.xyz
 educre.us
+educs.us
 educt.us
 educurvy.cfd
 edud.site
@@ -65351,6 +65366,7 @@ embeddedresearch.com
 embedhelp.com
 embege.xyz
 embekhoe.com
+emberbeacon24.cfd
 embergone.cf
 embergone.ga
 embergone.gq
@@ -65362,6 +65378,7 @@ embergonebro.gq
 embergonebro.ml
 embergonebro.tk
 emberhookah.com
+emberinbox14.motorcycles
 emberlanestudio.site
 embg.app
 emblemail.com
@@ -69632,6 +69649,7 @@ fabienpujol.com
 fabiopisani.art
 fabiorosado.dev
 fabioscapella.com
+fablerelay17.help
 fabng-xxs.xyz
 fabnicalsa.tk
 fabonata.website
@@ -70813,6 +70831,7 @@ fathomscience.com
 fathoni.info
 fathyyyyyg.cam
 fatihd.com
+fatimacollage.edu.pl
 fatjukebox.com
 fatk2b.site
 fatloss.help
@@ -80240,6 +80259,7 @@ ggmal.ml
 ggmmails.com
 ggmo.com
 ggmob-us.fun
+ggmoi.com
 ggmpower.com
 ggmsil.com
 ggmu.web.id
@@ -81249,6 +81269,7 @@ glacioml.ru
 glad-lottery.com
 gladchenko-coach.ru
 gladdelivery.com
+gladecourier54.skin
 gladehome.com
 gladgym.com
 gladiator.org
@@ -86063,6 +86084,7 @@ h666.info
 h666gamelogin.com
 h666gameonline.com
 h6gyj.us
+h6k3z9p2a7.io.vn
 h6kepf-mail.xyz
 h6xoap.us
 h7018.com
@@ -87389,6 +87411,7 @@ hartlaubgoose.ru
 hartlengles.ga
 hartlengles.ml
 hartlengles.tk
+hartleyvane.com
 hartleywoodcraft.com
 hartlight.com
 hartmandental.nl
@@ -87654,6 +87677,7 @@ havenbeat.com
 havenevolution.com
 havenqa.com
 havensmanor.com
+haventmail.com
 haventoc.com
 haventop.tk
 haveplant.site
@@ -88931,6 +88955,7 @@ henhousetakeaway.com
 henistore.pw
 henkena.online
 henkuitslag.com
+henley-projects.com
 henmail.online
 henmail.site
 hennecke.us.com
@@ -89848,6 +89873,7 @@ hillclimbclinic.com
 hillcountryone.com
 hillcrest.net
 hillfamilytexas.com
+hillframe53.xyz
 hillmail.men
 hilloftara.com
 hillopy.ru
@@ -99191,6 +99217,7 @@ irinakicka.site
 irineu.eu.org
 irion.it
 iris-casino.de.com
+iriscourier28.hair
 iriselectric.net
 irish2me.com
 irishbella.art
@@ -100777,6 +100804,7 @@ jadecourier54.makeup
 jadecourtmeal.com
 jadecouture.shop
 jadenursery.top
+jadepost11.casa
 jades-garden.com
 jadeschoice.com
 jadetexchina.com
@@ -106407,6 +106435,9 @@ kelop.site
 kelor.ga
 kelosolor.com
 kelova.ca
+kelpmail59.sbs
+kelppost80.autos
+kelpwire57.bond
 kelsallandco.com
 kelseyball.com
 kelseyball.xyz
@@ -116566,6 +116597,7 @@ lorslufmea.cf
 lorslufmea.ga
 lorslufmea.gq
 lorsque.us
+lortavixen.io.vn
 lortemail.dk
 lorvi.shop
 lorvyns.com
@@ -117650,6 +117682,7 @@ luepotho.ga
 luepotho.gq
 luepotho.ml
 lufaf.com
+lufaro.io.vn
 lufcfans.website
 luffem.com
 luffygadgets.com
@@ -124033,6 +124066,7 @@ mayahoo.com
 mayak-travel.ru
 mayamode.shop
 mayantrainmap.com
+mayarowe.xyz
 mayatv.org
 mayba.live
 maybaoholaodong.net
@@ -126428,6 +126462,7 @@ mfil4v88vc1e.gq
 mfil4v88vc1e.ml
 mfil4v88vc1e.tk
 mfireski.com
+mfitsports.com
 mfixa.lat
 mflfdgsa.shop
 mflinks.com
@@ -130060,6 +130095,7 @@ moringaku.online
 moringathee.com
 morioka.com
 morita-gc.com
+morixa.io.vn
 morizamail.my.id
 morkunas.nl
 mormal.site
@@ -131343,6 +131379,7 @@ mudonmaintenance.com
 mudrait.com
 mudraki.org
 muebleriaindia.com
+mueblesmedidavalencia.es
 muehlacker.tk
 muell.email
 muell.icu
@@ -138843,6 +138880,8 @@ novaevs.xyz
 novagift.ru
 novagun.com
 novahvaccare.xyz
+novainbox49.boats
+novainbox78.cyou
 novainfosecportal.com
 novaivyi.com
 novaix.vn
@@ -139306,6 +139345,7 @@ ntt2704.com
 ntto.us
 nttoadmin2.us
 nttools.io.vn
+nttzb0930.io.vn
 ntub.cf
 ntudofutluxmeoa.cf
 ntudofutluxmeoa.ga
@@ -139722,6 +139762,7 @@ nvkc.com
 nvm.com.vn
 nvmetal.pl
 nvn.edu.vn
+nvn.id.vn
 nvn.one
 nvn1024.us
 nvnav.com
@@ -143159,6 +143200,7 @@ opakenak.com
 opalastudios.xyz
 opale-capital.com
 opalik.com
+opalmail58.homes
 opalroom.com
 opamail.com
 opamtis.online
@@ -146612,6 +146654,7 @@ parampampam.com
 paranaguia.com
 paranakit.net
 parangsoca.com
+parano.cloud
 parapentemocio.com
 paraprofmail.ru
 parapromail.ru
@@ -147899,6 +147942,7 @@ peaceoutpops.com
 peaceridesla.org
 peaceriver.com
 peacewellbeings.com
+peach-branch.world
 peachcalories.net
 peachgangtr.com
 peachlamps.com
@@ -147965,6 +148009,7 @@ pearpay.xyz
 pearpplemail.com
 pearsallvetlaser.com
 pearsonscore.com
+pearstroll.store
 peatresources.com
 pebblebrookco.homes
 pebblecorner5.world
@@ -150259,6 +150304,7 @@ pindoramaprojects.online
 pindush.click
 pindush.net
 pine-and-onyx.xyz
+pine-path.net
 pineapple-berry.pro
 pineappleconsultoria.com
 pineappledisco.com
@@ -151525,6 +151571,7 @@ plumdrop.xyz
 plumfox.com
 plumlytics.net
 plumosxxtz.space
+plumplaza.uk
 plumrelrei.cf
 plumrelrei.ga
 plumrelrei.gq
@@ -158291,6 +158338,8 @@ quillcenter.com
 quillet.eu
 quilleyschool.com
 quillguru.com
+quillinbox65.monster
+quillwire46.top
 quilombofashion.shop
 quilon.net
 quiltedarmour.com
@@ -159302,6 +159351,7 @@ rainlear.com
 rainmail.biz
 rainmail.top
 rainmail.win
+rainnotes304.fr
 raino.my.id
 rainplatform.cloud
 rainproofresidual.com
@@ -167063,6 +167113,7 @@ saabscania.ml
 saabscania.tk
 saaby.com
 saadatkhodro.com
+saadhai.edu.pl
 saaf.com
 saagartakeaway.com
 saaheel.biz
@@ -170574,6 +170625,7 @@ selbcitbears.cf
 selbcitbears.gq
 selbcitbears.ml
 selbcitbears.tk
+selceada.cc
 selcukayanoglu.xyz
 selcukluemlakkonya.com
 seldc.org
@@ -171397,6 +171449,7 @@ sermailtos.store
 sermonizer853ip.online
 sernativo.com
 serniak.com
+serniida.dev
 serodiagmail.com
 serodiemail.ru
 seroent.com
@@ -173758,6 +173811,7 @@ silentsuite.com
 silentzeta.com
 silesia.life
 silesian.design
+siletta.info
 silex.cf
 silex.ga
 silicapress.com
@@ -175092,6 +175146,7 @@ slashdroid.my.id
 slashmike.com
 slashpills.com
 slaskpost.se
+slate-depot.cloud
 slatecreekworks.shop
 slatkyf.best
 slatmolda.cf
@@ -178047,6 +178102,7 @@ spicybites-clonmel.com
 spicycartoons.com
 spicyhutindian.com
 spicykarmen.com
+spicylog.com
 spicymail.club
 spicysallads.com
 spicysoda.com
@@ -180132,6 +180188,7 @@ stonehousegrp1.com
 stonemillcraft.xyz
 stonemountaindentistry.com
 stonenetworkonline.net
+stonependant.org
 stonerunapts.com
 stones.com
 stonesinwater.com
@@ -189526,6 +189583,7 @@ ticpire.ml
 ticpire.tk
 tidaksuka.cfd
 tidaktahu.xyz
+tidalparcel16.click
 tidc.dev
 tide-fillmig.rest
 tidearena.com
@@ -192378,6 +192436,7 @@ toyota-rav4.ga
 toyota-rav4.gq
 toyota-rav4.ml
 toyota-rav4.tk
+toyota-remont.ru
 toyota-sequoia.club
 toyota-sequoia.com
 toyota-yaris.tk
@@ -197033,6 +197092,7 @@ uluzimar.pro
 uluzoqax.host
 ulveon.net
 ulvexiaropq.io.vn
+ulvexo.io.vn
 ulvmail.com
 ulxag.us
 ulyufyjwwrm4sni.xyz
@@ -199621,8 +199681,10 @@ valdisttul.gq
 valdisttul.ml
 valdisttul.tk
 valecohomes.com
+valecourier33.quest
 valedictolml.ru
 valemail.net
+valemail47.yachts
 valenceinvestment.com
 valenciabackpackers.com
 valencialakes.net
@@ -200691,6 +200753,7 @@ vercutemp.ga
 vercutemp.ml
 vercutemp.tk
 verd.ru
+verdalis107.net
 verdana.com.br
 verdecasinoapp.org
 verdejo.com
@@ -213390,6 +213453,7 @@ y5kbku.host
 y5q3pf.com
 y6ce.us
 y6jxjln.kozow.com
+y6k3p8z1q4.io.vn
 y6npbt.us
 y75aff.site
 y7ahoo.com
@@ -216093,6 +216157,7 @@ yukios.my.id
 yukios.web.id
 yukiz.biz.id
 yukkiflix.ml
+yuklah.web.id
 yukonrenew.net
 yukonznus.ru
 yuksedekah.online
@@ -217319,6 +217384,7 @@ zephyrairconpro.xyz
 zephyramcpro.xyz
 zephyrhvac.xyz
 zephyros.cfd
+zephyrparcel64.beauty
 zephyrustech.co
 zeplinbilisim.net
 zeply.me
@@ -218982,6 +219048,7 @@ zxczxc2010.space
 zxd9837.com
 zxdkdumuut.ga
 zxgsd4gydfg.ga
+zxhgff.io.vn
 zxhyzlwcp.top
 zxj.im
 zxlim.com

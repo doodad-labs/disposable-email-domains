@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-11-06T01:59:49.895Z
+# Aggregated blacklist generated on 2026-11-06T09:14:59.890Z
  
 0-30-24.com
 0-attorney.com
@@ -38268,6 +38268,7 @@ bytetutorials.net
 byteventures.com
 bytevood.com
 bytewizardry.com
+byteza.my.id
 bytezonee.biz.id
 byth57d.online
 bytheemperor.icu
@@ -62400,6 +62401,7 @@ easyopenpay.com
 easyopros6-ml.website
 easypace.ru
 easypaperplanes.com
+easyparking-pay.com
 easypass.rs
 easypaymaker1.com
 easypeasychinese.com
@@ -79316,6 +79318,7 @@ gentingdompet.com
 gentle.web.id
 gentlecat.shop
 gentleinfopath.com
+gentleloft7.world
 gentlemancasino.com
 gentlemansclub.de
 gentlemen.ml
@@ -109744,6 +109747,7 @@ krystabledsoe.com
 krystallettings.co.uk
 krystalresidential.co.uk
 krystinvalevo.online
+krytiva.io.vn
 kryukvoron.ru
 kryzh.com
 krzysztofpiotrowski.com
@@ -151886,6 +151890,7 @@ podam.pl
 podarbuke.ru
 podatki-kog.com
 podatnik.info
+podbor-zaima-online.ru
 podcastflow.com
 podcastfunnel.com
 podcastmarketingblueprint.com
@@ -176523,6 +176528,7 @@ soeo4am81j.ml
 soeo4am81j.tk
 soeveryonecangame.info
 sof.es
+sofabazar.com
 sofaion.com
 sofaoceco.pl
 sofarb.com
@@ -177145,6 +177151,7 @@ soozoop.com
 sopasounds.com
 sopatrack.com
 sopbet.net
+sopbuah.com
 sopharmsn.com
 sopheamkcosmetics.online
 sophiaa.autos

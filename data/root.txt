@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-11-07T04:46:08.739Z
+# Aggregated blacklist generated on 2026-11-07T12:30:18.880Z
  
 0-30-24.com
 0-attorney.com
@@ -2232,6 +2232,7 @@
 1dne.com
 1dollarwindowshosting.com
 1dom.one
+1domenname.space
 1drby3.site
 1drive.cf
 1drive.ga
@@ -13651,6 +13652,7 @@ adaserefcan.cfd
 adasfe.com
 adashev.ru
 adastars333.com
+adastore.live
 adastralflying.com
 adasupeyzaj.xyz
 adating.ggff.net
@@ -16462,6 +16464,7 @@ akshayd.com
 akshith.io
 aksioma.store
 aksipalestina.biz.id
+aksirakyat.my.id
 aksjtjkast12186.cf
 aksjtjkast12186.ga
 aksjtjkast12186.tk
@@ -60160,6 +60163,7 @@ dreamhost.com
 dreamhostcp.info
 dreamhouseplans.biz
 dreamhunter2333.xyz
+dreamin.click
 dreamingcleaning.com
 dreaminger.org
 dreamingoffoofighters.com
@@ -68543,6 +68547,7 @@ evoxury.com
 evpskp.site
 evq2.com
 evr1.net
+evrioli.xyz
 evrnext.com
 evropost.top
 evropost.trade
@@ -80290,6 +80295,7 @@ ggigasetk.site
 ggigasharee.site
 ggijhd.com
 ggina.com
+gglemail.com
 gglorytogod.com
 gglow.co.uk
 ggltmail.com
@@ -85074,6 +85080,7 @@ gti8xq.us
 gtimail.org
 gtime.com
 gtk9.com
+gtkemail.com
 gtkesh.com
 gtkh.us
 gtkhl.us
@@ -87006,6 +87013,7 @@ hangxomu.com
 hangzhoubarcelona.com
 hangzhousongtang.com
 hanha.kozow.com
+hanhansmarthome.com
 hanhao421.xyz
 hanhba.click
 hanhbashr.click
@@ -87238,6 +87246,7 @@ happyrootslandscape.com
 happyselling.com
 happysilktravel.com
 happysinner.co.uk
+happyspaces.store
 happyspot.net
 happysteps.rocks
 happytools72.ru
@@ -108110,6 +108119,7 @@ kjdo9rcqnfhiryi.tk
 kjdtgp.us
 kjedutech.in
 kjehoa.xyz
+kjelectrical.cn
 kjf.com
 kjg.website
 kjghbn.com
@@ -116249,6 +116259,7 @@ lokersolo.net
 lokerupdate.me
 lokesh-gamer.ml
 loketa.com
+lokiemail.com
 lokin.tech
 lokingmi.cf
 lokingmi.gq
@@ -137478,6 +137489,7 @@ nimbponmi.tk
 nimbusgiga.com
 nimbusigma.com
 nimbusmono.com
+nimbusreach.in
 nimbusreach.info
 nimfa.info
 nimiety.xyz
@@ -139139,6 +139151,7 @@ npoopmeee.site
 nppaddypower.com
 npraty.la
 nproxi.com
+npsa.ru
 npsis.net
 npsyw.info
 nptzw.info
@@ -159938,6 +159951,7 @@ rapidprofitmachine1.com
 rapidprotect.ml
 rapidpulse.tech
 rapidrabbit.software
+rapidrambler.me
 rapidreceiptsidle.site
 rapidrootermn.com
 rapidspool.info
@@ -170264,6 +170278,7 @@ secbuf.com
 secdem.site
 sece.me
 secencode.xyz
+secerim.com
 secfeaturerye.website
 secfiz99.com
 secfvc.site
@@ -175138,6 +175153,7 @@ skynettool.xyz
 skynewpharm.com
 skynix.web.id
 skynixstore.tech
+skynoname.com
 skynt.be
 skyoid.xyz
 skyometric.com
@@ -184035,6 +184051,7 @@ talentpen.com
 talentsentertainment.com
 talentstar.news
 talentsteen.com
+talesoftheteakettle.sbs
 talhamuhmd.com
 taliavogue.shop
 talifornialegal.com
@@ -186264,6 +186281,7 @@ tempmail.run
 tempmail.sk
 tempmail.so
 tempmail.space
+tempmail.support
 tempmail.sx
 tempmail.sytes.net
 tempmail.tel
@@ -186453,6 +186471,7 @@ tempp-mail.org
 tempp-mails.com
 temppostal.com
 temppppo.store
+temppromail.com
 temppy.com
 tempr.email
 temprazzsoft.cf
@@ -188185,6 +188204,7 @@ theinsuranceinfo.org
 theinternationaltinkler.com
 theinternetisaseriesoftubes.com
 theinternetpower.info
+theinternetsoft.xyz
 theinvisibleman.co.uk
 theiof.com
 theirdisorder.com

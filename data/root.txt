@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-11-08T12:48:38.678Z
+# Aggregated blacklist generated on 2026-11-08T18:40:13.986Z
  
 0-30-24.com
 0-attorney.com
@@ -4994,6 +4994,7 @@
 39pop.com
 39shipin.xyz
 3a-trust.ru
+3a50t3at2.io.vn
 3a88.dev
 3abenv.us
 3ac5e.xyz
@@ -8383,6 +8384,7 @@
 6eu.info
 6ev.info
 6f.pl
+6f3p97oc2.io.vn
 6f4af.club
 6faw.icu
 6fengli.com
@@ -12299,6 +12301,7 @@ abcday.net
 abcdayb330.biz.id
 abcdazja330.biz.id
 abcdef1234abc.ml
+abcdefghijklmno.io.vn
 abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijk.com
 abcdetailing.net
 abcdiscoverycenter.com
@@ -12630,6 +12633,7 @@ absoluteperfectfoodiechoice.com
 absolutesuccess.win
 absolutewe.us
 absolutewounder.com
+absoluthandball.com
 absolution-la.com
 absorbacher.xyz
 absorbe.cyou
@@ -18508,6 +18512,7 @@ ambassadedenhaag.com
 ambassadorwe.us
 ambaththoor.com
 amber-frog.com
+amber-linen5.com
 amberfield.icu
 amberfieldgroup.com
 amberfields.site
@@ -24428,6 +24433,7 @@ autosoars.info
 autosouvenir39.ru
 autosportgallery.com
 autospozarica.com
+autosquote.org
 autosseminuevos.org
 autostabilbetsnup.xyz
 autostar.com.pa
@@ -24462,6 +24468,7 @@ autryassoc.com
 auttt.xyz
 autu11n.lol
 autumn-clouds.com
+autumncottage.dev
 autumnfalls.site
 autumnlab.fun
 autumnnetworks.com
@@ -28087,6 +28094,7 @@ bccto.cc
 bccto.com
 bccto.me
 bcdanismanlik.com
+bcdefghijklmnop.io.vn
 bcdick.best
 bcdmail.date
 bcdtrack.rocks
@@ -35711,6 +35719,7 @@ bravi.uk.com
 bravit.nyc
 bravito.pics
 bravomanila.com
+bravonesti.com
 braw.com
 brawlstars.tech
 braynight.club
@@ -41713,6 +41722,7 @@ ceduc.us
 ceduca.us
 ceducol.us
 ceducolb.us
+ceducom.us
 cedus.us
 cedusc.us
 cedwa.us
@@ -42058,6 +42068,7 @@ centrifumail.com
 centrikus.buzz
 centrinn.biz
 centro-raiz.com
+centroco.us
 centrocolumbus.us
 centrodeconvenciones.net
 centrodeolhoscampos.com
@@ -45534,6 +45545,7 @@ clearcoolhvactech.xyz
 clearcutcreative.com
 cleardarkpath.com
 cleardex.io
+cleargarden.net
 clearhabitpath.com
 clearjaxfl.com
 clearlyskinroutine.com
@@ -47506,6 +47518,7 @@ colums.us
 columsch.us
 colurmish.com
 colus.us
+colusch.us
 coluscho.us
 colvillecasinos.com
 com-04536875422364784521.top
@@ -61110,6 +61123,7 @@ duclospare.com
 ducmaca.cf
 ducmaca.ga
 ducmaca.tk
+ducnguyen.io.vn
 ducpham.id.vn
 ducquangialai.com
 ducquyen.io.vn
@@ -62645,6 +62659,7 @@ ebonyiris.com
 ebonyorchestra.site
 ebookbiz.info
 ebookdesign.pro
+ebookeducational.online
 ebookway.us
 ebookwiki.org
 ebop.pl
@@ -66099,6 +66114,7 @@ englandvs.com
 englearner.ru
 englewoodedge.net
 english.cd
+englishbooks.online
 englishcriketclub.org.uk
 englishexp.com
 englishfiles.ml
@@ -80527,6 +80543,7 @@ gholbifym.host
 gholbimand.info
 ghomail.com
 ghomonnirtel.site
+ghooy.com
 ghor.us
 ghost-flare.com
 ghost-mail.cc
@@ -84445,6 +84462,7 @@ greenforce.cf
 greenforce.tk
 greenfree.ru
 greenfusioninnovations.com
+greengardenpath.net
 greengenahead.com
 greengorillatruck.com
 greengridnewmexico.org
@@ -103859,6 +103877,7 @@ jouwplatform.shop
 jovenscientistas.com
 jovhtchmad.ga
 jovianorbit.com
+jovira.io.vn
 jovistudio.com
 jovo.app
 jowabols.com
@@ -106528,6 +106547,7 @@ kelpwire57.bond
 kelsallandco.com
 kelseyball.com
 kelseyball.xyz
+kelteis.cc
 keluaranhk.online
 keluarga.asia
 keluargabesarpeduli.club
@@ -108122,6 +108142,7 @@ kizi10.org
 kiziwi.xyz
 kizuati.com
 kizvin.ru
+kizzdev.io.vn
 kj-a.cc
 kj243.site
 kj5255.com
@@ -112140,6 +112161,7 @@ layuhnjshkr57618.ml
 layuhnjshkr57618.tk
 layupixwn.space
 layze.camdvr.org
+lazada-th.com
 lazarskipl.com
 lazcano.com.ar
 lazdmzmgke.mil.pl
@@ -114477,6 +114499,7 @@ lindbarsand.tk
 linde-welding.cd
 linden.com
 lindenbaumjapan.com
+lindenbrookside151.dev
 lindencornerbridge.fr
 lindendaleridge.com
 lindendentists.com
@@ -130220,6 +130243,7 @@ morningstarkafe.xyz
 morningstarlawn.com
 morningstiffnesspodcast.org
 morningsun.lol
+morningtrail.net
 morningtreat.shop
 morningtry.shop
 morningtw.com
@@ -133005,6 +133029,7 @@ mylongemail.info
 mylongemail2015.info
 myloo.biz.id
 mylooow.my.id
+mylossless.com
 mylove55.com
 mylove92.cfd
 mylovelyfeed.info
@@ -147010,6 +147035,7 @@ parlaban.com
 parliamenml.ru
 parliamentmail.ru
 parlimentpetitioner.tk
+parlune.io.vn
 parmageddon.net
 parmansliquor.com
 parmesan-foods-takeaway.com
@@ -156554,6 +156580,7 @@ pushed.org
 pushkar.dev
 pushmojo.com
 pushmyswing.com
+pushni.com
 pushpophop.com
 pushstate.xyz
 pushxxx.ru
@@ -165226,6 +165253,7 @@ roseau.me
 rosebearmylove.ru
 roseberrymedia.com
 rosebird.org
+rosebowl99.space
 rosechina.com
 rosedaleplumbing.ca
 rosefiz.uno
@@ -176093,6 +176121,7 @@ smsop.cyou
 smspartafits.com
 smsplanets.net
 smsraag.com
+smstodata.com
 smsturkey.com
 smswan.com
 smtapp.xyz
@@ -186726,6 +186755,7 @@ terafile.tokyo
 terafile.xyz
 terahack.com
 teralc.com
+teralino.com
 terameramail.com
 teramira.store
 teranim.website
@@ -188538,6 +188568,7 @@ thenumbersfund.com
 thenunemakers.com
 thenutritionatrix.com
 theo-berraboukh.com
+theobell882.live
 theobynars.com
 theocenmail.com
 theocloud.de
@@ -192261,6 +192292,7 @@ torvice.ml
 torvice.tk
 torvila.sbs
 torviq.click
+torvyn.io.vn
 torwotool.com
 torwotools.com
 tory-burch-brand.com
@@ -196044,6 +196076,7 @@ u1gdt8ixy86u.ml
 u1gdt8ixy86u.tk
 u1liwc.us
 u1pvwg.us
+u1x7m4q8t2.io.vn
 u1z.ru
 u2.net.pl
 u2casino.net
@@ -199837,6 +199870,7 @@ valenciabackpackers.com
 valencialakes.net
 valencianista.com
 valenciarealty.com
+valenrisa.com
 valentia.com
 valentin.best
 valentines.nu
@@ -208078,6 +208112,7 @@ wintershop.icu
 wintersmail.site
 wintersnowremovalservices.com
 wintersupplement.com
+winterwindow.live
 winterx.site
 wintopaywin.fun
 wintopaywin.host
@@ -217252,6 +217287,7 @@ zdecadesgl.com
 zdenka.net
 zdesyaigri.ru
 zdferma.ru
+zdfgg5.io.vn
 zdfgmail.space
 zdfpost.net
 zdfsmh.site
@@ -217513,6 +217549,7 @@ zenthira.cfd
 zenthranet.com
 zentokan.asia
 zentradingmagazine.online
+zentrix.io.vn
 zentro.llc
 zentronix.site
 zentropiatv.com
@@ -218228,6 +218265,7 @@ ziro3000.site
 ziro88.com
 zirostore.app
 zirsc.fun
+zirvok.io.vn
 zischka.ch
 zisustand.site
 zita-blog-xxx.ru

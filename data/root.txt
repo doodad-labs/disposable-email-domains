@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-11-08T04:36:08.746Z
+# Aggregated blacklist generated on 2026-11-08T12:48:38.678Z
  
 0-30-24.com
 0-attorney.com
@@ -7448,6 +7448,7 @@
 5so1mammwlf8c.gq
 5so1mammwlf8c.ml
 5so1mammwlf8c.tk
+5sounds.com
 5staraffiliateprograms.com
 5starimport.com
 5staring.com
@@ -15542,6 +15543,7 @@ ai4trade.info
 ai6.me
 ai6188.com
 ai6554.com
+ai666666.me
 aiaccount.click
 aiadvertising.xyz
 aiafhg.com
@@ -22915,6 +22917,7 @@ ask-bo.co.uk
 ask-mail.com
 ask-thor.com
 ask-zuraya.com.au
+ask15da.party
 ask2me.online
 askai.hk
 askandhire700.info
@@ -27287,6 +27290,7 @@ baodoisongphunu.com
 baoduonglocnuoc.com
 baofajj.com
 baojianxue.com
+baolaowang.com
 baoloc.city
 baomat.ml
 baomoi.site
@@ -31384,6 +31388,7 @@ bigdaddygamebet.com
 bigdansells.com
 bigdat.fun
 bigdat.site
+bigdatacluster.online
 bigddns.com
 bigddns.net
 bigddns.org
@@ -33513,6 +33518,7 @@ blueew.shop
 blueeyednational.site
 bluefilterltd.com
 bluefishpond.com
+bluefizzclub.me
 blueforcemedia.net
 bluefriday.info
 bluefriday.top
@@ -45862,6 +45868,7 @@ clipmail.gq
 clipmail.ml
 clipmail.tk
 clipmails.com
+clipnovella.me
 clippersystems.com
 clips.pics
 clipscreen.com
@@ -54387,6 +54394,7 @@ decorigin.com
 decorinoxtallers.com
 decornido.com
 decorproducts.net
+decosprig.me
 decosticks.com
 decoymail.com
 decoymail.mx
@@ -54931,6 +54939,7 @@ demytholomail.com
 den.yt
 dena.ga
 dena.ml
+denabk.online
 denaliatm.com
 denao.top
 denarcteel.com
@@ -55484,6 +55493,7 @@ desitnationsmoke.com
 desitvforums.su
 desiys.com
 deskality.net
+deskblossom.me
 deskdoc.app
 deskgamecasino.net
 deskinsagriculture.com
@@ -59985,6 +59995,7 @@ dragonads.net
 dragonaos.com
 dragonballxenoversecrack.com
 dragonboatchinese.com
+dragonbookcase.me
 dragoncapital.us
 dragoncitydanang.com
 dragoncon.net
@@ -60176,6 +60187,7 @@ dreamlover.dating
 dreammachines.com
 dreammatchup.lat
 dreammultimode.com
+dreamora.cfd
 dreamosblog.com
 dreamoz.info
 dreampian.xyz
@@ -69899,6 +69911,7 @@ fahadfaryadlimited.co
 fahastores.site
 faheemakhtar.xyz
 fahih.com
+fahjnlgfa1fa2.com
 fahmi-amirudin.tech
 fahr-zur-hoelle.org
 fahrapp.net
@@ -70177,6 +70190,7 @@ familialweb.co.uk
 familiaresiliente.com
 familiarizeyourself.com
 familiarmail.com
+familiashop.ru
 familiatomail.com
 familie-baeumer.eu
 familiegarber.de
@@ -71991,6 +72005,7 @@ fgg.com
 fggfqoim.shop
 fggjghkgjkgkgkghk.ml
 fggxpoosfv.ga
+fgh.ru
 fgh8.com
 fghco.com
 fghe.store
@@ -78859,6 +78874,7 @@ gd6ubc0xilchpozgpg.ml
 gd6ubc0xilchpozgpg.tk
 gdacg.com
 gdai.com.br
+gdasg.bid
 gdatingq.com
 gdb24.pl
 gdbdata.net
@@ -80468,6 +80484,7 @@ ghimail.com
 ghime.co.com
 ghiscarbices.tk
 ghislain239.store
+ghiyugh.uk
 ghizzonimoto.com
 ghj.ru
 ghjeb.live
@@ -83265,6 +83282,7 @@ googlesite.org
 googlet.com
 googli.com
 googlosports.com
+googlve.com
 googmail.com
 googmail.gdn
 googole.com.pl
@@ -89537,6 +89555,7 @@ hhha.net
 hhhcc.online
 hhhh9927.com
 hhhhb.com
+hhhhbfshb.date
 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh.info
 hhhhyl.com
 hhhnhned.store
@@ -96701,6 +96720,7 @@ inclusioncheckup.com
 inclusive-opportunities.com
 inclusiveprogress.com
 incnve.com
+incogneato.us
 incognicko.nl
 incogniteaux.com
 incognitoemail.ca
@@ -101901,6 +101921,7 @@ jellybeanplop.org
 jellybeans.uno
 jellycabi.icu
 jellyeyelidmeant.site
+jellyglimmer.me
 jellyraccoon.lol
 jellyrollpan.net
 jellyrolls.com
@@ -114732,6 +114753,7 @@ linsal.site
 linsang.site
 linseyalexander.com
 linshi-email.com
+linshi-mail.com
 linshiyou.com
 linshiyouxiang.net
 linshiyouxiang.xyz
@@ -115320,6 +115342,7 @@ livens.cloud
 livens.website
 livenudevideochat.com
 liveoctober2012.info
+liveolder.online
 liveonkeybiscayne.com
 liveotp.site
 livepharma.org
@@ -116116,6 +116139,7 @@ logicai.com
 logicainfotech.com
 logicaljoy.com
 logicampus.live
+logicapt.icu
 logicfieldzen.com
 logichexbox.com
 logicielsvinity.com
@@ -116664,6 +116688,7 @@ lorotzeliothavershcha.info
 lorraineeliseraye.com
 lorrainerasmussen.com
 lorran32.shop
+lorran44.shop
 lorran52.shop
 lorran64.shop
 lorranaccs.shop
@@ -119186,6 +119211,7 @@ mahinaaah.ml
 mahindrabt.com
 mahjonggameadventure.com
 mahjonggplayzone.com
+mahjonglore.me
 mahjongseal.se
 mahk.eu
 mahkota33.org
@@ -123039,6 +123065,7 @@ marketingcanada.ca
 marketingcoursesusa.com
 marketingeffekt.de
 marketingenarquitectura.com
+marketingforbusiness.online
 marketingforpastors.com
 marketingi.org
 marketinglamego.es
@@ -139148,6 +139175,7 @@ npmcwcasino.com
 npngs.ru
 npnks.live
 npo2.com
+npobox.us
 npoexp.us
 npofgo90ro.com
 npoopmeee.site
@@ -145909,6 +145937,7 @@ packmein.online
 packmein.shop
 packsec.com
 packsurfwifi.com
+packwhistle.me
 pacnoisivoi.com
 pacnut.com
 pacomerupin.com
@@ -149973,6 +150002,7 @@ phytosociolymail.com
 phytosoudp.com
 phytosuccmalis.com
 phytosumail.ru
+phyxzax.cfd
 phyyph.com
 pi-ka.ru
 pi-note.online
@@ -155660,6 +155690,7 @@ prtc.com
 prtlinuxemail.com
 prtnews.com
 prtnx.com
+prtonmail.com
 prtpoker.club
 prtpoker.site
 prtpoker.xyz
@@ -159170,6 +159201,7 @@ radexi.com
 radexi.info
 radexi.online
 radhepro.com
+radher.online
 radhitstore.my.id
 radhixa.app
 radhuni-indian-cuisine.com
@@ -159623,6 +159655,7 @@ rallyraf.ga
 rallyraf.gq
 rallyraf.ml
 rallyraf.tk
+rallywisp.me
 ralph-laurensoldes.com
 ralphlauren51.com
 ralphlaurendenmark.com
@@ -161412,6 +161445,7 @@ reegasubs.ml
 reegasubs.tk
 reel-innovation.com
 reelduckz.com
+reelhouse.fun
 reelmoneys.com
 reelpicnic.me
 reelsgyptio.cf
@@ -169338,6 +169372,7 @@ scalpongs.com
 scambaike.com
 scamerahot.info
 scamkoreans.xyz
+scamlantern.me
 scamorlegit.review
 scamperly.click
 scams.website
@@ -178810,6 +178845,7 @@ squadmetrix.com
 squadmetrix.net
 squafb.us
 square-seal.com
+square32o.com
 squaredsmp.com
 squaredsuppliers.com
 squareseal.com
@@ -180008,6 +180044,7 @@ stermer.org
 sterminshotel.co.uk
 sterndeutung.li
 sternocleidommail.com
+sternvictormail.com
 steroidi-anaboli.org
 steroidi.pro
 steroidogmail.com
@@ -188207,6 +188244,7 @@ theinsuranceinfo.org
 theinternationaltinkler.com
 theinternetisaseriesoftubes.com
 theinternetpower.info
+theinternetpower.online
 theinternetsoft.xyz
 theinvisibleman.co.uk
 theiof.com
@@ -204625,6 +204663,7 @@ wadaa8.shop
 waddayareckon.com
 wadeeni.net
 wadegriffinroofing.com
+waderpani.online
 wadfes.ml
 wadi-alniel.com
 wadifa55.work
@@ -205433,6 +205472,7 @@ watsawang.com
 watsonsdrugstore.com
 watsonvilleapartments.com
 watsonvilledoctors.com
+wattcottage.me
 wattonmi.buzz
 wattpad.pl
 wattsburg.com
@@ -214646,6 +214686,7 @@ yesgurgaon.com
 yeshuahamashiajradio.com
 yesilimsi.ga
 yesilimsi.tk
+yesiltemizlik.com
 yesilyurtkurye.xyz
 yesilyurtluyuz.com
 yesimbla.cf
@@ -217456,6 +217497,7 @@ zenpoczc.com.pl
 zenrepair365.xyz
 zensantibully.com
 zenseo.net
+zenset.cfd
 zenskie-trusy.store
 zensolutions.info
 zensuk.us

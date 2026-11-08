@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-11-07T23:26:18.896Z
+# Aggregated blacklist generated on 2026-11-08T04:36:08.746Z
  
 0-30-24.com
 0-attorney.com
@@ -29087,6 +29087,7 @@ beloaviation.com
 beloffmail.net.ua
 belog.digital
 belongestival.xyz
+belove.lat
 belovedhavanese.com
 belpoa.org
 belprepaid.space
@@ -61327,6 +61328,7 @@ duolcxcloud.com
 duoley.com
 duongbacviet.me
 duongdz.site
+duonglong.id.vn
 duongtang.com
 duongtrinh.xyz
 duongvandat.id.vn
@@ -120564,6 +120566,7 @@ mailfast.pro
 mailfather.de
 mailfattalss.space
 mailfavorite.com
+mailfb.io.vn
 mailfebruary.com
 mailfen.com
 mailfer.com

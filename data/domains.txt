@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-11-07T23:26:18.896Z
+# Aggregated blacklist generated on 2026-11-08T04:36:08.746Z
  
 0-00.usa.cc
 0-30-24.com
@@ -847,6 +847,7 @@
 0daymusic.org
 0dazpbqgfq.mailbo.store
 0dbbykiuig.mailbo.store
+0dfb.piluxana.asia
 0dftjido1m.mailbo.store
 0dg4.tieumuoishop.io.vn
 0difris8fn.mailbo.store
@@ -40805,6 +40806,7 @@ beloaviation.com
 beloffmail.net.ua
 belog.digital
 belongestival.xyz
+belove.lat
 belovedhavanese.com
 below.swegu.com
 belpoa.org
@@ -48102,6 +48104,7 @@ bper.cf
 bper.ga
 bper.gq
 bper.tk
+bpesb.anonbox.net
 bpfgaypi.shop
 bpg.emlpro.com
 bpg3.cse445.com
@@ -79272,6 +79275,7 @@ duolcxcloud.com
 duoley.com
 duongbacviet.me
 duongdz.site
+duonglong.id.vn
 duongtang.com
 duongtrinh.xyz
 duongvandat.id.vn
@@ -155695,6 +155699,7 @@ mailfast.pro
 mailfather.de
 mailfattalss.space
 mailfavorite.com
+mailfb.io.vn
 mailfebruary.com
 mailfen.com
 mailfer.com
@@ -186954,6 +186959,7 @@ p3ter.fun
 p3v8.cse445.com
 p3w2prebab.mailbo.store
 p3whhr.igg.biz
+p3yc.zaq.asia
 p3zb.tieumuoishop.io.vn
 p40l2j2y.luksarcenter.ru
 p4320.site
@@ -200929,6 +200935,7 @@ qg8zn7nj8prrt4z3.tk
 qga38j06.luksarcenter.ru
 qgae.com
 qgaff.com
+qgah.bzmaomuf.web.id
 qgakj.cse445.com
 qgau2.anonbox.net
 qgbegupwwj.mailbo.store

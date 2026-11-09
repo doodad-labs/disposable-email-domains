@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-11-08T23:26:27.430Z
+# Aggregated blacklist generated on 2026-11-09T04:47:23.009Z
  
 0-00.usa.cc
 0-30-24.com
@@ -51709,6 +51709,7 @@ burgerking.icu
 burgermailcomp.com
 burglighhu.cf
 burglighhu.ml
+burgmarwig.de
 burgoscatchphrase.com
 burguesinhas.com
 burgwinwrighthouse.com
@@ -113609,6 +113610,7 @@ haotmail.de
 haotua.top
 haotuk.site
 haotuwu.com
+haowanyou.site
 haoy678.com
 haoyaogeccx.com
 haoyouo.com
@@ -121806,6 +121808,7 @@ hyecourtdot.ga
 hyefgvdjow.mailbo.store
 hyejfecy11.mailbo.store
 hyeni3v9wq.mailbo.store
+hyeon.biz.id
 hyeseok.site
 hyf.laste.ml
 hyfkf0aqmx.mailbo.store
@@ -251328,6 +251331,7 @@ u7cjl8.xorg.pl
 u7fq0.mimimail.me
 u7fwxuazel.mailbo.store
 u7h0.tieumuoishop.io.vn
+u7ig4.anonbox.net
 u7iowcrkh9.mailbo.store
 u7l9s6.com
 u7lajpjxpk.mailbo.store

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-11-09T23:58:41.888Z
+# Aggregated blacklist generated on 2026-11-10T06:49:09.938Z
  
 0-00.usa.cc
 0-30-24.com
@@ -23379,6 +23379,7 @@ adadfaf.tech
 adadmailon.com
 adagame.store
 adaid.bond
+adajani.work
 adal.kg
 adal33.net
 adal34.net
@@ -34077,6 +34078,7 @@ ashtangajakarta.com
 ashtdo.com
 ashtonpark.com
 ashtony.xyz
+ashtrack.lol
 ashun.ml
 ashuuuu.shop
 ashve0ahz4.mailbo.store
@@ -36205,6 +36207,7 @@ aver.com
 aver.ll47.net
 averdov.com
 averedlest.monster
+averion.xyz
 averism.com
 averite.com
 averon.cc
@@ -53122,6 +53125,7 @@ bytesundbeats.de
 bytetutorials.net
 byteventures.com
 bytevood.com
+bytewavedancer.info
 bytewavedancer.xyz
 bytewizardry.com
 byteza.my.id
@@ -54417,6 +54421,7 @@ calphemi.ml
 calphemi.tk
 calpwgfve1.mailbo.store
 calrylle.my.id
+calsinaus.pl
 calsoccerforum.com
 caltanet.it
 caltiger.net.in
@@ -60226,6 +60231,7 @@ chop-saratov.ru
 chopan-schwabing.de
 chopchopdublin.com
 chophim.com
+choppirs.bond
 chopsticks-takeaway.com
 chopstixandfork.com
 chopstixchinesetakeaway.com
@@ -63957,6 +63963,7 @@ colmail.store
 colmanrasic.com
 colmanrealty.com
 colmbs.us
+colmbus.us
 colmek.xyz
 colmeks.com
 colms.us
@@ -64969,6 +64976,7 @@ connectpw.com
 connectwithjournalists.com
 connelly-llc.com
 connett.fastlasermouses.com
+connexy.xyz
 connho.com
 connho.net
 connie.atomicman.lat
@@ -67127,6 +67135,7 @@ credenic.gq
 credenic.ml
 credenic.tk
 credentials4u.com
+credento.xyz
 credeqclev.cf
 credeqclev.ga
 credeqclev.ml
@@ -79009,6 +79018,7 @@ dpaydpal.shop
 dpbbo5bdvmxnyznsnq.ga
 dpbbo5bdvmxnyznsnq.ml
 dpbbo5bdvmxnyznsnq.tk
+dpc.my.id
 dpcdn.cn
 dpcdn.cn.
 dpcfrontier.com
@@ -80869,6 +80879,7 @@ during.mailbo.store
 duringly.site
 duroroot.com
 durosoft.net
+durovmail.com
 durpdv.site
 durranitrp.online
 durttime.com
@@ -82371,6 +82382,7 @@ earthcam.net
 earthdome.com
 earthdrygoods.com
 earthforhealth.club
+earthhlink.net
 earthhourlive.org
 earthisours.net
 earthliknk.net
@@ -85971,6 +85983,7 @@ email4spam.org
 email4u.info
 email4work.xyz
 email5.net
+email588.com
 email60.com
 email64.com
 email666.usa.cc
@@ -86416,6 +86429,7 @@ embarq.net
 embarqmaik.com
 embarqmail.com
 embarqumail.com
+embase.xyz
 embassybase.com
 embassyofcoffee.de
 embassysuites.com
@@ -86575,6 +86589,7 @@ eminempwu.com
 eminent.property
 eminilathe.info
 eminitrading.net
+emiora.xyz
 emirates.email
 emiratesannualuae.xyz
 emirateshillsmaintenance.com
@@ -86619,6 +86634,7 @@ emlppt.com
 emlpro.com
 emlt.xyz
 emltmp.com
+emlux.xyz
 emm.pet
 emmail.com
 emmail.info
@@ -86816,6 +86832,7 @@ emsrm7s5z8.mailbo.store
 emstarni7261.a.lofteone.ru
 emstjzh.com
 emswizzle.com
+emsync.xyz
 emt1.xyz
 emtaochima.com
 emtaoko.com
@@ -87664,6 +87681,7 @@ eoncasino.com
 eond.fdhengineering.com
 eonei.uno
 eonie.uno
+eonixmail.com
 eonlz.site
 eonmech.com
 eonohocn.com
@@ -102214,6 +102232,7 @@ gallowaybell.com
 gallowayelectric.net
 gallowaytransportation.com
 gallowspointgg.com
+gallutoel.info
 gally.jp
 galmalary.ru
 galmarino.com
@@ -104202,6 +104221,7 @@ gestionciga.com
 gestioncolegio.online
 gestiondefortune.info
 gestmingna8277.lofteone.ru
+gesut.fun
 gesya3d0jm.mailbo.store
 gesync.xyz
 get-best-datings1.com
@@ -107112,6 +107132,7 @@ gmaila.com
 gmailad.com
 gmailaholics.com
 gmailamz.vsmailpro.com
+gmailaoi.com
 gmailas.com
 gmailasdf.com
 gmailasdf.net
@@ -125073,6 +125094,7 @@ imaanpharmacy.com
 imabandgeek.com
 imac.sfanrj.cfd
 imacal.site
+imach.com
 imacmail.online
 imacpro.ml
 imadgraphics.com
@@ -142475,6 +142497,7 @@ korek5.igg.biz
 korekgas.info
 korelmail.com
 korepoji.online
+korexmail.com
 korgo.net
 korgum.pl
 korichi.com.vn
@@ -162322,6 +162345,7 @@ mcj.10mail.org
 mcjammer.com
 mcjassenonlinenl.com
 mcjazz.pl
+mcjt7.anonbox.net
 mckay4183459.igg.biz
 mckay9570604.igg.biz
 mckaymail.bid
@@ -164114,6 +164138,7 @@ mersinorganize.com
 mersinrentals.online
 mersinrentals.xyz
 mersinwebmaster.com
+mertaelia.dev
 mertaq231.biz.id
 mertolinaperoti.xyz
 meruado.uk
@@ -165028,6 +165053,7 @@ mica-compliance.online
 mica-compliance.shop
 mica-compliance.solutions
 mica-compliance.today
+mica-compliance.work
 micado.ai
 micalmo.com
 micalmo.net
@@ -168961,6 +168987,7 @@ morningstarlawn.com
 morningstiffnesspodcast.org
 morningsun.lol
 morningtrail.net
+morningtrailpost.buzz
 morningtreat.shop
 morningtry.shop
 morningtw.com
@@ -186343,6 +186370,7 @@ oolloo.org
 oolmail.com
 oolong.ro
 oolus.com
+oomail.xyz
 oomble.com
 oomidi.com
 oomlsrffdp.ga
@@ -188535,6 +188563,7 @@ outlook.marchguidesassociation.org.uk
 outlook.markandvirginiarometty.org
 outlook.me.kr
 outlook.medicichoir.org
+outlook.mtdalmshouse.fitness
 outlook.mx
 outlook.newsteadabbeypartnership.org
 outlook.noizonicfoundation.com
@@ -195383,6 +195412,7 @@ pivo-bar.ru
 pivotfurthersally.site
 pivotmylife.com
 pivotylabs.pro
+pivoxmail.com
 pivrtks.com
 pivrw.us
 pivun.org
@@ -203953,6 +203983,7 @@ qigongglobalhub.com
 qigongglobalwisdom.com
 qihceoils.shop
 qihno.saucent.online
+qihongfoam.com
 qihwfscc.shop
 qijjbw7zek.mailbo.store
 qijn.spymail.one
@@ -206019,6 +206050,7 @@ qvharrisu.com
 qvhtjzaamx.mailbo.store
 qvic.qvokelo414.biz.id
 qviddvnjjn.mailbo.store
+qvinh24.site
 qvitta.com
 qvj1wgfstl.mailbo.store
 qvjc0ik5kx.mailbo.store
@@ -221087,6 +221119,7 @@ seismail.com
 seismicefficiency.ru
 seismologiomail.com
 seitenfirmen.de
+seiunkan.com
 seiveri7667.a.lofteone.ru
 seiy4g93yw.mailbo.store
 seizefai.xyz
@@ -221228,6 +221261,7 @@ selfstoragefind.net
 selftanningpills.net
 selftrak.fit
 selibronsonwgqz.online
+selielio.org
 seligtech.com
 selikoffco.com
 selipico.site
@@ -224802,6 +224836,7 @@ silvanahair.com
 silvapol.pl
 silvar.site
 silvaron.cfd
+silvatechsouza.com.br
 silveninauniformes.com
 silver-bullet.se
 silver-green.com
@@ -232100,6 +232135,7 @@ step.mailbo.store
 stepbystepwoodworkingplans.com
 stepchienkoo.anonaddy.me
 stepdownjob.com
+stepguardfloors.com
 stephanbrandhorst.shop
 stephanehop.com
 stephanie.com
@@ -247614,6 +247650,7 @@ transmt10.com
 transmute.us
 transmutmail.ru
 transoil.ru
+transparentfg.rest
 transparenzinitiative.jetzt
 transphaeton.com
 transpirecorp.com
@@ -249116,6 +249153,7 @@ tsobe.com
 tsoftware.mrface.com
 tsoheutas.com
 tsol.hceayacp526.biz.id
+tsontatube.live
 tsoundmost.shop
 tsource.ist
 tsp9i.cse445.com
@@ -249269,6 +249307,7 @@ ttlrlie.com
 ttlzw.info
 ttm-casino.com
 ttm.dropmail.me
+ttmail.lat
 ttmail.pro
 ttmail.vip
 ttmgss.com
@@ -253809,6 +253848,7 @@ uninhibfl.com
 uninmail.com
 uninsuramy.com
 unintellimails.ru
+unintentional.win
 uninteresti.ru
 uninterprmail.ru
 unintoxmail.com
@@ -258161,6 +258201,7 @@ venuslifestyle.es
 venusocks.ru
 venusportfolio.com
 venusstri.com
+venvio.online
 venweld.site
 venyra.fr
 veo.kr
@@ -269051,6 +269092,7 @@ worllofa.tk
 worlsiftfil.ga
 worlsiftfil.gq
 worlsiftfil.ml
+wormail888.com
 wormbrand.com
 wormbrand.net
 wormbrand.org

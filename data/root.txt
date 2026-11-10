@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-11-10T16:06:52.013Z
+# Aggregated blacklist generated on 2026-11-10T22:52:18.601Z
  
 0-30-24.com
 0-attorney.com
@@ -54972,6 +54972,7 @@ dena.ga
 dena.ml
 denabk.online
 denaliatm.com
+denanet.com
 denao.top
 denarcteel.com
 denari.se

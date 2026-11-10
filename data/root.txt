@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-11-10T06:49:09.938Z
+# Aggregated blacklist generated on 2026-11-10T16:06:52.013Z
  
 0-30-24.com
 0-attorney.com
@@ -16265,6 +16265,7 @@ ajoxmail.com
 ajpapa.net
 ajqff.us
 ajqn2h.us
+ajra.my.id
 ajreviewnews.com
 ajrf.in
 ajruqjxdj.pl
@@ -217480,6 +217481,7 @@ zeft-ten.ml
 zeft-ten.tk
 zeft.cloud
 zefuqua.space
+zefvo.com
 zeg59.us
 zegt.de
 zeheat.com

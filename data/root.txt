@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-11-10T22:52:18.601Z
+# Aggregated blacklist generated on 2026-11-11T04:49:42.046Z
  
 0-30-24.com
 0-attorney.com
@@ -4764,6 +4764,7 @@
 364ue.space
 365-day.ru
 365.moe
+365.plus
 3651ri.com
 3651se.com
 3651she.com
@@ -22185,6 +22186,7 @@ artea.lat
 artedecancun.com
 artefact.co
 artefacto11.com
+artegin.com
 arteios.com
 arteizle10.com
 arteizle3.com
@@ -38114,6 +38116,7 @@ bwfrnhdt.my.id
 bwgworldwide.com
 bwhey.com
 bwincasinobono.net
+bwingmedia.com
 bwisit.shop
 bwjdk1.site
 bwltir.com
@@ -41144,6 +41147,7 @@ catty.wtf
 catupyrijor.space
 catx.fun
 catypo.site
+cauboo.com
 caucomda.cf
 caucomda.gq
 caucomda.ml
@@ -44523,6 +44527,7 @@ chutneyskerries.com
 chuugrend.com
 chuve.lat
 chuwake.com
+chuwel.com
 chuyennha37.com
 chuyenphatnghean.com
 chuzx.com
@@ -70772,6 +70777,7 @@ fastddns.net
 fastddns.org
 fastdeal.com.br
 fastdealhome.com
+fastdisk.io
 fastdownloadcloud.ru
 fasteacher.com
 fastemails.us
@@ -72059,6 +72065,7 @@ fghe.store
 fghfg.com
 fghfgh.com
 fghi.com
+fghjj.com
 fghmail.net
 fgjezxa.cloud
 fgjnxcps.site
@@ -76889,6 +76896,7 @@ fullchannel.net
 fullclone.club
 fullclone.xyz
 fullcoolmaintenance.xyz
+fulldiets.com
 fulledu.ru
 fullemedia-deals.info
 fullen.in
@@ -82607,6 +82615,7 @@ godlyme.com
 godmail.gq
 godman.club
 godobolet.buzz
+godog.lat
 godoityourself.club
 godollar.xyz
 godormammon.com
@@ -105038,6 +105047,7 @@ jyrbayli9jezk4i.xyz
 jyrki.me
 jyrn.com
 jyshriram.online
+jysnk.com
 jytewwzz.com
 jytwf.icu
 jyun.com
@@ -113004,6 +113014,7 @@ lemon-verbana.com
 lemon-verbana.net
 lemon.casino
 lemonadeka.org.ua
+lemoncourtyard70.dev
 lemonde-fr.space
 lemonde24fr.host
 lemonde24fr.site
@@ -113092,6 +113103,7 @@ lensmarket.com
 lensservoptical.com
 lenta-bukv.ru
 lentafor.me
+lenteente7.xyz
 lenterprize.com
 lentibularimail.com
 lenticulomail.com
@@ -119235,6 +119247,7 @@ magnificentvideo.ru
 magnifyaid.com
 magniglobal.org
 magno.lat
+magnolia-hall96.fr
 magnoliacheck.xyz
 magnoliaentertainment.com
 magnoliapost.com
@@ -134930,6 +134943,7 @@ nbaknicksx.xyz
 nbalakerskidstshirt.info
 nbantw.us
 nbapredictor.com
+nbasweeps.com
 nbavip.site
 nbc-sn.com
 nbchurch.pro
@@ -143392,6 +143406,7 @@ ooyv.homes
 op82new.shop
 op90.org
 opakenak.com
+opal-attic94.xyz
 opalastudios.xyz
 opale-capital.com
 opalik.com
@@ -151740,6 +151755,7 @@ plrdn.com
 pls.com
 plsh.xyz
 plt.com.pl
+plu.com.ua
 pluccb.xyz
 pluckywelltodo.site
 pluffy.site
@@ -160647,6 +160663,7 @@ readc.site
 readcricketclub.co.uk
 readd.site
 readdelight.site
+reader.info
 readershealthdigest.com
 readf.site
 readg.site
@@ -163213,6 +163230,7 @@ rewermail.com
 rewerty.fun
 rewet43.store
 rewgr.shop
+rewind.lat
 rewinfetu.xyz
 rewiw.com
 rewolt.pl
@@ -178176,6 +178194,7 @@ spectexremont.ru
 spectorg-opt.ru
 spectrail.world
 spectralbodywork.com
+spectrclient.xyz
 spectreonline.net
 spectro.icu
 spectrohelmail.com
@@ -180876,6 +180895,7 @@ stringcool.com
 stringlevel.icu
 stringoftheseus.com
 stringsattachedentertainment.com
+stringtheracket.com
 striorttedavisi.xyz
 striorttreatment.xyz
 striortturkey.xyz

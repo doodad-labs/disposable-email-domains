@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-11-11T04:49:42.046Z
+# Aggregated blacklist generated on 2026-11-11T13:37:09.471Z
  
 0-30-24.com
 0-attorney.com
@@ -27870,6 +27870,7 @@ baykuskitap.xyz
 baylead.com
 baylineshores.com.au
 baylnkusa.com
+baylon.com
 baylornews.com
 baymail.online
 baymail.store
@@ -33195,6 +33196,7 @@ bloghaiti.com
 bloghandbook.com
 bloghangbags.com
 bloghawaii.com
+bloghelpjob.online
 bloghoahoc.com
 bloghost.com
 bloghosting.website
@@ -36941,6 +36943,7 @@ bufonu.com
 bufyrjkdhu.xyz
 bug.cl
 bugboxmedia.com
+bugcrowdninja.dev
 bugdomain9.com
 bugeyedbugs.com
 bugfoo.com
@@ -54157,6 +54160,7 @@ deal.com
 dealble.com
 dealbonkers.com
 dealcombiner.com
+dealcontracts.com
 dealcost.com
 dealcungmua.info
 dealdimer.life
@@ -73253,6 +73257,7 @@ fitmeusa.fun
 fitmeusa.shop
 fitmindgate.com
 fitmotiv.ru
+fitne.ru
 fitneesx.site
 fitneezz.info
 fitneezz.site
@@ -73713,6 +73718,7 @@ flexbud24.pl
 flexbureauzekerheid.com
 flexcellent.com
 flexcodejam.org
+flexconnect.id
 flexeerous.cf
 flexeerous.ga
 flexeerous.gq
@@ -101475,6 +101481,7 @@ jasonrohona.com
 jasonscheffel.com
 jasonswheels.org
 jasonvix.asia
+jaspelo.com
 jasper-robot.com
 jasper133.store
 jasperai.one
@@ -101730,6 +101737,7 @@ jcaf.icu
 jcalvert.net
 jcamerahot.info
 jcards.art
+jcaton.com
 jcatus.com
 jcausedm.com
 jcbacab.com
@@ -102018,6 +102026,7 @@ jembutmera.me
 jemchujinka.info
 jeme.com
 jemimawhitford.com
+jemini.site
 jemmadaniels.com
 jemmasplayground.com
 jemmctldpk.pl
@@ -109024,6 +109033,7 @@ kometaofficialcasino.ru
 kometaonlinecasino.ru
 komferry.com
 komfu.com
+komgame.online
 komgame.win
 komilbek90.site
 kommespaeter.de
@@ -114970,6 +114980,7 @@ liquidfastrelief.com
 liquidherbalincense.com
 liquidincmarketing.com
 liquidinformation.net
+liquiditylighthouse.net
 liquidlogisticsmanagement.com
 liquidmail.de
 liquidmediahawaii.com
@@ -116775,6 +116786,7 @@ lorrainerasmussen.com
 lorran32.shop
 lorran44.shop
 lorran52.shop
+lorran63.shop
 lorran64.shop
 lorranaccs.shop
 lorslufmea.cf
@@ -117331,6 +117343,7 @@ lovethetuentisfestival.com
 lovetocbd.com
 lovetuan.com
 loveu.com
+loveu.my.id
 loveunitesus.live
 loveus.info
 loveuu.xyz
@@ -120757,6 +120770,7 @@ mailgetintouch.email
 mailgg.org
 mailgia.com
 mailginza.com
+mailglinto.com
 mailglobalnet.space
 mailglobe.club
 mailglobe.org
@@ -123257,6 +123271,7 @@ markwright.me.uk
 marlasiada.world
 marlboro-ez-cigarettes.com
 marlboroughdentists.com
+marlcott.org
 marle.ga
 marleeandmecreations.com
 marlisapunzalanofficial.com
@@ -127104,6 +127119,7 @@ micropaleontology867pf.online
 micropamail.com
 micropanier.com
 microparmail.ru
+micropaste.com
 microphomail.com
 microphotommail.com
 micropul.com
@@ -137037,6 +137053,7 @@ ngtlcz.us
 ngtleads.com
 ngtndpgoyp.ga
 ngtohl.us
+ngtools.com
 ngtrw.info
 ngucoclinhan.com
 nguhoc.xyz
@@ -144382,6 +144399,7 @@ orsbap.com
 orsg.xyz
 orsixtyone.cf
 orsltd.co.uk
+orsonki.com
 ortadogupanelim.xyz
 ortaemi.com
 ortaklartl.com
@@ -147903,6 +147921,7 @@ pcfastkomp.com
 pcff.foundation
 pcg.earth
 pcgameans.ru
+pcgamecard.com
 pcgamemart.com
 pcgameplay.ru
 pcgcoatings.com
@@ -149381,6 +149400,7 @@ pgafricagroup.com
 pgasia.info
 pgasiacasino.info
 pgasiacasino.net
+pgasweeps.com
 pgazhyawd.pl
 pgbetcasino.net
 pgbrealtyservicesllc.com
@@ -154547,6 +154567,7 @@ primex.club
 primhealth.com
 primonet.pl
 primormail.com
+primory.xyz
 primotor.com
 primrosejewelry.com
 primrosemediaworks.com
@@ -158737,7 +158758,10 @@ qvcpv.com
 qvcq.skin
 qvestmail.com
 qvharrisu.com
+qvinh24.shop
 qvinh24.site
+qvinh24.space
+qvinh24.store
 qvitta.com
 qvkf2i.com
 qvlar.se
@@ -172370,6 +172394,7 @@ sgizdkbck4n8deph59.gq
 sgizuw.us
 sgkan.com
 sgm.ovh
+sgmade.com
 sgmail.au
 sgmail.web.id
 sgmo.top
@@ -186507,6 +186532,7 @@ tempmailid.com
 tempmailid.net
 tempmailid.org
 tempmailin.com
+tempmailkit.com
 tempmaill.io
 tempmaill.net
 tempmailled.com
@@ -188275,6 +188301,7 @@ thegreyforge.com
 thegrilltakeaway.com
 thegrimreaper.icu
 thegrimreaper.xyz
+thegroms.online
 thegrooms.men
 thegroundage.com
 thegrovebandb.com
@@ -196446,6 +196473,7 @@ ucgbc.org
 uchasim.shop
 uchastiesro.xyz
 uchi-pdd-bystro.ru
+uchihaa.online
 uchiyazik.ru
 uchj.com
 ucho.top
@@ -203149,6 +203177,7 @@ vm088.com
 vm2016.com
 vmadhavan.com
 vmail.cam
+vmail.cm
 vmail.cyou
 vmail.dev
 vmail.lat
@@ -207619,6 +207648,7 @@ wiesekey.com
 wiesenhavern-bremen.de
 wiestel.online
 wifame.com
+wifehd.com
 wifespictures.com
 wifesutensils.com
 wifi-boost.shop
@@ -208831,6 +208861,7 @@ wondersagency.pl
 wondersteri.com
 wonderstwo.top
 wonderwaregroup.com
+wondeu.com
 wondowslive.com
 wondrouslamaison.com
 wondroustravel.online
@@ -212109,6 +212140,7 @@ xn--bluewn-7va.cf
 xn--bn-oka.com
 xn--bnqv7k.net
 xn--braologie-jl3ou8zbr6gn9xc.xn--j6w193g
+xn--bugcrowdninj-99a.dev
 xn--byggfretagistockholm-79b.nu
 xn--c1acbqdxear.xn--p1ai
 xn--c1ajialcnp.xn--p1acf
@@ -218421,6 +218453,7 @@ zjnicety.com
 zjnxek.us
 zjp.monster
 zjrt4.us
+zjtailin.com
 zju.best
 zju83.space
 zjubao.xyz
@@ -219130,6 +219163,7 @@ zuhaoban.com
 zuhouse.ru
 zuigaodeshanfeng.icu
 zuiku91.cyou
+zuiku91.icu
 zuiku91.shop
 zuilc.com
 zuile8.com

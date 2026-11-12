@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-11-12T12:13:12.280Z
+# Aggregated blacklist generated on 2026-11-12T21:19:07.040Z
  
 0-00.usa.cc
 0-30-24.com
@@ -37492,6 +37492,7 @@ autodealersdigital.com
 autodidactic.best
 autodienstleistungen.de
 autodiler.net
+autodynamics.autos
 autoeemail.ru
 autoelk.ru
 autofiber.site
@@ -85942,6 +85943,7 @@ educol.us
 educolb.us
 educolbs.us
 educolum.us
+educomb.us
 educourse.xyz
 educre.us
 educs.us
@@ -98373,6 +98375,7 @@ firstmail.website
 firstmailler.com
 firstmailler.net
 firstmailmorty.com
+firstmailprime.com
 firstmainweekend.com
 firstmeta.com
 firstmistake.com
@@ -115350,6 +115353,7 @@ habibola22.com
 habibulfauzan.my.id
 habimail.web.id
 habit.xlping.com
+habitation.homes
 habitationsllc.com
 habiterragt.com
 habitnestguide.com
@@ -118243,6 +118247,7 @@ help-medical.website
 help-prava.ru
 help-presentation.com
 help.carolinensiellive.click
+help.celebrationapp.org
 help.device-secure-new-auth.com
 help.device-secure-new.auth.com
 help.favbat.com
@@ -142470,6 +142475,7 @@ kenvanharen.com
 kenweb.ninja
 kenwestlund.com
 kenyabudgetcamping.com
+kenyacryptocoins.com
 kenyamedicine.com
 kenyanfoodtx.us
 kenyangsekali.com
@@ -164188,6 +164194,7 @@ markcharnley.website
 markcronje.com
 markelcorporation.com
 markellaw.com
+markeringontbreekt.com
 market-beatz.ru
 market-csgotm.fun
 market-map.ru
@@ -168577,6 +168584,7 @@ mic3eggekteqil8.ga
 mic3eggekteqil8.gq
 mic3eggekteqil8.ml
 mic3eggekteqil8.tk
+mica-compliance.biz
 mica-compliance.online
 mica-compliance.shop
 mica-compliance.solutions
@@ -174660,6 +174668,7 @@ musicasgospel.org
 musicaz.net
 musicbaran54.com
 musicbase.com
+musicbizacademy.com
 musicbizpro.com
 musicbox.su
 musiccityusa.com
@@ -186545,6 +186554,7 @@ oaje.luk2.com
 oajqes.yarien.eu
 oak4ul80.damaina.asia
 oakbrookofficecleaning.com
+oakcanvas.fr
 oakenfieldservices.com
 oakenfreach.info
 oakfiling.com
@@ -186702,6 +186712,7 @@ ob7eskwerzh.ga
 ob7eskwerzh.gq
 ob7eskwerzh.ml
 ob7eskwerzh.tk
+ob9zeo.disbox.org
 oba.jp
 oba4aqvhbu.mailbo.store
 obagiglobal.com
@@ -191996,6 +192007,7 @@ otpquick.com
 otprmail.com
 otprqz5twl.mailbo.store
 otpwa.dedyn.io
+otpzmail.com
 otqg4i0ezg.mailbo.store
 otqxailurg.mailbo.store
 otrabajo.com
@@ -200556,6 +200568,7 @@ plugins.cloud
 plugintonature.org.uk
 plugsolo.com
 pluk.com
+plum-cliff.xyz
 plumbadzul.space
 plumber-thatcham.co.uk
 plumberdelray.com
@@ -223043,6 +223056,7 @@ sandwish.space
 sandwish.website
 sandworthhouse.com
 sandy.mozmail.com
+sandyevening.net
 sandypil767676.store
 sandyretro.shop
 sandysecondary.net
@@ -230464,6 +230478,7 @@ skimcss.com
 skimu.org
 skin-barone.site
 skin-care-tips.com
+skin-spa.com
 skin-therapy.shop
 skin.mailbo.store
 skin2envy.com

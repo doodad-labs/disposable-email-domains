@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-11-13T02:23:57.904Z
+# Aggregated blacklist generated on 2026-11-13T11:52:40.043Z
  
 0-00.usa.cc
 0-30-24.com
@@ -31521,6 +31521,7 @@ analyticwe.us
 analyzable857ax.online
 analyzerly.com
 anamarin.es
+anamivcrs.com
 anamuremlakofisi.xyz
 anamz-oubby-con.monster
 ananajar.space
@@ -33460,6 +33461,7 @@ apm.aleeas.com
 apmail.org
 apmails.com
 apmaster.ga
+apmdemo.net
 apmp.info
 apmqbeuhlc.mailbo.store
 apn.10mail.xyz
@@ -38804,6 +38806,7 @@ aynnaynnsfkm23829.cf
 aynnaynnsfkm23829.tk
 aynoeeu5p6.mailbo.store
 aynqofvtnn.mailbo.store
+ayo-chill.com
 ayo-nge.gay
 ayo99.org
 ayobsharafinia.ir
@@ -41564,6 +41567,7 @@ bantaochi.com
 banten.me
 bantenpoker.website
 bantenvpn.live
+bantet.biz.id
 bantin30s.online
 bantisik.com
 bantler.com
@@ -43479,6 +43483,7 @@ beermonkey.org
 beerolympics.se
 beerpairing.org
 beerpievader.com
+beervmt.avokelo414.biz.id
 beeservices.shop
 beetlecan.com
 beetlejuices.xyz
@@ -52838,6 +52843,7 @@ btinteernet.com
 btintenet.com
 btinterbet.com
 btinterenet.com
+btinteret.com
 btintermet.com
 btinterne.com
 btinterner.com
@@ -54352,6 +54358,7 @@ buyurightnow.com
 buyusabooks.com
 buyusdomain.com
 buyusedlibrarybooks.org
+buyvalorantpoints.in
 buyvaltrexonline.store
 buyviagracheapmailorder.us
 buyviagrajkk.com
@@ -58409,6 +58416,7 @@ caughtinthemiddle.org
 caugiay.tech
 caugime6829.a.lofteone.ru
 cauju.com
+cauldron.cyou
 caum.ll47.net
 caupg.com
 cauri.ru
@@ -62213,6 +62221,7 @@ chotika.net
 chotine.club
 chotine.online
 chotm1.site
+chotomail.store
 chotunai.com
 chou.dung2tb.io.vn
 chou.ll47.net
@@ -64057,6 +64066,7 @@ clicku.pro
 clickwowm.pro
 clienexion.com
 client-centr.ru
+client-platform.com
 client-side.ru
 client.blognet.in
 client.careline.click
@@ -73671,6 +73681,7 @@ dawushihe.eu.cc
 dawushihehe.eu.cc
 dax-ur.com
 dax.hair
+daxaim.com
 daxbjsqqpv.mailbo.store
 daxen.lat
 daxfi1.info
@@ -74472,6 +74483,7 @@ deathbycounciltax.com
 deathbyfilms-artprints.com
 deathfilm.com
 deathliteracy.org
+deathpuzzle.com
 deathqsweepdy.site
 deathward.info
 deathwishcoffee.us
@@ -78621,6 +78633,7 @@ diswino.ml
 ditaaa.bareed.ws
 ditac.site
 ditapi.info
+ditch.my.id
 ditchly.com
 ditchpa.press
 ditchpr.icu
@@ -95498,6 +95511,7 @@ fastprinters.joburg
 fastrazvod.xyz
 fastreply.shop
 fastricket.site
+fastscreeens.org
 fastsearcher.com
 fastsell.me
 fastseller.icu
@@ -102413,6 +102427,7 @@ frost-online.de
 frost2d.net
 frostaircon.xyz
 frostamcdubai.xyz
+frostclaw.cyou
 frostcove.net
 frostfernflickerforge.site
 frostfernflickerforge.space
@@ -103328,6 +103343,7 @@ fusion-gourmet.com
 fusion.marksypark.com
 fusion.milltrill.com
 fusion.oldoutnewin.com
+fusionbeeswarm.33mail.com
 fusiondesignstudio.net
 fusioninbox.com
 fusioninvoice.net
@@ -118692,6 +118708,7 @@ hermesbirkin0.com
 hermesdesigner.store
 hermeshandbags-hq.com
 hermesjs.dev
+hermesmail.net
 hermesonlinejp.com
 hermessalebagjp.com
 hermestashenshop.org
@@ -121658,6 +121675,7 @@ hootttbbbtt.club
 hooux.xyz
 hooverexpress.net
 hoovering.com
+hooyahbasi.com
 hooz.xyz
 hop-on-hop-off-agianapa.com
 hop-on-hop-off-nicosia.com
@@ -136541,6 +136559,7 @@ jimmytam.com
 jimo.ccpro.click
 jimong.com
 jimoruxue.com
+jimpochem.com
 jimscleaning.com
 jimskillington.com
 jimster.site
@@ -137161,6 +137180,7 @@ jmail.ro
 jmail.tjbainter.com
 jmail7.com
 jmailboxes.gleeze.com
+jmaill.com
 jmailservice.com
 jmakhlouf.usa.cc
 jmalaysiaqc.com
@@ -143502,6 +143522,7 @@ kikikikikii.shop
 kikikovic.com
 kikitaro.biz.id
 kikivip.shop
+kikkon.my.id
 kikoxltd.com
 kikscool.com
 kiksorganicbeauty.com
@@ -149469,6 +149490,7 @@ latchandsleepbaby.com
 late.mailbo.store
 latechnologie.site
 latelierduchef.biz
+latelyness.com
 latemail.tech
 latempete.cd
 later.mailbo.store
@@ -155195,6 +155217,7 @@ lookanmail.shop
 lookanmail.site
 lookanmail.store
 lookbek.cfd
+lookence.com
 lookerer.com
 looketop.site
 lookfeelflowbetter.com
@@ -165466,6 +165489,7 @@ maymetalfest.info
 maymovo.com
 maynardshookerfurnituregallery.com
 mayneenterprises.com
+mayobread.casa
 mayoenak.site
 mayogold.com
 mayonaka.cloud
@@ -173243,6 +173267,7 @@ mptweets.com
 mpty.mailpwr.com
 mpu5qecsmc.mailbo.store
 mpubjwm5dx.mailbo.store
+mputk.click
 mpv0tjlsws.mailbo.store
 mpvnvwvflt.cf
 mpvnvwvflt.ga
@@ -174178,6 +174203,7 @@ mucizejel.xyz
 mucizekur.site
 muckbots.com
 muckersins.com
+muckrakelabs.com
 mucmvszmf4.mailbo.store
 muctitvwco.mailbo.store
 mucwegsns.shop
@@ -181457,6 +181483,7 @@ ngck.ai.id
 ngcryptocasinos.com
 ngcx0my3.zaiekx.asia
 nge6d2xbwu.mailbo.store
+ngedracin.web.id
 ngegaler.biz.id
 ngekrit.lat
 ngelead.eu.org
@@ -183757,6 +183784,7 @@ nor.mailbo.store
 nor.spymail.one
 nor5ga8cve.mailbo.store
 nora-brook921.xyz
+nora.indevs.in
 norabeachclub.com
 noraful3894.lofteone.ru
 norahiobrien.com
@@ -227513,6 +227541,7 @@ shadow.pixelverse.tech
 shadowale.anonaddy.com
 shadowalien.anonaddy.com
 shadowboxdesigns.net
+shadowbrook-capitola.com
 shadowcraft.online
 shadowgames.cf
 shadowhill.maskmy.id
@@ -230299,6 +230328,7 @@ sjwz.lol
 sjy1z44q.umeoer.my.id
 sjze5v2jdx.mailbo.store
 sjzetyy.com
+sjzhuanyang.com
 sjzmail.com
 sjzr2jb0.zrjkt.maxnogar.my.id
 sk-ai.eu.cc
@@ -231754,6 +231784,7 @@ smithtownnewsdaily.com
 smitsgroveslaw.com
 smjilicasino.com
 smjilicasino.info
+smk.balajar.id
 smk.emlhub.com
 smk.freeml.net
 smk96.cloudns.be
@@ -248926,6 +248957,7 @@ tipertbubb.ga
 tipertbubb.gq
 tipertbubb.ml
 tipertbubb.tk
+tipex.my.id
 tipf.cse445.com
 tipheaven.com
 tipicopr.site
@@ -252346,6 +252378,7 @@ transformicexd.com
 transformingz.club
 transformwithvip.com
 transformyourelationshipsnow.com
+transfrly.io
 transgender.army
 transgenderqa.com
 transgenicorganism.com
@@ -260466,6 +260499,7 @@ ustabilitybettingsnapp.xyz
 ustayapisoke.xyz
 ustaypmbnl.ga
 usteacher.online
+usteel.lat
 ustemp.us
 ustilagimy.com
 ustilagmails.ru
@@ -264537,6 +264571,7 @@ vigentenjmail.ru
 vigeocon.com
 vigi.com
 vigiemail.com
+vigierguitars.fr
 vigil4synod.org
 vigilantkeep.net
 vigilentveteran.com
@@ -267791,6 +267826,7 @@ vvvs046eea.mailbo.store
 vvvte0ehqe.mailbo.store
 vvvulek8.xyz
 vvvv.de
+vvvv.lovie.me
 vvvvv.n8.biz
 vvvvv.uni.me
 vvvwincom2.com

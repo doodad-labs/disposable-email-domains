@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-11-13T11:52:40.043Z
+# Aggregated blacklist generated on 2026-11-13T19:14:38.668Z
  
 0-00.usa.cc
 0-30-24.com
@@ -73734,6 +73734,7 @@ daymermo3388.a.lofteone.ru
 dayn.net
 daynews.site
 daynightstory.com
+dayoff.click
 dayone.pw
 dayorgan.com
 dayout.click
@@ -150826,6 +150827,7 @@ lemonebet.com
 lemongeek.best
 lemonjowo.buzz
 lemonkk.cn
+lemonshelf.org
 lemonsqueezy-mail.com
 lemontea.biz.id
 lemontreebookco.com
@@ -194796,6 +194798,7 @@ paperoper.xyz
 paperpapyrus.com
 paperpixels.net
 paperrecent.cyou
+paperreed.cc
 papersaviour.com
 papershelpers.website
 papertravellers.org
@@ -223090,6 +223093,7 @@ sandwish.website
 sandworthhouse.com
 sandy.mozmail.com
 sandyevening.net
+sandyjournal.space
 sandypil767676.store
 sandyretro.shop
 sandysecondary.net

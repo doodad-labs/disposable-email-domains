@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-11-12T21:19:07.040Z
+# Aggregated blacklist generated on 2026-11-13T02:23:57.904Z
  
 0-00.usa.cc
 0-30-24.com
@@ -23813,6 +23813,7 @@ abqkravku4x36unnhgu9.co.cc
 abrace.eu
 abrahamson.browndecorationlights.co
 abrairy0bo.mailbo.store
+abramovich1.online
 abrams.slmail.me
 abrar.mozmail.com
 abrauto.com
@@ -39752,6 +39753,7 @@ b3nxdx6dhq.cf
 b3nxdx6dhq.ga
 b3nxdx6dhq.gq
 b3nxdx6dhq.ml
+b3ord.anonbox.net
 b3ou3.anonbox.net
 b3ow7q2bwa.mailbo.store
 b3q.saucent.online
@@ -65818,6 +65820,7 @@ coldirondesign.com
 coldit.store
 coldlander.us
 coldlatitudes.com
+coldlead.biz
 coldmail.ga
 coldmail.gq
 coldmail.ml
@@ -107244,6 +107247,7 @@ getvid.me
 getvir.org
 getviragra.com
 getvmail.net
+getvoyageprive.click
 getvpn.net
 getwaterpulse.com
 getwebsiter.com
@@ -122658,6 +122662,7 @@ houzzilla.com
 hov4kc8iwf.mailbo.store
 hovanfood.com
 hovcu3.info
+hoveniero.nl
 hoversullenmabel.site
 hovikindustries.com
 hovixg3s.cyberspire.shop
@@ -262254,6 +262259,7 @@ varslily.com
 varsoviaventure.com
 varthagaminternational.store
 varting.com
+varuiknre.com
 varushka.ru
 varuzzo55.freeinvestoradvice.com
 varyag51.ru

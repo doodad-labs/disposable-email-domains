@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-11-14T08:38:01.709Z
+# Aggregated blacklist generated on 2026-11-14T16:23:28.194Z
  
 0-30-24.com
 0-attorney.com
@@ -49555,6 +49555,7 @@ countytables.com
 coupandev.shop
 coupdefoudre.immo
 couple.email
+couplecell.store
 coupleedu.com
 coupleinfos.shop
 coupleloveporn.com
@@ -51207,6 +51208,7 @@ cuanlife.site
 cuanmarket.xyz
 cuanoithat.com
 cuanpasti.lol
+cuanqin.store
 cuantoesta.com
 cuantosanostienes.com
 cuarl.com
@@ -91055,6 +91057,7 @@ holidayhelpings.com
 holidayhills.click
 holidayideas.co
 holidayinc.com
+holidayinnlabs.click
 holidayloans.com
 holidayloans.uk
 holidayloans.us

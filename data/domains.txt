@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-11-14T08:38:01.709Z
+# Aggregated blacklist generated on 2026-11-14T16:23:28.194Z
  
 0-00.usa.cc
 0-30-24.com
@@ -677,6 +677,7 @@
 07lnyi.us
 07lxym.info
 07mia6wf.zzbb.cghckqwe.my.id
+07n3lsxk.mirexu230.biz.id
 07n4zhw4.hatos.lat
 07nfo3.masbepedia.top
 07qe7mvq4f.mailbo.store
@@ -707,6 +708,7 @@
 082qs.com
 083o8t.moakt.co
 0845.ru
+084bpdpl.asikmania.asia
 084ltxr6.ink
 084m.com
 085341.com
@@ -2974,6 +2976,7 @@
 14kltq8yj9.mailbo.store
 14meonhber.mailbo.store
 14n.co.uk
+14n3l0it.mirexu230.biz.id
 14nddafcuz.mailbo.store
 14nikatro.ru
 14or63oa.luksarcenter.ru
@@ -12328,6 +12331,7 @@
 53ge.cse445.com
 53gmail.com
 53hyjg7k.umkmind.cfd
+53jyyexy.yb.xiunakana.shop
 53kwi4utej.mailbo.store
 53noo8anvi.mailbo.store
 53qa.dung2tb.io.vn
@@ -12981,6 +12985,7 @@
 5catbdxh4w.mailbo.store
 5cbc.com
 5ccjwokowr.mailbo.store
+5cdkdfyj.mirexu230.biz.id
 5ceryu3d.m3k02.maxnogar.my.id
 5cgmkc3h.zae.asia
 5chdzp28do.mailbo.store
@@ -13918,6 +13923,7 @@
 5zlt.dung2tb.io.vn
 5znk96zuvm.mailbo.store
 5znsv0rppw.mailbo.store
+5zntmeev.echonestzaee.sbs
 5zot.tieumuoishop.io.vn
 5zovgdgfyo.mailbo.store
 5zqawirtlj.mailbo.store
@@ -16289,6 +16295,7 @@
 739pxbeh.entak.asia
 73ac4b.us
 73an.awesome47.com
+73aujsft.asikmania.asia
 73betlogin.info
 73cguhdjmj.mailbo.store
 73cnb.space
@@ -21883,6 +21890,7 @@
 9sdzhbj7.jebew.my.id
 9sec0lgmef.mailbo.store
 9skbnt7l.wiuz.auliot.my.id
+9skcphvh.yb.xiunakana.shop
 9skcqddzppe4.cf
 9skcqddzppe4.ga
 9skcqddzppe4.gq
@@ -25455,6 +25463,7 @@ admt01212.com
 admt01213.com
 adn.biz.id
 adn.luk2.com
+adn0939u.yb.xiunakana.shop
 adn3t.com
 adnc7mcvmqj0qrb.cf
 adnc7mcvmqj0qrb.ga
@@ -39701,6 +39710,7 @@ b2npv.anonbox.net
 b2ntj.anonbox.net
 b2oj3pezxd.mailbo.store
 b2orm8gy3e.mailbo.store
+b2qtg0of.onaikan.shop
 b2spt9tklv.mailbo.store
 b2sum9fwmf.mailbo.store
 b2t.tech
@@ -68309,6 +68319,7 @@ coupandev.shop
 coupdefoudre.immo
 couple.email
 couple.mailbo.store
+couplecell.store
 coupleedu.com
 coupleinfos.shop
 coupleloveporn.com
@@ -70319,6 +70330,7 @@ cuanlife.site
 cuanmarket.xyz
 cuanoithat.com
 cuanpasti.lol
+cuanqin.store
 cuantoesta.com
 cuantosanostienes.com
 cuapabu10f.mailbo.store
@@ -79478,6 +79490,7 @@ dn.luk2.com
 dn0lmjqm.ctfrklsp.my.id
 dn1cf.cse445.com
 dn293633.xyz
+dn2v4gju.yb.xiunakana.shop
 dn38jnoy2g.mailbo.store
 dn3tubbjjj.mailbo.store
 dn5eoc.us
@@ -83634,6 +83647,7 @@ dylib.dev
 dym874j2.luksarcenter.ru
 dym8qyz9.zwyta.keiptonaka.shop
 dymail.io.vn
+dymail.io.vn.
 dymarent.cfd
 dymedixsystems.com
 dymnawynos.pl
@@ -84046,6 +84060,7 @@ e02rcshv.luksarcenter.ru
 e04ajj.site
 e04crs4g.cse445.com
 e052.com
+e08kp1lr.mirexu230.biz.id
 e08yw.site
 e093wss3.zenithwavepeina.buzz
 e09xq35j.verify-in-0912a.chqtgpt.in
@@ -97339,6 +97354,7 @@ fhsn.com
 fhsuh3.site
 fhsysa.com
 fht3.dung2tb.io.vn
+fhtd3wbk.onaikan.shop
 fhtf65rfh.usa.cc
 fhtsystem.com
 fhtud0vxuv.mailbo.store
@@ -97387,6 +97403,7 @@ fi7wwp0qu2.mailbo.store
 fi83tg26zf.mailbo.store
 fi88bet.info
 fi96.dung2tb.io.vn
+fia7uapf.balloz.sbs
 fiacre.tk
 fialh.xyz
 fiallaspares.com
@@ -121125,6 +121142,7 @@ holidayhelpings.com
 holidayhills.click
 holidayideas.co
 holidayinc.com
+holidayinnlabs.click
 holidayloans.com
 holidayloans.uk
 holidayloans.us
@@ -186586,6 +186604,7 @@ oa5e.tieumuoishop.io.vn
 oa5lqy.com
 oa5metleau.mailbo.store
 oa6ht.anonbox.net
+oa8p9y5t.asikmania.asia
 oaa7pjetvn.mailbo.store
 oaaq49gg.cethhbix.my.id
 oabibleh.com
@@ -188104,6 +188123,7 @@ oiabihilzt.mailbo.store
 oiaddvu7rc.mailbo.store
 oib6bs.com
 oiba6ri5el.mailbo.store
+oibh5pzk.yb.xiunakana.shop
 oibo.xyz
 oibq.dung2tb.io.vn
 oicar.sld.tw
@@ -220658,6 +220678,7 @@ rwin123.net
 rwinner2020emailup.xyz
 rwj2pyr7.verify-in-0912a.chqtgpt.in
 rwkepelavj.mailbo.store
+rwlcsrvk.balloz.sbs
 rwljafh7gk.mailbo.store
 rwlmivtvrd.mailbo.store
 rwlqxvhlsw.mailbo.store
@@ -264053,6 +264074,7 @@ vhzvo.anonbox.net
 vi.10mail.xyz
 vi.luk2.com
 vi1ilpa.mywire.org
+vi22kku1.yb.xiunakana.shop
 vi2bazh94h.mailbo.store
 vi2plqfx4w.mailbo.store
 vi3c4j06de.mailbo.store
@@ -279605,6 +279627,7 @@ xnoobpqrsg.mailbo.store
 xnp.luk2.com
 xnp8nadhq8.mailbo.store
 xnp96vqi3j.mailbo.store
+xnpasm3a.biyzkcvp.biz.id
 xnpnjohqix.ga
 xnpp.1593.bangalorefoodfete.com
 xnptq.anonbox.net

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-11-13T19:14:38.668Z
+# Aggregated blacklist generated on 2026-11-14T00:40:29.351Z
  
 0-00.usa.cc
 0-30-24.com
@@ -4075,6 +4075,7 @@
 1hog.dung2tb.io.vn
 1home.urgntx.com
 1hostguy.com
+1hostoff.biz
 1hotmail.co.uk
 1hotmail.com
 1hours.com
@@ -59358,6 +59359,7 @@ ceco3kvloj5s3.gq
 ceco3kvloj5s3.ml
 ceco3kvloj5s3.tk
 cecol.us
+cecolbus.us
 cecolm.us
 cecols.us
 cecolsch.us
@@ -91090,6 +91092,7 @@ esarwes.gq
 esarwes.tk
 esasiyunx.bulc.club
 esatsoyad.cfd
+esatuvejibol.online
 esavs53zzw.mailbo.store
 esawblin.ga
 esawblin.gq
@@ -95008,6 +95011,7 @@ fansubgroup.com
 fansworldwide.de
 fanta24.com
 fantalk.ru
+fantasiamining.com
 fantask.online
 fantasma.cc
 fantasque.best
@@ -192967,6 +192971,7 @@ owemail.store
 owemolexi.swiebodzin.pl
 owenmcdsa.sbs
 owensborolimos.com
+owenwest.xyz
 oweropeatanda.com
 owes6f9ysj.mailbo.store
 oweshapeoil.website
@@ -255250,6 +255255,7 @@ twmail.shop
 twmail.tk
 twmi.rr.com
 twn3d.site
+twn6h.anonbox.net
 twnecc.com
 twnker.com
 two-bet.xyz

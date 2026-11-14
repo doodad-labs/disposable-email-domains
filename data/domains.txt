@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-11-14T00:40:29.351Z
+# Aggregated blacklist generated on 2026-11-14T08:38:01.709Z
  
 0-00.usa.cc
 0-30-24.com
@@ -6835,6 +6835,7 @@
 2j06.buzz
 2j0d9yk.crankymonkey.info
 2j157wed.luksarcenter.ru
+2j1nlwia.yb.xiunakana.shop
 2j2kxpzh.umkmind.cfd
 2j2odohvsn.mailbo.store
 2j4baocmq4.mailbo.store
@@ -8957,6 +8958,7 @@
 3gk2yftgot.gq
 3gk2yftgot.ml
 3gk2yftgot.tk
+3gkpbh.teml.net
 3glm2ntd.acc4u.pro
 3glrx.oppoesrt.online
 3gly.com
@@ -25036,6 +25038,7 @@ adarsa.me.
 adarsh.cf
 adarshgoel.me
 adary.sld.tw
+adasaeen.site
 adasd.cc
 adaserefcan.cfd
 adasfe.com
@@ -32317,6 +32320,7 @@ annmccoy4hisd.com
 annnek.dpdns.org
 annnekkk.com
 annnekkk.dpdns.org
+annnekkk.indevs.in
 anno-game.online
 anno.ll47.net
 anno90.nl
@@ -36308,6 +36312,7 @@ astrallmain.shop
 astralltech.com
 astralyst.net
 astramail.ml
+astramind.xyz
 astrastarlogistics.com
 astresengine.com
 astretsovskayaigrushka.ru
@@ -42862,6 +42867,7 @@ bdbdqxxkib.xyz
 bdbdqxxkkb.xyz
 bdbdqxxknb.xyz
 bdbdqxxksb.xyz
+bdbdw.cyou
 bdbr4.anonbox.net
 bdc4u.anonbox.net
 bdc76.anonbox.net
@@ -47243,6 +47249,7 @@ birdseed.shop
 birdsfly.press
 birdsflying.xyz
 birdsinclay.com
+birdymail.me
 birdzpt.com
 birebirbahis.com
 birecruit.com
@@ -59586,6 +59593,7 @@ cell.ll47.net
 cell.mailbo.store
 cell1net.net
 cellalange.net
+cellardoors.org
 cellartravel.com
 cellcashr.com
 cellica.com
@@ -63657,6 +63665,7 @@ clathasul.tk
 claud.info
 claud.it
 claudd.com
+claude.pk
 claudebosi.art
 claudecodechina.com
 claudecollection.shop
@@ -66303,6 +66312,7 @@ commerchand.com
 commercial-renovation.com
 commercial.mailbo.store
 commercialandfinancial.nl
+commercialbuildings.us
 commercialcleanrsco.com
 commercialistiavvocati.com
 commercialpropertiesphilippines.com
@@ -81602,6 +81612,7 @@ dreamfestdigital.com
 dreamfin.ru
 dreamfinderhomes.com
 dreamfishfoundation.org
+dreamflight737.com
 dreamfortheworld.com
 dreamfortuna.com
 dreamfuture.tech
@@ -82545,6 +82556,7 @@ dtrspypkxaso.gq
 dtrspypkxaso.ml
 dtrspypkxaso.tk
 dts.com.br
+dtsent.com
 dtsmconsulting.com
 dtspf8pbtlm4.cf
 dtspf8pbtlm4.ga
@@ -86642,6 +86654,7 @@ egyptbestvisits.com
 egypthacker.com
 egyptrade.net
 egypttours.top
+egytag.com
 egzlhtsz1k.mailbo.store
 egzmail.top
 egzones.com
@@ -99163,6 +99176,7 @@ flexbud24.pl
 flexbureauzekerheid.com
 flexcellent.com
 flexcodejam.org
+flexcon.asia
 flexeerous.cf
 flexeerous.ga
 flexeerous.gq
@@ -100964,6 +100978,7 @@ fourwindscasino.com
 fourx.store
 fouter.xyz
 fovec.sld.tw
+fovmail.ru
 fovpbwo9wz.mailbo.store
 fovpgl9iec.mailbo.store
 fowlark.nl
@@ -105896,6 +105911,7 @@ gddao.com
 gddcorp.com
 gdddd.com
 gdddzwagys.mailbo.store
+gddghh.space
 gddp2018.edu.vn
 gde-kupit-cveti.ru
 gde-zaim.online
@@ -105985,6 +106001,7 @@ gdqzhv.com
 gdra7fffrw.mailbo.store
 gdradfagnk.mailbo.store
 gdradr.com
+gdrfan.com
 gdruvcj2tp.mailbo.store
 gdsland.com.au
 gdsliving.com
@@ -108307,6 +108324,7 @@ gimel.my.id
 gimel.net
 gimesson.pe.hu
 gimi.addy.io
+gimiel.com
 gimils.com
 gimll.com
 gimme-cooki.es
@@ -115374,6 +115392,7 @@ habersondakika.tk
 habet.dev
 habi3xrxuc.mailbo.store
 habib9x5tk.mailbo.store
+habibhadiganteng-gmail.com
 habibola22.com
 habibulfauzan.my.id
 habimail.web.id
@@ -115951,6 +115970,7 @@ hamcagers.ml
 hamcagers.tk
 hamcauto.com
 hamcollege.com
+hameatfirst.xyz
 hamechizaban.ir
 hamedahmed.cloud
 hamedak.cloud
@@ -131857,6 +131877,7 @@ ironaged.net
 ironarmail.com
 ironbrookco.com
 ironbrookgear.autos
+ironcladbyte.xyz
 ironcladinbox.com
 ironcoresupplements.com
 ironfire.net
@@ -133697,6 +133718,7 @@ j.pqemail.top
 j.rvb.ro
 j.solarinverter.club
 j.teemail.in
+j03hr2cm.yb.xiunakana.shop
 j03zlsmh.sopkya230.biz.id
 j046.tieumuoishop.io.vn
 j04yiki24q.mailbo.store
@@ -140847,6 +140869,7 @@ kajasander.xyz
 kajene.dev
 kajgnpuan.shop
 kaji2bulan.my.id
+kajiferrypremium.com
 kajsdtjksr14826.ga
 kajsdtjksr14826.ml
 kajsdtjksr14826.tk
@@ -140988,6 +141011,7 @@ kalkulator03154.igg.biz
 kall.com
 kallaicaseyrealtor.com
 kallen.simplelogin.com
+kallokarlabahi.online
 kallyas.eu.org
 kalmarrt.com
 kalmhain.net
@@ -158526,6 +158550,7 @@ macantutul.igg.biz
 macaoguojihui.com
 macaototo.com
 macapamakers.site
+macarone.online
 macarparke.xyz
 macasoul.com
 macau-8882.net
@@ -159188,6 +159213,7 @@ mail-j.tk
 mail-jetable.com
 mail-jim.gq
 mail-jim.ml
+mail-jp.net
 mail-king.io
 mail-lab.net
 mail-line.net
@@ -176596,6 +176622,7 @@ myinbox.com
 myinbox.icu
 myinbox.rip
 myinbox21.shop
+myinboxes.gleeze.com
 myinboxmail.co.uk
 myindohome.services
 myinf.ru
@@ -178413,6 +178440,7 @@ namikaze.co.uk
 namilu.com
 namina.com
 namirapp.com
+namkhanh61.com
 namkhanh61.net
 namkr.com
 namlaks.com
@@ -179006,6 +179034,7 @@ nawideti.ru
 nawis.online
 nawmin.info
 nawny.com
+naxaim.com
 naxamll.com
 naxpserver.com
 naxsw5.us
@@ -182376,6 +182405,7 @@ nineworthies.org
 ninezro.com
 ning3d-uero.com
 ningame.com
+ningboace.com
 ningconra.cf
 ningconra.gq
 ningconra.ml
@@ -202598,6 +202628,7 @@ powers-balances.ru
 powersala.com
 powerscrews.com
 powerssmo.com
+powersuitprep.com
 powertalk.apple.com
 powertaser.tk
 powertekuk.com
@@ -203345,6 +203376,7 @@ pregunta.es
 prehers.com
 preicfes.online
 prejudinmail.com
+prejuge.com
 prekab.net
 preklady-polstina.cz
 prekuldown47mmi.ml
@@ -211547,6 +211579,7 @@ radiolucencomail.com
 radiolummail.com
 radiolumudp.com
 radiomail.ru
+radiomanrepair.com
 radiometeinf.com
 radioml.ru
 radionaylamp.com
@@ -216705,6 +216738,7 @@ rika0525.com
 rikasprems.ga
 rikekvinner.com
 rikemail.com
+rikihomopremium.com
 rikka0612.site
 rikkalove.top
 riko.my
@@ -236644,6 +236678,7 @@ steelcutfitnessdesign.com
 steelenannini.com
 steelgainer.ru
 steelhorse.site
+steelsheds.us
 steelvaporlv.com
 steemail.ga
 steepeli.icu
@@ -240394,6 +240429,7 @@ sybilproxy.com
 syboep8jsf.mailbo.store
 syc1np27an.mailbo.store
 sycamores.indstate.com
+sycapcut.my.id
 sycdns.com
 sych.store
 sycharconsulting.com
@@ -242316,6 +242352,7 @@ taragateszgj7.store
 tarajimtrans.com
 taraksormaz.buzz
 taramsinc.com
+tarannomyadrouj.ir
 taranpa.cf
 taranpa.ga
 taranpa.tk
@@ -244302,6 +244339,7 @@ temp.svip.world
 temp.wheezer.net
 temp1.club
 temp15qm.com
+temp1mail.com
 temp1month.icu
 temp2.club
 temp2.qwertz.me
@@ -244627,6 +244665,7 @@ tempmailto.com
 tempmailto.org
 tempmailto.site
 tempmailturbo.com
+tempmailu.com
 tempmailuk.info
 tempmailus.com
 tempmailusa.com
@@ -248974,6 +249013,7 @@ tipidfinder.com
 tipidfranchise.com
 tipiku.biz.id
 tipiku.info
+tiple.my.id
 tipmail.store
 tipn4ilwjm.mailbo.store
 tipo24.com
@@ -253388,6 +253428,7 @@ troyakebabs.com
 troyaugoixudei.shop
 trpaccountancy.com
 trpc.com
+trphlps.com
 trpmbtezg3.mailbo.store
 trq.10mail.xyz
 trq3fbd9rb.mailbo.store
@@ -254400,6 +254441,7 @@ tuk6xu8f.d2x.ariescc.site
 tukang.codes
 tukangjilat.igg.biz
 tukangturu.store
+tukangtuyulhandals-gmail.com
 tukardim.com
 tukbnc6snc.mailbo.store
 tukichan.com
@@ -265060,6 +265102,7 @@ vipg.com
 vipgamecasino.net
 vipgamemarket.ru
 vipganercasino.com.mx
+vipgdr.com
 vipgod.ru
 viphihi123.tokyo
 viphomeljjljk658.info
@@ -277324,6 +277367,7 @@ xenpow.online
 xenpu.fun
 xenta.cfd
 xents.com
+xenveroes.pro
 xenxzi5m1r.mailbo.store
 xenzld.com
 xeo56gsxys.mailbo.store
@@ -281704,6 +281748,7 @@ yadong4.com
 yadongmall.shop
 yadoo.ru
 yadro-electro.ru
+yadrooj.ir
 yadsdhillon354.33mail.com
 yaelahrid.net
 yaelahtodkokgitu.cf
@@ -286411,6 +286456,7 @@ z2vxuqseao.mailbo.store
 z2x73zii.bqlvhnnd.my.id
 z2y8ddv7v1.mailbo.store
 z3-userreferal.site
+z3.klvibe.org
 z30-megacash.host
 z30-megacash.site
 z30888.com

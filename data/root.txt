@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-11-15T16:49:21.117Z
+# Aggregated blacklist generated on 2026-11-15T22:30:17.250Z
  
 0-30-24.com
 0-attorney.com
@@ -13779,6 +13779,11 @@ addy.io
 addy.to
 addymail.com
 addyoubooks.com
+addyourcustomdoaminhere.store
+addyourdoaminhere.online
+addyourdoaminhere.sbs
+addyourdoaminhere.site
+addyourdoaminhere.store
 addys-sox.com
 addysen.com
 adeaaemail.ru
@@ -14326,6 +14331,7 @@ advertfast.com
 advertforyou.info
 advertforyourbusiness.website
 advertiseall.com
+advertisehereon.tech
 advertising-digitalsignage.com
 advertisingblog.com
 advertisinggreatness.com
@@ -16733,6 +16739,7 @@ alazharhs.org
 alazhi.org
 alazhs.org
 alazinst.org
+alazlyc.org
 alazs.us
 alazsch.org
 alazsec.org
@@ -26649,6 +26656,7 @@ bahisyap85.com
 bahisyap92.com
 bahisyap95.com
 bahisyap98.com
+bahitarahero.store
 bahlill.cfd
 bahook.org
 bahrithe.cf
@@ -57739,6 +57747,7 @@ dispemail.com
 dispensafmk.com
 displaying.page
 displaylightbox.com
+displayme.store
 displays2go.com
 displayside.com
 displaystar.com
@@ -85455,6 +85464,7 @@ guestify.com
 guestlock.net
 guetau.com
 gueto2009.com
+guetshb.store
 guevat.de
 guewkw.us
 gufacoding.com
@@ -85738,6 +85748,7 @@ gurke.com
 gurlmail.com
 gurman1.space
 gurmeneczadepo1.club
+gurmerly.online
 gurneytintblog.com
 guron.ru
 gurpz.com
@@ -96376,6 +96387,7 @@ imknurbel.tk
 imkyaky.com
 imlearners.net
 imlikeapup.com
+imlimikom.store
 imlivecgo.site
 imlloye.com
 imlpipchat.com
@@ -105790,6 +105802,7 @@ kanhaoni.org
 kanigitmedia.com
 kaninine.com
 kanjiukan.com
+kanjoosbahi.site
 kankabal.com
 kankankankan.com
 kanker.website
@@ -105916,6 +105929,7 @@ karbonaielite.com
 karbonbet.com
 karcherparts.info
 karcherpremium.online
+kardarankab.online
 kardelentahmez.cfd
 kareasbet.com
 kareemno3aa.site
@@ -105962,6 +105976,7 @@ kariplan.com
 karisss3.com
 karitas.com.br
 karizmakala.com
+karkambahi.store
 karkaspen.ru
 karla.com
 karldeleon.com
@@ -111375,6 +111390,7 @@ laikacyber.ml
 laikacyber.tk
 lailakhan.net
 lailamail.com
+lailmiki.store
 laimer.org
 laimian-quan2.com
 laimianquan2.com
@@ -127081,6 +127097,7 @@ mica-compliance.shop
 mica-compliance.solutions
 mica-compliance.today
 mica-compliance.work
+mica-compliance.xyz
 micado.ai
 micalmo.com
 micalmo.net
@@ -148642,6 +148659,11 @@ pemenacecasino.com
 pemess.com
 pemicasino.com
 pemilwafeb.com
+pemoteme.online
+pemoteusonourweb.online
+pemoteusonourweb.sbs
+pemoteusonourweb.site
+pemoteusonourweb.store
 pemwe.com
 pen-drevo.ru
 pen960.ml
@@ -160201,6 +160223,7 @@ rankingc3.global
 rankingmath.sbs
 rankingweightgaintablets.info
 rankmagix.net
+rankme.site
 ranknight.com
 ranko.site
 rankrebelsemail.com
@@ -178783,6 +178806,7 @@ spongemops.biz
 spongemops.us
 spongiamail.com
 sponscloud.tech
+sponserme.store
 sponsored-by-xeovo-vpn.ink
 sponsored-by-xeovo-vpn.site
 sponsored-by-xeovo.site
@@ -186604,6 +186628,7 @@ tempmail.cat
 tempmail.cc
 tempmail.ch
 tempmail.chat
+tempmail.cloud
 tempmail.cn
 tempmail.co
 tempmail.codes
@@ -192788,6 +192813,7 @@ tourist61.website
 touristbus.click
 touristevent.com
 touristguidenepal.com
+touristhome.xyz
 touristhotel.click
 touristicatour.com
 touristinfo.network
@@ -197436,6 +197462,7 @@ ulidgid.tk
 ulipox.xyz
 ulisaig.com
 ulitimsuda.xyz
+ulitmtehub.store
 ulivekcume.com
 ulk.net
 ulkutakvim.com
@@ -207762,6 +207789,7 @@ whyworkhard.com
 whzqozx.site
 wi-fi.cd
 wiadomosc.pisz.pl
+wiakhad.com
 wianbv.com
 wiantygamecoffer.cf
 wiantygamecoffer.ml
@@ -217609,6 +217637,7 @@ zchx1.com
 zchzc.com
 zcl-group.com
 zcmix.com
+zcode.biz.id
 zcolor.live
 zcore.london
 zcovz.ru

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-11-15T16:49:21.117Z
+# Aggregated blacklist generated on 2026-11-15T22:30:17.250Z
  
 0-00.usa.cc
 0-30-24.com
@@ -11072,6 +11072,7 @@
 4htop6y2.okanj.my.id
 4hu.se
 4hue1bgg.meiknaxz.shop
+4hujtuqm.yb.xiunakana.shop
 4hvkhv0yl3.mailbo.store
 4hw5dsyvkb.mailbo.store
 4hxvl9fq.kennzo.cfd
@@ -11509,6 +11510,7 @@
 4rfv6qn1jwvl.tk
 4rkdeehz13.mailbo.store
 4rl.info
+4rl3lxec.yb.xiunakana.shop
 4rlnzjhila.mailbo.store
 4rm7105z.vivid.premiumken.cfd
 4rn7zo5ofh.mailbo.store
@@ -13339,6 +13341,7 @@
 5kyj6316.megumiss.me
 5kzdxs.com
 5l0rgr8g.cse445.com
+5l2v6b61.yb.xiunakana.shop
 5l3jh.us
 5l45hz.saucent.online
 5l58by.cse445.com
@@ -25184,6 +25187,11 @@ addy.n4nmail.com
 addy.thatxtreme.dev
 addy.to
 addyoubooks.com
+addyourcustomdoaminhere.store
+addyourdoaminhere.online
+addyourdoaminhere.sbs
+addyourdoaminhere.site
+addyourdoaminhere.store
 addys-sox.com
 addys.n4nmail.com
 addysen.com
@@ -25796,6 +25804,7 @@ advertfast.com
 advertforyou.info
 advertforyourbusiness.website
 advertiseall.com
+advertisehereon.tech
 advertising-digitalsignage.com
 advertisingblog.com
 advertisinggreatness.com
@@ -28239,6 +28248,7 @@ ajurpren.ml
 ajurpren.tk
 ajustementsain.club
 ajvallirana.net
+ajvbdzr1.yb.xiunakana.shop
 ajvfyul6bm.mailbo.store
 ajvtnbcp.shop
 ajvtwtewkc.mailbo.store
@@ -28874,6 +28884,7 @@ alazharhs.org
 alazhi.org
 alazhs.org
 alazinst.org
+alazlyc.org
 alazs.us
 alazsch.org
 alazsec.org
@@ -40890,6 +40901,7 @@ bahisyap85.com
 bahisyap92.com
 bahisyap95.com
 bahisyap98.com
+bahitarahero.store
 bahjcrodno.mailbo.store
 bahlill.cfd
 bahlm.anonbox.net
@@ -78520,6 +78532,7 @@ dispemail.com
 dispensafmk.com
 displaying.page
 displaylightbox.com
+displayme.store
 displays2go.com
 displayside.com
 displaystar.com
@@ -98790,6 +98803,7 @@ fj.10mail.org
 fj.fr
 fj.laste.ml
 fj.ll47.net
+fj05q0hj.mirexu230.biz.id
 fj0klnaszq.mailbo.store
 fj0uuezysl.mailbo.store
 fj1971.com
@@ -106956,6 +106970,7 @@ getanswer.gambolly.click
 getanswer.getanswer.click
 getanswer.getfrisk.click
 getanswer.gettravellersrest.click
+getanswer.holidayinnlabs.click
 getanswer.lapsuscalami.click
 getanswer.makeablunder.click
 getanswer.opencruise.click
@@ -113815,6 +113830,7 @@ guestify.com
 guestlock.net
 guetau.com
 gueto2009.com
+guetshb.store
 guewkw.us
 gufacoding.com
 guffysoulhaven.com
@@ -114157,6 +114173,7 @@ gurke.com
 gurlmail.com
 gurman1.space
 gurmeneczadepo1.club
+gurmerly.online
 gurneytintblog.com
 guron.ru
 gurpz.com
@@ -128350,6 +128367,7 @@ imknurbel.tk
 imkyaky.com
 imlearners.net
 imlikeapup.com
+imlimikom.store
 imlivecgo.site
 imlloye.com
 imlpipchat.com
@@ -133615,6 +133633,7 @@ iz3oht8hagzdp.ml
 iz3oht8hagzdp.tk
 iz3phsz8zh.mailbo.store
 iz3t.cse445.com
+iz42njwg.yb.xiunakana.shop
 iz4acijhcxq9i30r.cf
 iz4acijhcxq9i30r.ga
 iz4acijhcxq9i30r.gq
@@ -141264,6 +141283,7 @@ kanhaoni.org
 kanigitmedia.com
 kaninine.com
 kanjiukan.com
+kanjoosbahi.site
 kankabal.com
 kankankankan.com
 kanker.website
@@ -141407,6 +141427,7 @@ karbonaielite.com
 karbonbet.com
 karcherparts.info
 karcherpremium.online
+kardarankab.online
 kardelentahmez.cfd
 kareasbet.com
 kareemno3aa.site
@@ -141456,6 +141477,7 @@ karisss3.com
 karitas.com.br
 karizmakala.com
 karjf5jhs9.mailbo.store
+karkambahi.store
 karkaspen.ru
 karla.com
 karldeleon.com
@@ -148833,6 +148855,7 @@ laikacyber.ml
 laikacyber.tk
 lailakhan.net
 lailamail.com
+lailmiki.store
 laimer.org
 laimian-quan2.com
 laimianquan2.com
@@ -168732,6 +168755,7 @@ mica-compliance.shop
 mica-compliance.solutions
 mica-compliance.today
 mica-compliance.work
+mica-compliance.xyz
 micado.ai
 micalmo.com
 micalmo.net
@@ -186314,6 +186338,7 @@ o13mbldrwqwhcjik.ga
 o13mbldrwqwhcjik.gq
 o13mbldrwqwhcjik.ml
 o13mbldrwqwhcjik.tk
+o13pohsd.yb.xiunakana.shop
 o14ql2i.cse445.com
 o14ydvmbop.mailbo.store
 o15dkf6r.chatgpt123.me
@@ -193338,6 +193363,7 @@ oy2s6qa.cse445.com
 oy35qovufg.mailbo.store
 oy3bds9r.umkmind.cfd
 oy3qypgl.wcvnihilx.my.id
+oy3vqpzm.yb.xiunakana.shop
 oy4xnt7u0t.mailbo.store
 oy4zyet8fg.mailbo.store
 oy5fjqbojt.mailbo.store
@@ -196894,6 +196920,11 @@ pemenacecasino.com
 pemess.com
 pemicasino.com
 pemilwafeb.com
+pemoteme.online
+pemoteusonourweb.online
+pemoteusonourweb.sbs
+pemoteusonourweb.site
+pemoteusonourweb.store
 pemwe.com
 pen-drevo.ru
 pen960.ml
@@ -200923,6 +200954,7 @@ pmjfxoz6gu.mailbo.store
 pmjin7ar.okanj.my.id
 pmklylnnlu.mailbo.store
 pmkudzhf47.mailbo.store
+pml4ym5v.yb.xiunakana.shop
 pmldmt.com
 pmledyanoy.site
 pmlep.de
@@ -202381,6 +202413,7 @@ post.fliply.click
 post.getcruise.click
 post.getsome.click
 post.getturnon.click
+post.getvoyageprive.click
 post.happyholidays.click
 post.healthroutinenail.click
 post.holidayhills.click
@@ -207316,6 +207349,7 @@ q5prxncteag.tk
 q5rbp7.us
 q5rmvxwosw.mailbo.store
 q5spud2.jejes.de
+q5v1t1ja.yb.xiunakana.shop
 q5v5tmkwcv.mailbo.store
 q5vm7pi9.com
 q5vtjmhrd2.mailbo.store
@@ -212402,6 +212436,7 @@ rankingc3.global
 rankingmath.sbs
 rankingweightgaintablets.info
 rankmagix.net
+rankme.site
 ranknight.com
 ranko.site
 rankrebelsemail.com
@@ -235078,6 +235113,7 @@ spongemops.biz
 spongemops.us
 spongiamail.com
 sponscloud.tech
+sponserme.store
 sponsored-by-xeovo-vpn.ink
 sponsored-by-xeovo-vpn.site
 sponsored-by-xeovo.site
@@ -244600,6 +244636,7 @@ tempmail.cc
 tempmail.ch
 tempmail.chat
 tempmail.ckvn.edu.vn
+tempmail.cloud
 tempmail.cn
 tempmail.co
 tempmail.codes
@@ -251767,6 +251804,7 @@ tourist61.website
 touristbus.click
 touristevent.com
 touristguidenepal.com
+touristhome.xyz
 touristhotel.click
 touristicatour.com
 touristinfo.network
@@ -258107,6 +258145,7 @@ ulipox.xyz
 ulis.boomhead.biz.id
 ulisaig.com
 ulitimsuda.xyz
+ulitmtehub.store
 ulivekcume.com
 uljmry7qzi.mailbo.store
 ulk.net
@@ -272335,6 +272374,7 @@ wi912t9s2w.mailbo.store
 wi9caftwyo.mailbo.store
 wiab9gzhyd.mailbo.store
 wiadomosc.pisz.pl
+wiakhad.com
 wianbv.com
 wiantygamecoffer.cf
 wiantygamecoffer.ml
@@ -277404,6 +277444,7 @@ xedutv.com
 xeeopkl69p.mailbo.store
 xeeudz6exr.mailbo.store
 xefezi.info
+xefn0g6h.yb.xiunakana.shop
 xefrz.saucent.online
 xefthth.xyz
 xefwxdgt.bldaefnu.my.id
@@ -287494,6 +287535,7 @@ zclstt9ehh.mailbo.store
 zcmix.com
 zcn0r7huyu.mailbo.store
 zcny.cse445.com
+zcode.biz.id
 zcolor.live
 zcolrbsw.pr.rinaldojonathan.com
 zcore.london

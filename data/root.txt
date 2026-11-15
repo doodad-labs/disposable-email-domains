@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-11-14T21:59:52.410Z
+# Aggregated blacklist generated on 2026-11-15T01:44:27.319Z
  
 0-30-24.com
 0-attorney.com
@@ -202799,6 +202799,7 @@ virtual2r.com
 virtualalt.net
 virtualdepot.store
 virtualdiorama.com
+virtualeaseservice.com
 virtualemail.info
 virtualfelecia.net
 virtualjeanie.com

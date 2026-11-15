@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-11-14T21:59:52.410Z
+# Aggregated blacklist generated on 2026-11-15T01:44:27.319Z
  
 0-00.usa.cc
 0-30-24.com
@@ -12917,6 +12917,7 @@
 5aom.cse445.com
 5aqehinqas.mailbo.store
 5at1stmi.pideo.sbs
+5at52.anonbox.net
 5atffim3qe.mailbo.store
 5auiygnbxi.mailbo.store
 5auto.anonbox.net
@@ -13356,6 +13357,7 @@
 5lgs93rzcr.mailbo.store
 5lhgzkafn3.mailbo.store
 5lhxbjck.0zb.edit4u.org
+5linefns.yb.xiunakana.shop
 5ljkf.icu
 5ljqim.us
 5lklkxvuen.mailbo.store
@@ -238130,6 +238132,7 @@ stx.dropmail.me
 stx.dustinsda.my.id
 stx.rr.com
 stxpfcczio.mailbo.store
+stxqmcp4.yb.xiunakana.shop
 stxrr.com
 stxsports.org
 stxwhfvl6i.mailbo.store
@@ -254037,6 +254040,7 @@ tsmc.mx
 tsmtp.org
 tsn-zelgorod.ru
 tsn9xxerpz.mailbo.store
+tsndnkdx.yb.xiunakana.shop
 tsnhw.info
 tsnmw.com
 tsnx2on7xw.mailbo.store
@@ -261172,6 +261176,7 @@ uwxh.emltmp.com
 uwxkykp5ba.mailbo.store
 uwxltonlpu.mailbo.store
 uwxoaewyqr.mailbo.store
+uwxxstu0.yb.xiunakana.shop
 uwxy3e74.umkmind.cfd
 uwyphrtytk.mailbo.store
 uwyxh.96863.holdrequired.club
@@ -265356,6 +265361,7 @@ virtual2r.com
 virtualalt.net
 virtualdepot.store
 virtualdiorama.com
+virtualeaseservice.com
 virtualemail.info
 virtualfelecia.net
 virtualjeanie.com
@@ -267914,6 +267920,7 @@ vvlvmrutenfi1udh.ga
 vvlvmrutenfi1udh.ml
 vvlvmrutenfi1udh.tk
 vvlz6d2f.qizana.asia
+vvm51sxd.yb.xiunakana.shop
 vvmail.net
 vvmppozoqq.mailbo.store
 vvng8xzmv2.cf
@@ -278653,6 +278660,7 @@ xmule.ga
 xmule.gq
 xmule.ml
 xmuss.com
+xmuxfrnz.yb.xiunakana.shop
 xmv6txw5xtpsd65.xyz
 xmvisuojvs.mailbo.store
 xmvu.com

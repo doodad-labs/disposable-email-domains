@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-11-15T01:44:27.319Z
+# Aggregated blacklist generated on 2026-11-15T08:51:05.806Z
  
 0-00.usa.cc
 0-30-24.com
@@ -3903,6 +3903,7 @@
 1e0evbty.chqtgpt.cc
 1e0rctqk.zaentq.shop
 1e0uasrc.verify-in-0912a.chqtgpt.in
+1e1gytd.xinyimeter.com
 1e1kazayaptim.net
 1e2y.cse445.com
 1e3.saucent.online
@@ -4458,6 +4459,7 @@
 1qsom5rtis.mailbo.store
 1qtkif1o.poinas.sbs
 1qu1ckhvnf.mailbo.store
+1quleyt.xinyimeter.com
 1qut3i.com
 1qvfc14e6c.mailbo.store
 1qvl52nf.ddwlcgwg.biz.id
@@ -22987,6 +22989,7 @@ aaazr.luk2.com
 aababes.com
 aabagfdgks.net
 aabamian.site
+aabasoft.in
 aabatriu.site
 aabb.cse445.com
 aabbdd.teml.net
@@ -30513,6 +30516,7 @@ alto-web.com
 alto.ll47.net
 altogethersa.site
 altonamobilehomes.com
+altonco.com
 altoncyclingclub.org
 altoonachampssportsgrill.com
 altoris.pl
@@ -30531,6 +30535,7 @@ altseason.online
 altswapdex.xyz
 alttc.ru
 alttechpartners.com
+altunakar.net
 altunfastener.com
 altuswe.us
 altwebshop.com
@@ -59535,6 +59540,7 @@ cekilisli.space
 cekino.icu
 ceklaww.ml
 cekmail.com
+cekmail.web.id
 cekmovie.com
 cektokosebelah.site
 cekuai.top
@@ -60937,6 +60943,7 @@ chatgptt.biz.id
 chatgptuk.pp.ua
 chatgptuy.my.id
 chatgtporg.eu.cc
+chathub.cfd
 chatich.com
 chatily.com
 chatinho.net
@@ -70165,6 +70172,7 @@ csvf.com
 csvlark.me
 csvpubblicita.com
 csvrxviagra.com
+csvtu.com
 csw4id0kvi.mailbo.store
 csw4s.anonbox.net
 cswcfzsidw.mailbo.store
@@ -76233,6 +76241,7 @@ devaction.com.br
 devakaudicien.net
 devapartisi.name
 devapartisi.today
+devapvcgranul.com
 devax.pl
 devb.site
 devbahis666.com
@@ -96224,6 +96233,7 @@ fdffdffd.tk
 fdfggh-df5.cc
 fdfriend.store
 fdftjybulk.mailbo.store
+fdg.ru
 fdgdfgdfgf.ml
 fdgdfharbarasg.igg.biz
 fdgedfrfdtg.usa.cc
@@ -99710,6 +99720,7 @@ flyat3.com
 flyawaypigeon.net
 flybild.ru
 flybyinbox.cam
+flybymail.com
 flybymail.info
 flycasual.org
 flychooses.site
@@ -109387,6 +109398,7 @@ glowmatch.com
 glownymail.waw.pl
 glowponent.com
 glowrecip.com
+glowzymail.com
 gloyel.com
 glozp3seys.mailbo.store
 glp2fj0gzf.mailbo.store
@@ -115948,6 +115960,7 @@ halimwin.my.id
 halionex.cfd
 halkasor.com
 halkmedia.xyz
+hall.serendipitysoupbowl.cfd
 hall.theinternetsoft.xyz
 hallacamail.xyz
 hallawallah.com
@@ -116091,6 +116104,7 @@ hamslim.com
 hamssent.com
 hamsterbreeeding.com
 hamstercage.online
+hamstermail.net
 hamsterx.club
 hamstun.com
 hamsumati.com
@@ -136953,6 +136967,7 @@ jjz927ym.buzz
 jjzy.autokey247.com
 jk.lo-ttus.pw
 jk.luk2.com
+jk.xinyimeter.com
 jk0218rv.n8nshop.com
 jk141.site
 jk1e2eo6hn.mailbo.store
@@ -144766,6 +144781,7 @@ klindh.com
 klindom.com
 kling1.hailong.online
 klingai.asia
+klingaii.com
 klinika-zdrowotna.pl
 klinikvidya.com
 klining-kvartir-msk.store
@@ -145284,6 +145300,7 @@ kodaka.gq
 kodaka.ml
 kodaka.tk
 koddruay.one
+kode.biz.id
 kodealam.center
 kodeholik.site
 kodeholik.site.
@@ -147658,6 +147675,7 @@ kwyv.com
 kwz.opelkun.online
 kwzi0a.com
 kwzzsryy3r.mailbo.store
+kx.wgtapps.com
 kx0l81jm.nebulaforge.asia
 kx1spmgvia.mailbo.store
 kx1udijmv2.mailbo.store
@@ -148970,6 +148988,7 @@ lambdatransition.ru
 lambertbill.store
 lambethgroup.com
 lambinganteleserye.ru
+lambobet.live
 lambreta.my.id
 lambsauce.de
 lamchodi.com
@@ -150597,6 +150616,7 @@ leds-4you.de
 ledskor.com
 ledt.laste.ml
 ledticker.ru
+lee.bloghelpjob.autos
 lee.mx
 lee4532.igg.biz
 leech.8amail.top
@@ -155450,6 +155470,7 @@ lorran44.shop
 lorran52.shop
 lorran63.shop
 lorran64.shop
+lorran83.shop
 lorranaccs.shop
 lorslufmea.cf
 lorslufmea.ga
@@ -183900,6 +183921,7 @@ norcalweather.com
 norcos.com
 norcurtainmud.website
 nord-piano.com
+nord.pw
 nordaxon.se
 nordbaks.com
 nordbit.co
@@ -184229,6 +184251,7 @@ notification-phone.club
 notification.agency
 notification.mirakl.net
 notifier.app
+notiflink.id
 notify.nothing688.de5.net
 notifyparty.ru
 notion-corp.com
@@ -184490,6 +184513,7 @@ noxg8pzh.cse445.com
 noxgem.com
 noxius.games
 noxius.ltd
+noxr.buzz
 noxzypedia.com
 noyabrsk.me
 noyavip.com
@@ -185788,6 +185812,7 @@ nwz6q5.us
 nwzupg64vr.mailbo.store
 nx-mail.com
 nx.luk2.com
+nx.lxvsi.com
 nx.obl.ong
 nx.yomail.info
 nx0t.cse445.com
@@ -204763,6 +204788,7 @@ project-xhabbo.com
 project.mailbo.store
 project1.alikando.su
 project2.nusantara-news-indonesia.my.id
+project24.live
 project2k.com
 project4.nusantara-news-indonesia.my.id
 project5.nusantara-news-indonesia.my.id
@@ -213698,6 +213724,7 @@ recently.mailbo.store
 receptest.ru
 receptiki.woa.org.ua
 receptimail.ru
+recepty-mira.ru
 recertifml.ru
 recessioncone.ru
 recettes-vitalite-sante.site
@@ -218207,6 +218234,7 @@ rodolphe293.store
 rodrigoandrade.com
 rodrigogml.eng.br
 rodriguealcazar.com
+rodriguez.eloquentechoesstudio.homes
 rodroderedri.com
 rodrunner.ru
 rodsupersale.com
@@ -221628,6 +221656,7 @@ s6vfrhmxrv.mailbo.store
 s6wuy1go.zsgnx.cyberspire.shop
 s6xoucksvf.mailbo.store
 s6xsozhf4j.mailbo.store
+s7.rozxs.com
 s709l5d6.fun
 s70j9wpxtm.mailbo.store
 s70maynvdp.mailbo.store
@@ -230963,6 +230992,7 @@ skytrolly.com
 skytvdirect.com
 skyvendersar.website
 skyvia.info
+skyviewonlineltd.com
 skyvision.cd
 skyvoid.xyz
 skywalker.monster
@@ -236858,6 +236888,7 @@ stephaniefords.com
 stephaniejoice.igg.biz
 stephaniestephensbuyshousesinconroe.com
 stephapuk7065.a.lofteone.ru
+stephens.whisperingwillowwonders.online
 stephensgreen-media.com
 stephentjo.com
 stephikixart.com
@@ -249732,6 +249763,7 @@ tlo2.dung2tb.io.vn
 tloe21qn3p.mailbo.store
 tloj2.anonbox.net
 tlook.online
+tlp.ru
 tlpebhzyoo.mailbo.store
 tlpklthalu.mailbo.store
 tlpn.org
@@ -252960,6 +252992,7 @@ trend-maker.ru
 trend.lol
 trend70.xyz
 trendauto.info
+trendbarkod.com
 trendbet51.com
 trendbettor.com
 trendblogmag.site
@@ -262556,6 +262589,7 @@ vavsnebvyl.ga
 vaw.dropmail.me
 vawamu.info
 vawy.laste.ml
+vaxaim.com
 vaxce.com
 vaxdusa.com
 vaxination.org
@@ -268359,6 +268393,7 @@ w.gsasearchengineranker.xyz
 w.polosburberry.com
 w.satan.igg.biz
 w.smk.li
+w.xinyimeter.com
 w00t.cz
 w00ttech.com
 w010.tieumuoishop.io.vn
@@ -279778,6 +279813,7 @@ xogre.com
 xogsverified.my.id
 xogu.com
 xohi.site
+xohoxo.com
 xohrmjpglr.mailbo.store
 xoifyjcyj.shop
 xoihxuwiax.ga

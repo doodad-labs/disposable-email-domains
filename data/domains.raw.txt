@@ -26726,6 +26726,7 @@ agent.makingdomes.com
 agent.oldoutnewin.com
 agent.ploooop.com
 agent.poisedtoshrike.com
+agent.qq.com
 agent.run.place
 agent.top1.us
 agent.warboardplace.com
@@ -151335,6 +151336,7 @@ letsmoveon.xyz
 letsrelay.com
 letssingtogether2015.com
 letsspeakindia.com
+letstalk.51tiemo.com
 letstalk.cruisehq.click
 letstalk.friskapp.click
 letstalk.makeablunder.click

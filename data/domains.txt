@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-11-15T08:51:05.806Z
+# Aggregated blacklist generated on 2026-11-15T16:49:21.117Z
  
 0-00.usa.cc
 0-30-24.com
@@ -26739,6 +26739,7 @@ agent.makingdomes.com
 agent.oldoutnewin.com
 agent.ploooop.com
 agent.poisedtoshrike.com
+agent.qq.com
 agent.run.place
 agent.top1.us
 agent.warboardplace.com
@@ -151348,6 +151349,7 @@ letsmoveon.xyz
 letsrelay.com
 letssingtogether2015.com
 letsspeakindia.com
+letstalk.51tiemo.com
 letstalk.cruisehq.click
 letstalk.friskapp.click
 letstalk.makeablunder.click

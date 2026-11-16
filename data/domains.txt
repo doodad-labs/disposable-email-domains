@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-11-16T14:51:56.717Z
+# Aggregated blacklist generated on 2026-11-16T23:59:04.536Z
  
 0-00.usa.cc
 0-30-24.com
@@ -65892,6 +65892,7 @@ colcedu.us
 colcen.us
 colceno.us
 colcent.us
+colces.us
 colchesterelderlawgroup.com
 colchicine247.video
 colchonesonyrico.com
@@ -122259,6 +122260,7 @@ hotchomisk.icu
 hotchristianlouboutinsalefr.com
 hotcoffeeclub.com
 hotcoldwaterworks.com
+hotdata.biz
 hotdogsbar.ru
 hote-mail.com
 hotel-57989.com
@@ -134926,6 +134928,7 @@ jaski.fun
 jaskkiii.online
 jasmierodgers.ga
 jasmin-masaj.xyz
+jasmineorchard.cloud
 jasmineplacementservices.com
 jasmineriverside.org
 jasminesports.com
@@ -151016,6 +151019,7 @@ lemst.icu
 lemtono1362.a.lofteone.ru
 lemurhost.net
 lemycam.ml
+lenalane.fr
 lenaliart.ru
 lenalimas.info
 lenamanh.ga
@@ -169315,6 +169319,7 @@ mila002.igg.biz
 mila005.igg.biz
 mila006.igg.biz
 mila67.igg.biz
+milaalder8.ca
 miladafrica.com
 miladexchange.com
 milaghouse.co
@@ -189132,6 +189137,7 @@ oliveruniq.com
 olivesbeautysalons.com
 olivesmen.xyz
 olivesoap.com
+olivesong.fr
 olivestextures.com
 olivfab.mailer.me
 oliviadiffuser.store
@@ -224378,6 +224384,7 @@ scaredment.com
 scarfacewatermelon.mailer.me
 scarfga.com
 scarlatinfmals.com
+scarlet-lamp.pl
 scarlet.com
 scarletlimo.com
 scarletrosefinch.com
@@ -232044,6 +232051,7 @@ smm-drom.ru
 smm3.buzz
 smmalik.com
 smmets.com
+smmlikebot.com
 smmok-700nm.ru
 smmrz.site
 smmwalebaba.com
@@ -242184,6 +242192,7 @@ talok.capcut.my.id
 talonamails.ru
 talonpvt.com
 talsgilboboundche.gq
+talsonea.uk
 talsystems.net
 taltalk.net
 talterat.site
@@ -266877,6 +266886,7 @@ voqlpvu.cse445.com
 voqlym45cm.mailbo.store
 voqqxcfquf.mailbo.store
 vorabite.site
+vorcia.live
 voref.xyz
 voregpo3138.lofteone.ru
 vorga.org

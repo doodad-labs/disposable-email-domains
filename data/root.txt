@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-11-15T22:30:17.250Z
+# Aggregated blacklist generated on 2026-11-16T04:52:39.220Z
  
 0-30-24.com
 0-attorney.com
@@ -19884,6 +19884,7 @@ annuaire-seotons.com
 annualcred8treport.com
 annuale.best
 annualgatheringint.org
+annualleave.org
 annuallyix.com
 annuityassistance.com
 annvroog.my.id
@@ -74443,6 +74444,7 @@ fmvaporizers.com
 fmwffv4y.com
 fmx.at
 fmyheo.xyz
+fmze.net
 fmzhwa.info
 fn-sale.online
 fn5258.com
@@ -94808,6 +94810,7 @@ icestorm.com
 icetmail.ga
 icetyznetwork.xyz
 icevex.com
+icf.su
 icfai.com
 icfbe.org
 icfgwn.site
@@ -160573,6 +160576,7 @@ rawscored.com
 rawscorer.com
 rawscores.net
 rawscoring.com
+rawtest-19f439f15447f02072449ac6.net
 rax.la
 raxel.me
 raxio.app

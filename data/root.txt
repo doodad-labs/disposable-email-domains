@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-11-16T04:52:39.220Z
+# Aggregated blacklist generated on 2026-11-16T14:51:56.717Z
  
 0-30-24.com
 0-attorney.com
@@ -19741,6 +19741,7 @@ aniy.site
 anizedx.ru
 anjay.id
 anjaybgo.com
+anjaymabar.biz.id
 anjaymail.com
 anjayy.pw
 anjelo-travel.social
@@ -219008,6 +219009,7 @@ zonamail.ga
 zonamilitar.com
 zonangopi.co
 zonapara.fun
+zonaqin.fun
 zonc.xyz
 zonde.asia
 zondee.ru

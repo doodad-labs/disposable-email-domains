@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-11-17T07:42:49.480Z
+# Aggregated blacklist generated on 2026-11-17T17:24:10.600Z
  
 0-00.usa.cc
 0-30-24.com
@@ -40924,6 +40924,7 @@ bahisyap92.com
 bahisyap95.com
 bahisyap98.com
 bahitarahero.store
+bahitarastarha.store
 bahjcrodno.mailbo.store
 bahlill.cfd
 bahlm.anonbox.net
@@ -56845,6 +56846,7 @@ canismmail.com
 canistra.com
 canitta.icu
 canja.sld.tw
+cankaohe.com
 cankaushikshave.site
 cankun.org
 canlialem.xyz
@@ -82709,6 +82711,7 @@ duanedegler.net
 duanedegler.org
 duanehar.pw
 duanhqu7t1.top
+duanju888.site
 duanlaimiangalaxy.com
 duanmail.xyz
 duanxian8.com
@@ -106401,6 +106404,7 @@ gemini-audio.net
 gemini365.com
 gemini3pro.icu
 geminicg.com
+geminicode.shop
 geminipaper.com
 geminitest789.autokey247.com
 geminly.com
@@ -108811,6 +108815,7 @@ gjbmyn.com
 gjbnyb.com
 gjboqx7gme.mailbo.store
 gjbvsxlhue.ga
+gjc66a.disbox.net
 gjcd1m50sa.mailbo.store
 gjcwao.com
 gjdk.com
@@ -110103,6 +110108,7 @@ gmauo.com
 gmawfurbabies.com
 gmaxgxynss.ga
 gmayahoo.deil.com
+gmayll.com
 gmbcrkwsus.mailbo.store
 gmblmania.club
 gmbni.com
@@ -133818,6 +133824,7 @@ izxgep5.cse445.com
 izxhazrnxy.mailbo.store
 izy4xlow06.mailbo.store
 izy9i7f5.yutusaba.cfd
+izymybes.lt
 izzaei.site
 izzat.com
 izzi.casino
@@ -142136,6 +142143,7 @@ kcricketpq.com
 kcrn6ceu7r.mailbo.store
 kcrw.de
 kcs-th.com
+kcs0yl.tmpmail.org
 kcsmx2uxpq.mailbo.store
 kcsps.com
 kcsy.10mail.xyz
@@ -160558,6 +160566,7 @@ mail001.bt7.biz
 mail01.amberfields.website
 mail01.ns01.info
 mail041104172534ff.kenjie.cloud
+mail1.0604001.xyz
 mail1.bloodmoneygame.dev
 mail1.cf
 mail1.drama.tw
@@ -170892,6 +170901,7 @@ mmaprognoz.ru
 mmastavka.ru
 mmatica.ru
 mmaurer.me
+mmayl.com
 mmbet168.com
 mmbet789.net
 mmbets.ru
@@ -210243,6 +210253,7 @@ quickreply.thecaper.click
 quickreply.trytravel.click
 quickreply.trytrip.click
 quickreply.virginvoyages.click
+quickreply.voyagepriveapp.click
 quickreport.it
 quickresponsecanada.info
 quickresponsefund.com
@@ -233570,6 +233581,7 @@ solutions.triggerly.click
 solutions.tripster.click
 solutions.usehike.click
 solutions.vacayly.click
+solutions.voyagepriveapp.click
 solutionsbyweb.com
 solutionsmagazine.org
 solutionsmanual.us
@@ -243583,6 +243595,7 @@ team76.contctly.click
 team76.contctsly.click
 team76.getcontcts.click
 team81.boozeclub.click
+team88.geminicode.shop
 teamails.net
 teamandclub.ga
 teamapp.click
@@ -260940,6 +260953,7 @@ utlahy0tpt.mailbo.store
 utliz.com
 utlook.com
 utmail.com
+utmastream.com
 utmhcmu433.mailbo.store
 utmjnog7.zaentq.shop
 utmkg.icu
@@ -271201,6 +271215,7 @@ weirby.com
 weird3.eu
 weirdcups.com
 weirdfella.com
+weirdlytemp.sbs
 weirenqs.space
 weiruipingji.com
 weisermanner.com

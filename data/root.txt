@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-11-16T23:59:04.536Z
+# Aggregated blacklist generated on 2026-11-17T07:42:49.480Z
  
 0-30-24.com
 0-attorney.com
@@ -64197,6 +64197,7 @@ ekipatonosi.gq
 ekipatonosi.ml
 ekipatonosi.tk
 ekistech.ga
+ekitoriat.com
 ekiu.com
 ekkoboss.com.ua
 eklement-v5.site
@@ -68200,6 +68201,7 @@ euphoriaworld.com
 eupin.site
 eupip.com
 euplexopml.com
+euploading.com
 euposta.store
 eur-rate.com
 eur-sec1.cf

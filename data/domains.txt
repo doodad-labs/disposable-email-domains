@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-11-17T17:24:10.600Z
+# Aggregated blacklist generated on 2026-11-18T00:34:30.057Z
  
 0-00.usa.cc
 0-30-24.com
@@ -99021,6 +99021,7 @@ fkughosck.pl
 fkuih.com
 fkul2b.site
 fkumail.jp
+fkvbf.anonbox.net
 fkwtx234.minukan.asia
 fkxf888.com
 fkxmcw.fun
@@ -130225,6 +130226,7 @@ inpsur.com
 inpursuitofyourcure.org
 input.33mail.com
 inpwa.com
+inqdryer.com
 inqling.org
 inqm.com
 inqmuseum.org
@@ -160228,6 +160230,7 @@ mail.ofirit.com
 mail.oimanix.com
 mail.oleoak.com
 mail.oligosml.ru
+mail.olive.edu.pl
 mail.omahsimbah.com
 mail.omshanti.edu.in
 mail.omvvim.edu.in
@@ -189108,6 +189111,7 @@ olisup.cyou
 olital2096.lofteone.ru
 olittem.site
 olive.0amail.top
+olive.edu.pl
 oliveandoaklandscape.com
 olivebranchapartments.com
 olivegardencouponshub.com
@@ -238079,6 +238083,7 @@ student.nl
 student.nondon.store
 student.northlandcommunity.com
 student.nyc.mn
+student.olive.edu.pl
 student.onsow.k12nc.us
 student.ooguy.com
 student.rschools.net
@@ -265960,6 +265965,7 @@ vixodkyh.shop
 vixqv.anonbox.net
 vixta.tech
 vixtricks.com
+vizar.lat
 vizedf.site
 vizerosverse.com
 vizi-forum.com

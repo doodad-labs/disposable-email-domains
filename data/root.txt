@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-11-17T17:24:10.600Z
+# Aggregated blacklist generated on 2026-11-18T00:34:30.057Z
  
 0-30-24.com
 0-attorney.com
@@ -98053,6 +98053,7 @@ inprisonwithisisbook.org
 inpsur.com
 inpursuitofyourcure.org
 inpwa.com
+inqdryer.com
 inqling.org
 inqm.com
 inqmuseum.org
@@ -142332,6 +142333,7 @@ oliq.me
 olisadebe.org
 olisup.cyou
 olittem.site
+olive.edu.pl
 oliveandoaklandscape.com
 olivebranchapartments.com
 olivegardencouponshub.com
@@ -203251,6 +203253,7 @@ vixo.net
 vixodkyh.shop
 vixta.tech
 vixtricks.com
+vizar.lat
 vizedf.site
 vizerosverse.com
 vizi-forum.com

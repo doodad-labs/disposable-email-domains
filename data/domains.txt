@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-11-19T09:54:51.783Z
+# Aggregated blacklist generated on 2026-11-19T18:52:51.602Z
  
 0-00.usa.cc
 0-30-24.com
@@ -63997,6 +63997,7 @@ clevelandhistorical.org
 clevelandinnovation.com
 clevelandquote.com
 clever-reporterflair-blogger-brilliance.com
+clever-wallbox.com
 clever4you.ru
 cleveracservice.xyz
 clevercactus.dev
@@ -253821,6 +253822,7 @@ trphlps.com
 trpmbtezg3.mailbo.store
 trq.10mail.xyz
 trq3fbd9rb.mailbo.store
+trq8ne.disbox.org
 trqsdv.com
 trrkankm8e.mailbo.store
 trrm6nti.crankymonkey.info

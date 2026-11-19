@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-11-18T18:39:50.259Z
+# Aggregated blacklist generated on 2026-11-19T01:43:50.782Z
  
 0-00.usa.cc
 0-30-24.com
@@ -26518,6 +26518,7 @@ afrobacon.com
 afrocelts.us
 afrodizyakdamlalar.xyz
 afrojobs.app
+afronewz.com
 afroprides.com
 afrotopia-dmc.com
 afrykanskiemango.top
@@ -50291,6 +50292,7 @@ bonus.aloxy.ga
 bonus4betting.com
 bonusal.club
 bonusales.com
+bonuscable.com
 bonusdominoonline.com
 bonuses.su
 bonusess.me
@@ -83311,6 +83313,7 @@ dvd4k2yw7w.mailbo.store
 dvd5izutft.mailbo.store
 dvdallnews.com
 dvdcloset.net
+dvdee.com
 dvdexperts.info
 dvdjapanesehome.com
 dvdkrnbooling.com
@@ -100698,6 +100701,7 @@ forgevpn.com
 forgivingpramesti.io
 forgottenrelicsbooks.com
 forimails.site
+forims.com
 forisfammails.ru
 fority03.igg.biz
 forjobs.es
@@ -146407,6 +146411,7 @@ kramulous.ru
 kramwerk.ml
 kranewaresolutions.com
 krankenversicherungvergleich24.com
+kranove.com
 krapaonarak.com
 kras-ses.ru
 krasaeva.ru
@@ -149004,6 +149009,7 @@ lakeshia.fun
 lakesidde.com
 lakesofthenorthwinterfest.com
 laketahoe-realestate.info
+laketerrace.sbs
 lakevilleapartments.com
 lakevillewineandspirits.com
 lakewater.org
@@ -157736,6 +157742,7 @@ lx1kva2n.zaq.asia
 lx1nx.33mail.com
 lx1qzz.qzz.io
 lx1r.awesome47.com
+lx25f.anonbox.net
 lx2qiuiunw.mailbo.store
 lx38smj1lf.mailbo.store
 lx3iqlsr6a.mailbo.store
@@ -214218,6 +214225,7 @@ redifys.com
 reding.shop
 redinggtonlaz.xyz
 redir-ok-igrosoft.ru
+redir.lat
 redirect.plus
 redirectmail.press
 redirectr.xyz

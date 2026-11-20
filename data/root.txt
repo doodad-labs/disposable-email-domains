@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-11-19T18:52:51.602Z
+# Aggregated blacklist generated on 2026-11-20T01:39:55.564Z
  
 0-30-24.com
 0-attorney.com
@@ -28181,6 +28181,7 @@ bcooperation.cloud
 bcooq.com
 bcoption.com
 bcoreap.com
+bcough.com
 bcp16.site
 bcpetro.com
 bcpfm.com
@@ -60995,6 +60996,7 @@ dsmail.shop
 dsmdesignsltd.com
 dsmmls.com
 dsms.org
+dsmspaces.com
 dsng8742g85fwent83g485dsfn8245.com
 dsotm.com
 dspmok.us
@@ -90196,6 +90198,7 @@ hill63.org
 hillary-email.com
 hillatimels.tk
 hillaxiant.xyz
+hillcabin.live
 hillclimbclinic.com
 hillcountryone.com
 hillcrest.net
@@ -145585,6 +145588,7 @@ ovejes.ml
 ovejes.tk
 ovenprices.com
 ovensshop.live
+ovento.store
 ovenyudhaswara.biz
 oveo-plasmapen.com
 oveodewa.org
@@ -147896,6 +147900,7 @@ pav2r.site
 pavandesign.com
 pavcaufzdu.ga
 pavecode.com
+paveice.com
 pavelmister.ru
 pavelp.ro
 paverol.ru
@@ -154585,6 +154590,7 @@ presinnil.cf
 presinnil.ga
 presinnil.tk
 preskot.info
+presloma.com
 presmolthi.cf
 presmolthi.ga
 presmolthi.gq

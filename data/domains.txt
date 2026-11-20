@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-11-19T18:52:51.602Z
+# Aggregated blacklist generated on 2026-11-20T01:39:55.564Z
  
 0-00.usa.cc
 0-30-24.com
@@ -42729,6 +42729,7 @@ bcooperation.cloud
 bcooq.com
 bcoption.com
 bcoreap.com
+bcough.com
 bcp16.site
 bcp33.anonbox.net
 bcpetro.com
@@ -46125,6 +46126,7 @@ bhjwy.anonbox.net
 bhk.casino
 bhk9c1su3.xyz
 bhk9yp6glh.men
+bhkpx.anonbox.net
 bhkvzgkzx.shop
 bhl5c18p2x.mailbo.store
 bhl6t.anonbox.net
@@ -72602,6 +72604,7 @@ dahlenerend.de
 dahongying.net
 dahypy.info
 dai-one.online
+dai4kp.tmail.ws
 daibb.us
 daibond.info
 daica.sld.tw
@@ -82522,6 +82525,7 @@ dsmdesignsltd.com
 dsmmls.com
 dsmn12zh.mailosaur.net
 dsms.org
+dsmspaces.com
 dsndohpyl3.mailbo.store
 dsng8742g85fwent83g485dsfn8245.com
 dso75pl5.bmahprgg.biz.id
@@ -119948,6 +119952,7 @@ hill63.org
 hillary-email.com
 hillatimels.tk
 hillaxiant.xyz
+hillcabin.live
 hillclimbclinic.com
 hillcountryone.com
 hillcrest.net
@@ -193056,6 +193061,7 @@ ovejes.ml
 ovejes.tk
 ovenprices.com
 ovensshop.live
+ovento.store
 ovenyudhaswara.biz
 oveo-plasmapen.com
 oveodewa.org
@@ -196033,6 +196039,7 @@ pav2r.site
 pavandesign.com
 pavcaufzdu.ga
 pavecode.com
+paveice.com
 pavelmister.ru
 pavelp.ro
 paverol.ru
@@ -203926,6 +203933,7 @@ presinnil.cf
 presinnil.ga
 presinnil.tk
 preskot.info
+presloma.com
 presmolthi.cf
 presmolthi.ga
 presmolthi.gq
@@ -210595,6 +210603,7 @@ quoteko.gq
 quoteko.tk
 quotesblog.com
 quotesre.com
+qupaqy.bareed.ws
 qupnw.icu
 qupouv9sfy.mailbo.store
 qupquswd.bmzzuimu.biz.id

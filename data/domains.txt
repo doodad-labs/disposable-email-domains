@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-11-20T18:20:11.287Z
+# Aggregated blacklist generated on 2026-11-21T01:05:51.272Z
  
 0-00.usa.cc
 0-30-24.com
@@ -94206,6 +94206,7 @@ f4k.es
 f4kxpsx4.q7x.hufraki230.biz.id
 f4l.saucent.online
 f4mktvs53q.mailbo.store
+f4qllq.bareed.ws
 f4s.xyz
 f4tqzcsxo7.mailbo.store
 f4vp.tieumuoishop.io.vn

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-11-21T09:13:49.058Z
+# Aggregated blacklist generated on 2026-11-21T17:07:03.050Z
  
 0-30-24.com
 0-attorney.com
@@ -36114,6 +36114,7 @@ brillmed.com
 brillob.com
 brilo.fun
 brilov.com
+brimac.net
 brimoo.net
 brindesmarcelodoism.shop
 bring-luck.pw
@@ -167815,6 +167816,7 @@ sabine.org
 sabitspor.xyz
 sablecc.com
 sablefriday.com
+sablereels.com
 sablery.com
 sabmbhmbnlnl.de
 sabmbhmbnlnl.one

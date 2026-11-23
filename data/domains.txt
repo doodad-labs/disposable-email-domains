@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-11-22T21:33:18.469Z
+# Aggregated blacklist generated on 2026-11-23T02:15:08.576Z
  
 0-00.usa.cc
 0-30-24.com
@@ -51582,6 +51582,7 @@ br880.com
 br88bet.app
 br88helps.com
 br88thailand.com
+br8cassinobet.com
 br9j.tieumuoishop.io.vn
 braaapcross.com
 braamresearch.com
@@ -90750,6 +90751,7 @@ equicrypto.com
 equiemail.com
 equifirst.in
 equilabnegocios.com
+equilibrium.cfd
 equilibriumfusion.com
 equilibriumtotalbalance.com
 equimolmale.com
@@ -114399,6 +114401,7 @@ gupiaozhenduanpt.com
 gupie.fr
 gupjfklm92.mailbo.store
 gupob.com
+gupta.lat
 guqage.ru
 guqoafm2ij.mailbo.store
 guqoo.com
@@ -194740,6 +194743,7 @@ pagodatoto.net
 pagonpae.com
 pagons.org
 pagossnr.com
+pagoya.lat
 pagr.dev
 pagroda.com
 pagudpudrinnovati.com
@@ -210080,6 +210084,7 @@ qtj.luk2.com
 qtj9rrs9pz.mailbo.store
 qtjl.aeronyx.cfd
 qtkaawihtk.mailbo.store
+qtkv5.anonbox.net
 qtlbb.anonbox.net
 qtlhkpfx3bgdxan.cf
 qtlhkpfx3bgdxan.ga
@@ -266901,6 +266906,7 @@ vn990k9.com
 vna1ra.us
 vna2lklrlp.mailbo.store
 vna68.space
+vnae866.com
 vnau8802.com
 vnbdktv2.ml
 vnbdktv2.tk

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-11-23T02:15:08.576Z
+# Aggregated blacklist generated on 2026-11-23T14:02:08.823Z
  
 0-00.usa.cc
 0-30-24.com
@@ -6225,6 +6225,7 @@
 27betapp.info
 27bf.cse445.com
 27casinox.com
+27dacs.shop
 27e70jum.zukdc.yuina.cfd
 27famx0drk.mailbo.store
 27gmail.com
@@ -19335,6 +19336,7 @@
 8b8bt3i4lg.mailbo.store
 8b9nwbwu.jebew.my.id
 8ba7yw9f.meinakana.shop
+8ballengine.com
 8ballroulette.com
 8bb74m4e.zoom123.me
 8bciyq7zd6.mailbo.store
@@ -20148,6 +20150,7 @@
 8vsjsofgwj.mailbo.store
 8vuczcchja.mailbo.store
 8vuly7n.cse445.com
+8vw3mq.tmpmail.org
 8vy4tal6no.mailbo.store
 8vyen4e8.kotoliol417.shop
 8w0b3te5.6s7pw.zoiken.cfd
@@ -20837,6 +20840,7 @@
 9699837.com
 969s.tieumuoishop.io.vn
 96c9236.xyz
+96cabcajd.shop
 96ci70ol.luksarcenter.ru
 96dc.asia
 96dkmoaq.acc4u.pro
@@ -25928,6 +25932,7 @@ advice.takeaspill.click
 advice.thecaper.click
 advice.thetravelperk.click
 advice.travelinman.click
+advice.travelokathailandhubs.click
 advice.travelperkapp.click
 advice.travelpro.click
 advice.tryperegrinate.click
@@ -37693,6 +37698,7 @@ automatedsalesfunneltips.xyz
 automaten-slots.com
 automaticforextrader.info
 automationintensive.com
+automationwork.me
 automatizes768jm.online
 automechanics.net
 automecmity.ru
@@ -38308,6 +38314,7 @@ avventurepersposati-confirmed.com
 avventurepersposati-meet.com
 avvisassi.ml
 avvmail.com
+avvmfxrc.web.id
 avvqpeikqt.mailbo.store
 avvraedu.online
 avw3o3ctx8.mailbo.store
@@ -50006,6 +50013,7 @@ bohhu.anonbox.net
 bohls.anonbox.net
 bohobuffet.com
 bohoce.xyz
+bohomail.com
 bohook.net
 bohotmail.com
 bohoupa.cf
@@ -52661,6 +52669,7 @@ brwlaw.net
 brxe.dropmail.me
 brxkf.anonbox.net
 brxwowpluq.mailbo.store
+brxx.pranz233.biz.id
 bryanguzman.net
 bryanhoang.simplelogin.com
 bryanl1212.mozmail.com
@@ -64295,6 +64304,7 @@ client.popautomated.com
 client.toddard.com
 client.trytrip.click
 client.virginvoyageshubs.click
+client.voyagepriveapp.click
 clientacceleratoracademy.com
 clientemails.biz.id
 clientesftp55.info
@@ -67210,6 +67220,7 @@ conreva.tk
 conroedefense.com
 conroymultimedia.com
 consaiter.com
+consaltemail.com
 consatop.com
 conscious.organic
 consciousagingconference.com
@@ -67378,6 +67389,7 @@ contact.neverstop.us.kg
 contact.openbillieholiday.click
 contact.openflip.click
 contact.openteams.click
+contact.openvoyageprive.click
 contact.peekay.ch
 contact.saldo69best.com
 contact.strategyconsulting.click
@@ -70675,6 +70687,7 @@ cukeq.com
 cuki.autokey247.com
 cuki.dudscc.com
 cuki.dudscuapcut.store
+cukmfjpr.my.id
 cukofhvleu.mailbo.store
 cukpedia.com
 cukurovailan.xyz
@@ -74096,6 +74109,7 @@ dbj.dropmail.me
 dbjc.cse445.com
 dbjwuiklw6.mailbo.store
 dbkbkv8k.cbawzaos.my.id
+dbker.com
 dbkew7qg.kanva.pro
 dbkmail.de
 dblack.online
@@ -79803,6 +79817,7 @@ dnmail.xyz
 dnmb.yomail.info
 dnmh.spymail.one
 dnmrbughunter.com
+dnmx.cc
 dnn.10mail.org
 dnn6ivnx.badut.cloud
 dnnaaqh0za.mailbo.store
@@ -110169,6 +110184,7 @@ gmailmail.ga
 gmailmail.ru
 gmailmarina.com
 gmailmirror.com
+gmailmurad.com
 gmailnator.com
 gmailner.com
 gmailnet.xyz
@@ -130480,6 +130496,7 @@ inquiries.ninjatransfers.click
 inquiries.opencruise.click
 inquiries.thehike.click
 inquiries.travellersrest.click
+inquiries.travelokathailandhubs.click
 inquiries.trycaper.click
 inquiringmind.net
 inquisitaml.ru
@@ -145798,6 +145815,7 @@ koleksiyoner.org.tr
 kolertech.com
 koletter.com
 kolfe.fun
+kolfiq.biz
 kolgoreng.biz.id
 koli.es
 kolikoki412.biz.id
@@ -152975,6 +152993,7 @@ likharita.shop
 likpyf1wqe.mailbo.store
 likvidooo.xyz
 lil2okofxv.mailbo.store
+lil8hk.tmpmail.net
 lilacatsky.anonaddy.com
 lilacatsky.anonaddy.me
 lilacc.anonaddy.com
@@ -153039,6 +153058,7 @@ limamail.ml
 limandomail.com
 limanow.com
 limaquebec.webmailious.top
+limas.lat
 limashumk.shop
 limatyr.ru
 limax.lat
@@ -155648,6 +155668,7 @@ longmist.store
 longmonkey.info
 longmontpooltablerepair.com
 longmusic.com
+longochem.com
 longrin1.com
 longsancu.com
 longsbkt.xyz
@@ -157446,6 +157467,7 @@ lumtu.com
 lumusdigital.com.br
 lumyrix.cfd
 lumzb89kmi.mailbo.store
+lumzi235.biz.id
 lun8nds96i.mailbo.store
 lun9.dung2tb.io.vn
 luna.sx
@@ -158292,6 +158314,7 @@ lzgyigfwf2.tk
 lzgzqfep.zuy.hufraki230.biz.id
 lzhksqbffx.mailbo.store
 lzk97uq2wg.mailbo.store
+lzku.bjorwi.online
 lzlwa0tjx9.mailbo.store
 lzm.emltmp.com
 lzmjgc.com
@@ -170863,6 +170886,7 @@ mk4u3pi62n.mailbo.store
 mk6scd5t.luksarcenter.ru
 mk7kcasino.com
 mk88bet.net
+mk8c0n.tmails.net
 mk8sprbaos.mailbo.store
 mk8xrs45.kotoliol417.shop
 mk9fad.us
@@ -172108,6 +172132,7 @@ mogotech.com
 mogpipin.ga
 mogpipin.gq
 mogpipin.ml
+mogs.live
 moguapp.org
 moguldevelopersfastsell.com
 mogulemperor.com
@@ -183786,6 +183811,7 @@ noblemansfield.com
 nobleperfume.info
 noblepioneer.com
 noblequotes.com
+noblewear.com
 nobluelives.com
 nobmplkrkn.mailbo.store
 noboocol1007.lofteone.ru
@@ -202440,6 +202466,7 @@ popgeekcollectables.com
 popgx.com
 popherveleger.com
 popichai.com
+popimap.sbs
 popinapp.com
 popinfo.ru
 popinmusic.com
@@ -203704,6 +203731,7 @@ pranobun.gq
 pranobun.ml
 pranobun.tk
 pranto.me
+pranz233.biz.id
 pras.io
 prasannasafetynets.com
 prasarana.com
@@ -215758,6 +215786,7 @@ rentz.website
 renucloud.com
 renvotra.cfd
 renwoying.org
+renwu.app
 renx.de
 renydox.com
 reo2lease.com
@@ -235254,6 +235283,7 @@ speedfocus.biz
 speedgaus.net
 speedgrowth.me
 speedgrowth.tech
+speedily.site
 speedkill.pl
 speedlab.com
 speedlead.com.br
@@ -237246,6 +237276,7 @@ stbrmaroc.com
 stbwo.anonbox.net
 stbzsrypsj.mailbo.store
 stc-88.com
+stcail81.cn
 stcarchitect.com
 stcdjncw6b.mailbo.store
 stclairlawofficewa.com
@@ -239783,6 +239814,7 @@ supergrok.biz.id
 supergrok.id
 supergrok.live
 supergrok.site
+supergrox.me
 supergsm.com
 superhappyfunnyseal.com
 superhemail.com
@@ -248898,6 +248930,7 @@ thug.pw
 thuguimomo.ga
 thuha99.com
 thuisworkoutset.online
+thulemail.com
 thulinh.net
 thulsitvuk.com
 thumbmitse3169.lofteone.ru
@@ -249964,6 +249997,7 @@ tivilebonza.com
 tivilebonzagroup.com
 tivmor.online
 tivo.camdvr.org
+tivo.grok-mail.co
 tivobkgj.zuy.bixluro230.biz.id
 tivogo.com
 tivoliandlee.com
@@ -253389,6 +253423,7 @@ travelnursingrecruiter.com
 travelocityflights.click
 traveloffers.services
 travelokabus.click
+travelokathailandhubs.click
 travelonthereg.com
 travelooze.shop
 travelovelinka.club
@@ -271247,6 +271282,7 @@ weblima.info
 weblink.network
 weblivein.com
 weblogausa.site
+webloop.in
 weblovein.ru
 webm1.xyz
 webm4il.in
@@ -291213,6 +291249,7 @@ zuy.bexun235.biz.id
 zuy.bixluro230.biz.id
 zuy.hufraki230.biz.id
 zuy.kavmre230.biz.id
+zuy.lumzi235.biz.id
 zuy.mirexu230.biz.id
 zuy.qetaro230.biz.id
 zuy.wazri235.biz.id
@@ -291344,6 +291381,7 @@ zwinau.com
 zwjaqtlnho.mailbo.store
 zwjmeeh1og.mailbo.store
 zwjmo2h8mc.mailbo.store
+zwju.cukmfjpr.my.id
 zwkcyucajv.mailbo.store
 zwkrae0m.saucent.online
 zwljo0.moakt.co
@@ -291549,6 +291587,7 @@ zxyp.apoefgm.my.id
 zxz.emlpro.com
 zxzconsulting.com
 zxzl.botexwya.my.id
+zxzo.avvmfxrc.web.id
 zxzt.bjorwi.store
 zy.10mail.xyz
 zy.foodlpqse.com

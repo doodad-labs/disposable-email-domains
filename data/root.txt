@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-11-23T02:15:08.576Z
+# Aggregated blacklist generated on 2026-11-23T14:02:08.823Z
  
 0-30-24.com
 0-attorney.com
@@ -3662,6 +3662,7 @@
 27a169.xyz
 27betapp.info
 27casinox.com
+27dacs.shop
 27gmail.com
 27hotesl.com
 27ktv.net
@@ -10434,6 +10435,7 @@
 8angue9wtjv4dwa9.com
 8avz.net
 8b05kwh1y2l90cw.xyz
+8ballengine.com
 8ballroulette.com
 8betcasino.info
 8betslife.com
@@ -11056,6 +11058,7 @@
 96966data.xyz
 9699837.com
 96c9236.xyz
+96cabcajd.shop
 96dc.asia
 96gmail.com
 96hotmail.com
@@ -24410,6 +24413,7 @@ automatedsalesfunneltips.xyz
 automaten-slots.com
 automaticforextrader.info
 automationintensive.com
+automationwork.me
 automatizes768jm.online
 automechanics.net
 automecmity.ru
@@ -24923,6 +24927,7 @@ avventurepersposati-confirmed.com
 avventurepersposati-meet.com
 avvisassi.ml
 avvmail.com
+avvmfxrc.web.id
 avvraedu.online
 avwang.club
 avxblog.ru
@@ -34228,6 +34233,7 @@ bohh.cf
 bohh.ga
 bohobuffet.com
 bohoce.xyz
+bohomail.com
 bohook.net
 bohotmail.com
 bohoupa.cf
@@ -48502,6 +48508,7 @@ conreva.tk
 conroedefense.com
 conroymultimedia.com
 consaiter.com
+consaltemail.com
 consatop.com
 conscious.organic
 consciousagingconference.com
@@ -51394,6 +51401,7 @@ cuisine-recette.biz
 cuisinorama.org
 cuk.com
 cukeq.com
+cukmfjpr.my.id
 cukpedia.com
 cukurovailan.xyz
 cul0.cf
@@ -53942,6 +53950,7 @@ dbgidofficial.my.id
 dbieu.com
 dbitechnology.com
 dbits.biz
+dbker.com
 dbkmail.de
 dblack.online
 dblebox.com
@@ -58588,6 +58597,7 @@ dnlds.site
 dnlien.com
 dnmail.xyz
 dnmrbughunter.com
+dnmx.cc
 dnocoin.com
 dnoriko422.biz.id
 dnovae.com
@@ -82255,6 +82265,7 @@ gmailmail.ga
 gmailmail.ru
 gmailmarina.com
 gmailmirror.com
+gmailmurad.com
 gmailnator.com
 gmailner.com
 gmailnet.xyz
@@ -109235,6 +109246,7 @@ koleksiyoner.org.tr
 kolertech.com
 koletter.com
 kolfe.fun
+kolfiq.biz
 kolgoreng.biz.id
 koli.es
 kolikoki412.biz.id
@@ -114772,6 +114784,7 @@ limahfjdhn89nb.tk
 limamail.ml
 limandomail.com
 limanow.com
+limas.lat
 limashumk.shop
 limatyr.ru
 limax.lat
@@ -116912,6 +116925,7 @@ longmist.store
 longmonkey.info
 longmontpooltablerepair.com
 longmusic.com
+longochem.com
 longrin1.com
 longsancu.com
 longsbkt.xyz
@@ -118333,6 +118347,7 @@ lumpylump.com
 lumtu.com
 lumusdigital.com.br
 lumyrix.cfd
+lumzi235.biz.id
 luna.sx
 lunaaabnjfk.shop
 lunabetaffiliate.com
@@ -129770,6 +129785,7 @@ mogotech.com
 mogpipin.ga
 mogpipin.gq
 mogpipin.ml
+mogs.live
 moguapp.org
 moguldevelopersfastsell.com
 mogulemperor.com
@@ -138597,6 +138613,7 @@ noblemansfield.com
 nobleperfume.info
 noblepioneer.com
 noblequotes.com
+noblewear.com
 nobluelives.com
 nobstyther.cf
 nobstyther.ga
@@ -143959,6 +143976,7 @@ openuore.shop
 openupbycassiopea.com
 openves.org
 openvitality.com
+openvoyageprive.click
 openvpc.com
 openvpc.net
 openwaveo.online
@@ -153204,6 +153222,7 @@ popgeekcollectables.com
 popgx.com
 popherveleger.com
 popichai.com
+popimap.sbs
 popinapp.com
 popinfo.ru
 popinmusic.com
@@ -154230,6 +154249,7 @@ pranobun.gq
 pranobun.ml
 pranobun.tk
 pranto.me
+pranz233.biz.id
 prapto.host
 pras.io
 prasannasafetynets.com
@@ -162967,6 +162987,7 @@ rentz.website
 renucloud.com
 renvotra.cfd
 renwoying.org
+renwu.app
 renx.de
 renydox.com
 reo2lease.com
@@ -178730,6 +178751,7 @@ speedfocus.biz
 speedgaus.net
 speedgrowth.me
 speedgrowth.tech
+speedily.site
 speedkill.pl
 speedlab.com
 speedlead.com.br
@@ -180428,6 +180450,7 @@ stbartstours.com
 stboj.pl
 stbrmaroc.com
 stc-88.com
+stcail81.cn
 stcarchitect.com
 stclairlawofficewa.com
 stcloudknives.com
@@ -182671,6 +182694,7 @@ supergrok.biz.id
 supergrok.id
 supergrok.live
 supergrok.site
+supergrox.me
 supergsm.com
 superhappyfunnyseal.com
 superhemail.com
@@ -190226,6 +190250,7 @@ thug.pw
 thuguimomo.ga
 thuha99.com
 thuisworkoutset.online
+thulemail.com
 thulinh.net
 thulsitvuk.com
 thumbpaste.com
@@ -193996,6 +194021,7 @@ travelnursingrecruiter.com
 travelocityflights.click
 traveloffers.services
 travelokabus.click
+travelokathailandhubs.click
 travelonthereg.com
 travelooze.shop
 travelovelinka.club
@@ -206742,6 +206768,7 @@ weblima.info
 weblink.network
 weblivein.com
 weblogausa.site
+webloop.in
 weblovein.ru
 webm1.xyz
 webm4il.in

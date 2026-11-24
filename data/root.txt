@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-11-23T14:02:08.823Z
+# Aggregated blacklist generated on 2026-11-24T02:45:30.275Z
  
 0-30-24.com
 0-attorney.com
@@ -16776,6 +16776,7 @@ albarulo.com
 albasmahart.com
 albaspecials.com
 albasport.com
+albawren9.fr
 albayan-magazine.net
 albaziinlebanon.com
 albazzini.com
@@ -21179,6 +21180,7 @@ aprendersempre.top
 apreom.site
 apreprid.com
 aprice.co
+apricottable523.cloud
 april.com
 apriles.ru
 aprilfoolspranks2014.com
@@ -29094,6 +29096,7 @@ believesex.com
 believesrq.com
 believeyourears.com
 beligummail.com
+belina.live
 belindahosford.com
 belisatu.net
 belisor.info
@@ -42043,6 +42046,7 @@ cench.top
 cencol.us
 cende.fun
 cenec.us
+cenecol.us
 ceneio.pl
 cengizhansokel.cfd
 cengizpakel.store
@@ -43680,6 +43684,7 @@ chesterplays.com
 chesterstyle.ru
 chesteryachtsquadron.com
 chestnuthillhomelistings.com
+chestnutterrace.world
 chestpain.one
 chestpainstar.com
 chesvlas.website
@@ -57929,6 +57934,7 @@ distancerei.email
 distant-info.ru
 distant-mind.com
 distant-thread.fr
+distantleaf.fr
 distantshore.com
 distanzechilometriche.org
 distastefumail.com
@@ -74707,6 +74713,7 @@ follargratis-confirmed.com
 follargratis-meet-backup.com
 follazie.site
 follegelian.site
+follicular.hair
 folllo.com
 followbias.com
 followbrand.net
@@ -97501,6 +97508,7 @@ infalled.com
 infamisslife.com
 infamousdegen.me
 infanitehospitality.com
+infantology.baby
 infantshopping.com
 infaqu.com
 infeainf.com
@@ -117105,6 +117113,7 @@ lorran63.shop
 lorran64.shop
 lorran83.shop
 lorranaccs.shop
+lorranianta.fr
 lorslufmea.cf
 lorslufmea.ga
 lorslufmea.gq
@@ -137061,6 +137070,7 @@ newzeroemail.com
 newzgraph.net
 newzherald.com
 nex-com.net
+nex.edu.kg
 nex4.ir
 nexacrypto.store
 nexadraw.com
@@ -152115,6 +152125,7 @@ plexflux.app
 plexibot.xyz
 plexo.cc
 plexolan.de
+plexum.cc
 plexvenet.com
 pleyou.com
 pleypix.com
@@ -155293,6 +155304,7 @@ prlinkjuicer.info
 prmail.top
 prmin.ru
 prmmail.com
+prmoble.com
 prn18.fun
 prn18.space
 prn18.website
@@ -158960,6 +158972,7 @@ quickmove.pro
 quickock.icu
 quickpaydayloansuk34.co.uk
 quickpesttermitecontrol.com
+quickravineas.bond
 quickreply.click
 quickreport.it
 quickresponsecanada.info
@@ -185256,6 +185269,7 @@ tarriqaw.gq
 tarriqaw.ml
 tarrylforsenate.com
 tarscon.com
+tarseal30.info
 tarsiergames.com
 tarstick56.net
 tartangrand.com

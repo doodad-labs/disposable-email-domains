@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-11-23T14:02:08.823Z
+# Aggregated blacklist generated on 2026-11-24T02:45:30.275Z
  
 0-00.usa.cc
 0-30-24.com
@@ -17498,6 +17498,7 @@
 7klm5.anonbox.net
 7klziv3c.moneyizi.com.br
 7knrhhsptj.mailbo.store
+7koez.anonbox.net
 7kpclhpi.paneq.cfd
 7kpmrhuuwk.mailbo.store
 7kpvwsr.cse445.com
@@ -26018,6 +26019,7 @@ ae0ohr3dmi.mailbo.store
 ae1nl2znov.mailbo.store
 ae2ioeoaka.mailbo.store
 ae4aeybpvx.mailbo.store
+ae4ozr.tmpmail.net
 ae5gshik.niukana.sbs
 ae5xvcml.zuy.kavmre230.biz.id
 ae68790.xyz
@@ -29008,6 +29010,7 @@ albarulo.com
 albasmahart.com
 albaspecials.com
 albasport.com
+albawren9.fr
 albayan-magazine.net
 albaziinlebanon.com
 albazzini.com
@@ -33963,6 +33966,7 @@ aprendersempre.top
 apreom.site
 apreprid.com
 aprice.co
+apricottable523.cloud
 april.com
 apriles.ru
 aprilfoolspranks2014.com
@@ -43902,6 +43906,7 @@ believesex.com
 believesrq.com
 believeyourears.com
 beligummail.com
+belina.live
 belindahosford.com
 belisatu.net
 belisor.info
@@ -59864,6 +59869,7 @@ cench.top
 cencol.us
 cende.fun
 cenec.us
+cenecol.us
 ceneio.pl
 cenfe.sld.tw
 cengizhansokel.cfd
@@ -61740,6 +61746,7 @@ chesterplays.com
 chesterstyle.ru
 chesteryachtsquadron.com
 chestnuthillhomelistings.com
+chestnutterrace.world
 chestpain.one
 chestpainstar.com
 chesvlas.website
@@ -78842,6 +78849,7 @@ distancerei.email
 distant-info.ru
 distant-mind.com
 distant-thread.fr
+distantleaf.fr
 distantshore.com
 distanzechilometriche.org
 distastefumail.com
@@ -100477,6 +100485,7 @@ follargratis-confirmed.com
 follargratis-meet-backup.com
 follazie.site
 follegelian.site
+follicular.hair
 follis23.universallightkeys.com
 folllo.com
 follow.mailbo.store
@@ -129744,6 +129753,7 @@ infalled.com
 infamisslife.com
 infamousdegen.me
 infanitehospitality.com
+infantology.baby
 infantshopping.com
 infaqu.com
 infeainf.com
@@ -155861,6 +155871,7 @@ lorran63.shop
 lorran64.shop
 lorran83.shop
 lorranaccs.shop
+lorranianta.fr
 lorslufmea.cf
 lorslufmea.ga
 lorslufmea.gq
@@ -181691,6 +181702,7 @@ newzeroemail.com
 newzgraph.net
 newzherald.com
 nex-com.net
+nex.edu.kg
 nex4.ir
 nexacrypto.store
 nexadraw.com
@@ -188428,6 +188440,7 @@ oggology.com
 oggymail.net
 oghilj.com
 oghm.com
+ogicur.teml.net
 oginski.ru
 oginskiy.ru
 oginskji.ru
@@ -201114,6 +201127,7 @@ plexflux.app
 plexibot.xyz
 plexo.cc
 plexolan.de
+plexum.cc
 plexvenet.com
 pleyou.com
 pleypix.com
@@ -204870,6 +204884,7 @@ prmail.top
 prmhti3ryp.mailbo.store
 prmin.ru
 prmmail.com
+prmoble.com
 prmt.autokey247.com
 prn.dropmail.me
 prn18.fun
@@ -210474,6 +210489,7 @@ querl.xyz
 quertzs.com
 query.beachtenenglisch.click
 query.fliplabs.click
+query.halfterm.online
 query.healthcheck.click
 query.hikely.click
 query.meettravel.click
@@ -210670,6 +210686,7 @@ quickmove.pro
 quickock.icu
 quickpaydayloansuk34.co.uk
 quickpesttermitecontrol.com
+quickravineas.bond
 quickreply.51tiemo.com
 quickreply.amistake.click
 quickreply.beachflag.click
@@ -243153,6 +243170,7 @@ tarriqaw.gq
 tarriqaw.ml
 tarrylforsenate.com
 tarscon.com
+tarseal30.info
 tarsiergames.com
 tarstick56.net
 tartangrand.com
@@ -253400,6 +253418,7 @@ travelicious.com
 traveling.monster
 travelingcome.com
 travelinman.click
+travelinman.online
 travelintexas.click
 travelistaworld.com
 travelitis.site

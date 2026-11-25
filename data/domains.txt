@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-11-25T10:53:57.068Z
+# Aggregated blacklist generated on 2026-11-25T21:05:40.958Z
  
 0-00.usa.cc
 0-30-24.com
@@ -88240,6 +88240,7 @@ elunenna.tk
 elus-rsm.net
 elusiveprime.net
 eluvit.com
+eluxai.com
 eluxeer.com
 eluxurycoat.com
 elv-cotedor.com
@@ -210667,6 +210668,7 @@ quickanswer.carwow.click
 quickanswer.click
 quickanswer.cruisely.click
 quickanswer.festivalday.click
+quickanswer.halfterm.online
 quickanswer.happyholidays.click
 quickanswer.hikelabs.click
 quickanswer.hotelcareer.click

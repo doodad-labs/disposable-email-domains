@@ -319,3 +319,5 @@ air.com
 bitqate.com
 # https://github.com/doodad-labs/disposable-email-domains/issues/51
 mailhub.pro
+# https://github.com/doodad-labs/disposable-email-domains/issues/57
+wayza.com

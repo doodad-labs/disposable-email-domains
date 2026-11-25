@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-11-24T14:33:59.873Z
+# Aggregated blacklist generated on 2026-11-25T00:22:04.683Z
  
 0-30-24.com
 0-attorney.com
@@ -53558,6 +53558,7 @@ datastorage.icu
 datastrip.com
 datasurvey.org
 datatap.com
+datatransfer.site
 datauoso.com
 datavision.cz
 datavitec.com
@@ -164353,6 +164354,7 @@ rightwringlisk.uk
 rigidifimyu.ru
 rigidmail.top
 rigionse.site
+rigo.biz.id
 rigormentorslang.site
 rigtmail.com
 rihis.org
@@ -218304,6 +218306,7 @@ zenpocza.com.pl
 zenpoczb.com.pl
 zenpoczc.com.pl
 zenrepair365.xyz
+zens.business
 zensantibully.com
 zenseo.net
 zenset.cfd

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-11-26T13:40:18.519Z
+# Aggregated blacklist generated on 2026-11-26T22:49:23.087Z
  
 0-00.usa.cc
 0-30-24.com
@@ -59758,6 +59758,7 @@ celebnewsss.com
 celebracionco.com
 celebrante.com
 celebratelifebc.info
+celebrationapp.org
 celebrationsoflife.us.com
 celebrinudes.com
 celebriporn.net
@@ -146023,6 +146024,7 @@ kongshuon.com
 kongtoan.com
 kongzted.net
 konican.com
+konicom.com
 konigyuan.us.ci
 konikode.org
 koning.icu
@@ -167719,6 +167721,7 @@ mellsbeardoilcollection.com
 mellstroygames-slots.top
 mellymoo.com
 melman54.ceramicsouvenirs.com
+melmosea.org
 melneyprep.cf
 melochick60.refurbishedlaserscanners.com
 melodicrock.net
@@ -185232,6 +185235,7 @@ nrbmui93.z18.n8nshop.com
 nrbqd59.cse445.com
 nrbrfy4nly.mailbo.store
 nrbs.me
+nrbstore.my.id
 nrcbs.com
 nrchcfu6ju.mailbo.store
 nrdiyrbhjl.mailbo.store
@@ -245805,6 +245809,7 @@ teralino.com
 terameramail.com
 teramira.store
 teranim.website
+teranovo.fr
 terapgd.shop
 terarmail.com
 terascafe.live
@@ -263928,6 +263933,7 @@ velabilke.com
 velaino.com
 velar.cloud
 velar.site
+velarafacilitygroup.com
 velarhost.com
 velasdo.cf
 velasdo.ga

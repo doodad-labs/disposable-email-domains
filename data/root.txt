@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-11-26T13:40:18.519Z
+# Aggregated blacklist generated on 2026-11-26T22:49:23.087Z
  
 0-30-24.com
 0-attorney.com
@@ -109446,6 +109446,7 @@ kongshuon.com
 kongtoan.com
 kongzted.net
 konican.com
+konicom.com
 konikode.org
 koning.icu
 koniopmail.com
@@ -126089,6 +126090,7 @@ mellowtiei.com
 mellsbeardoilcollection.com
 mellstroygames-slots.top
 mellymoo.com
+melmosea.org
 melneyprep.cf
 melodicrock.net
 melodized655aq.online
@@ -139788,6 +139790,7 @@ nr89.xyz
 nrbml.my.id
 nrbml.store
 nrbs.me
+nrbstore.my.id
 nrcbs.com
 nrehi.com
 nresponsea.com
@@ -187492,6 +187495,7 @@ teralino.com
 terameramail.com
 teramira.store
 teranim.website
+teranovo.fr
 terapgd.shop
 terarmail.com
 terascafe.live
@@ -201447,6 +201451,7 @@ velabilke.com
 velaino.com
 velar.cloud
 velar.site
+velarafacilitygroup.com
 velarhost.com
 velasdo.cf
 velasdo.ga

@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-11-26T22:49:23.087Z
+# Aggregated blacklist generated on 2026-11-27T06:51:40.834Z
  
 0-30-24.com
 0-attorney.com
@@ -7963,6 +7963,7 @@
 66stttn.xyz
 66tower.com
 66ttll.com
+66ty.online
 66ty.space
 66uuaa.com
 66uuff.com
@@ -15897,6 +15898,7 @@ airconnadalsheba.xyz
 airconprodubai.xyz
 airconpros.xyz
 airconprosuae.xyz
+airconservice.xyz
 airconservicedxb.xyz
 airconservicesuae.xyz
 airconserviceuae.xyz
@@ -30625,6 +30627,7 @@ betonpolitics.mobi
 betonpolitics.news
 betonpolitics.social
 betonpolitics.support
+betonreds-casino.pl
 betonsports.dev
 betonstats.space
 betontv.com
@@ -38155,6 +38158,7 @@ buzzdomain.com
 buzzedibles.org
 buzzjoint.com
 buzzloom.fun
+buzzly.sbs
 buzzmail.my.id
 buzznor.ga
 buzzpointpoint88.cloud
@@ -56263,6 +56267,7 @@ dffwer.com
 dfg456ery.ga
 dfg6.kozow.com
 dfgdfg.com
+dfgdfgdfgba.cfd
 dfgdgvse64743f.info
 dfgds.in
 dfgeqws.com
@@ -60781,6 +60786,7 @@ dropeso.com
 dropfam.com
 dropfresh.net
 dropinboxes.com
+dropinvo.com
 dropjar.com
 dropkickmail.com
 droplar.com
@@ -61515,6 +61521,7 @@ duniakeliling.com
 duniavpn.email
 dunich.com
 duniyadeals.com
+dunk42.biz.id
 dunkathon.com
 dunkos.xyz
 dunlopdriver.com
@@ -61640,6 +61647,7 @@ dustinplains.buzz
 dustinry.com
 dustinsda.my.id
 dustmail.net
+dustmail.online
 dustmail.pro
 dustofguest.com
 dustreaming.host
@@ -76731,6 +76739,7 @@ frostaircon.xyz
 frostamcdubai.xyz
 frostbound.com
 frostclaw.cyou
+frostclock.org
 frostcove.net
 frostden.com
 frostfernflickerforge.site
@@ -91620,6 +91629,7 @@ homoee.com
 homoeommails.ru
 homoeopafml.ru
 homog.ru
+homogeneitymail.com
 homologiumail.com
 homonyumail.com
 homophomail.com
@@ -93463,6 +93473,8 @@ huimainbeauty.com
 huiplay.com
 huishengwoodindustry.com
 huitrebjjh.space
+huixue6.vip
+huixue8.vip
 huizely.com
 huizk.com
 huj.pl
@@ -115216,6 +115228,7 @@ linseyalexander.com
 linshi-email.com
 linshi-mail.com
 linshiyou.com
+linshiyouxiang.com
 linshiyouxiang.net
 linshiyouxiang.xyz
 linshuhang.com
@@ -154729,6 +154742,7 @@ preparml.ru
 preparmy.com
 prepayee.cd
 preperiteomail.ru
+prepge.com
 preponline.net
 preporod.online
 preppackandship.com
@@ -155564,6 +155578,7 @@ profarmgroup.com
 profast.top
 profaysal.com
 profcsn.eu
+profemail.co.uk
 profeocn.pl
 profeocnn.pl
 profesional.ovh
@@ -158395,6 +158410,7 @@ qp4.bet
 qp87fb.us
 qpalong.com
 qpalzm.shop
+qpantam.fun
 qpapa.ooo
 qpaud9wq.com
 qpdishwhd.buzz
@@ -165115,6 +165131,7 @@ rnzon.com
 ro-dev.online
 ro-na.com
 ro.lt
+ro4d.com
 ro6b3.us
 road2recovery.online
 road66.xyz
@@ -174111,6 +174128,7 @@ shoreberths.com
 shorefitmb.com
 shorelinehotelguest.com
 short-haircuts.co
+short.lat
 shortapk.com
 shortavi.tk
 shortcircuit.co.uk
@@ -174687,6 +174705,7 @@ silomails.com
 silpay3s.ru
 silqen.site
 silsilah.life
+silura.app
 silvago.store
 silvamail.ch
 silvanaboutique.com
@@ -179502,6 +179521,7 @@ spuramexico2012.net
 spuramexico2012.org
 spurglaze.lol
 spurgs.us
+spurmail.com
 spurs1.com
 sputnik-tour.com
 spvantispam.com
@@ -183955,6 +183975,7 @@ synapse.foundation
 synapsecoms.com
 synapsefirm.com
 synapsehq.cfd
+synapsetools.sbs
 synarca.com
 synb.loan
 sync5maccounts.xyz
@@ -186831,6 +186852,7 @@ temp-mail.best
 temp-mail.buzz
 temp-mail.ca
 temp-mail.cam
+temp-mail.cc
 temp-mail.cfd
 temp-mail.com
 temp-mail.de
@@ -187228,6 +187250,7 @@ temporam.fun
 temporam.me
 temporam.online
 temporam.shop
+temporam.site
 temporam.xin
 temporam.xyz
 temporamail.com
@@ -195692,6 +195715,7 @@ tummail.store
 tummiapp.com
 tummylaw.com
 tummytotoddler.com
+tumoroxa.shop
 tumple.top
 tumroc.net
 tunaarda.cf
@@ -207871,6 +207895,7 @@ whatpaas.com
 whatsaas.com
 whatsabyte.com
 whatsaduckdo.com
+whatsapp.com
 whatsappsinstalling.com
 whatsappwa.dedyn.io
 whatshalal.delivery
@@ -219659,6 +219684,7 @@ zoutoutou.com
 zoval.com
 zovion.com
 zoviraxprime.com
+zovlyx.web.id
 zovori.click
 zovtem.online
 zowomavixy.website

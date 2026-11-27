@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-11-26T22:49:23.087Z
+# Aggregated blacklist generated on 2026-11-27T06:51:40.834Z
  
 0-00.usa.cc
 0-30-24.com
@@ -13359,6 +13359,7 @@
 5k2z0ypr.cyberspire.shop
 5k4qdbdasy.mailbo.store
 5k6.saucent.online
+5k7.sablereels.com
 5k9cy1h7.mognet.buzz
 5kauvot5wu.mailbo.store
 5kccai.igg.biz
@@ -14679,6 +14680,7 @@
 66swbqsm.cewpkjcc.biz.id
 66tower.com
 66ttll.com
+66ty.online
 66ty.space
 66uuaa.com
 66uuff.com
@@ -27863,6 +27865,7 @@ airconnadalsheba.xyz
 airconprodubai.xyz
 airconpros.xyz
 airconprosuae.xyz
+airconservice.xyz
 airconservicedxb.xyz
 airconservicesuae.xyz
 airconserviceuae.xyz
@@ -36663,6 +36666,7 @@ at0mik.org
 at0uhr9ybe.mailbo.store
 at19.tempdukviet.click
 at1r2uu27h.mailbo.store
+at27.tempdukviet.click
 at32.tempdukviet.click
 at3k2jrkcc.mailbo.store
 at6z4uc4.zmxlt.entak.asia
@@ -45521,6 +45525,7 @@ betonpolitics.mobi
 betonpolitics.news
 betonpolitics.social
 betonpolitics.support
+betonreds-casino.pl
 betonsports.dev
 betonstats.space
 betontv.com
@@ -46372,6 +46377,7 @@ bia29953894.xyz
 bia2baazi.com
 biackrussia.ru
 biadocdb.com
+biai5.anonbox.net
 biaj8uv9.kennzo.cfd
 bial5cy2.entak.asia
 bialode.com
@@ -54608,6 +54614,7 @@ buzzedibles.org
 buzzjoint.com
 buzzkf8jjz.mailbo.store
 buzzloom.fun
+buzzly.sbs
 buzzmail.my.id
 buzznor.ga
 buzzpointpoint88.cloud
@@ -76871,6 +76878,7 @@ dfg456ery.ga
 dfg6.kozow.com
 dfgdfg.com
 dfgdfg.dropmail.me
+dfgdfgdfgba.cfd
 dfgdgvse64743f.info
 dfgds.in
 dfgeqws.com
@@ -82334,6 +82342,7 @@ dropeso.com
 dropfam.com
 dropfresh.net
 dropinboxes.com
+dropinvo.com
 dropjar.com
 dropkickmail.com
 droplar.com
@@ -83392,6 +83401,7 @@ dustinpitcher.com
 dustinplains.buzz
 dustinry.com
 dustmail.net
+dustmail.online
 dustmail.pro
 dustofguest.com
 dustreaming.host
@@ -102794,6 +102804,7 @@ frostaircon.xyz
 frostamcdubai.xyz
 frostbound.com
 frostclaw.cyou
+frostclock.org
 frostcove.net
 frostfernflickerforge.site
 frostfernflickerforge.space
@@ -121896,6 +121907,7 @@ homoee.com
 homoeommails.ru
 homoeopafml.ru
 homog.ru
+homogeneitymail.com
 homologiumail.com
 homonyumail.com
 homophomail.com
@@ -124231,6 +124243,8 @@ huimainbeauty.com
 huiplay.com
 huishengwoodindustry.com
 huitrebjjh.space
+huixue6.vip
+huixue8.vip
 huizely.com
 huizk.com
 huj.pl
@@ -126998,6 +127012,7 @@ idhalfpricedlistings.com
 idhf.org
 idhhisotb1.mailbo.store
 idhie.com
+idhmz.io.vn
 idhvjbrsq3.mailbo.store
 idhwbwilid.mailbo.store
 idi-k-mechte.ru
@@ -153522,6 +153537,7 @@ linshi-email.com
 linshi-mail.com
 linshione.qzz.io
 linshiyou.com
+linshiyouxiang.com
 linshiyouxiang.net
 linshiyouxiang.xyz
 linshuhang.com
@@ -200197,6 +200213,7 @@ pivrw.us
 pivun.org
 pivxambassador.com
 piwb32masl.mailbo.store
+piwo.waroengmail.com
 piwopiwo.com.pl
 piwtalvixc.mailbo.store
 piwu.laste.ml
@@ -204237,6 +204254,7 @@ preparmy.com
 prepayee.cd
 prepcitma3113.lofteone.ru
 preperiteomail.ru
+prepge.com
 preplex.eml.monster
 preponline.net
 preporod.online
@@ -205199,6 +205217,7 @@ profarmgroup.com
 profast.top
 profaysal.com
 profcsn.eu
+profemail.co.uk
 profeocn.pl
 profeocnn.pl
 profesional.ovh
@@ -209708,6 +209727,7 @@ qp9y.cse445.com
 qpalong.com
 qpalqnztn2.mailbo.store
 qpalzm.shop
+qpantam.fun
 qpapa.ooo
 qpaud9wq.com
 qpb804go.poloi28.christmas
@@ -211564,6 +211584,7 @@ qzick.com
 qzilx1.site
 qzita8dw.keinto.buzz
 qzjts.com
+qzk7xq.dunk42.biz.id
 qzkejuse39.mailbo.store
 qzkrmkk5ik.mailbo.store
 qzkwqoatvl.mailbo.store
@@ -218494,6 +218515,7 @@ ro15.dung2tb.io.vn
 ro1g8ofj.zrjkt.maxnogar.my.id
 ro1p5lkqwi.mailbo.store
 ro2nkunm1s.mailbo.store
+ro4d.com
 ro4dbjcjob.mailbo.store
 ro4k3nupd0.mailbo.store
 ro5gleveuu.mailbo.store
@@ -229529,6 +229551,7 @@ shoreberths.com
 shorefitmb.com
 shorelinehotelguest.com
 short-haircuts.co
+short.lat
 short.mailbo.store
 shortapk.com
 shortavi.tk
@@ -230191,6 +230214,7 @@ silpay3s.ru
 silqen.site
 silreocc.ujq88.zoiken.cfd
 silsilah.life
+silura.app
 silvago.store
 silvamail.ch
 silvanaboutique.com
@@ -236099,6 +236123,7 @@ spuramexico2012.net
 spuramexico2012.org
 spurglaze.lol
 spurgs.us
+spurmail.com
 spurs1.com
 spus8xwtxn.mailbo.store
 sputnik-tour.com
@@ -240166,6 +240191,7 @@ support.turnon.click
 support.usetravel.click
 support.useturnon.click
 support.wellot.me
+support.whatsapp.com
 support.wrld.net
 support1.opensupports.click
 support101.contcthq.click
@@ -241389,6 +241415,7 @@ synapse.foundation
 synapsecoms.com
 synapsefirm.com
 synapsehq.cfd
+synapsetools.sbs
 synarca.com
 synb.loan
 sync5maccounts.xyz
@@ -245070,6 +245097,7 @@ temp-mail.best
 temp-mail.buzz
 temp-mail.ca
 temp-mail.cam
+temp-mail.cc
 temp-mail.cfd
 temp-mail.com
 temp-mail.de
@@ -245517,6 +245545,7 @@ temporam.fun
 temporam.me
 temporam.online
 temporam.shop
+temporam.site
 temporam.xin
 temporam.xyz
 temporamail.com
@@ -255360,6 +255389,7 @@ tummail.store
 tummiapp.com
 tummylaw.com
 tummytotoddler.com
+tumoroxa.shop
 tumple.top
 tumpuan.igg.biz
 tumpuan1.igg.biz
@@ -290636,6 +290666,7 @@ zoval.com
 zovc3w60.ddwlcgwg.biz.id
 zovion.com
 zoviraxprime.com
+zovlyx.web.id
 zovori.click
 zovtem.online
 zowfbxf1en.mailbo.store

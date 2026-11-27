@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-11-27T06:51:40.834Z
+# Aggregated blacklist generated on 2026-11-27T17:51:38.686Z
  
 0-00.usa.cc
 0-30-24.com
@@ -66502,6 +66502,7 @@ comfort.thetravellersrest.click
 comfort.thetravelperk.click
 comfort.timetraveller.click
 comfort.travelinman.click
+comfort.travelinman.online
 comfort.travelpro.click
 comfort.tryturnon.click
 comfort.turnonhub.click
@@ -107281,6 +107282,7 @@ getanswer.makeablunder.click
 getanswer.opencruise.click
 getanswer.organictraveller.click
 getanswer.scamperly.click
+getanswer.travelinman.online
 getanswer.usetour.click
 getanyfiles.site
 getanylibrary.site
@@ -124243,6 +124245,7 @@ huimainbeauty.com
 huiplay.com
 huishengwoodindustry.com
 huitrebjjh.space
+huixue1.vip
 huixue6.vip
 huixue8.vip
 huizely.com
@@ -160528,6 +160531,7 @@ mail.massefm.com
 mail.matheusrizzi.com
 mail.mayboy.xyz
 mail.mbolst.my.id
+mail.mbsc.my.id
 mail.mcatag.com
 mail.mcenb.com
 mail.mcuma.com

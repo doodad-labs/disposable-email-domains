@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-11-27T06:51:40.834Z
+# Aggregated blacklist generated on 2026-11-27T17:51:38.686Z
  
 0-30-24.com
 0-attorney.com
@@ -93473,6 +93473,7 @@ huimainbeauty.com
 huiplay.com
 huishengwoodindustry.com
 huitrebjjh.space
+huixue1.vip
 huixue6.vip
 huixue8.vip
 huizely.com
@@ -124870,6 +124871,7 @@ mbrcityservices.com
 mbroundhouseaquarium.org
 mbryonatemail.com
 mbs.re
+mbsc.my.id
 mbsc.tech
 mbsho.com
 mbsl.com

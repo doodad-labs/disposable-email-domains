@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-11-27T17:51:38.686Z
+# Aggregated blacklist generated on 2026-11-28T01:07:32.342Z
  
 0-00.usa.cc
 0-30-24.com
@@ -30679,6 +30679,7 @@ aluloronse.icu
 alumenas.com
 alumexproducts.com
 aluminebml.ru
+aluminico.com
 aluminiumboten.com
 aluminiumjon.com
 aluminiumplaat.net
@@ -31849,6 +31850,7 @@ andispnb.shop
 andla76.usa.cc
 andlos77.shop
 andlume.com
+andly.bond
 andmail.online
 andmail.site
 andmail.store
@@ -36999,6 +37001,7 @@ atpxl.cfd
 atq0ppxuhu.mailbo.store
 atqphcrugf.mailbo.store
 atqpq.live
+atque.tech
 atraicapcut.website
 atrais-kredit.co
 atrais-kredits24.com
@@ -41700,6 +41703,7 @@ bankofpalestine.blog
 bankofpalestine.club
 bankofthecarolinas.com
 bankonur.com
+bankours.com
 bankoutsider.com
 bankowepromocje.com.pl
 bankownedfairfieldcountyhomes.com
@@ -46036,6 +46040,7 @@ bgbsj.anonbox.net
 bgc2g.anonbox.net
 bgcaihym0k.mailbo.store
 bgchan.net
+bgcir.anonbox.net
 bgctw.anonbox.net
 bgcv.org
 bgcwgjl.cse445.com
@@ -52479,6 +52484,7 @@ brooklynweddingphotography.com
 brookmoor.one
 brookmount.com
 brookpp.com
+brookribbon374.dev
 brookridgeway.store
 brooks.com
 brooksdesignbuildcorp.com
@@ -66313,6 +66319,7 @@ columbusschoolhn.org
 columbustaps.com
 columbuswellnessmedicine.com
 columed.us
+columeds.us
 columedu.us
 colums.us
 columsch.us
@@ -74339,6 +74346,7 @@ dcnualewgz.mailbo.store
 dco0x3p2ya.mailbo.store
 dcobe.com
 dcodax.net
+dcodesign.com
 dcom.space
 dcomcorp.net
 dcomfy.com
@@ -90378,6 +90386,7 @@ epac.to
 epaco9t.loseyourip.com
 epagee.com
 epailive.com
+epaiy.com
 epaj40wss.buzz
 epam-hellas.org
 epaoino7.tavqen230.biz.id
@@ -106568,6 +106577,7 @@ gehu330.biz.id
 gehyxwn7s8.mailbo.store
 geial.com
 geibig.cottonsleepingbags.com
+geidbr.com
 geidragdio.ga
 geidragdio.gq
 geigerrealty.com
@@ -112069,6 +112079,7 @@ gotuy.com
 goty-alocalemail.com
 gotyalocal-email.com
 gotyalocale-mail.com
+gotypes.com
 gotzilla.online
 gotzilla.ru
 gouanomarba.tk
@@ -137953,6 +137964,7 @@ jobfl.com
 jobhm1.site
 jobilove.com
 jobinja.org
+jobkeeping.com
 jobkim.com
 jobku.id
 joblessness.best
@@ -150340,6 +150352,7 @@ layuhnjshkr57618.tk
 layupixwn.space
 layze.camdvr.org
 lazada-th.com
+lazago.com
 lazarskipl.com
 lazcano.com.ar
 lazdmzmgke.mil.pl
@@ -153570,6 +153583,7 @@ linuxmail.xyz
 linuxmanaged.com
 linuxpl.eu
 linuxpl.info
+linuzer.com
 linwoodsmilk.com
 linwoodstudio.com
 linx.anonaddy.com
@@ -160602,6 +160616,7 @@ mail.ninerealmlabs.com
 mail.nithincoca.com
 mail.nixbyte.net
 mail.nku.asia
+mail.nodepoints.net
 mail.noizonicfoundation.com
 mail.nonaliemail.ru
 mail.nonoblml.ru
@@ -164511,6 +164526,7 @@ mapleheightslanes.com
 maplemarketry.shop
 maplepressllc.net
 mapleridgeco.today
+maplestroll.org
 maplevalleyweekly.boats
 mapleveranda.homes
 maplewindfarms.com
@@ -208452,6 +208468,7 @@ qcmail.qc.to
 qcmails.ca
 qcmgem.rest
 qcntvmytmc.mailbo.store
+qcode.lat
 qcolone.icu
 qcpeuf03u9.mailbo.store
 qcpj.freeml.net
@@ -237653,6 +237670,7 @@ sterfastspir.ga
 sterfastspir.gq
 sterfastspir.ml
 sterfastspir.tk
+sterl.space
 sterley12.truckmetalworks.com
 sterlingfinancecompany.com
 sterlingfundinginc.com
@@ -283580,6 +283598,7 @@ yc9obkmthnla2owe.ml
 yc9obkmthnla2owe.tk
 yc9qv5.site
 ycalstore.com
+ycalstore.com.
 ycalstore.shop
 ycar.yomail.info
 ycare.de

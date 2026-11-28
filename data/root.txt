@@ -9,7 +9,7 @@
 # - https://deviceandbrowserinfo.com/api/emails/disposable
 # - https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/refs/heads/master/domains.json
 # - https://raw.githubusercontent.com/infiniteloopltd/TempEmailDomainMXRecords/refs/heads/master/TempEmailDomainMXRecords.csv
-# Aggregated blacklist generated on 2026-11-28T01:07:32.342Z
+# Aggregated blacklist generated on 2026-11-28T09:48:50.668Z
  
 0-30-24.com
 0-attorney.com
@@ -32524,6 +32524,7 @@ bizax.org
 bizbiz.tk
 bizbre.com
 bizcast.com
+bizci.org
 bizcitizens.com
 bizcomail.com
 bizcox.net
@@ -45303,6 +45304,7 @@ ckaazaza.tk
 ckaeagles.com
 ckancheck.xyz
 ckatalog.pl
+ckboladao.shop
 ckc9du.xyz
 ckcarpetcare.com
 ckcbetlogin.net
@@ -70354,6 +70356,7 @@ fakesatiricfeud.website
 fakeswisswatchesreviews.xyz
 faketagheuer.top
 faketemp.email
+fakeupdatescreen.com
 fakewings.com
 fakher.dev
 fakhita.xyz
@@ -71978,6 +71981,7 @@ fenkpeln.site
 fenkpeln.xyz
 fennel.team
 fenomen.net
+fenroxa.online
 fensberg.com
 fense.giize.com
 fenshou.app
@@ -81056,6 +81060,7 @@ gift-link.com
 gift-listed.online
 gift-listed.space
 gift-of-love-solidarity.org
+gift4prayers.de
 giftasdjafwer.online
 giftbasketinformation.com
 giftcardsgen.me
@@ -97042,6 +97047,7 @@ inboxhub.net
 inboxhub.se
 inboxify.me
 inboxin.email
+inboxinity.com
 inboxkitten.com
 inboxku.site
 inboxlabs.io
@@ -113876,6 +113882,7 @@ levanh.com
 levanh.online
 levanh.store
 levank.com
+levanrkn.buzz
 levantaralas.com
 levblob.co.uk
 levcasino-betoasis.boats
@@ -126436,6 +126443,7 @@ meowc.at
 meowfilms.com
 meowfurniture.com
 meowing.cf
+meowmail.in
 meowmail.website
 meowper.team
 meowush.site
@@ -127342,6 +127350,7 @@ mianfeibuluo.com
 mianfeidaima.com
 miankk.com
 miao-youxi.xyz
+miao.ru
 miaobidu.com
 miaohaha.com
 miaomiewang.com
@@ -139354,6 +139363,7 @@ northwoodswisconsin.com
 northwoodsworks.com
 northwoodtraining.com
 northyorkdogwalking.com
+nortiven.cloud
 norton.me
 norules.zone
 norura.info
@@ -142603,6 +142613,7 @@ olibru.com
 olichrome.com
 olididas.shop
 olidklsnjhxbhj.cloud
+oliesmail.com
 oliespace.com
 oliespace.id
 oliespace.site
@@ -151132,6 +151143,7 @@ pinlook.site
 pinmail.store
 pinmx.net
 pinn.biz.id
+pinnaclearoofing.com
 pinnacleatbigsky.com
 pinnaclecenturies.com
 pinnaclekor.com
@@ -155328,6 +155340,7 @@ privmail.cf
 privmail.edu.pl
 privmail.ml
 privo.edu.pl
+privoxmail.com
 privseco.com
 privtalk.my.id
 privy-mail.com
@@ -171184,6 +171197,7 @@ securemail.edu.pl
 securemail.gq
 securemail.solutions
 securemaill.ga
+securemailo.com
 securemailpro.xyz
 securemailserver.cf
 securemailserver.ga
@@ -178154,6 +178168,7 @@ sortyourgrade.com
 soruvi.com
 soruz.click
 sorvi.fun
+sosamedicalaesthetics.com
 sosbook.online
 soscandia.org
 sosd.cf
@@ -216919,6 +216934,7 @@ yqdongze.com
 yqejb1.site
 yqeo.com
 yqevzp.online
+yqfnbl.shop
 yqjbgcizut.ga
 yqjmtqpl.shop
 yqlnd.art
